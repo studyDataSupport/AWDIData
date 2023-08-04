@@ -1,0 +1,48 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#library--bval--jeanouii": "2020-09-22 00:00:00",
+        "#library--bval--rmannibucau": "2013-06-23 00:00:00",
+        "#library--bval--tandraschko": "2019-06-07 00:00:00",
+        "#library--bval--": "2010-03-12 00:00:00",
+        "#library--bval--mbenson": "2010-07-27 00:00:00",
+        "#library--bval--struberg": "2010-05-26 00:00:00",
+        "#library--bval--mnour": "2012-03-31 00:00:00",
+        "#library--bval--gmcdonald": "2012-02-18 00:00:00",
+        "#library--bval--simonetripodi": "2010-03-23 00:00:00",
+        "#library--bval--matzew": "2010-03-17 00:00:00"
+    },
+    "commiter_end_time": {
+        "#library--bval--jeanouii": "2022-06-08 00:00:00",
+        "#library--bval--rmannibucau": "2022-06-02 00:00:00",
+        "#library--bval--tandraschko": "2022-02-10 00:00:00",
+        "#library--bval--": "2019-06-03 00:00:00",
+        "#library--bval--mbenson": "2019-02-26 00:00:00",
+        "#library--bval--struberg": "2018-06-09 00:00:00",
+        "#library--bval--mnour": "2012-03-31 00:00:00",
+        "#library--bval--gmcdonald": "2012-02-18 00:00:00",
+        "#library--bval--simonetripodi": "2012-01-07 00:00:00",
+        "#library--bval--matzew": "2010-03-17 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#library--bval--mnour": 0,
+        "#library--bval--gmcdonald": 0,
+        "#library--bval--matzew": 0,
+        "#library--bval--jeanouii": 624,
+        "#library--bval--simonetripodi": 655,
+        "#library--bval--tandraschko": 979,
+        "#library--bval--struberg": 2936,
+        "#library--bval--mbenson": 3136,
+        "#library--bval--rmannibucau": 3266,
+        "#library--bval--": 3370
+    },
+    "commiter_contribute_time1": {},
+    "commiter_contribute_time2": {},
+    "commiter_contribute_time3": {},
+    "commiter_contribute_time4": {},
+    "commiter_time_trend": {},
+    "daily_long_time_error_prone_developer": [],
+    "number_daily_long_time_error_prone_developer": 0,
+    "improved_daily_long_time_error_prone_developer": [],
+    "number_improved_daily_long_time_error_prone_developer": 0
+}

@@ -1,0 +1,10 @@
+{
+    "all_file_num": 697,
+    "error_developer_file_rate": {
+        "#library--commons-codec--melloware": 0.007173601147776184,
+        "#library--commons-codec--tmousaw-ptc": 0.011477761836441894,
+        "#library--commons-codec--jochenw": 0.01291248206599713
+    },
+    "daily_error_prone_developer": [],
+    "number_daily_error_prone_developer": 0
+}

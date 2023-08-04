@@ -1,0 +1,28 @@
+{
+    "cate": "#javaee",
+    "#javaee-cate_aver_bug_rate": 0.1859580931957289,
+    "#javaee-cate_aver_bug_commit_rate": 0.14415584415584415,
+    "high_bug_rate_error_prone_developer_number": 5,
+    "high_bug_commit_rate_error_prone_developer_number": 4,
+    "high_bug_rate_error_prone_developer": {
+        "#javaee--myfaces--cnsgithub": 0.3333333333333333,
+        "#javaee--myfaces--matzew": 0.2606060606060606,
+        "#javaee--myfaces--struberg": 0.21428571428571427,
+        "#javaee--myfaces--bohmber": 0.2087912087912088,
+        "#javaee--myfaces--dennisbyrne": 0.20437956204379562
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#javaee--myfaces--cnsgithub": 0.3333333333333333,
+        "#javaee--myfaces--": 0.19461697722567287,
+        "#javaee--myfaces--struberg": 0.17142857142857143,
+        "#javaee--myfaces--matzew": 0.14545454545454545
+    },
+    "error_prone_developer_num": 3,
+    "error_prone_developer": [
+        "#javaee--myfaces--cnsgithub",
+        "#javaee--myfaces--matzew",
+        "#javaee--myfaces--struberg"
+    ],
+    "error_prone_developer_team_rate": 0.07894736842105263,
+    "team_developer_num": 38
+}

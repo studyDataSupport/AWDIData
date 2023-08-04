@@ -1,0 +1,12 @@
+{
+    "all_file_num": 2553,
+    "error_developer_file_rate": {
+        "#library--commons-vfs--apearc03": 0.003133568350959655,
+        "#library--commons-vfs--jwcarman": 0.004700352526439483,
+        "#library--commons-vfs--elmuerte": 0.007050528789659225
+    },
+    "daily_error_prone_developer": [
+        "#library--commons-vfs--jwcarman"
+    ],
+    "number_daily_error_prone_developer": 1
+}

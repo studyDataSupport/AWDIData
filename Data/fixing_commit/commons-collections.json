@@ -1,0 +1,570 @@
+[
+    {
+        "fix_commit_hash": "8c91a515467826ab1b75b516cea7c6a3303e590d",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "17bed2b5551c6489264d47e1009f45c27236f71c",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "43e23dd6584ba81ef1e57554248441f35bee0195",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "e6f72fe910990913401173e02ac33d5b85b5d775",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "cbc5db55408dae5d8744307a5eb379df36d55427",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "3fa1f0cee8b5b2d0671230b3d4f565a5e716a3cc",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "ffd2a02d8559428e6f80a54a77b3b8d76b7762fb",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "d18eb37fc299b6abfc906366173200b4931dc47a",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "e52e38bdbb8d6a6a37ddaecebee7e498f55dda12",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "bd8e77d6079ce760f157b9368302a5cc0df1136c",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "8eebabd48114ff33b37c6edf51bd9d8d4fab8b5f",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "7d06bd77e9ebda68c79eac20075560d488a28364",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "0bf44ae0404307e5dcaf5fe02cb6b1ac34341d5d",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "64420e34cc20b08d4386cfbfec5aaa3f49973c10",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "45b6865b59d344910dd8cf09b54e6ea91347752d",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "3fa9e323af135b489f9f15ea161ee065d8a71897",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "f72f1ae330ea61e0cbca0832e4e32cee024775ac",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "eb0e5411ac48c5353a57af318716701d8248a34b",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "0117ba7a88bb6af2b6f6a3be84adce984f0bebf9",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "cb57e04fd6648ebdedb10b80c36fcf51a38f1b29",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "c46666c5ddbc14bfdb910949de49ac353676f03f",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "036bbf34d2742af78ff2c44f4223e1b268e1c12c",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "b97da105fbccac149223327e49d29ac9024913fb",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "c15be5398fa8582f39d6c9b51dd943f6ff926450",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "1979a6e31067a18c9ede59ad4518f738512eba82",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "a424d2ff172aa3be9eb5155e732e6f61915d7b5e",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "74ad2114700446837ed451f36107a056301a65fc",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "80238cd1c04af009b04b4eddf54660dffa9b2405",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "b88b065aa955d7a7d8f74c427b05d2243eda0779",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "4a9bcd0f5211c91c4c2f47313c8f8013d0dfe03e",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "94cfcc6989af75eadab26041a484bf02ad374578",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "eed8a7adb3de7441751e846f4a75d110dd205f23",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "1d21a49c27d9eab8d02785a783fcfba387a3e8e1",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "9d4f2ba886b003980f2c37a4de7a3e6c3c701820",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "e736f41062e5dc4227fd5874b0f4e0e30ccad8a5",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "8f346f9f1263b2fd5923abc0956134df15fd9325",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "9f0d58985f4588981eefaca0408e767eff1bef73",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "3c1867e231093319b1bbbe5b0362d4063517cf24",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "a270ff62852e62b5ac0f943a7e57292a72b77271",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "b2b8f4adc557e4ef1ee2fe5e0ab46866c06ec55b",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "78d47d4d098ab814a7a00a0b1c81646b27f050cf",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "3eee44cf63b1ebb0da6925e98b3dcc6ef1e4d610",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "da1a5fe00d79e1840b7e52317933e9eb56e88246",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "e585cd0433ae4cfbc56e58572b9869bd0c86b611",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "3b691712fd2dc7251907912124de0954f0652f6c",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "f8bd75d37ca12c5d49c1b628c33c0b45e2d082eb",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "68bbd2cf4a5c0eff498d46dddd527cb06274f852",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "73d69dfe8677210e44049bc1a2a7d1ff85bc1ca7",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "4c818fb356563d9bb0cc01cfde94825aeef33ffa",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "df22e0c5d2752a6d4540b4bcf82c1eade03ac6f7",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "640670bd862d008990c442d2d7cc26d7fb3b6e86",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "583d96b0895beafad326793c0cd0d273013ff137",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "2db7aa771a4ee5cd0cae28fe54d7d89fa62da81f",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "a3b3b74ec6325cd19169fdbaea26f27a96a72fea",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "5d42c95c33cd0504b44fc28be817f278630ee703",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "30e5023265aa76e6c32d3ba43952aac964112ebc",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "6975b0567df3eb618ba30e245bc988f5c22d5bac",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "9e64a3cb81d66793e0147d1b6f4b39a6caa24f62",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "161aa07d8b2312d9143c7156fa529a4a1e1e9909",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "9dbf8388c5bfa0c7beb15e835b3a5e6fc74ecbf8",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "e6c2735e952c4972095afcd9f286d5c5c6f933a7",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "939527bcc5b80a1788d876d7e47fb45d71d21424",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "b9284992ea3c8c484893517ee9df3b2274296959",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "ad28a3cb5c5edae55fb7b0f4642ccbf14f3065c1",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "bb0a4b6b038bf912873d10fc0f124ac3238d3e32",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "d3d48f834749a31459a3201fa33b89d72eb42fe5",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "527213decc04c4b45393cd0f67e96cb7a67a8f66",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "320c0acf89acb5950a10816ca7dd083842ff739c",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "62e56cd3884d224e42cc8b449ef631a0909a19a3",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "d61e967badf734499ccde4750729662b20d6545c",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "c48007f44b05a445122e7c425e869b7ac479aa85",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "bc85bab7a53a1569b4740c5b142b4dae062062de",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "2ddd54a7ddfead528f2b1de92dc8dd16be7f5f89",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "e1527d3cb90c6afc1cda58143c69016aef8124bb",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "15ad7824efda1e1632d24f4c273796863841c537",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "4f296da76cb2faeafebac39435a14b5a64aa258b",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "539be680cd2b1a8f6833b28ee0cca22a88161466",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "72784c46f6a7d7644398db5c7ac8bd3822c523d4",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "4951344fb2ce246e0cc5a2dff90d24cea6eb3a75",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "fe63f95fbff43495e57ebc37350798dee024cf9a",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "7df57879c92a467cd71860e6cfe14a04a49fd031",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "4f00c553897cc3342089c4b40f7bed5f36e924de",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "0cba84e103773cf86b8691593e9d8a0d8afec1fb",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "b1162d812eebc9298b7fd62eac1dac119ae5f271",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "7725a72c7322d3e3628ced092082d1b76baeeff4",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "68c0a80d17688d6d56644deaaaec5d3575042587",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "20619b096cbb250518fd99eed15a4ae81345ce9f",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "ed085d064c0f80b0bcf382550d10fe6b6fc9f283",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "edd64cfd822ae2ca2faa8dc1c73edc38a6e19f0f",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "2e36e5e9088a5e95956ed24709b4245f95b0f80c",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "a5e94c1727b2520e47e66c7e144853fa009a2cab",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "5878adfaf37ce37e6988956e4cd5c833c6ec61be",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "8283d966f47280f682a1407d499346a383d1b1a5",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "43e4df85bda71ca1500112912a83d3ed19868c4c",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "05f3b74fd581ea5f8946c64edcb293747b4d9a71",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "40ad5dc2dbac4a1e76befb2f77ea5044321c4cc9",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "9ea429c9778fb0dd32d605d41317feb6b2dbeccc",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "803a9c6c17efbc98bc9513e6bf7e6900d4dbae2c",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "c9e1e5c8f51ec51e2927561fdcca2cc40d6893f6",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "5e01d361f02d8e0d21edcaf8587eff133d5681b3",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "f7a557a38ad44c819fb139203f99c188c0e92604",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "0ec35de2c5bcf777230d2254c00f4a030da2c440",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "0f0b8710e24160576f29504ef3e3bcbe34f22770",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "2bafac38a7f8f2fdf6379740135899460f67821a",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "d5d29b625fef0a6b6c69fca9c03330d85de585de",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "cdfd6b7a6784246360fe77fe3789696b8b93d877",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "b88692f83a938e31fd5f703c99db2a5720cd9f3e",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "bb9952dbedc77f25fffda32d96e6494e2246bab3",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "b10fa43d3e29af6c6e79577c305fad99df01dff0",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "8338b9a252c0c4965ec2f63daaffe2edf055dbed",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "88b7b4b3a07390db01c9fe2ae15581ace220032b",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "459f14b33c02509a4b9cc5360f3ff2f4edba9284",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "b7327a42da0a48e223dd7ce014439a36f1850929",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "20fdf174fee023f6d816771300e034d5f13947f6",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "7c55e29e3ddfbebde9e57695274c3091b203b01c",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "87d923f0d72c5e81105e6a1f8958e7800b79ef07",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "6db6aa496f268b7f7dd846ba7e01b69402794172",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "cae889f3c01cd6e022d98530e867eb48abc03427",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "a753ba0a0340dfab360d3932ea1e45de93689586",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "bd2f3bcced1643373ee910dace2320674d2cc09d",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "f3e93a52db74730aeb06ed4e8445d12c61d9f193",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "19de811cafeb55fb519965cd89427416798e3040",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "c531834764c31d56332b0918d404c3dbbf02ccac",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "970921c2196d804d7c2d8203881cd340a4d0df3e",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "0b83241a1ac009cd6f95d57209fadc05b6b4d268",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "b9b6f31089fedd0e3288b5ad80771a71ee1a65ca",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "68673c6c52ffca3a87e4ec6a8f2c11849d6d458c",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "f806874001b00b04d91192bcca7b5d4093f3cee0",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "d51a9262f2a11ef3a555adf36a9eb8bd0415289e",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "ed3d9ab90be17fcf527b79ba140d5b5dae5c4310",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "a6d51b8d2f124b71d420e2b1c5f901c503da65cd",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "0e70e26a11b5ee68590957326702aaabcc183f5b",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "7d1c0ab0904c43eef9c20ff38fb56f7215e5743b",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "d4c9c2c7bf40044db837f1bdf55d87d27c047221",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "eebcb74fb5e80592aab80f6bbb756026c7812f19",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "4016c8eec992ab62747a55dcfb4be1878ecc232c",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "2e29ad2a8fd33955b488c1edd0b312a6837b7cb9",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "653b3779ddbbe9b77f127f5cd31935437ac1e7e8",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "5e313d14b2a10ce0aea529ac4db50e183f0b1e49",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "66c4b99ddc7daea806c1318a40736d0f5c8fa7bd",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "3f09772b742d7886c5a18427c9838fb267cc335b",
+        "repo_name": "apache/commons-collections"
+    },
+    {
+        "fix_commit_hash": "f8aa3e033c1fde4a434864f666315b433498d32c",
+        "repo_name": "apache/commons-collections"
+    }
+]

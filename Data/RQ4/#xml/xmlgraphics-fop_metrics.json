@@ -1,0 +1,42 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#xml--xmlgraphics-fop--simonsteiner1984": "2014-04-28 00:00:00",
+        "#xml--xmlgraphics-fop--": "1999-10-31 00:00:00",
+        "#xml--xmlgraphics-fop--jmaerki": "2002-05-05 00:00:00",
+        "#xml--xmlgraphics-fop--vhennebert": "2006-10-25 00:00:00",
+        "#xml--xmlgraphics-fop--spepping": "2004-05-27 00:00:00",
+        "#xml--xmlgraphics-fop--bdelacretaz": "2002-10-31 00:00:00",
+        "#xml--xmlgraphics-fop--chrisgt": "2002-03-01 00:00:00",
+        "#xml--xmlgraphics-fop--dirkx": "1999-10-31 00:00:00"
+    },
+    "commiter_end_time": {
+        "#xml--xmlgraphics-fop--simonsteiner1984": "2022-12-23 00:00:00",
+        "#xml--xmlgraphics-fop--": "2022-11-10 00:00:00",
+        "#xml--xmlgraphics-fop--jmaerki": "2016-09-09 00:00:00",
+        "#xml--xmlgraphics-fop--vhennebert": "2014-08-01 00:00:00",
+        "#xml--xmlgraphics-fop--spepping": "2011-12-06 00:00:00",
+        "#xml--xmlgraphics-fop--bdelacretaz": "2007-04-09 00:00:00",
+        "#xml--xmlgraphics-fop--chrisgt": "2007-01-08 00:00:00",
+        "#xml--xmlgraphics-fop--dirkx": "1999-11-09 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#xml--xmlgraphics-fop--dirkx": 9,
+        "#xml--xmlgraphics-fop--bdelacretaz": 1621,
+        "#xml--xmlgraphics-fop--chrisgt": 1774,
+        "#xml--xmlgraphics-fop--spepping": 2749,
+        "#xml--xmlgraphics-fop--vhennebert": 2837,
+        "#xml--xmlgraphics-fop--simonsteiner1984": 3161,
+        "#xml--xmlgraphics-fop--jmaerki": 5241,
+        "#xml--xmlgraphics-fop--": 8411
+    },
+    "commiter_contribute_time1": {},
+    "commiter_contribute_time2": {},
+    "commiter_contribute_time3": {},
+    "commiter_contribute_time4": {},
+    "commiter_time_trend": {},
+    "daily_long_time_error_prone_developer": [],
+    "number_daily_long_time_error_prone_developer": 0,
+    "improved_daily_long_time_error_prone_developer": [],
+    "number_improved_daily_long_time_error_prone_developer": 0
+}

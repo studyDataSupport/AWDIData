@@ -1,0 +1,225 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#big-data--giraph--": "2010-11-17 00:00:00",
+        "#big-data--giraph--atanu1991": "2019-02-21 00:00:00",
+        "#big-data--giraph--dlogothetis": "2015-03-24 00:00:00",
+        "#big-data--giraph--aanchal204": "2019-03-26 00:00:00",
+        "#big-data--giraph--dependabot[bot]": "2019-11-01 00:00:00",
+        "#big-data--giraph--szarnyasg": "2018-05-02 00:00:00",
+        "#big-data--giraph--sagiba": "2017-08-14 00:00:00",
+        "#big-data--giraph--neggert": "2017-08-28 00:00:00",
+        "#big-data--giraph--yukselakinci": "2017-08-21 00:00:00",
+        "#big-data--giraph--aching": "2010-10-29 00:00:00",
+        "#big-data--giraph--edunov": "2014-10-20 00:00:00",
+        "#big-data--giraph--rvs": "2013-10-15 00:00:00",
+        "#big-data--giraph--KidEinstein": "2016-11-28 00:00:00",
+        "#big-data--giraph--spupyrev": "2015-09-08 00:00:00",
+        "#big-data--giraph--heslami": "2015-06-29 00:00:00",
+        "#big-data--giraph--yschimke": "2016-02-25 00:00:00",
+        "#big-data--giraph--mpundir": "2015-10-09 00:00:00",
+        "#big-data--giraph--lewismc": "2014-10-11 00:00:00",
+        "#big-data--giraph--pavanka": "2014-05-02 00:00:00",
+        "#big-data--giraph--claudiomartella": "2013-02-14 00:00:00",
+        "#big-data--giraph--asubmissions": "2012-02-01 00:00:00",
+        "#big-data--giraph--ereisman": "2012-08-25 00:00:00",
+        "#big-data--giraph--nitay": "2013-02-09 00:00:00",
+        "#big-data--giraph--jghoman": "2011-08-26 00:00:00",
+        "#big-data--giraph--hyunsik": "2011-08-29 00:00:00",
+        "#big-data--giraph--omalley": "2011-08-06 00:00:00",
+        "#big-data--giraph--xslogic": "2011-11-15 00:00:00",
+        "#big-data--giraph--jakemannix": "2011-11-10 00:00:00"
+    },
+    "commiter_end_time": {
+        "#big-data--giraph--": "2022-03-08 00:00:00",
+        "#big-data--giraph--atanu1991": "2021-06-02 00:00:00",
+        "#big-data--giraph--dlogothetis": "2021-01-07 00:00:00",
+        "#big-data--giraph--aanchal204": "2019-12-09 00:00:00",
+        "#big-data--giraph--dependabot[bot]": "2019-11-01 00:00:00",
+        "#big-data--giraph--szarnyasg": "2018-05-02 00:00:00",
+        "#big-data--giraph--sagiba": "2017-08-14 00:00:00",
+        "#big-data--giraph--neggert": "2017-08-28 00:00:00",
+        "#big-data--giraph--yukselakinci": "2017-08-21 00:00:00",
+        "#big-data--giraph--aching": "2017-04-17 00:00:00",
+        "#big-data--giraph--edunov": "2017-03-15 00:00:00",
+        "#big-data--giraph--rvs": "2017-01-12 00:00:00",
+        "#big-data--giraph--KidEinstein": "2016-11-28 00:00:00",
+        "#big-data--giraph--spupyrev": "2016-08-30 00:00:00",
+        "#big-data--giraph--heslami": "2016-07-26 00:00:00",
+        "#big-data--giraph--yschimke": "2016-02-25 00:00:00",
+        "#big-data--giraph--mpundir": "2015-10-09 00:00:00",
+        "#big-data--giraph--lewismc": "2014-10-11 00:00:00",
+        "#big-data--giraph--pavanka": "2014-09-17 00:00:00",
+        "#big-data--giraph--claudiomartella": "2014-04-24 00:00:00",
+        "#big-data--giraph--asubmissions": "2014-02-28 00:00:00",
+        "#big-data--giraph--ereisman": "2014-01-30 00:00:00",
+        "#big-data--giraph--nitay": "2013-03-11 00:00:00",
+        "#big-data--giraph--jghoman": "2012-08-13 00:00:00",
+        "#big-data--giraph--hyunsik": "2012-07-11 00:00:00",
+        "#big-data--giraph--omalley": "2012-06-06 00:00:00",
+        "#big-data--giraph--xslogic": "2011-11-15 00:00:00",
+        "#big-data--giraph--jakemannix": "2011-11-10 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#big-data--giraph--dependabot[bot]": 0,
+        "#big-data--giraph--szarnyasg": 0,
+        "#big-data--giraph--sagiba": 0,
+        "#big-data--giraph--neggert": 0,
+        "#big-data--giraph--yukselakinci": 0,
+        "#big-data--giraph--KidEinstein": 0,
+        "#big-data--giraph--yschimke": 0,
+        "#big-data--giraph--mpundir": 0,
+        "#big-data--giraph--lewismc": 0,
+        "#big-data--giraph--xslogic": 0,
+        "#big-data--giraph--jakemannix": 0,
+        "#big-data--giraph--nitay": 30,
+        "#big-data--giraph--pavanka": 138,
+        "#big-data--giraph--aanchal204": 258,
+        "#big-data--giraph--omalley": 305,
+        "#big-data--giraph--hyunsik": 317,
+        "#big-data--giraph--jghoman": 353,
+        "#big-data--giraph--spupyrev": 357,
+        "#big-data--giraph--heslami": 393,
+        "#big-data--giraph--claudiomartella": 434,
+        "#big-data--giraph--ereisman": 523,
+        "#big-data--giraph--asubmissions": 758,
+        "#big-data--giraph--atanu1991": 832,
+        "#big-data--giraph--edunov": 877,
+        "#big-data--giraph--rvs": 1185,
+        "#big-data--giraph--dlogothetis": 2116,
+        "#big-data--giraph--aching": 2362,
+        "#big-data--giraph--": 4129
+    },
+    "commiter_contribute_time1": {
+        "#big-data--giraph--asubmissions": {
+            "start": "2012-02-01 00:00:00",
+            "end": "2013-04-22 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--giraph--hyunsik": {
+            "start": "2011-08-29 00:00:00",
+            "end": "2012-07-10 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--giraph--ereisman": {
+            "start": "2012-08-25 00:00:00",
+            "end": "2013-02-05 00:00:00",
+            "bug_num_per_commit": 0.375,
+            "bug_commit_num_rate": 1.0
+        }
+    },
+    "commiter_contribute_time2": {
+        "#big-data--giraph--asubmissions": {
+            "start": "2013-03-09 00:00:00",
+            "end": "2012-05-10 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.5
+        },
+        "#big-data--giraph--hyunsik": {
+            "start": "2012-07-06 00:00:00",
+            "end": "2012-06-30 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.5
+        },
+        "#big-data--giraph--ereisman": {
+            "start": "2013-02-05 00:00:00",
+            "end": "2013-01-10 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.75
+        }
+    },
+    "commiter_contribute_time3": {
+        "#big-data--giraph--asubmissions": {
+            "start": "2012-03-18 00:00:00",
+            "end": "2012-02-01 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--giraph--hyunsik": {
+            "start": "2012-06-30 00:00:00",
+            "end": "2011-10-05 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--giraph--ereisman": {
+            "start": "2013-01-09 00:00:00",
+            "end": "2012-10-03 00:00:00",
+            "bug_num_per_commit": 0.375,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#big-data--giraph--asubmissions": {
+            "start": "2012-02-01 00:00:00",
+            "end": "2012-02-01 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--giraph--hyunsik": {
+            "start": "2011-09-19 00:00:00",
+            "end": "2011-08-29 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--giraph--ereisman": {
+            "start": "2012-10-01 00:00:00",
+            "end": "2012-08-25 00:00:00",
+            "bug_num_per_commit": 0.3,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#big-data--giraph--asubmissions": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 1.0,
+                "time3": 0.5,
+                "time4": 0.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.5,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#big-data--giraph--hyunsik": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 0.0,
+                "time3": 0.5,
+                "time4": 0.5
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.5,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#big-data--giraph--ereisman": {
+            "bug_num_per_commit": {
+                "time1": 0.375,
+                "time2": 0.5,
+                "time3": 0.375,
+                "time4": 0.3
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.75,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#big-data--giraph--asubmissions",
+        "#big-data--giraph--hyunsik",
+        "#big-data--giraph--ereisman"
+    ],
+    "number_daily_long_time_error_prone_developer": 3,
+    "improved_daily_long_time_error_prone_developer": [],
+    "number_improved_daily_long_time_error_prone_developer": 0
+}

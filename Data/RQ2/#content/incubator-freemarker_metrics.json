@@ -1,0 +1,19 @@
+{
+    "cate": "#content",
+    "#content-cate_aver_bug_rate": 0.12859410007468258,
+    "#content-cate_aver_bug_commit_rate": 0.13942307692307693,
+    "high_bug_rate_error_prone_developer_number": 1,
+    "high_bug_commit_rate_error_prone_developer_number": 1,
+    "high_bug_rate_error_prone_developer": {
+        "#content--incubator-freemarker--woonsanko": 0.25
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#content--incubator-freemarker--woonsanko": 0.5
+    },
+    "error_prone_developer_num": 1,
+    "error_prone_developer": [
+        "#content--incubator-freemarker--woonsanko"
+    ],
+    "error_prone_developer_team_rate": 0.03225806451612903,
+    "team_developer_num": 31
+}

@@ -1,0 +1,18 @@
+{
+    "cate": "#library",
+    "#library-cate_aver_bug_rate": 0.2318840579710145,
+    "#library-cate_aver_bug_commit_rate": 0.2,
+    "high_bug_rate_error_prone_developer_number": 2,
+    "high_bug_commit_rate_error_prone_developer_number": 1,
+    "high_bug_rate_error_prone_developer": {
+        "#library--commons-numbers--ebarnhill": 0.45454545454545453,
+        "#library--commons-numbers--grimreaper": 0.23809523809523808
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#library--commons-numbers--stevebosman": 0.2
+    },
+    "error_prone_developer_num": 0,
+    "error_prone_developer": [],
+    "error_prone_developer_team_rate": 0.0,
+    "team_developer_num": 21
+}

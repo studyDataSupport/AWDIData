@@ -1,0 +1,11 @@
+{
+    "all_file_num": 2709,
+    "error_developer_file_rate": {
+        "#library--opennlp--wero026": 0.00036913990402362494,
+        "#library--opennlp--ragerri": 0.026208933185677373
+    },
+    "daily_error_prone_developer": [
+        "#library--opennlp--ragerri"
+    ],
+    "number_daily_error_prone_developer": 1
+}

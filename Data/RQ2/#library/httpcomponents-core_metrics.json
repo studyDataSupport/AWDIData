@@ -1,0 +1,23 @@
+{
+    "cate": "#library",
+    "#library-cate_aver_bug_rate": 0.2318840579710145,
+    "#library-cate_aver_bug_commit_rate": 0.2,
+    "high_bug_rate_error_prone_developer_number": 2,
+    "high_bug_commit_rate_error_prone_developer_number": 3,
+    "high_bug_rate_error_prone_developer": {
+        "#library--httpcomponents-core--pfrank13": 1.0,
+        "#library--httpcomponents-core--rferreira": 1.0
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#library--httpcomponents-core--pfrank13": 1.0,
+        "#library--httpcomponents-core--rferreira": 1.0,
+        "#library--httpcomponents-core--coxlinton": 0.2857142857142857
+    },
+    "error_prone_developer_num": 2,
+    "error_prone_developer": [
+        "#library--httpcomponents-core--pfrank13",
+        "#library--httpcomponents-core--rferreira"
+    ],
+    "error_prone_developer_team_rate": 0.03225806451612903,
+    "team_developer_num": 62
+}

@@ -1,0 +1,117 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#library--directory-kerby--coheigea": "2015-02-04 00:00:00",
+        "#library--directory-kerby--dependabot[bot]": "2021-02-23 00:00:00",
+        "#library--directory-kerby--liujiayi771": "2020-07-22 00:00:00",
+        "#library--directory-kerby--TimoScheuer": "2021-05-26 00:00:00",
+        "#library--directory-kerby--wenxuanguan": "2019-10-10 00:00:00",
+        "#library--directory-kerby--plusplusjiajia": "2020-08-03 00:00:00",
+        "#library--directory-kerby--": "2014-02-22 00:00:00",
+        "#library--directory-kerby--michael-o": "2020-05-06 00:00:00",
+        "#library--directory-kerby--farhan5900": "2019-04-30 00:00:00",
+        "#library--directory-kerby--dwalluck": "2018-07-26 00:00:00",
+        "#library--directory-kerby--seelmann": "2015-06-22 00:00:00",
+        "#library--directory-kerby--bolkedebruin": "2019-01-04 00:00:00",
+        "#library--directory-kerby--ftarlao": "2018-02-07 00:00:00",
+        "#library--directory-kerby--jeep123": "2016-03-06 00:00:00",
+        "#library--directory-kerby--elecharny": "2015-01-12 00:00:00",
+        "#library--directory-kerby--YaningX": "2015-08-20 00:00:00",
+        "#library--directory-kerby--HazelChen": "2015-01-30 00:00:00",
+        "#library--directory-kerby--kayyagari": "2015-01-25 00:00:00"
+    },
+    "commiter_end_time": {
+        "#library--directory-kerby--coheigea": "2022-10-13 00:00:00",
+        "#library--directory-kerby--dependabot[bot]": "2022-04-21 00:00:00",
+        "#library--directory-kerby--liujiayi771": "2021-08-30 00:00:00",
+        "#library--directory-kerby--TimoScheuer": "2021-05-28 00:00:00",
+        "#library--directory-kerby--wenxuanguan": "2020-10-09 00:00:00",
+        "#library--directory-kerby--plusplusjiajia": "2020-08-20 00:00:00",
+        "#library--directory-kerby--": "2020-05-15 00:00:00",
+        "#library--directory-kerby--michael-o": "2020-05-06 00:00:00",
+        "#library--directory-kerby--farhan5900": "2019-04-30 00:00:00",
+        "#library--directory-kerby--dwalluck": "2018-07-27 00:00:00",
+        "#library--directory-kerby--seelmann": "2019-01-06 00:00:00",
+        "#library--directory-kerby--bolkedebruin": "2019-01-04 00:00:00",
+        "#library--directory-kerby--ftarlao": "2018-02-07 00:00:00",
+        "#library--directory-kerby--jeep123": "2016-03-06 00:00:00",
+        "#library--directory-kerby--elecharny": "2016-01-10 00:00:00",
+        "#library--directory-kerby--YaningX": "2015-12-29 00:00:00",
+        "#library--directory-kerby--HazelChen": "2015-11-30 00:00:00",
+        "#library--directory-kerby--kayyagari": "2015-09-18 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#library--directory-kerby--michael-o": 0,
+        "#library--directory-kerby--farhan5900": 0,
+        "#library--directory-kerby--bolkedebruin": 0,
+        "#library--directory-kerby--ftarlao": 0,
+        "#library--directory-kerby--jeep123": 0,
+        "#library--directory-kerby--dwalluck": 1,
+        "#library--directory-kerby--TimoScheuer": 2,
+        "#library--directory-kerby--plusplusjiajia": 17,
+        "#library--directory-kerby--YaningX": 131,
+        "#library--directory-kerby--kayyagari": 236,
+        "#library--directory-kerby--HazelChen": 304,
+        "#library--directory-kerby--elecharny": 363,
+        "#library--directory-kerby--wenxuanguan": 365,
+        "#library--directory-kerby--liujiayi771": 404,
+        "#library--directory-kerby--dependabot[bot]": 422,
+        "#library--directory-kerby--seelmann": 1294,
+        "#library--directory-kerby--": 2274,
+        "#library--directory-kerby--coheigea": 2808
+    },
+    "commiter_contribute_time1": {
+        "#library--directory-kerby--HazelChen": {
+            "start": "2015-01-30 00:00:00",
+            "end": "2015-04-24 00:00:00",
+            "bug_num_per_commit": 0.2,
+            "bug_commit_num_rate": 1.0
+        }
+    },
+    "commiter_contribute_time2": {
+        "#library--directory-kerby--HazelChen": {
+            "start": "2015-04-24 00:00:00",
+            "end": "2015-03-25 00:00:00",
+            "bug_num_per_commit": 0.2,
+            "bug_commit_num_rate": 0.5
+        }
+    },
+    "commiter_contribute_time3": {
+        "#library--directory-kerby--HazelChen": {
+            "start": "2015-03-24 00:00:00",
+            "end": "2015-03-19 00:00:00",
+            "bug_num_per_commit": 0.1,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#library--directory-kerby--HazelChen": {
+            "start": "2015-03-19 00:00:00",
+            "end": "2015-01-30 00:00:00",
+            "bug_num_per_commit": 0.15789473684210525,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#library--directory-kerby--HazelChen": {
+            "bug_num_per_commit": {
+                "time1": 0.2,
+                "time2": 0.2,
+                "time3": 0.1,
+                "time4": 0.15789473684210525
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.5,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#library--directory-kerby--HazelChen"
+    ],
+    "number_daily_long_time_error_prone_developer": 1,
+    "improved_daily_long_time_error_prone_developer": [],
+    "number_improved_daily_long_time_error_prone_developer": 0
+}

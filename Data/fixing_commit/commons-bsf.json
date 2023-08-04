@@ -1,0 +1,18 @@
+[
+    {
+        "fix_commit_hash": "7689d3f5a6db065283ae483e7af58a01e91b621b",
+        "repo_name": "apache/commons-bsf"
+    },
+    {
+        "fix_commit_hash": "908a376b567c72226db3ccf877126bb4b8248388",
+        "repo_name": "apache/commons-bsf"
+    },
+    {
+        "fix_commit_hash": "263e8a70eda24d98304d3713fecd0db53c415bee",
+        "repo_name": "apache/commons-bsf"
+    },
+    {
+        "fix_commit_hash": "cfd78f873c2c554e7e2559559e0833adc8f2217e",
+        "repo_name": "apache/commons-bsf"
+    }
+]

@@ -1,0 +1,23 @@
+{
+    "cate": "#cloud",
+    "#cloud-cate_aver_bug_rate": 0.2857142857142857,
+    "#cloud-cate_aver_bug_commit_rate": 0.25,
+    "high_bug_rate_error_prone_developer_number": 3,
+    "high_bug_commit_rate_error_prone_developer_number": 2,
+    "high_bug_rate_error_prone_developer": {
+        "#cloud--helix--atcurtis": 0.4,
+        "#cloud--helix--zzhang5": 0.3837837837837838,
+        "#cloud--helix--kanakb": 0.32653061224489793
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#cloud--helix--zzhang5": 0.40540540540540543,
+        "#cloud--helix--atcurtis": 0.4
+    },
+    "error_prone_developer_num": 2,
+    "error_prone_developer": [
+        "#cloud--helix--atcurtis",
+        "#cloud--helix--zzhang5"
+    ],
+    "error_prone_developer_team_rate": 0.04,
+    "team_developer_num": 50
+}

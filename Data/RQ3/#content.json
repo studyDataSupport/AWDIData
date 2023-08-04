@@ -1,0 +1,23 @@
+{
+    "all_file_num": 22187,
+    "error_developer_file_rate": {
+        "#content--incubator-freemarker--woonsanko": 0.004140786749482402,
+        "#content--manifoldcf--rafaharo": 0.012915129151291513,
+        "#content--pdfbox--jmaerki": 0.025946330193708903,
+        "#content--pdfbox--jahewson": 0.2308512528878621,
+        "#content--pdfbox--": 0.28149991114270484,
+        "#content--pdfbox--THausherr": 0.313843966589657,
+        "#content--pdfbox--jukka": 0.4234938688466323,
+        "#content--pdfbox--lehmi": 0.4856939754753865
+    },
+    "daily_error_prone_developer": [
+        "#content--manifoldcf--rafaharo",
+        "#content--pdfbox--jmaerki",
+        "#content--pdfbox--jahewson",
+        "#content--pdfbox--",
+        "#content--pdfbox--THausherr",
+        "#content--pdfbox--jukka",
+        "#content--pdfbox--lehmi"
+    ],
+    "number_daily_error_prone_developer": 7
+}

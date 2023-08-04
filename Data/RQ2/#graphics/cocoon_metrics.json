@@ -1,0 +1,22 @@
+{
+    "cate": "#graphics",
+    "#graphics-cate_aver_bug_rate": 0.0387591544667822,
+    "#graphics-cate_aver_bug_commit_rate": 0.037348500491180645,
+    "high_bug_rate_error_prone_developer_number": 2,
+    "high_bug_commit_rate_error_prone_developer_number": 2,
+    "high_bug_rate_error_prone_developer": {
+        "#graphics--cocoon--SimoneGianni": 0.10526315789473684,
+        "#graphics--cocoon--jashaj": 0.08333333333333333
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#graphics--cocoon--jashaj": 0.08333333333333333,
+        "#graphics--cocoon--SimoneGianni": 0.07894736842105263
+    },
+    "error_prone_developer_num": 2,
+    "error_prone_developer": [
+        "#graphics--cocoon--SimoneGianni",
+        "#graphics--cocoon--jashaj"
+    ],
+    "error_prone_developer_team_rate": 0.10526315789473684,
+    "team_developer_num": 19
+}

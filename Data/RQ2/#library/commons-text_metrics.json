@@ -1,0 +1,36 @@
+{
+    "cate": "#library",
+    "#library-cate_aver_bug_rate": 0.2318840579710145,
+    "#library-cate_aver_bug_commit_rate": 0.2,
+    "high_bug_rate_error_prone_developer_number": 6,
+    "high_bug_commit_rate_error_prone_developer_number": 8,
+    "high_bug_rate_error_prone_developer": {
+        "#library--commons-text--bradleyrumball": 2.0,
+        "#library--commons-text--TheRealHaui": 0.75,
+        "#library--commons-text--jarst": 0.6666666666666666,
+        "#library--commons-text--yuji-k64613": 0.5,
+        "#library--commons-text--CAPS50": 0.4,
+        "#library--commons-text--sermojohn": 0.3333333333333333
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#library--commons-text--bradleyrumball": 1.0,
+        "#library--commons-text--yuji-k64613": 0.5,
+        "#library--commons-text--CAPS50": 0.4,
+        "#library--commons-text--sermojohn": 0.3333333333333333,
+        "#library--commons-text--jarst": 0.3333333333333333,
+        "#library--commons-text--dmjones": 0.3,
+        "#library--commons-text--TheRealHaui": 0.25,
+        "#library--commons-text--saschaszott": 0.2
+    },
+    "error_prone_developer_num": 6,
+    "error_prone_developer": [
+        "#library--commons-text--bradleyrumball",
+        "#library--commons-text--TheRealHaui",
+        "#library--commons-text--jarst",
+        "#library--commons-text--yuji-k64613",
+        "#library--commons-text--CAPS50",
+        "#library--commons-text--sermojohn"
+    ],
+    "error_prone_developer_team_rate": 0.11538461538461539,
+    "team_developer_num": 52
+}

@@ -1,0 +1,27 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#cloud--vcl--": "2008-11-21 00:00:00",
+        "#cloud--vcl--junaidali": "2019-02-21 00:00:00",
+        "#cloud--vcl--acoburn": "2012-04-16 00:00:00"
+    },
+    "commiter_end_time": {
+        "#cloud--vcl--": "2021-03-11 00:00:00",
+        "#cloud--vcl--junaidali": "2019-03-21 00:00:00",
+        "#cloud--vcl--acoburn": "2014-08-22 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#cloud--vcl--junaidali": 28,
+        "#cloud--vcl--acoburn": 858,
+        "#cloud--vcl--": 4493
+    },
+    "commiter_contribute_time1": {},
+    "commiter_contribute_time2": {},
+    "commiter_contribute_time3": {},
+    "commiter_contribute_time4": {},
+    "commiter_time_trend": {},
+    "daily_long_time_error_prone_developer": [],
+    "number_daily_long_time_error_prone_developer": 0,
+    "improved_daily_long_time_error_prone_developer": [],
+    "number_improved_daily_long_time_error_prone_developer": 0
+}

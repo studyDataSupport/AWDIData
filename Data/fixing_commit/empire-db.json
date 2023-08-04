@@ -1,0 +1,654 @@
+[
+    {
+        "fix_commit_hash": "40019a635c432251b7dce462402402aa41d8678e",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "1f0f5e1661979ff93279d60a38d590fdd7d09232",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "e0007dfbc94e4d29336d712b50290ccfba0a67cf",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "24974ceafa675509d86580ecd5c97ef2959094aa",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "784884dd67ddbfd13162b45a7028d5f72f83661d",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "e21c7d4657301f361f4d915752cb28cec5598576",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "df5ae21f245c3d82139c8b82536ddbc5819c01c9",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "c80689836e131c1d3eee6c707937e86ee780313d",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "6f706ec3c1f796ad5598b4ec2559a605b60f4114",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "51b7f0e46fe43fe0e25033ba028aa5be73672f5f",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "d931c8dbdd9bb19b7ea3166c4892c13b583b62b9",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "3162f90da73b58e64bc433301c64a29977279339",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "763e572fc31966ad96fdb8e09182077380c066ba",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "f761bdfba3f8129ca2b3510e8314981efd64c4d4",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "9677055aac1356fe3f90b05837dbda298fa198d1",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "ac7a31e16f65d5683ea58a89ddffbf9090e63e95",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "31b1ca6c7a8372bbf9c9a265fca7d4881cf46420",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "20a3b9de09c2a34ae18837b0d2f40367dbfe9195",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "1a9e035950805acce6fc026fe19220edc520de45",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "fbfa864a3d611280cc4478ef0fbb91d12eeae918",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "1b1466abf494a57ced979ed471e60a02d9ee0a0a",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "b8af903e685a171ec6dc1a5747c39fab83573d90",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "9cf0fd2e541c7a551825e45e7edc99fa74f04a54",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "7f0cc7d3aac2602d5ae96dcc903ce965c29fa2a7",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "c1116669ff5ba123ebd6b3a6e3768a9c73ddba59",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "ef066cddd9c760b42045b8cfa114546c3923c174",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "dd6ee654d9cb6213042b1e3e4116cfede05e2c49",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "e374d651996346dc5e338b0911e8e124b6ec01ff",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "9c1d141f660c04febb3d950bcc0317a9f5435011",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "f6d7b8be5435c70b51fd7feb5f8d171dc6a1a389",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "b181399f2816876f17cb24e33482ab2cce1ca85b",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "c681b5b1c85325ea6469a24403da5fd114830429",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "526cb2e7478da6314b6495fbffccf5d235a1a3d6",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "47b1c5dd7148ca9602d32d62bb7f1864d55c48d3",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "22ff2faf4516650eb1239c7e63665dada4aec1a4",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "c8dbebe64e1fc97f3efb97f4d528e349e40abbc6",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "3192c1912a7806ac3e2a0227f134bdcb4b242280",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "a4e65f797f79abe444d4cabf4a63a8b85319d05f",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "f843f2901c26d27d6fb189f25c3e64d5c81acab0",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "a9f2110e04c636aae90ed2fda64174be3b931b1d",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "96bca5ecfb6f460c179d3dae0a4ba251e0a47273",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "d1568c6629a235b29083997c44bcfd1cc04e9d8e",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "933dce5536fe157cd6b5e924a2c623acfb6cb083",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "f33358fe11fd628b9463da17b35cb40b4dfc944f",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "8d4db62fc8d46efdc3591a27c0807327f8dfb0e8",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "795b587bdb04e9026dfccb1933c24989dfa57431",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "3a7c6aa29c59358b20eccf26cde1aa8156029275",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "4f02a5d9909615760f1b01efa5521326d0193181",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "65f5aa094e410ccd8ec699785b40960130a5a4d7",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "a5cb2785ec2a9976db215e599d1cc326b602210d",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "6f3cd47510893155bf810ef3eb40cb4ed32eeadb",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "6bcd642fbe362b939fd67db109a4cb27ca331a93",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "b0eb672d542629aec03e7444607f0b6ecba41a0a",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "6e14aae470353760099bec6c9e6ce6fc9ba4a52c",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "325e4223c0539e5e607109a078ef9004522a031d",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "e769f0f8600f815b6d3848ab06dfc103fa4bd15d",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "9543cebfa0fa0cc9272dba0fa36ed41c3c95eced",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "94d5807b9b4953d388a7cfb5618f400e577bcd9e",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "f5717af33b75e071da86ddd7a3e5557258672011",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "1e83799fa0d0623e81eb52a005d1b11f0ae3625d",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "af4a98c7f31bd2a4e2f35b2128e5313f76a29888",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "527dac43cd92b767fc8bf164e7b63c9e9d846611",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "6580f386e640c8d86a4d427ca6ac8aea1eef3634",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "911dc38c195dc6c7b27c5a46f1b2b21e09e88a4f",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "d511fc0c2043be637f4e9d660a30e5c89297ca69",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "4182161bb761668ccb1f9e83e24848720040ffa8",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "873f699f89c6bd1aa9c85dc3bdd769f7b8a1dc7e",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "0bcef5a81ebaa6a851dd1b5120d4cf2805a1e516",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "06bd6f188445ab6102660c215797b02378797dba",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "fd1adb557aec8b129ad59cba1aa347a189a41482",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "1336b10685ed8390f4c0f6889b4c8c282e6f217c",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "0e733cc45f081b33f6cc9e45fa9a91c9c817cdfd",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "29ee4f13ef7451465e2e86a9777eaa8b671e0d59",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "66e0feb89013eb01a1e87b8f7e1378ee59772225",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "4be8756f7076b790799e8a822daa9b9c8eadd536",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "625bf72004701bf850db984e71e77bd635be47c9",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "e01603a098e62f15a5939ca27e96d345fec1eb9f",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "b3111aba8e006e273c9e3f1ca0f8a55a1a9e55a6",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "93e721066319cfa93e91afb7794d6541ba2ce11e",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "5916f06ca3da146104068587835fcb069bc82ffe",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "2b20ec9012d2d66b3bdca44cb61478c464b3a69d",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "f7f537b2122b7f455b1e3b4f0d11cefacbc2e534",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "3a817e4255ff6984f1ed818678a25fa195710380",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "14302302556642a26702ef7c53a1029cdcf953db",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "f04b68f7a1eafd2f6c8564e3a00e3a09f1a518f9",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "2bf6f88e9a36343ef04e9fb0a8977e002396dcaa",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "94b6c23bfb0265b5510000eefd27d0040d04a505",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "9eb8d17e6cc9f583595fd3a079ab71c5ceb98e6c",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "b562af628d2abbcb59bfdd8868f2939a4117cb9d",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "7bb9f422f8658cd10aa4735541ccfdcfd117c9e1",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "c74fdb39b3d67c0a5f16b2d8e78d19cefe39bca4",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "90cfbfaab7f59c8cacaa38208a2679c467b98251",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "05f31f60c4a536346638e5006be5234a0893672d",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "4daf9e42da4a946ac2e24cc7f9a45b7c98bbf5b8",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "2f03c57c498b8d37d24b4af7e106aec1e15a079e",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "e0d5a33d173efd54c7ccf82a32bdc1363d97b8ff",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "adce9f9fe3ed9dbba4b4877dd9e644bc570642ab",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "7df4bde1db8dcf141cde7c2dbece0eac9ff18c78",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "2ba445f7480276bdacc0d05d6d8ae5b8c9321075",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "a25deff080574bb14412bc37591f975f77c0d8e6",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "379cfb87a69db2f2bda3614be8dbd289704865e7",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "7081115966a18cf9846a77bb7e5bf37ec8ed75f9",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "f754a8dba2d49529f7721680bdc8a23a8e36320d",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "2990c75d1648d764036b153905538e2b94779135",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "c587a22be8e3d4abb952b4777e1fcdf3d3ab00db",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "937ddb6f57ade94f18e2c293a1ce7d54861bc3d4",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "d5c2b9f4d790ffe40b30a5beb0683de940fa9b91",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "fe74e6ab37e3b11263bcf57ae7dcff9be28a02db",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "a42fc76bb42b8c84aad2e393f02b5e73750fdbdb",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "60c497607fe84b53bf53de9cb42eff0cdcf45071",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "e00507e559ecca290a6fbfcbf6b2ce663d179f94",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "c6a56b3a2a41ef5df642857d046018118af8928f",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "54cc3f51ae49f4420538e4b81f88895a2a87d173",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "114c0614a9cd11c8d40298db4f7f24aefca0bfd8",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "77fcff1e60be65e349bdd9f5f39b0284af26491b",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "c0192d8533aad24b322a37031d6358e85ecec786",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "e5bfc8b9bd5a4097f8448a8dbdc28534dc1994ec",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "903501eee6d2700e4c851d40d5695f88c71e5ae0",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "1d82ea3764eed60674f2e24025b5163adc8a8dae",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "2270c092a982a5464cfd4025add40b3a887bd5e0",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "dc9c69dfccf75394edf92c5adc7542dd6ada2d1a",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "7c6db4249deb5c04832ce5051bc79901e7168e32",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "a3fa68419f264e4be894538b45821d0738b0db78",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "88ca8ad631e13f56efc0173200fa428b0c815ddc",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "861be10a47462ef3478e881b86585a92aca74675",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "5fec3ebc351927f311702b29ce40547aea09d366",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "272f39953829ed3040a837d8928f9a6e5d3948da",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "fea0bc00f982509a1c88f58d01ab6ffaeff3d403",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "6fdcfb47b399a4e025aa2b9cab2dfa272aa41d58",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "2143ac13c819fcecb1c4731cad94a8750cd82619",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "091d9c67b30fcb39e3337f3fd304554e7de34512",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "209e94c2303505336016756f1870c1a1718c0c84",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "fea3783241b9196ece0c1e13048504218bf384bf",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "ec29307b247c6f9d8fd83d141a1cdd058f74676a",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "2d4820366e8a99ac344b448b0d0a00846f0031a7",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "376f61d29a6519dc4a377e34c3f6735e8d48e94d",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "2bbdfc97f5cd7826e60eb9858e70d740c0e0f053",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "859a37bdf369d8119b4f4beb5a4a758b3f64f6f4",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "971714705e51b852584c0082489441b963873745",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "9c18c277e50b8e9427a03cb51c64224ba4ef4d64",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "4a05b16e71d0935d3f22274c8cfa574e70435242",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "dfd6fb2b9c79f6008a74887c6ea7d942f7717410",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "c5f038dd482720049328fe72b75d01f06d2adcb8",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "140bcf0368c667535cd27d8eb46cea4dc8b74a0a",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "ab88c43a107c891cb1ca3be487ad465aee7a614d",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "8a1a348c47e99a59af78492c75570b92c7fdb168",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "a6bb54ed4fc7e025df35390d7f0bd17cab69cc3e",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "904dee10b335a5224d8dac11530c2125813e6833",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "52b661aac4767d7735bdba8d80a80bf8f2586e93",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "6bb62c81b7d4e752be8a50a811a203b0501b0ddb",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "c43ff9d2836e03cf4c204ff356060bff9b1d292b",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "caa3671a3c8a4f97189c97e927c261949d3037f2",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "927e46a1fadc7fe32f98e63b967f83d4d75e6005",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "f30c9d3d998d7610195218534752c4ac3a0fd9f6",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "14551c749e744ff374dfc34f7d5d6decf6f04888",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "4ab210157fe8d4c9bf4f9d93e6087817db4823f7",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "8826d86fa7586a33238667e4fb1ecf567439c448",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "dec05fe6ad916bb0f00631907fa0a2bc54412213",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "f3611fe73798e320455ea8c9a5d25dd2c2c248eb",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "bbad54b457ad139e83334d42bcc37e94db282016",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "78a26ae1c1477c9bc7bcce3bfc17bc4d616f0f30",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "44f4d6ffb990ff4cd49ed450b8706a3aefe5f0e9",
+        "repo_name": "apache/empire-db"
+    },
+    {
+        "fix_commit_hash": "0cf62c6b98dfa7cbc9020af65ac9f9dc04fa8124",
+        "repo_name": "apache/empire-db"
+    }
+]

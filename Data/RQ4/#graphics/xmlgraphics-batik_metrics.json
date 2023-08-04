@@ -1,0 +1,81 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#graphics--xmlgraphics-batik--simonsteiner1984": "2016-03-04 00:00:00",
+        "#graphics--xmlgraphics-batik--": "2000-10-01 00:00:00",
+        "#graphics--xmlgraphics-batik--vhennebert": "2013-11-05 00:00:00",
+        "#graphics--xmlgraphics-batik--jmaerki": "2005-06-23 00:00:00",
+        "#graphics--xmlgraphics-batik--cjolif": "2000-10-23 00:00:00",
+        "#graphics--xmlgraphics-batik--stefanom": "2000-10-28 00:00:00"
+    },
+    "commiter_end_time": {
+        "#graphics--xmlgraphics-batik--simonsteiner1984": "2022-11-03 00:00:00",
+        "#graphics--xmlgraphics-batik--": "2019-11-19 00:00:00",
+        "#graphics--xmlgraphics-batik--vhennebert": "2014-10-03 00:00:00",
+        "#graphics--xmlgraphics-batik--jmaerki": "2011-06-30 00:00:00",
+        "#graphics--xmlgraphics-batik--cjolif": "2004-02-17 00:00:00",
+        "#graphics--xmlgraphics-batik--stefanom": "2001-02-19 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#graphics--xmlgraphics-batik--stefanom": 114,
+        "#graphics--xmlgraphics-batik--vhennebert": 332,
+        "#graphics--xmlgraphics-batik--cjolif": 1212,
+        "#graphics--xmlgraphics-batik--jmaerki": 2198,
+        "#graphics--xmlgraphics-batik--simonsteiner1984": 2435,
+        "#graphics--xmlgraphics-batik--": 6988
+    },
+    "commiter_contribute_time1": {
+        "#graphics--xmlgraphics-batik--simonsteiner1984": {
+            "start": "2016-03-04 00:00:00",
+            "end": "2022-01-07 00:00:00",
+            "bug_num_per_commit": 0.11764705882352941,
+            "bug_commit_num_rate": 0.29411764705882354
+        }
+    },
+    "commiter_contribute_time2": {
+        "#graphics--xmlgraphics-batik--simonsteiner1984": {
+            "start": "2021-01-12 00:00:00",
+            "end": "2018-05-15 00:00:00",
+            "bug_num_per_commit": 0.029411764705882353,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time3": {
+        "#graphics--xmlgraphics-batik--simonsteiner1984": {
+            "start": "2018-05-15 00:00:00",
+            "end": "2017-08-18 00:00:00",
+            "bug_num_per_commit": 0.029411764705882353,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#graphics--xmlgraphics-batik--simonsteiner1984": {
+            "start": "2017-08-16 00:00:00",
+            "end": "2016-03-04 00:00:00",
+            "bug_num_per_commit": 0.027777777777777776,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#graphics--xmlgraphics-batik--simonsteiner1984": {
+            "bug_num_per_commit": {
+                "time1": 0.11764705882352941,
+                "time2": 0.029411764705882353,
+                "time3": 0.029411764705882353,
+                "time4": 0.027777777777777776
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.29411764705882354,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#graphics--xmlgraphics-batik--simonsteiner1984"
+    ],
+    "number_daily_long_time_error_prone_developer": 1,
+    "improved_daily_long_time_error_prone_developer": [],
+    "number_improved_daily_long_time_error_prone_developer": 0
+}

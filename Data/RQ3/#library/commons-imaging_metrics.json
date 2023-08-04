@@ -1,0 +1,10 @@
+{
+    "all_file_num": 1903,
+    "error_developer_file_rate": {
+        "#library--commons-imaging--netomi": 0.0005254860746190226,
+        "#library--commons-imaging--aesy": 0.0010509721492380452,
+        "#library--commons-imaging--mgs255": 0.004203888596952181
+    },
+    "daily_error_prone_developer": [],
+    "number_daily_error_prone_developer": 0
+}

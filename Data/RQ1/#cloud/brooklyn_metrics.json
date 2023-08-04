@@ -1,0 +1,291 @@
+{
+    "item_start_time": "",
+    "commiter_files": {
+        "#cloud--brooklyn--algairim": [
+            "'Jenkinsfile'"
+        ],
+        "#cloud--brooklyn--ahgittin": [
+            "'Jenkinsfile'",
+            "'DEPENDENCIES'",
+            "'brooklyn-client'",
+            "'brooklyn-dist'",
+            "'brooklyn-docs'",
+            "'brooklyn-library'",
+            "'brooklyn-server'",
+            "'brooklyn-ui'",
+            "'pom.xml'",
+            "'LICENSE'",
+            "'NOTICE'",
+            "'README.md'",
+            "'.gitignore'",
+            "'.gitmodules'",
+            "'brooklyn/.gitattributes'",
+            "'brooklyn/.gitignore'",
+            "'brooklyn/LICENSE'",
+            "'brooklyn/NOTICE'",
+            "'brooklyn/README.md'",
+            "'brooklyn/pom.xml'",
+            "'usage/jsgui/src/main/license/files/LICENSE'"
+        ],
+        "#cloud--brooklyn--grkvlt": [
+            "'Jenkinsfile'",
+            "'brooklyn-ui'"
+        ],
+        "#cloud--brooklyn--iuliana": [
+            "'Jenkinsfile'",
+            "'brooklyn-client'",
+            "'brooklyn-dist'",
+            "'brooklyn-docs'",
+            "'brooklyn-server'",
+            "'brooklyn-ui'",
+            "'pom.xml'"
+        ],
+        "#cloud--brooklyn--": [
+            "'Jenkinsfile'",
+            "'DEPENDENCIES'",
+            "'brooklyn-client'",
+            "'brooklyn-dist'",
+            "'brooklyn-docs'",
+            "'brooklyn-library'",
+            "'brooklyn-server'",
+            "'brooklyn-ui'",
+            "'pom.xml'",
+            "'Dockerfile'",
+            "'README.md'",
+            "'.gitignore'"
+        ],
+        "#cloud--brooklyn--jcabrerizo": [
+            "'Jenkinsfile'"
+        ],
+        "#cloud--brooklyn--tbouron": [
+            "'Jenkinsfile'",
+            "'pom.xml'",
+            "'Dockerfile'",
+            "'README.md'"
+        ],
+        "#cloud--brooklyn--aledsage": [
+            "'Jenkinsfile'",
+            "'Dockerfile'",
+            "'NOTICE'",
+            "'README.md'",
+            "'.gitignore'"
+        ],
+        "#cloud--brooklyn--rdowner": [
+            "'brooklyn-client'",
+            "'brooklyn-dist'",
+            "'brooklyn-docs'",
+            "'brooklyn-library'",
+            "'brooklyn-server'",
+            "'brooklyn-ui'",
+            "'pom.xml'",
+            "'LICENSE'",
+            "'NOTICE'",
+            "'README.md'",
+            "'doap_Brooklyn.rdf'",
+            "'usage/jsgui/src/main/license/LICENSE'",
+            "'usage/jsgui/src/test/license/NOTICE'"
+        ],
+        "#cloud--brooklyn--drigodwin": [
+            "'brooklyn-client'",
+            "'brooklyn-dist'",
+            "'brooklyn-docs'",
+            "'brooklyn-library'",
+            "'brooklyn-server'",
+            "'brooklyn-ui'",
+            "'pom.xml'",
+            "'Dockerfile'",
+            "'LICENSE'",
+            "'README.md'"
+        ],
+        "#cloud--brooklyn--neykov": [
+            "'brooklyn-client'",
+            "'brooklyn-dist'",
+            "'brooklyn-docs'",
+            "'brooklyn-library'",
+            "'brooklyn-server'",
+            "'brooklyn-ui'",
+            "'pom.xml'",
+            "'LICENSE'",
+            "'README.md'",
+            "'.mvn/jvm.config'",
+            "'.gitattributes'"
+        ],
+        "#cloud--brooklyn--geomacy": [
+            "'pom.xml'",
+            "'README.md'"
+        ],
+        "#cloud--brooklyn--kemitix": [
+            "'Dockerfile'"
+        ],
+        "#cloud--brooklyn--slachiewicz": [
+            "'Dockerfile'"
+        ],
+        "#cloud--brooklyn--eirinikos": [
+            "'LICENSE'",
+            "'README.md'"
+        ],
+        "#cloud--brooklyn--brooklyn-bot": [
+            "'LICENSE'",
+            "'README.md'",
+            "'usage/jsgui/src/main/license/files/LICENSE'"
+        ],
+        "#cloud--brooklyn--sjcorbett": [
+            "'NOTICE'",
+            "'README.md'",
+            "'.gitignore'"
+        ],
+        "#cloud--brooklyn--infrastation": [
+            "'README.md'"
+        ],
+        "#cloud--brooklyn--bradfora": [
+            "'README.md'"
+        ],
+        "#cloud--brooklyn--jadelus": [
+            "'README.md'"
+        ],
+        "#cloud--brooklyn--bostko": [
+            "'README.md'"
+        ],
+        "#cloud--brooklyn--duncangrant": [
+            "'README.md'"
+        ],
+        "#cloud--brooklyn--brooklyn-images": [
+            "'README.md'",
+            "'.gitignore'"
+        ],
+        "#cloud--brooklyn--nakomis": [
+            "'README.md'",
+            "'.gitattributes'"
+        ],
+        "#cloud--brooklyn--jdtoy": [
+            "'README.md'"
+        ],
+        "#cloud--brooklyn--CMoH": [
+            "'.gitignore'"
+        ],
+        "#cloud--brooklyn--pveentjer": [
+            "'.gitignore'"
+        ],
+        "#cloud--brooklyn--theambidextrousboy": [
+            "'.gitignore'"
+        ],
+        "#cloud--brooklyn--anm": [
+            "'.gitignore'",
+            ""
+        ],
+        "#cloud--brooklyn--richardcloudsoft": [
+            "'.gitignore'"
+        ],
+        "#cloud--brooklyn--johnmccabe": [
+            "'doap_Brooklyn.rdf'"
+        ],
+        "#cloud--brooklyn--m4rkmckenna": [
+            "'usage/jsgui/src/main/license/files/LICENSE'"
+        ]
+    },
+    "number_of_introduce_bugs_per_commit": {
+        "#cloud--brooklyn--algairim": 0,
+        "#cloud--brooklyn--": 0,
+        "#cloud--brooklyn--ahgittin": 0,
+        "#cloud--brooklyn--iuliana": 0,
+        "#cloud--brooklyn--grkvlt": 0,
+        "#cloud--brooklyn--jcabrerizo": 0,
+        "#cloud--brooklyn--rdowner": 0,
+        "#cloud--brooklyn--kemitix": 0,
+        "#cloud--brooklyn--tbouron": 0,
+        "#cloud--brooklyn--infrastation": 0,
+        "#cloud--brooklyn--aledsage": 0,
+        "#cloud--brooklyn--slachiewicz": 0,
+        "#cloud--brooklyn--eirinikos": 0,
+        "#cloud--brooklyn--drigodwin": 0,
+        "#cloud--brooklyn--neykov": 0,
+        "#cloud--brooklyn--geomacy": 0,
+        "#cloud--brooklyn--johnmccabe": 0,
+        "#cloud--brooklyn--m4rkmckenna": 0,
+        "#cloud--brooklyn--brooklyn-bot": 0,
+        "#cloud--brooklyn--bradfora": 0,
+        "#cloud--brooklyn--nakomis": 0,
+        "#cloud--brooklyn--CMoH": 0,
+        "#cloud--brooklyn--jadelus": 0,
+        "#cloud--brooklyn--bostko": 0,
+        "#cloud--brooklyn--duncangrant": 0,
+        "#cloud--brooklyn--sjcorbett": 0,
+        "#cloud--brooklyn--brooklyn-images": 0,
+        "#cloud--brooklyn--jdtoy": 0,
+        "#cloud--brooklyn--pveentjer": 0,
+        "#cloud--brooklyn--theambidextrousboy": 0,
+        "#cloud--brooklyn--anm": 0,
+        "#cloud--brooklyn--richardcloudsoft": 0
+    },
+    "bug_introducing_commit_rate": {
+        "#cloud--brooklyn--algairim": 0,
+        "#cloud--brooklyn--": 0,
+        "#cloud--brooklyn--ahgittin": 0,
+        "#cloud--brooklyn--iuliana": 0,
+        "#cloud--brooklyn--grkvlt": 0,
+        "#cloud--brooklyn--jcabrerizo": 0,
+        "#cloud--brooklyn--rdowner": 0,
+        "#cloud--brooklyn--kemitix": 0,
+        "#cloud--brooklyn--tbouron": 0,
+        "#cloud--brooklyn--infrastation": 0,
+        "#cloud--brooklyn--aledsage": 0,
+        "#cloud--brooklyn--slachiewicz": 0,
+        "#cloud--brooklyn--eirinikos": 0,
+        "#cloud--brooklyn--drigodwin": 0,
+        "#cloud--brooklyn--neykov": 0,
+        "#cloud--brooklyn--geomacy": 0,
+        "#cloud--brooklyn--johnmccabe": 0,
+        "#cloud--brooklyn--m4rkmckenna": 0,
+        "#cloud--brooklyn--brooklyn-bot": 0,
+        "#cloud--brooklyn--bradfora": 0,
+        "#cloud--brooklyn--nakomis": 0,
+        "#cloud--brooklyn--CMoH": 0,
+        "#cloud--brooklyn--jadelus": 0,
+        "#cloud--brooklyn--bostko": 0,
+        "#cloud--brooklyn--duncangrant": 0,
+        "#cloud--brooklyn--sjcorbett": 0,
+        "#cloud--brooklyn--brooklyn-images": 0,
+        "#cloud--brooklyn--jdtoy": 0,
+        "#cloud--brooklyn--pveentjer": 0,
+        "#cloud--brooklyn--theambidextrousboy": 0,
+        "#cloud--brooklyn--anm": 0,
+        "#cloud--brooklyn--richardcloudsoft": 0
+    },
+    "commiter_bug_number": {},
+    "number_inducing_commit": {},
+    "commiter_commit_number": {
+        "#cloud--brooklyn--ahgittin": 51,
+        "#cloud--brooklyn--": 26,
+        "#cloud--brooklyn--rdowner": 16,
+        "#cloud--brooklyn--aledsage": 9,
+        "#cloud--brooklyn--neykov": 8,
+        "#cloud--brooklyn--drigodwin": 7,
+        "#cloud--brooklyn--jdtoy": 7,
+        "#cloud--brooklyn--sjcorbett": 6,
+        "#cloud--brooklyn--tbouron": 5,
+        "#cloud--brooklyn--grkvlt": 4,
+        "#cloud--brooklyn--jadelus": 3,
+        "#cloud--brooklyn--anm": 3,
+        "#cloud--brooklyn--iuliana": 2,
+        "#cloud--brooklyn--geomacy": 2,
+        "#cloud--brooklyn--johnmccabe": 2,
+        "#cloud--brooklyn--brooklyn-bot": 2,
+        "#cloud--brooklyn--nakomis": 2,
+        "#cloud--brooklyn--duncangrant": 2,
+        "#cloud--brooklyn--brooklyn-images": 2,
+        "#cloud--brooklyn--pveentjer": 2,
+        "#cloud--brooklyn--algairim": 1,
+        "#cloud--brooklyn--jcabrerizo": 1,
+        "#cloud--brooklyn--kemitix": 1,
+        "#cloud--brooklyn--infrastation": 1,
+        "#cloud--brooklyn--slachiewicz": 1,
+        "#cloud--brooklyn--eirinikos": 1,
+        "#cloud--brooklyn--m4rkmckenna": 1,
+        "#cloud--brooklyn--bradfora": 1,
+        "#cloud--brooklyn--CMoH": 1,
+        "#cloud--brooklyn--bostko": 1,
+        "#cloud--brooklyn--theambidextrousboy": 1,
+        "#cloud--brooklyn--richardcloudsoft": 1
+    },
+    "team_developer_num": 32
+}

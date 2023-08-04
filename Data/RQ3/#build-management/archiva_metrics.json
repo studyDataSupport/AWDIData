@@ -1,0 +1,18 @@
+{
+    "all_file_num": 13481,
+    "error_developer_file_rate": {
+        "#build-management--archiva--emsouza": 0.00014835694681403458,
+        "#build-management--archiva--pjfanning": 0.0006676062606631555,
+        "#build-management--archiva--forjsharp": 0.0012610340479192938,
+        "#build-management--archiva--ndeloof": 0.003115495883094726,
+        "#build-management--archiva--oching": 0.0956902306950523,
+        "#build-management--archiva--": 0.3843186707217566
+    },
+    "daily_error_prone_developer": [
+        "#build-management--archiva--forjsharp",
+        "#build-management--archiva--ndeloof",
+        "#build-management--archiva--oching",
+        "#build-management--archiva--"
+    ],
+    "number_daily_error_prone_developer": 4
+}

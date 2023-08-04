@@ -1,0 +1,18 @@
+{
+    "all_file_num": 1084,
+    "error_developer_file_rate": {
+        "#library--commons-io--ebourg": 0.0027675276752767526,
+        "#library--commons-io--Isira-Seneviratne": 0.0027675276752767526,
+        "#library--commons-io--netomi": 0.0036900369003690036,
+        "#library--commons-io--Mixpa": 0.0036900369003690036,
+        "#library--commons-io--Marcono1234": 0.0036900369003690036,
+        "#library--commons-io--boris-unckel": 0.007380073800738007,
+        "#library--commons-io--adamretter": 0.01107011070110701,
+        "#library--commons-io--jochenw": 0.023062730627306273,
+        "#library--commons-io--XenoAmess": 0.026752767527675275
+    },
+    "daily_error_prone_developer": [
+        "#library--commons-io--jochenw"
+    ],
+    "number_daily_error_prone_developer": 1
+}

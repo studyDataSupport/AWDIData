@@ -1,0 +1,18 @@
+{
+    "all_file_num": 5627,
+    "error_developer_file_rate": {
+        "#library--pdfbox--jmaerki": 0.025946330193708903,
+        "#library--pdfbox--jahewson": 0.2308512528878621,
+        "#library--pdfbox--": 0.28149991114270484,
+        "#library--pdfbox--jukka": 0.4234938688466323,
+        "#library--pdfbox--lehmi": 0.4856939754753865
+    },
+    "daily_error_prone_developer": [
+        "#library--pdfbox--jmaerki",
+        "#library--pdfbox--jahewson",
+        "#library--pdfbox--",
+        "#library--pdfbox--jukka",
+        "#library--pdfbox--lehmi"
+    ],
+    "number_daily_error_prone_developer": 5
+}

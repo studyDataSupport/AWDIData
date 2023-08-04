@@ -1,0 +1,36 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#xml--xmlgraphics-batik--simonsteiner1984": "2016-03-04 00:00:00",
+        "#xml--xmlgraphics-batik--": "2000-10-01 00:00:00",
+        "#xml--xmlgraphics-batik--vhennebert": "2013-11-05 00:00:00",
+        "#xml--xmlgraphics-batik--jmaerki": "2005-06-23 00:00:00",
+        "#xml--xmlgraphics-batik--cjolif": "2000-10-23 00:00:00",
+        "#xml--xmlgraphics-batik--stefanom": "2000-10-28 00:00:00"
+    },
+    "commiter_end_time": {
+        "#xml--xmlgraphics-batik--simonsteiner1984": "2022-11-03 00:00:00",
+        "#xml--xmlgraphics-batik--": "2019-11-19 00:00:00",
+        "#xml--xmlgraphics-batik--vhennebert": "2014-10-03 00:00:00",
+        "#xml--xmlgraphics-batik--jmaerki": "2011-06-30 00:00:00",
+        "#xml--xmlgraphics-batik--cjolif": "2004-02-17 00:00:00",
+        "#xml--xmlgraphics-batik--stefanom": "2001-02-19 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#xml--xmlgraphics-batik--stefanom": 114,
+        "#xml--xmlgraphics-batik--vhennebert": 332,
+        "#xml--xmlgraphics-batik--cjolif": 1212,
+        "#xml--xmlgraphics-batik--jmaerki": 2198,
+        "#xml--xmlgraphics-batik--simonsteiner1984": 2435,
+        "#xml--xmlgraphics-batik--": 6988
+    },
+    "commiter_contribute_time1": {},
+    "commiter_contribute_time2": {},
+    "commiter_contribute_time3": {},
+    "commiter_contribute_time4": {},
+    "commiter_time_trend": {},
+    "daily_long_time_error_prone_developer": [],
+    "number_daily_long_time_error_prone_developer": 0,
+    "improved_daily_long_time_error_prone_developer": [],
+    "number_improved_daily_long_time_error_prone_developer": 0
+}

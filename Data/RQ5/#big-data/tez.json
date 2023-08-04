@@ -1,0 +1,85 @@
+{
+    "developer": {
+        "#big-data--tez--sidseth": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "tez"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "sidseth",
+                "createdAt": "2012-06-05T02:09:17Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 1,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "hortonworks/cloudbreak",
+                            "isFork": false,
+                            "url": "https://github.com/hortonworks/cloudbreak",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Groovy"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "FreeMarker"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "SaltStack"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Scala"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Perl"
+                                    },
+                                    {
+                                        "name": "PLpgSQL"
+                                    },
+                                    {
+                                        "name": "Jinja"
+                                    },
+                                    {
+                                        "name": "Fluent"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 342,
+                            "watchers": {
+                                "totalCount": 372
+                            },
+                            "forkCount": 237
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 0,
+    "deveper_mul_apache_item_error": {
+        "#big-data--tez--sidseth": [
+            "tez"
+        ]
+    }
+}

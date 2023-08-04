@@ -1,0 +1,1442 @@
+[
+    {
+        "fix_commit_hash": "01ba89bf26da87e998cbc68262afc637ea4dd615",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "f067b2b4bae9d7690a84cd65bedd45bca5691441",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "c6094cf9e0f99f71e92e678fef08202fe3301069",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "3a5cf279bbeed85a169ba4480b6dea10cb7a7beb",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "d4de59a15a73e585ae74481bd1fb1265286d3955",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "21f80081082ce3b31a1bcd8ecae0e3ae9ac70c05",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "b5d21665ff0c3a420564537cd1da88c8f77ab5a5",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "8968416790a42eebd5583718800ccc4fe55c8cbc",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "30a2593c2c9808d7ad118d8e120e8ce807df746a",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "0b56f2cf54c577ee92d1411b2e5ba42a02bf8a02",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "78476b09dc530b3726951651efab44d952a348f2",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "97dd402d1019f751ae43825a83d679a07a2beaa2",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "ce65e6ba3fa43e8e119783532250a89367b4b2ec",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "9d4d838638c7ee0c6f89c8061e89ed08171ee304",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "f29d5c97d38153c1ac62a751343d217e112f4af1",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "a2c3868fb8115bccb2920d89388927ff889f619c",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "323f6d71531599127e3b8edd5e13da2ea2c23c97",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "2da7454c57897184b8e0fe899eb8762e676a15a2",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "e0b2efc2acc999ffe7df6dd6d2799de294dd811f",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "27f289f6be1396893247f13225a52388f598a8d7",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "4108f5f35e22db3401a11fbbf93f85be21394f5c",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "67aea22b0882675886b78a296d7055e66bd5a2e6",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "de70e0170e62ec19ab05458f32441036fd80dd00",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "9f17f6de64d5f8376bb0eda601d8c2d730e70d5e",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "bbfe7e4ea526e39ba0a79f0258200bc0d898f0de",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "af4962c3c6c3ee7b322177b50219062dd3b76d9b",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "a81b218d47b54af46030f3ef4231f619899c5667",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "0df313bef62d5fedc18286b80fc93248b5f180fd",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "53d9c7fbfbe9cbd7e11cb872ef87e00462fa3eca",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "55fbf2dc6e85c63fbfb8693789ec45d44f4976d5",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "8ba4b12f40d40a9d705cca8d0b24fc1718bd3c5f",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "00a0c6cb866b01c0d48debae0faf884038279144",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "45db3da2f88a6a051fa66481e0e2869822e44cf1",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "d97cc96e285b6cf382d96f7213e5a62355bc0aa2",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "3cce9ed6c38c9a33f31c7d2d0f018bcc4221548d",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "f43069ac6d281b8367dad6f78def4b8336a11ff0",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "7bbeaf72e8f6fc827823b6c3cbe3e5ab019f2ae6",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "73f3e2b3d6b3f4a7000187bb3e6a4d82b118d3b9",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "53a0a9ff85666348a38054e335f5b4c5355a6419",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "0e9f604e87a5b42b27abc13a9328846cadd640f4",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "74133837585f81d1c6434ce32f73fc8694d5f132",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "dc0465e864d7eace765434834d19575a106dbf64",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "31e4a6df19cf4a13f8f0e9048198ce7488ad2614",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "fd86d06ec5d3b009f3882dda7903e9913858ee14",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "b657c914c0005b37e24c1cd74c5f4ce886147606",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "3b7deb943877b0c2d8627531959948c5d1e4d3ef",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "34adc606601cb578486d4a019b4655c5aff607b5",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "1b53f09c3a9dcd64dd281c1955b062fc28999366",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "67ef6efb61f3c07e1359e083bbac5d90953cfe43",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "7a59c0af26177cf69e702eaac85471e54762f664",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "60fdd5f3a6313484239e6b0eae0ee75ae89bd6a3",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "ed1ce82d822ffe185875b7b7d38352f20171c096",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "f5b5a8b0bcb9c2e5ac12d757892854a890c3ab85",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "c9e49faac27b1d79f266712ddee7207625b3b0ae",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "05edf06360cc8a1a61fbd1ce5f9abf5d83f9d3f9",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "09c55eb8120da36aef1807628f87bde83749428b",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "9be91f380c209f895da36d13c40b99687bb4c8c1",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "a27ca511a591caf813c26862a888e90e54af19a9",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "e508ad09d79302d3cc6b86077d4a6ddb0679a0f5",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "c7d20472de0dad34bce9483557f43c524e4f3e16",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "a3984815ebf24df07c2add09fbf0069f54666a20",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "e21d4d436b51d88f9554751982cd7b8552854c49",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "b815d2af5a15901dcfd90cd76f0b6f431b0f0048",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "31e3a88efe59b1e31a438354d51c2620bc859985",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "b0b23c179ac55334f760aa29fce262c73a909268",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "18f181ada7826542725fa4a9460307d606695b5d",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "5c753a87c328678f16bf89e0178448f04194f0b4",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "af1b5872ab8355acea3197522ddf94972b3c8386",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "f672e826f51824582273fa1f5b6ec37aa5fdb2fd",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "b9cd3558133ae9f26aec73e0bda3a8f635d137f7",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "47f305786ebdc4376b1c18e109013e7181087e05",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "66a775c9feb7dcf00c28a16b7a365af4372886f8",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "0f9ce497b0c6841e3aca845336ad095012c41da7",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "748cb609306ee5a046a952a0ca13974ef0b6e770",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "653b46857a4a48252bfb094e39ee9937b2079fa2",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "412a8a0ba61c84d71c0cc740ba7e50c10f3bf9ae",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "363be2fea66f861d7ec4f893a05901fa0c7ecf92",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "0880a21c56cec1a2442b5123c3845bfc99e83a7f",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "2df0a3be66f6fa1067d976d7a05500beff7eda53",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "8f6bedeb724fa78583c26423aaece05cfddc04c9",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "4fc5b3402c58d6a4b317bf23b896ea91d22af6fe",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "e0d17fed51f5018fc34578699d824c20efc44368",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "581b474f4b194731eb9cb22cdde7330a1ec81c3b",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "2bfd81a2b1b777e252ba76f7363bb9ba8e4ac707",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "1d635088f697178660b6e1c9a89d2b7d3bbe2d29",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "34646ec9b52192a71e52ffc09cf7fefdd506c48c",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "487ac1980148522d628e1d2aab50b107c372798b",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "a94ff90ab6cd2d92ccb2eb1fd7913b4e5256f02b",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "9e0c5ad4b3148f42f3940faf7d67b305e34bef0d",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "260a4392a8a257cbb34fe3564301659589c05240",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "435384cf132ab161bfedce0a3be96bccfb11f0b6",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "fb0078159d2463da149de54018fca79a9447153e",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "818533e92bfb1c142ae4ce5be18ab92d1ae17025",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "4c4b3e2e32ddae35e4c1a6ffce1cd2b2eafa958b",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "44c6d267aecde0d20cd6d700ba0e6899e02e536e",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "5ca0a1c3564d35293a5ecf03e5f32e6f0f6f445c",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "f70741c9b216d3836d047c542847920d4778cf9d",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "03178c8b15f1b522b98ded0f83cfb0e79f5ec4d3",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "41f297809965523fcd021bef20b304b3584d9b4f",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "4f73871cf40b6dd05c8872d39246c67f798ed915",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "9c545d44a4a703c88d417a6fa43298a80ee67735",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "471e6b078a7891aea99b77f200e828a7b1c9bc00",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "75c2b24c681e314c4e4e07243b31430ba4e42723",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "96eb80efe1da48f37846aa899260aa0c84b15944",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "8be87e032a8c05622148357f30bdca3c614a669f",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "bd5afc0b5a977c168cf046e3244477b48fa72c5d",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "a6abb8b00355db97486ab5023305c3f4e9e19ad3",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "845e1d54231d3ff3fb04bdbf5dc5f6b631d9b01e",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "0a499402d707bc8cf775d7f9b3840780a7401f7d",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "bfb3cf8bba6aab198c4644e236bbc9f3807111d0",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "76b7413d2b1eb2dc22f05de5b76f9519be5142e0",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "86eb3a2fa74988e4ccf3aae7f4b77edb84555320",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "ece7c6fc67c0d584f4884c5b17ddf491a397fdfe",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "f1b2fcd7f51995130d71f1703e5c292ec648e94c",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "a56d4998cf16ff08f5593fb7d4dda66ca05dc269",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "5f47ad718e0ffcbbe6cd2f8d32b2e345c4af3a48",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "d0721feadc1e0cae6efa3e0d82f523debc5b8d97",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "809f0f89cb53548a7d0a9f9f52c4b36f60c7b6c0",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "753f278d10fc0c92e912965379401ac182644101",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "5d6e445484d75dad938cece6fd690427ea648203",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "fd7a4362caf2cd69368a38f2f71ffe19706e341c",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "17f52a2e559e68d5c6ccc98fcebb5523161fd0ed",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "136bf34297a9ac8049e451800df819ebf092cdf2",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "301ad592142079d36f4d33f5309c103c7f4f5dfb",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "596ccd59a11ad5e9fda19ccd0f4fc714d8d3394d",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "79ae77fda8b987b01b2e49dd0ae84819778634dc",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "7200c43dea3dbfbd9d38b937c44b6e71744b05c5",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "31fae6431438e26d6b47b988164847048ceab314",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "566c4d59a177be4b65d17540576eeb34d28d24ce",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "d8bfc8c8f8864f9c22e0409780d5dd3fb30497ff",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "321fd029ec5c9c3c9717f1ede0add49d8a709a01",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "f820d06fc0d1204b0cb386214ffeb42ccec669ec",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "97accb47de63ee5063eda23641c6017e29ab81d7",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "4080feff61e8dc1cd4af2361990c33c9f1014147",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "e9464c0a6db34576fa390d041e702b1f03c74b37",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "30b9f935e7ea56026e5c5347e897df52a3ad18a7",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "76f154179b8dc6940355d7fe7db468314ca39e84",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "2bc9e7ea86a8cc1c3b2436c46115c87080228004",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "78432c97558162d56860b3d03b9d995d4bb5343b",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "2f2a2ddaf6ac85da7cfcc5957614eeb880b795d3",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "a7363a2ae67b585790896de45f57154474480fc9",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "ad882055edb50369bd174ae56a372838aa89cdae",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "792839b464bc3df40f773147b7694b761cf23b5a",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "d385c90c2e74fdfc0070f7d92d6d0c260251fc16",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "d4f978ddd58fc47f472d0dbac79b4b96ca1453df",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "8d3d915dbd0ccf716f0d15b6b2396cff214d9cd3",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "5a6ccd587231ed1268dbdf142bf1f98065ad8348",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "dc666f419e691e6a04342bdd9cf2e899455a8738",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "f5f960d1fec924f20a39c5b908f01d08719e79ca",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "7f31bc04bdf8821cf24754bfdc9bd4c0e8660228",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "70101ee3ca37b56a471b3731667c75c447da90cb",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "5b118e04de6333e539720088127a5d0fb12ebaea",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "7cafdb73f2027859003dd843d5a900b5f0008ffa",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "8068e84a33a5bbc5103f6541ae23e77d302842f9",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "b95cfc9b579e91a456847b2369295dfae7da8bc6",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "f0ae42aa934c10686c613277bd7a0837f6a1602d",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "996c0c164a083c3dc2fbf2768750e3b3a81d77e0",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "7029443e4941ac95aac5cef4a6e364cf05399db4",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "145cc675d35b677157eb6d3ef57c1104dd5142e2",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "e91d0f0510ee8d69c76ee89b4e57341418866c6b",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "c9181d3b05de8f4d0de517355f35600aa21bb16c",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "63d88c74b7a11d7633584b007e94314ba9a555d1",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "8fac2db60a99bbf16b173d5c7414945c6c4c36f9",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "fa027a4685bacd9e32b3bc7d875717b4457f6829",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "b285f17023da248bdcb3093283e4b9e930bdd09c",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "e42da5d9d21438c220768464b6a1f5b36bad92a5",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "8e5867eda8328e4cb2e103d098d0c9f3c2fab50e",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "ba3c2201c6689818c457b5a03d14eb75af55063c",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "b12610d35e7798c66fc1d9b0811d10aadb87569d",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "aff82362cf13646b0dfae6375c895df7d5ca6b6b",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "5ee76f095e1c869d966241e92f2a3329e719cac1",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "f2a833757b7e7121bd06eaa2133af145fb820920",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "e4c6bb0b27ee625380416a503c7fa73610db649c",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "cf1a5c59ddbab69b940d19ef1c9c9dbd4610fd8b",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "0aa89cc22e4b7a5bd04f9c6602a69d459cc7ffd4",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "4ebd967c96c43ae3f1009c3592e0a0588eae0f8a",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "fdbdb5eba8ae678d4c696878bfecbc12d3ed43c8",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "bda25b40295b13782c488fd94f0abd091da296bd",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "c979a6f0fe3cc9d411bdff7d726c996876b401a4",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "a4ffd393334bb3d825738581add321c94f47983f",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "18308998a037579d00ff9fed4260be187e7a0280",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "721444f232751d93211735a1a2f56757b74622b1",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "6683216e612474b605a5bfb7fa684352528ab784",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "c2801940ef84c3399f3288972dcd0244062e6d40",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "dcaca39d00f9359e11811ff3d4427fd71173f47e",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "86545dab3ed57872ad98b23e46924d67ddad03fc",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "0cc43e36b82f534c84379998101843a5a6f971a8",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "40bde15b03ace8eab4dd91da65bc383d154769fa",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "11b1474cec7e74895d1723918299024bd31377d7",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "f1467e45ab538789090f968f549f88bd0b8c26c7",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "6d0394d27d570fe3586d5d25ec159e602496b1aa",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "91d280b7300b0f601cd76a880c26784a822f96b8",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "cc15aa3895d51255a8af5497e04112c42a8a0ce1",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "6fb504f32701ea74087559518ecf54bc8ac6ab1b",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "74e699d076bb6a05219132043b819c7b92ea4999",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "25ad33cb9e0c73a0898be36f3dbbf96a5e14efe0",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "92846a67918af5b975391595531334376a8c527a",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "47949e9b95761db19ef2c37321b1f6249c57ec19",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "2188e3126091366df771a6d8a61f799d00326377",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "2b852d79dc7f2aaac2a4d27da75f9d22e5d1bea2",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "f83bbc1d68bd457dfccd370afb248126ce031eb6",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "e7f70e46c9c3e09124f08f4b8fa388cd297b9b6e",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "0c0822d658b003cbc5ff0b2048290f1dbb5590b9",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "573c806be0a515d368cbbd81384520bb98662919",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "95650f86eb397f9e0e0446104eddf301fc82b6c4",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "cedf0d27f9e9341a9e9fa8a192735a0c2e11be40",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "27ab6fab60d420508c92a93f8d8d59c8205a4eb0",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "185e3033ef43527a729c9dda5d57ed0537921a27",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "2836a6f9efcd30effe2f1125d47c38f62f96ed09",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "b07ecae3d60c4f0233f1a1d97eb35d4a678f39aa",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "c0a79b08096e0966e7c42861aa015165817fe58c",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "0be09792a0670d0758fbee20659186faa2c0141e",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "386ae0156abf57560f14986bb0c276bd8a70e8b2",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "6f806cfe41c88416f4d37e0a85f93bd119719a09",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "29a297de44d2f4dcc3d7e2c22c313f51414dab8a",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "77910da210dd4349c83d3455968ce14a2635845d",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "6844aba987aaf32c85a4eb3fba3f6ccf9d7c8db6",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "dfc6a5c215d914e7774da3f8ac7f064fb98730c8",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "46ed0af1c2d274d273b1b3ac89e61e62ba98cefa",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "120f6f490ea28c53394059c2c2f55b0c674a3e45",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "ce126bdbc6d3dbc8a3e83e1884999afadee76866",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "cca05f0c714ed0984826433567f52bf31e90062d",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "5118f5376dc688b4dd7aedea8e3c5b35f68037b8",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "23166ac9c19b2d16c681720f754e5a03b1c9a9a2",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "c2e855d6a05d9a3c18cf66f493728f89dd16ea0f",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "5b9302d5be3c35f6336ebb6b7f6cbfe732761d72",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "0912bac5201d98af64a832766146797a9d75bb6f",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "a355d8c20aa19b9a7fa540ead02bc8cd12804b5d",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "4a3a3eba60249000a724d139d0cbc74a7ddcfd68",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "4907b065683d77ac6dcd3d27fe492298442a3cdc",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "bfbb156dfb67cc4b6ad718151323418a9352ce43",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "329cf9e8e643160e4da6fd8622aa5a3b3905fb69",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "678377a1e84797e74daf1f5eb835882af9b172dc",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "ad252a8ca3f08b2de70b039a302f3814524141a8",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "5144e1d878297d57aa7e124e73520fce3415ed22",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "b55e020684e54bd3d339572f1ef3543be360b6eb",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "abe53a537b4d19a878e8de3735393e0c4e85aa7e",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "51f446bf0c09a0d051341ccec6ae50a0daa1728b",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "f947c72da7f23b534d568ded6f9b24fe18fe39bf",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "ac597cc1720cd06840486b309b6deefb09123982",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "350f726ce591004a795c3a241540887e79c3c7bc",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "67dcc7053330e8221433e723b1e3a70fbb03f100",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "7994d3ee9d49098dcffb0c5470714076305e38cf",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "5827a6faad6e0b102f9b1e387e0c31dbe6a732cf",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "4104b213685843ad6644fd02b4f4d92ec537ab8f",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "d7c0f27e9fac104f613dcb672c243d3dc7eaf655",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "63a48705a496bf2506121dcddbd8cac2a78f877c",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "a49e443c44766df45d254e13bea377d4133f5ee6",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "574c9abbf2b9311e8678ac4c857241c6328d89b6",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "b451fdc8e47d231c7f29c74aa5b9f7a7d0e50c9e",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "0062503cf99a95641cbe11452c9aab047e80871f",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "072851608e93ceaa20674cd941df5db992f6f3fd",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "a05022cbab551c0185ef026bd6fd21f446ac0911",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "607c9ec626ae23ac6bbca72afede4037ecb495d7",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "6eb4655543213e988ff01098d0954e70bc8699b2",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "d182f07d6aa3e2e9685a126da5953fe7f0d8206c",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "b30f3d55562471055862c3be42fb3a1a5c5d341a",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "07d05a070c3c2cfbc64bcb138de6012786919202",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "069590396c90a47773dce88316d3eca2c7862a14",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "ddd5f1a5e951525c013077b8ec9b4c12c482eff4",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "33169dcf75724f6190b5c14148553b52899936e0",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "290002cb887c1da64da293c390e40905629fcd31",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "47635bdb4ac2464f8a9f8429cc25ee1b1165ef98",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "8ed5527ee0404240865c84443f19349212511c1b",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "a567246d1e41cbd2eeef1cd795c8d46cc51a7ffe",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "3a08bfa6d8f4260c133d2b0054c0e4cad592b03c",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "bf6aa3118ef1921ac50e29aa36018dd81d2675d0",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "ecf317f16ecfcee1dc59ebb8d48e3ccd6d080e58",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "3c4cb189cc91c5ca78cab3ba95dc82bee715d39a",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "f700aeba3e2f05c8bd4618354be9b3f17707252a",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "58a204274e8010cb535b385a9cfebf0cc283aba5",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "ebadb558aaac32dd82e1355a915d42c521a3e740",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "0d61a96330afa923801c585c7d60be48b26e99b2",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "6eadae1ee2f3c3361ec8c6af3dba4f3805273194",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "f81d4ff3a0a38839b415f6ba6699e729fce98245",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "b9ca51f09f38e5a4d73bcdafd09080c91670379c",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "98bfd27d631d2fc697a72e4ade6bffcbae83b79e",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "8a83581eaf0fb46000ffe3093b8b4152dcc18b91",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "0093f7b0a2a9e06ec5b5e1e551676269171c3e3d",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "f7be1dc6ace53b3d3bd27f617a68c71161d9c6ed",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "97b440fc8e6ce8129bc2c32f23ac4d43a5d012fa",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "32b0f7336b7627bc6e471a1091dfb2712b613eee",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "c0b4954297ce01b64487c09a1dcfcc0124f7053b",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "f78206e0658d13a73f6776779139b3ee5bd62528",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "681943d4f2fac25a5c0bce2f2f7c34171b162471",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "1ef23c7fb55f7eafcf2593070a82887d0bce586e",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "6ff4630b25657736094b0bebfe443881c66aef66",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "290621a86032456321f7e464cb33dbbea467d60d",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "f18228dc45b34becf379e190cb8a9bf887252a87",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "6983d81680483705c0e2cf4d62b15feba4e6e3ab",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "9edd2f24d77bfa5ea23688fc913a030c7cb6dcc7",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "ebc61de97f41e6beabb07c8418dc1ab2cf5e5ce3",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "334c01e6eba6ef9ce263577f63f2094fc98c2c81",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "cae2a845fa465261cdbaa1604e1f839d6e89bbbc",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "d4283bbd1db6965774446e0d101c52757e281a73",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "fc409e886d2f2b08e543dbb1cb40a33104cdb274",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "368f17d194d3d03c73cc459f1af6fcc1a1b7d598",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "e1852db1cffa808714be88c48d7d23b048e9f76f",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "b6bf8f418ade5fc981f66109c0a2e5af512ac9c0",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "26a610776cefacb898994e8e4ea493b6b1263022",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "80e44be308a611d1353997332a50e1217503c2c9",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "2a8db688b1031ede4feab1351714144a6ec5e9ff",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "ae7dc2aa99b14bbe12945179e55bfae1030dd54e",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "c109e906d3448a83c10fb8b1ae3f5e7ee90e5e16",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "c5b908a195fc775717eb2443d4b262b1417460fe",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "97e89cdd7acc6f330240e2cf9c9007af4311be4b",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "093d8d914ab1af80e08551382e6053430ecf7f89",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "b0bd0cdc9cbe8fb51219253b047fe317f695a249",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "e4caa054a07dbc5c166698ef2a33f6559bd705c2",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "64a0eee333ebd675d54a57f348fee0cc06404c56",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "81ba9842e5d85aca7bc7b26b01626407899654ac",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "c1d889840c0ca3caf107c0c23c97848be4ee783f",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "bd77d3cff258538d4847b1a29cf09bbdc1b1d861",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "0089ff79b81e25af35613832543475e16db10050",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "a507a4eca62847efbb9c13c3b73e7bc58791858a",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "3719af9ea288f76cfbaf0c9b6d9b0b04faddc146",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "48f925acfe335fa0cbe747c10dc52a8a50e567bd",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "8c14d78cee0c7f74998c63bb55382f2d555c03a8",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "6d6649ef6932053a9cb1854cec65b60b1e445999",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "d052e159a9869acf1c6f9c6fbb8276bc044bdad4",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "a4b1948b7cb476d17d38b324fe46a60be4104490",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "0e1dc43ecdee48fc142199c4db379905651ddaab",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "c8e8d8de18cad6566442c138b5a6627127102bfb",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "fa4135a04857ed0fca64f27cb5e2a8b88b70c7c3",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "787d654a6067e71c23e649a69f026d4ec787ba41",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "618f2f80ca55d75354ba906ea8067c3386dabbd9",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "bef6c1869977f144c170a751d6a5cb1575d55fdf",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "d54330b9bc4fdc55603e947b87375c22d649dfcf",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "f101eb4c2a37a18a513b879e4b31918da5af65ae",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "30fd555f2711da72ae0ba920aaee473e62901afa",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "215cebe8df5e445db392a6db3c2509634ffb9cb5",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "ae78e16c8b232a252e29f53cf33cd61899e0b80d",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "44eff7b3e82efff71595a97d390fae538ba36b13",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "b1676aecb4e9980d35797c5ef18f7b0582ae25fb",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "b176f5f469c972477d7426ac622d4b772333b4c8",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "9714ffac6dbb6b478bfa777375100e32f05d284b",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "bde7476da59a35c07383ce3cd6abdf9a7f42b887",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "4cc9a49db12026d043824fbad036918189b43fe8",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "51aa6e6ca29a8265784c037bc3a42455329ee4ab",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "8232bfbdedede1e3cc875b3164eda6ad37c19b63",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "44f6b8b20f0ed5bf1965ef575b9ad30bd4f8b256",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "495f04bcda902b73118cc6b30afd36465762b259",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "bb38a224ebd20c62d01ca12f2156d1c3c33a8ee2",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "19f58cfa37a40cb9a52d3b6e02577eadab4edc81",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "784e4f69ec67d511a0620a2b030688f186ebb959",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "c640932de203b33683679879cdf4b1b637d473d3",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "962315ba9322bb96d5b1941c4272501cc7cc050e",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "d4b02f6a3a90cb468731d6156d571d284bd070b1",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "abfacd6d14758ae1e9b1475a7699118bc3e32f0d",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "173f7da3ed821c371e4369a89a53c21d529446db",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "3a9e2ce281ce979181ceb64e958040050a3002c9",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "95627968c1d078f49d5b7feaab84e050130769ab",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "3c6d5dff6e6d5448b1dafe4447eb2ad5d6ebe222",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "392e2c455c04985e9e55257ad04951307ffddb38",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "aa13ac4d77bed5c1c8b8394ea92c48aeb75277d0",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "24f51faee2e231cb65feef7b11749fd62ec4b1a2",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "57e0c33a52a0f1e641161e6bf1278e63ee6384cc",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "9232ea98fc333c8ede952406d3f70da8ae89682a",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "de2965f24ca34e9ea3d5780d56a82ee973f817b4",
+        "repo_name": "apache/commons-math"
+    },
+    {
+        "fix_commit_hash": "409d56d206891f76a3e751e4dcdcd22a8c898acc",
+        "repo_name": "apache/commons-math"
+    }
+]

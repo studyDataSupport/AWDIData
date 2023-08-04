@@ -1,0 +1,20 @@
+{
+    "cate": "#library",
+    "#library-cate_aver_bug_rate": 0.2318840579710145,
+    "#library-cate_aver_bug_commit_rate": 0.2,
+    "high_bug_rate_error_prone_developer_number": 1,
+    "high_bug_commit_rate_error_prone_developer_number": 2,
+    "high_bug_rate_error_prone_developer": {
+        "#library--commons-configuration--kinow": 0.5
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#library--commons-configuration--kinow": 0.5,
+        "#library--commons-configuration--ebourg": 0.20175438596491227
+    },
+    "error_prone_developer_num": 1,
+    "error_prone_developer": [
+        "#library--commons-configuration--kinow"
+    ],
+    "error_prone_developer_team_rate": 0.025,
+    "team_developer_num": 40
+}

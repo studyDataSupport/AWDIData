@@ -1,0 +1,48 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#library--commons-statistics--aherbert": "2019-02-15 00:00:00",
+        "#library--commons-statistics--sebbASF": "2022-10-08 00:00:00",
+        "#library--commons-statistics--arturobernalg": "2021-08-07 00:00:00",
+        "#library--commons-statistics--garydgregory": "2018-01-22 00:00:00",
+        "#library--commons-statistics--": "2018-01-03 00:00:00",
+        "#library--commons-statistics--benwtrent": "2021-07-14 00:00:00",
+        "#library--commons-statistics--mmalenic": "2021-02-22 00:00:00",
+        "#library--commons-statistics--XenoAmess": "2020-05-26 00:00:00",
+        "#library--commons-statistics--chtompki": "2019-05-18 00:00:00",
+        "#library--commons-statistics--BBenNguyenn": "2019-05-08 00:00:00"
+    },
+    "commiter_end_time": {
+        "#library--commons-statistics--aherbert": "2022-10-14 00:00:00",
+        "#library--commons-statistics--sebbASF": "2022-10-08 00:00:00",
+        "#library--commons-statistics--arturobernalg": "2022-10-06 00:00:00",
+        "#library--commons-statistics--garydgregory": "2022-09-01 00:00:00",
+        "#library--commons-statistics--": "2021-09-16 00:00:00",
+        "#library--commons-statistics--benwtrent": "2021-07-14 00:00:00",
+        "#library--commons-statistics--mmalenic": "2021-02-22 00:00:00",
+        "#library--commons-statistics--XenoAmess": "2020-05-26 00:00:00",
+        "#library--commons-statistics--chtompki": "2019-05-18 00:00:00",
+        "#library--commons-statistics--BBenNguyenn": "2019-05-08 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#library--commons-statistics--sebbASF": 0,
+        "#library--commons-statistics--benwtrent": 0,
+        "#library--commons-statistics--mmalenic": 0,
+        "#library--commons-statistics--XenoAmess": 0,
+        "#library--commons-statistics--chtompki": 0,
+        "#library--commons-statistics--BBenNguyenn": 0,
+        "#library--commons-statistics--arturobernalg": 425,
+        "#library--commons-statistics--aherbert": 1337,
+        "#library--commons-statistics--": 1352,
+        "#library--commons-statistics--garydgregory": 1683
+    },
+    "commiter_contribute_time1": {},
+    "commiter_contribute_time2": {},
+    "commiter_contribute_time3": {},
+    "commiter_contribute_time4": {},
+    "commiter_time_trend": {},
+    "daily_long_time_error_prone_developer": [],
+    "number_daily_long_time_error_prone_developer": 0,
+    "improved_daily_long_time_error_prone_developer": [],
+    "number_improved_daily_long_time_error_prone_developer": 0
+}

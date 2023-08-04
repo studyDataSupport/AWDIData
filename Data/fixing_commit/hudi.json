@@ -1,0 +1,3334 @@
+[
+    {
+        "fix_commit_hash": "7accc476d3eb403e18b546d75d07e429ce9a9861",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "20e8ec79c82ebda1a296242332251a6c1d55c400",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "22ccdc154008e38b74a4361c2a5aedfaef56a87e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b6c35394c603baa6cb718aa7d7d41b959de115a8",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ca4003b78445d5be8b305b6f5ead90a76bfe361b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ce3bac45a2886b0fa6136888a34fbbe4a27012b7",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4965526289e2841fb937d7a0d18e318c05c662d5",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "fdd8a4b330cf1e4ddb0f86229c0de41268b7734a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "0bc3eb8aaba4a5633db025e474321ac841ff6618",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b78c3441c4e28200abec340eaff852375764cbdb",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4c110c1fb3fdbbd29baca538befe7218a4bfb977",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9c3b57cc2e46ded3221c32b6f20810c263d637f2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c8c1ee473c625f24453f86e9f91e6fb0adc8657e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e6eb4e6f683ca9f66cdcca2d63eeb5a1a8d81241",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "fee80b9685c4203104ba12875bff0d6250f74057",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "76f3c6af03f637007896b80c31874ac2f462025e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "1dfa1634cfb6c2b90cc9e4d3a228418822699410",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "bec05ff4c54f22d4e143c008ce38e5a16205fc9e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e2d1dd7b1aba2ab173449fe2578950159166c792",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "42dcfc43c422bc6f95dd040cd71f6a1588114dc3",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "6d377a8d7c5041d347b205aa2dded26dabf5363e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "182475a8548c6174bb21999e4b55003e9854da3c",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "06d924137bbf216864ee4fa09018b325c8b0a636",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a51181726ce6efb57459285a66868e9d3687bd60",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "fb4f02658050a74179338d4cfba07ceabe688c53",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "41b397c1042b332066b52c45e00bccb0c6150a5c",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f171496de244992958fd3fd22fbcd2a7dc62c7a2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9bd2a5220a64ba10307150c2a875528f3ff9b03a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "45a699b83dab977114e8549b4e1fd59d13c01101",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "15ca7a306058c5d8c708b5310cb92f213f8d5834",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b662cf6789cbefb4af3c10dc544c1040ff57cbb3",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "6b48c32f7133fa51ccd844c2145db84ee0ea9788",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "bfb4946f39975ee068d611eaaa8d51b6ccf6e716",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "986b63104d9919fcaec1d05d67d0b7368a91e7a9",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "71c91c1804fd564dd4fc26b643265cf675af5266",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "0a39fce9fcf6b1e54b6e3439d0fa5a7da6827411",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "09d31b59b49697bd5fb9323c7a29b8d26155bd45",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c733079734a2c61867cfd160d9da53ff298fd028",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9966b2c5560db6cc844ba5108d536f6fc2f43ad8",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "be9b4195ea580b5f934af99be86d167e77749cf5",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a0e960b775284bc4dd5a6b6d8355e47bedbbaede",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a03a62e16d9a1716185d2ace2b602aa6c17d1d38",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "28e3db103fb5a895d593faf17351db670515f358",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "238628a9eb3174bbaae08c565ef11576f7ac7adc",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5e58421f1b61a8cc07a0901f2bf7a7c1943fcdda",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5c80acf4974f89fb32842ae7481a27740962ad14",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3cae591e957d78cacb7b0d06f02f7c3bbc59f469",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c54735cc8717b8b22e08e61a7360695da2e38d3a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "6377b776b75eee158d22b0e224465b3f1eb182f1",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "8bf2f5738b627d18cd05d13c1bbd3cff14dffdc7",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "79b3e2b899cc303490c22610fda0e5ac2013cf02",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7cc614c6049812202b7fc427e9f399d3a792f5bb",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "fd876a8568e089c66abf4abe4dfedf62b3f9f067",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4276494c460b65d56ae75a1b5c73eec84d0dfc30",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c133fd9145cb1ee9bdb68a1315ff6d9e7f08ea46",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "efd1d79fe2d030244f74b693d1f60096e1cc7ce0",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "1380075a2d4d3f9696fdce4de69dda2445b7d181",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "0558b6cfd916c9b48f79adfa4e0cf2ce821d51ec",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "84b05c8473aec8ded4fcb2a45f87dd32284b7229",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "598d0694d2257bc4bd2ffabf289d228135918838",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "30f489e42424f4935808924045a9b2db7cca0672",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "2506c0fd2ce9865e778e6f2f80ddd9da7c7fc861",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "61ed29271bf8e68bb8d5e62fc66463bb8bdabd17",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e03c0388d9ddea7e4d650b3f7a64dff41e180d50",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b5dc4312a4038e62374c6a12f601df2889cced56",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7f9e43be5806a974753cecbb5706f7be669a7071",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c0eae6dfde4084dca94e0c95c544d1eaed328612",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3a5bddaca89e24ae815c16c4377a980e2c631327",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "8dfdd15f89729cca1f3e1c12baa81bf8863fd6b4",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7e83f613092aa37d57d42a0386d8fe3cefda5c4e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "eaa2f8ed3bb32b17e937a0b7971967a97b81596e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "fd7bb181cf438513aab80d6ef7883671eeb0d3e9",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f1caa3a2f9278ca00d64266dc9d3748583b6a42f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "36fe10a0b2018aaaedd8c6813c45d0dc26cf401d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3faddb7da09e5e11d1b126ba49cea4ebdeba8fc7",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f70678f4354c6264b6a1e38900dd7a11cb345b96",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c2b72306bdb13ad28ee74058519f049bf1eb2764",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "bf64e60d3121c67f51859be4ce42d04c6a5704be",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "6e31b7cef4b6f03b7763d4ea11f0aa94a4225074",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "22d6019559b10ca4315a6edd09b6171dbbcdc603",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "488f58d770137057532196065f2f69eea1a15db8",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "39f562f4fa3f9c8329e40763b8ae1723b0eb155e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "851c6e12db9fea9e7776dfc3da2d9d6e31d2bb4e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7ab59b9a0c40bde0dc4c110ca361c55a76c6bd2a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "8c296e03568dca4e98e97a0d81ada509c8238037",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "39dba796405d0bc62a1cdd4818fcd6205012c608",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "45ec376777f4a560612d60859b863fa267584c70",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "03c49cae52b75cee17a58d70369ce3c261f44177",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3cfe4855c265814290389c8144ed2f199fc31b01",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ddb1c1aff6c3561890137da263e5deb40dcb7ee5",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "8dea9cf89df859ae0c6e2c9b527458328cdf2baa",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a311965816ece4dd88650fabf2f59fb46705bd65",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e788eb2decd4a70266c041e9917af3f16e407fb7",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c92ea8a8bb80d0bedba8554bb2f3b9fc423379d8",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "d0830c81cf272c00f5845454747e8f676b11a8a2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e87a92d603e2476a2c952c1bf2b178b2885907ab",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "228b6fe40fab468c8f810ce43db984a01802a403",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4af60dcfbaeea5e79bc4b9457477e9ee0f9cdb79",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "dcb55b7019af834fb1898a46294ddc1f20c2afda",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "adf36093d2454c7e3cd7090a0cb3fd5af140b919",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e8aee84c7c76383dc18e163796dd960f346db398",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "d2d1cb8b289f43e4f467d197013f1273cd350034",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "27c7efb4efc380360af7a18fc57c0757f852390f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "323f19685c5e38b65476fcee70bbc56809d609f5",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "57e6223cad2dea8c5586d15ff36be7dc702f6f55",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "2590d2abf13a91eea8d73fb36c069da7efa375b9",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "0f76d69e942335440b91468acdc124a4359268a6",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "24dd00724cf8f49b8e2d5ad07afaa7756165e0a7",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5d9db864f1ca77e49ea3e7d90e193ac05feeaa01",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f7038e0195c1ac269f987b96f77c5486bfe02bf7",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "570989dc4011d5370f60991d8782408dd0f72c07",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "30e36f35eb2d81515feb6189066418e0fee14f52",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "439afa55821df6f7bf6494e27e396e1c1dcaca29",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "71b81740589c9c3ec1ee1bd4910342fde0656790",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "71fc8b2fbe5e4921fd872b2d904b3f1557959839",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b6b515917c34c4111216375bc2639876ab50dc30",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e5584b373544bc99d20cfaa5bc2e96c7f9b0d4ae",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "16a80e6d41920478dc3fe8a0da179728945bdfe0",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ca8a57a21d163e573e3a617fd6173fa4b913666c",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a9982d12c59128b3d00b90f3f1e23d2f9d2d8219",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "419f881167bc9800a93d0e121cb376cf092bfb6f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9055b2f65d670c2b153c7492ca323188b84c3362",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "642f87cc6b6b2971911d2f27619ee6e6f02e76a4",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9bbd3dacd775bc720b1ed235709d61dee33e1964",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "bad954c3b27b9e5236b93c6b0e2be219337fa179",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "34f72fd0d089d0accbda1f2765600ca647d9b6f8",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "676b3817bf2042d441aa8abc69036760735efcfa",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "fdd0c30d3dfc0755a55cb331bdee8001c0b77cd1",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "96892b31e18a145e90cb842df804fdeacc498ab7",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "009259645fd3ac9736659f391034a70f743a881b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "75f6266594245cee998a5530711f929023d87a44",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "417cca94df8a0d87de6388b5a48b56462c832f18",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f4b2782886b9f01f7b1cce1ef2c06752ff1573e4",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "8a1b2fe7de9de8f3eeefc754614a180fd8ecd18c",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "61fc3c03a69c76c47e65a1b2ee8d17bd9477c3a2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "2be7c3502dc58955a314a790ab31f1bb83db1cf4",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "da60f2acdce8242e7186c894dc02a7848f823c28",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "660177bce1cd82975d7c25715497e0d2fbb2a95e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "98f01666c740244a23f883ed4a754448fbea1d5b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "767c196631240aeda5a8ef4603c17f05a407d8f7",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ae7395df1e13112a1d99675edb04af05d0242703",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e03cd0a198f63df7fb7ba71d1c9a0b01ae33f021",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a75cc02273ae87c383ae1ed46f95006c366f70fc",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "706108e5ea2029148ca2796d7594acb933762a70",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b13cc76b5e2fdcc6ab82c91eaaa6a7b1584e3d68",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e22b6c12b00e047a8c03726c0e0c689229403293",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7307ff3d5c6d843dbc94e15e57837955def2755e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3042b2c7c54c91578dba69a1a814563fb00718d5",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e3dabbc3ad0a686c1bc526eb9b21586fe665812f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4ec060129fb66dfd753a61266ef2436fa6748168",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "0f88efb278f44626c443ebe49a553be63de42ab6",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5cb51220fecdd82e2651bbd1cc8b41533ec5008b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "84d195d4d4fbb1ca915d03999c704a910b6588fc",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "251b63ef0bfc97a153a27d2eae55b04f22c89533",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c39e88dcf0c196bca08aced6e16d47fc72f5e83e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "07eedd3ef6a57467582c8abad3ef0f42b98a0044",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e7c8df7e8b886261a9b0da7696a75e73eca04f11",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a54c963543039cc6dce50d51830bb272f71baec2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ba11082282d48af41126b94e233ea12fcf89c279",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a0ffd05b7773c4c83714a60dcaa79332ee3aada3",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "2d745057eae3f6644339ceaba2dfcb6450871442",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a36762a8628ba743f773acb8e0d1de1d71575359",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "39f2a06c85d237c51c3bf2b1e2f6876e7eb65e06",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "51b578316102a42cd71f042425f14b4cc0689e6a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "2e0dd297149f71bee2de0b7e52c86eb5f58a8894",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "50cdb867c733536d93a83fbbe86cf46af04784e1",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a33bdd32e37a0a7859256f9db32d2bef0a44c1fa",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "de37774e120e0c21354f0ae31326736d5023e786",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9282611baec5069156f627a2c96ee8cdd480bf90",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ded197800aaacd270ea601037caeb59f84af7788",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4bda6afe0b2858d31337fe42979929523ba07f6d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "0faa562b6fc4bf3368d099bf9b43381baf77dd1a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "05606708fabdd3b6414cce04802ac85617976d04",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "994c56148859a8b7d6b6b5c068a7715167e9bb70",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "fc8d96246a1a97ac1e569a19e58aefbfc33706eb",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5673819736571287c80568750bde0dde3b1c2b39",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b18c32379ff167c8338b8d18e1f88bb88eb07618",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3670e82af5b0298190def96a536fba553b745826",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "62a0c962aceae5d1c803d48c943c2155ec3ef5f1",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "397fd3014225c2c2ac3b563541425f2ce51eba54",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "8547899a39168c8399d32ee7ee22f35dfe3f7c84",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "cdaaa3c4c7f31e7bfdcc9ecd06df347e037e34bd",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3948b8935a79e0773e1e4d77bb1ded5edd7e8d4f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e3eb14ad2d5bd25fcfd6bb2eb6e991558c0684ed",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ed823f1c6f99fe1626a07b347d4ce063f47c42f8",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "efb971901818479e37714fab3b655ed3dc57477b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "08eba914edf6c0c404fe0a9c88896a5dd0821c8f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "09dc001430dab2fef1d36d463538cfe403606e22",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "8846849a03f559e3835a95a8ca672ec6ff00668d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3a1fd22841ab40b98589f5dc17717548500bde4b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7a6eb0f6e1cb14890506713d169b203ba87d6f42",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "142adf4ccbf92050dd14d1997c0438565fdfc2cd",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c86edfc28e811c86d82f98ea07d44dae4f3c5cb1",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "59978ef4a91fab67c4bb028f13de54fe8234a40d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "30ebdc708bcac5e08c7b1352d726d1c2909f548f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "eeb78f23e62998fe3238306c7983102f6f43d112",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "38ff18a19902f3db3b1c497d153cd73e411e8622",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c9590790f8dc114ee827b5843c6be710b7819f1d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7c4aaa9715cac6729c0809a92857b4aedbbbb24d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5c204f14161be0afd3eb1d377305ed0f6ed87546",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "17ac5a4573323c3d3391b841d28e7e3a667ab176",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f1103281d2aebf177231b6c3b6df5cce299957cf",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7c6bedff252b3ccdb2de74fff438d2eafb489d9b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e89f5627e4f1824c36e2e60cfaee3e9f3e977e87",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5aaac21d1dad8d462f96d47bca7d55494a8a8ae1",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "fd8f7c5f6c0bbfbed829f5d1a1d250ca4752d503",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "97ccf5dd184d1ff3578bdf8a1944cc15f8a5da97",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "35afdb4316d496bbb37ebb9e1598d84bd8a4000d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "1349b596a1c18c6be75039c1c4644ecdf78411ff",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f85cd9b16d2bd0c49fb6a05a4be627dffb4c2065",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7da97c8096ad4eabb49b42c86013679ed5009451",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "21b903fddbc0522909ab924e0d774b75902826f6",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4f6fc726d0d3d2dd427210228bbb36cf18893a92",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4f7ea8c79a9d13accf72d094296993c588d87beb",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "22c45a7704cf4d5ec6fb56ee7cc1bf17d826315d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "73b0be3c962112efe541ae04fe0ea6f298558f17",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5d18b80343bdb43c69d979da013752a5f8f11c07",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "80783c27f5211ae5cd01d692223a106df5dff4a2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "51602a34f7b2c296b1f1438e85ef2f12c4dff741",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7276d0eaa662298b64a6aca7e7180556f03603b1",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "918c4f4e0ba5dd30fc733cc3e208650e2154dd5c",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "48062a570817ba776f23ff95963d540fddbe1eac",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "1767ff5e7c7d7a06d0267380eb3b830392a3bf28",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "57dbe57bed963f529b2921b6bb6253a90a1a45af",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4e42ed5eae36f706ec35e5d09d8dc206b7fea130",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "10363c1412b8f9b5b16b3e2e075b895e0cc9a293",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "eb219010d2491165dbdc00a6b9547a9072e012ac",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c05ebf2417f4b170c396dfb60c738ca55bd52309",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "676d5cefe0294f495db04ec6476afdc00cbf0dd2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "922f765ead3c471aa0d9aa44b1782d381bbfa9d9",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "8ec625d4d53be9ca7987c86484ac459fafbd8ecc",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c7576f7613ba76ab7db6608598182d8970ce1bd9",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "1da0b21edd6693e9025e45889cc7b1c37658a4e1",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "d422f69a0dd51694c035db0e15b8127e1ebed277",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a7a42e4490cc8a96b12b8ebbecb4b90d8e8ecbdb",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "43e08193ef712c19bf986c65a184991c6de960b6",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "75f847691f0bdaf226d4713a8cb8c7639cffd5e5",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5c4813f1011baaa00856f88c69873923baafdba4",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7fb436d3cf66748f32776cf3db2d943f97b52160",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b10ca7e69f43cf2f14b09d0a610102ab058b1511",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4258a715174e0a97271112148ab20ef9307e2bd8",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "6fd21d0f1043d0a06b93332d86e63d7b708fcbe8",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "6b47ef6ed223e10a05b91acc3331cff2fa069d87",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "75eaa0bffe86306c5df7a52c42ee41b7c7dc24c1",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "248b0591b031ef5d017bc4f710b9b0496e751c39",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "abb4893b25df47328d01890f0d01fbc4e5d99135",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f66e83dc6521a57a52385d61d7905fd34ff0e2f2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "33ff4752baa80a0092d1fbb3692974b7fa6a7781",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "cacbd9868733d2e990b7859a6f2c443ee4900997",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e1ccf2e00b1aefbed64b8071c6bc54bd64610daa",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "762623a15cfeba6f3fe936c238d660685ae62b50",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5e5c177e4b95d73e95cb89e9c03665a9a69a631a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "505ee672ac0af0d491725763ca5ab8ab403141ab",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7523542c1daff5569ed1cb16fb78ffd1b22f4186",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c05a4e7b6fd5ea4b4c161b7698173f991dd8ed21",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c4bc2deea0b856107cd8a4293b7577a5a3ea1358",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "037f89ee7c823b2b45befd9706fadfae6e21e5c1",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "de5fa1fe03a9f2805316069cf9523c0e3be83dfc",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4b296f79ccfbb3cbd4465c6f02912024fb6b68b4",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a9506aa545b724547401ff1060efc75d5ba3ded1",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f7544e23ac6899b2d8b28a01c79caad1facd1379",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "408663c42b93dfffd55547e6e0262d3ef0388c78",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7a9e411e9d7c687efa1309c53ac2615e37c29cf9",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "81bf771e56cb091a4f0f98746b93d146866729ef",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9af7b09aecc5e3e7bee8cda129d139fecc550887",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "52d878c52bdc2c65fd154aa731d70b311a0db8a1",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ef6c5611dc66755dc8a1fac0986d638e7d3e7dd8",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7ecb47cd21a2c387e46d600aea628f0ded27e302",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b00d03fd62795f739076423994841bf8cc1151d4",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "57612c5c323a2caab5e9c25d2b6617b0105d38e8",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "6621f3cdbba1d913a4bc7f534c4837d010f45fd9",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "44b3630b5dc5748ea27e65614cb37e9fd9e3f07b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a081c2b9b54dcf5720230a2c7e0229c765208e24",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "bab691692e31ae3e432bb6cf4c90436fba408a2c",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "434e782b7d0d631e2106375ffa46332b67fcac1d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7b78dff45f646597d442e3a2b950c5917eea92f6",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "101b82a6797bb3d1ffb3b4ff61cbfdf99916f029",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3d8fc78c6675cf2df79bd359276bc1ba3440befd",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "458fdd5611e4f246cc35a6e5436731eb5d526ab5",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5c41e30ac5c29629ab1f993aa20b692ae3565d92",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "63a099c5b73d47abbf99e757c860953c013e106f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "976840e8eb5fee9bfb2ed029e65aec5b7033faf2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7a9d48d126b1474f1bb7cfbe8b1c0b0391ef49d2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5e65aefc61e973a959c11f08c2aa9f19fefc09fc",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "81b25c543a5eabd6d0dfe460ad7f9776d8cf5573",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "d7cc767dbc7687a03bf3701267e683a96d8dfab9",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7a6272fba150fa9d7acd0b57cc4041ec49019faf",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "672974c4129135eac6e9d62dd23cc5d3e7a10863",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ef06e4a5261008a7c64cc84a3cb62e106e121f93",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "6a8396420c12bbac46b1cad46f1a5a88769959f6",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9d744bb35ce54d347c5ef50adeba3f2a8840d043",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "531381faffe634e0976a756d4213f5ff0ebd54f4",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e33149be9a5b8718f3b97e335ae249db0cef4b2d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "d43b4cd95e2d23aafcd3aef390b94bb255354e97",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "939b3d1b07f9c0a11050be0f45e0c5843bc5422e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9e87d164b3f39d795ef70a1f22ba57353d6e198f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "8baeb816d553f202c7bd4b6564d6955be46d74b5",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "898be6174a62e8079cdc33648e73787829ee6963",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3195f51562b8cd7e62a46d41ae91e6d25be77988",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "325b3d610a285aa6442b6db325c43379dfd63c6c",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "84064a9b081c246f306855ae125f0dae5eb8f6d0",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "cc3737be506475c11c12471be6d0296ea14c7f39",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "74eb09be9b40a205365bf920ed98cfff564f79cf",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "020786a5f9d25bf140decf24d65e07dd738e4f9d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b1e7e1f14eb093e50f74f23a7622c4e38886553a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7dfb1680031cae8f0803786d406854f005156537",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "6df14f15a3761580085d38bffceca9d19c7ad24e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "98b4e9796e1e3e1f69954afa698ace5b28bde4a0",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7889c7852f0b8aa0a449e56f9d41fd6dbd648882",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "73a21092f8f708d6c90ff2ab95b677b58237be9a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "80011df995f6a610a30799eb3b11cdd8a2703630",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3cdb590e153c77c85c0d3d6365ada132079c300a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ce45f7f129e4d83705fc6a2a3dc6cfd7414480e1",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4569734d60cdf1bd0d7187bfeb5d3ac5f0be8191",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "2dbb273d26ea38ecf28af704876861554250449c",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "2c4554fadaf296fbb58e806b5191d123d1202a8e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "2d73c8ae86f493c8ccfffca2bc5f5f90e9fe4f10",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9ff6a48f6083c70ea5f0cb74fd83bb8dfa3d2071",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "eae8488536c711a104c9e4f3429af3ad5c420841",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "8b796e96865c44982b4dd8314e60573594e9f153",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e5a2baeed0861e332000cb0fe3e3f263e82c15fc",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "fcb003ec767f56cbfc56b10711b373d9a477a628",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7c7ecb11d5359690a42f0e427605760f13a5b196",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "72e0b52b18a7383158cfa91b9a61ec16fa7d2576",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4ed84b216db335521bd4c51169c40e63dc86f27d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f2a93ead3b5a6964a72b3543ada58aa334edef9c",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9da2dd416ec76ec68393e38f8e1e94c7de141eb0",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "484b3407e00ce0d0c646bf6b8f7f2145070d2d2c",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4d940bbf8a934087e606e2a9a9ba698a0911caa3",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "189d5297b8826f5345fcb132dc7318fc4253c94e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "51034fecf12c6f5cd90cf12540babfcda5f5e667",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f20c9867d7c347c43b22f70270aefb9b7f658461",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "483ee843e62511f6d5bc487d90aba1a636ebac22",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9b3dd2e0b7d89228a64f1162a50c5c96a27786de",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4ddd094ba2a805116f63c04805a08bf9c2651fc8",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ff136658a0a513f888a142e77380131a41801db9",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "686da41696e17daa182f84796cd2721b945d71b1",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b14706502b56e257224018616cd5e7e7966bff43",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "fe2c3989e364e323f73552dbb9128d9662089eef",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f96ba7abf043246e98f550f858e047411a12c550",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9b6e138af27e600410a63f96065baf057300c071",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "26e5d2e6fcc399e7886594a5454a16d29aaa8702",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "1b6e201160ef18b0c7d86d1cafd104609489dad7",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "099c2c099ad842f18b76bc2529b6eeb968f328eb",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "bf191f8d4662fd1e9c28f3cacce9179dc8cab561",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5ba2d9ab2f9f22cf81968a68e0303d750a2bd9e9",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "d514570e909c7ca6eb1d41623029979ca3612806",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9bdda2a312bd830bc1659a5305fc28b4469d07be",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "6ed7106e5904ce5bf4741b368245101b9ec5836d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "1ba82206176b10c0c7392225de75756fcde70192",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e60acc12582372634c51c5fd35e56d474bf6c1e3",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "eee96e9af3990809df9cc2e7f874d875596d9df1",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "93277b2bcd9e5140c99c734784e3c89e9a9d1e7f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5d59bf67aeecafb65a2231d808b538878eca49fb",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9dc6df5dca27ec4d543001e03f0cd3718e6b9232",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "034addaef5834eff09cfd9ac5cc2656df95ca0e8",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4324e874ae58774fb3b0af98907123b7e6317b6f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "29040762fa511f89e678dc15ca5ae7f9f097fb8a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "53826d69e4120fd2a67986237fa85795209d9dab",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a66fd40692dba064dfa71d277ef5f25e067e702b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f0bcee3c014cf59bdad3eaf8212d94a589073f0b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3539578ccbcca4738a3e22a63635f96b313234c0",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "051ad0b033993fcc7c68bdc96368fc6f0b822a55",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b4362fac45cfa75655869603e8c9a7a3a106fa98",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "be9a26488566891766cafae879efd3687d74095e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "876a891979a3f88664c41560d35fd6225ea51258",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "85f47b53df9eb676565ced6205a980cba60e410d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "18dc89cf7908e000a545acf4aa161c242c415dd5",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "05e395ae5f56ca2e99e3e5e0838c14da74d2eedd",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4a59876c8b6045fad55777c5eb241ef5d5aa401b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "2f99e8458ac3cd51000227fce90576e8e1e056be",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "742810070bf43bbc13f22ee5514dd997c27b1db2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "45d1216e91babcfb92470a7b5c314fefa27fce0d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "aa1810d73766937426690f296e2889f314c43f36",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4e8accc179d8f60c874d748167018196900b7d12",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b87e95d621e9fd2d1aebca4c49f599b6437aaf83",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4affdd0c8f02ccca4705515dcb6492c199e2cede",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4d1f74ebeaee857380f69d7c596eaaf0135ca59e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "0dee8edc9741ee99e1e2bf98efd9673003fcb1e7",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "0938f55a2b033745b5e2dafad8ce31e60bb394ac",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "fba5822ee34167b07e65eefc63d7e3d43abd9387",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ba0afe142672b61d291a7cc8ac3a85394e90af7d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3363c664681b8b58238d54776671428fbaac3365",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "cb6ca7f0d1d57b7c7eb850015f3bfe75cacf542a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3b401d839c1a3a5a8060f671b13df71b76bf88ac",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "0a97a9893a0425ed54c911b48d6e070f1d947311",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e639d993873913805de1ebd286f1e8a791ef6a24",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "76e2faa28dc1050e9e6ebe5b33dac1972b781eba",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "55777fec0519c1aa26a4bd4415d545b658dfec29",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9518f786102566398fa20001533d5d86f68deb5b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "89ed6f062eead82f441c695e027bbbd67a272dfc",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ba4e732ba75e12a02d07c09f2662678bdcafbdc2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "1c778590d1a7a7eb744432e59b4947bb6af30431",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "d971974063411597bdb5633e71a7e26688b2b136",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3bd8fc1c3eb1d647d4f181b20fd54c6860cf24dc",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "d681824982c1af64e894725d3678da33110d6ccd",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "819e8018ff926fea21c95e75ae1b7991afb227c2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ecbad9526ae2c4531c00618f178fd34e10a21db3",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c0e8b03d93223777bd1e8e5c9dbb7edcb9e37e47",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e78b2f1b5572fd1c0b5a549bf5cd4772531399ec",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4a9f8263822200877c8ac7714aa5dbd946db7cdc",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "26c3f797b0fda964cf601836d6314ff6241e9d5d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "bc7882cbe924ce8000f4a738b8673fe7a5cf69fb",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "cfde45b548fe5c425c0415e45993d4bbec1a1c5a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e72553accf9626ecfddeebe27ff2c9a5f33fc154",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4b9085057a30c557fc2fe2436743cad5b9362f6f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "31b57a256fcda477f7fda7a34c8d50b0255de6b2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "caeea946fb592e53d612ff111cee9975d522ca6a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3b56320bd8f189786985fd44fcd47e7abd09efb0",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "d36533735f5e60a8dc8ed6a7faca276c118c55c7",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "12e95771ee415bc005b7fd35d275fbbc177b0727",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f74cd573201efa31ed71ccda767df0483e36fd56",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "977d3c6dad0b9fe3aa1d6f6eca614cc286c3df3d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "98ec21507932ee942ca643c88ba9049746d44059",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "827549949c4ac472fdc528a35ae421b20e2cc83a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "03a83ffeb5c5ee1f2efccc32f8c927d435185c9b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "518488c6334e3d11dde959dd2080f6b6ba2372eb",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "2e561defe93ae8137137578aa3e673862cdef834",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "2467c137e465927f84df88d1985481a1d47954da",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b2b23f5d3a14fae721df34a162e0ed717efe488f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b6891d253fef16f7dbbbec2def69a474c593c97e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "205e48f53f24086419c01dd8652748347ecd295f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "75133f9942015caa93a3802b61730bcf37ade1ec",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "fe9406dd33c0fe860e924e46f7b2908bf3155265",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "1622b52c9cf90a96b3b4f8db3228253db4a93e6e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ef9923fc5551851ec4ee71896a62c0615da45ee8",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "0f0088fe4b740c4acec0cb25988250db8fb483b6",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "504747ecf4c93d53f0fc565cdcf12544549b7903",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "32505d5adbbf433912d2d2f9f74adb8581bbd64e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "1f7afba5e4c13c317c5378c7088dddb13b71d558",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "6409fc733d27eea6ebc71551affdf5aec4bb2fd5",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c81df99e50f2df84d85f08ff3a839595dad974d7",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7b07aac28686ed5474747fd2355b7828e5386ba4",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7d046f914a059b2623d7f2a7627c44b15ccc0ddb",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "32a44bbe062c997b5a41266290fbe34d6323bfa6",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "03f71ef1a268ae1375c0a890807d54f935b93022",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "294d71294835df55b238e04b8e42ff04ea073e82",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3b89457e2b6d885d41d0f3cd95e2c71a53b097bf",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9a2030ab3190acf600ce4820be9a08929595763e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "dbec6c512b1e5a93a60034a9894e10a65db34ea4",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c8d6bd88988f19f5163553b4438981e780dfda0c",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "29bc5fd912df9517acb9e15ead97f1849f21056b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "46de25d5fd7fc5aedc574fc6bb76e14efb46bb37",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "dd961291914df656418c9a1cacd39eaf8a806809",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9bdcee00c010fd6d7c817ee882550dd78e35ad91",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c48a2a125a9d41f4fb4bf7d6a1d01bf75ba1877a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3ba29096905ce5fd617c7c2e8f745a963af102f1",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "456d74ce4e62b49b3cb3def9d0c9f5768c98c097",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9c8ad0f0faab29e812628d26534a0f6fca9faf60",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7c3f0777aae956c5e5b2b2ba587f9b9bf2516433",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e8473b9a2b5bf0ad9370377899f6a7ea4d1ceba1",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "57c4bf8152280de738f7ae313f5bf0046bb4675d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "84b531ae758230bda67bd842d761d68dea5581d0",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "36b69d80332468439d9e1674b7d1845198379152",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "1d4fb827e73b2ae510f0e2c6510a448c0b5bd5b3",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "0fd6b2d71e50a3b09336b74074a2f5117ba57f5c",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "383d5edc169b79c4022f81a1580ab1bc2afebc30",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "bed7f9897a9127130c3d241df7634d44aa12167b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e483f7c776ed53015d08b78fc33729892dc2143c",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "0699521f83eab843279ff7d78ac2b92fc80ad79b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "934fe54cc57b508875383cd807735b1323fef754",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "91d2e61433e74abb44cb4d0ae236ee8f4a94e1f8",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f4c25ba3fd11e2da1adcf2e089969a0b7f3dc62e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ea009b55a385564f76beb99468f363edd3c4828a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3a8d64e584295dd3979a2d893497d90070d15621",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "8402cac407ba9ae3288c317a9493db3613f1938b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f8e0176eb031f2d59774af9b1d512844f1003231",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e9efbdb63c95d2971ac67576783e122a6e271738",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "6f5d8d04cd4b6689335bb80738946e1a914b43b0",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "6a0f0798660bd6efedf1dc51adb397fb704aa5de",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b972aa5bf239657d527ba1d078755dbe7e20e657",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a2eb2b0b0af03be261d9d456c8ad75b3695793f7",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "51297736ca7f72076376d4d245b3c161bdfe57b2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "435ea1543c034194d7ca0b589b7b043fc49c07ac",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "0bb506fa00de5c195c8e409c13091c2e264472d0",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "0cf2f103e07483f24b904b45f348bcc041e0c7ad",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5078d29eb429d7eca46c3d5c3aa72d94e088d43e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "18cf59507fe32971da79c0e7c039730e57c5d207",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9ed28b1570d57adc42e6ee1de6edd7d49fd70304",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "8281cbf7624c3a4eb90bf58671daf76843d00819",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "887787e8b9b786f20f5fe3fb6d61c820f49aa4cb",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "eba354e922e5bf28f961e5ac7905b110315d71cf",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "bf008762dfa3215823d47184e6f4e6d4f7bd03fc",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "8772cec4bdfe71d4dfcc1b92cb39075c71a363b9",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "71a2ae0fd6163d3108c6557ce6295f649246adcb",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f715cf607f0692e6500a295a0ab5604f3979df3a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "04eb5fdc651bce3b34f17c1828879b18f1b1b6f8",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "6f5e661010a85f3426131111baff962a6d6ba91e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c2f9094b493ed28a63bdaed10ce4349261c3cea6",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "0e8461e9abc97537954a2c1dd716aed53e52dc62",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9720820975be61c9a211a24785a28cf0e8b0d7b3",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a40ac62e0ce7ec807a00803d23ed223d7c607459",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "fd0f5df26d9bc307a6a5b39089c8263e3b7574d4",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c7bf2c76876227b30fc030a9a01ac60f9a8d2956",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f41539a9cb5fd619bb0ec0c9af5484f316490303",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9a8963d05eb93849e84151a63eecf12afe1017ce",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b7ee341e14507f2562f8c3a3212daf8686631e05",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f67da0c7d0831db0b4eba7111c634eb50eaec760",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "8932c4f7b57ef5290f48f35c9a8362bd28b0ca42",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "acc40625f594576353919323c2b34c43309f18d5",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f2fb1aac26fdde87a800939b4a2016092b4fe9d4",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5517d292f917821879d41af515f4ed7331d54ba2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "dee3a14aaee149d3034191e5ca40fe87bd7e63fa",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f239187da8052680bde355efbaa33149d37b4280",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "d8560377c306e49b7e58448b6897e9c0e7719f61",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "499af7c039da12e397dca0819d77723bce92c145",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f5d7362ee88568003c9310d4f9ada385d1180f61",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "dfdfbbedaef6d2618b5254fc7b56a1d6a44a56f2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f897e6d73ebc26d32017774d452389023f53f742",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "abf3e3fe71cd92a4129cf110a5206fbcfb3b1ae2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f14d4e65e7edab58aa86c495e4bd4caa79086d6b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5b8bc664a8dca97789c2472d633868fb8f553652",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ceace1c653a3ce3c97e6ee5a244d71ff1806be4f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ad63938890151c4c13e78acfd448259c3af80f80",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "aa546554ff23e62c374e323ec47d0081fb200227",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "bc4966ea7353016c7589ef750719e400024e09e0",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "440525ccbb001884840efadcb51eda44bba5e624",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5515a0d319cbac835c65f6d21898ac1399d77ea3",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4deaa30c8d7f51987201e99ce2f3bf9cc5a97d18",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4f991ee3525c6225c7bf3b46e272f7d5b919196e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "57c8113ee1941615a03f0efc2e3d46b634e940eb",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "cf3a2ead32f432757668d49a9138f891110aa9a5",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "cf002b6918ffcdb7528857861372dd73ddb7e31d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7592ddd776148bf750043d31d74211670b961c46",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e9bf1c1186532e6958d5671fd6244958cba16dbe",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "073c318d9fd83d40b1dde1cc149def617ce31e8f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "6bd3ca98d69679630ce5c35e7a0dabcc0cfa6c5d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f66e1ce9bf56fb4478d8b14d791644cc817924ca",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "d59c8044f8dafbd4ebef979d3ee2eb09b410884e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "0f39137ba854a2f808e2108c6aa10f4260b00844",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "be57e422004e93e2fefb2d52052e1e3b8916f6b0",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a60fab3a5c6df1b9b3d32f192d4c6ca4ff1d6f6d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "37c29e75dcbd9f045bb1737bb734e2b408081182",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b7a0d76fc99144fc2eb223cda62ac9d67528c6a2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9056c68744a3f31ac2625e004ec6e155d2e86be9",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b7da6cb33d27002525e40913dd63f077aeba26f0",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "8eed4406949992086fe36b8da0029de98f443588",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b3e430f24bfedd94d3ceae028dce2e0053e268a6",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "29332498af420596f42c3b0ff4a2fe804d7d7dfc",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "aa11989eade1bd268d83e6aafe15f2ea60be67d2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a5e496fe23c3cd89ceff0e4c49d27df325ba5bd8",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "1196736185272afaeda37328f1c52ccd5c6dc017",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "32a50d8ddbbf706bd350e9cf0762f51ab66afcc9",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b4c14eaa29ed4f3b0f8f44dbfdd75ee68702645b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "6353fc865f43854e0e185af33e8ad091c8870d78",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "eedfadeb46d5538bc7efb2c455469f1b42e9385e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "8105cf588e28820b9c021c9ed0e59e3f8b6efa71",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "60758b36ea033a5985eabc53da5f6036ffaa5c0d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "59ff8423f96055fedc7a8ebf0db08666ae725726",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "925873bb3cacbe7d2cd95d7bf0c0e5a40f56da12",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ab2e0d0ba2697ba0750ec52fbb3b3a0187734a4b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5353243449ea16c415b4fb5517eb6d2e2723ba76",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5a2f3d439e2eb339f989c78801752f84b6dcee38",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "fe5d2e7f53eb36d9e35acd8d944e59d988dba475",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "151f22e43ace6ec55a92fbe50c63b8e21cace59c",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "23a4a96eb416c13d8b1f921cc51286f93d61d9b3",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "93967404a7bcf75627677239d3438c3f301c3725",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c8a2033c275e21a752893fc89311e1f6846f5a78",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ca440ccf881c67c308e72beaf6a561e12e1b4da2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "047d956e01b6d7c92320686d8321b2bbe9d2188e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "de07e61382307d36e664dd31adf7fc4045443fcc",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "8c0dbaa9b3b6ced3826d0bc04e0a91272bbcab73",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "8f7ad8b178ac3d394f88ac1c21f701138126fa04",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "55ecbc662e30068ce0ed49166d254202bd598a8c",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "990820476a41b318017ba63dd446911141c929ce",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "221ddd9bf3899e3672210404d51e686770ba446d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f2621da32f33bf16fb53f8a71eaf7bca24e6d166",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "60e0254e67b488dfab7a7102c9f517b07174f398",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "2b21ae1775aeb108a4b0e3f89889651a19f93b2f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a0f598d371938060a17aca7603c080c22488cf57",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "bc313727e3e89640edad85364022e057c9864ee9",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "287d2dd79c5b257c6fe9cb48631b68f50c594ead",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e6ee7bdb516a7eb03ee2cddb0545d46a26325590",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "2cecb751879cc645227c467fc29c0705baad8030",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "2033d35dc39ea1c5e9b20f7425e99f5cc522d689",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "6a71412f7804c9cbd34e4c6fc01545a994523bb4",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4f215e2938f78e13bea940013855cb14a6724601",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "70d9c2e7473154178bafaef40a15fc3e10a9df6a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ac65189458eff9962e442a6ca3973cb236749840",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "6eca06d074520140d7bc67b48bd2b9a5b76f0a87",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b34d53fa9c1821e7e7191ede1b99bdc96212ce3e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "202887b8ca27eb6de808ba7a2e737b13ae9eb8c0",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5a7d1b3d6cb42b1763654e307625e2ae7b799adc",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "0749cc826a9ef6b04e2063074b7abac0e69414a0",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e99a6b031bf4f2e3037d4cb5307d443cda2d2002",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e64fe5505487f3ee591b2b5d044c2c57989f8991",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "218f2a6df8a41279d904a76b594d22f4d66d17c2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b32855545bb9dbc6f49c18d1586585a39abe5004",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "84dd3ca18b62921a60c3970a0f26614d8bafc89d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7e50f9a5a6be8d68b13a587a07a9af81819540ca",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e039e0ff6d04b9b0684dbf29452af8a8dae94b09",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3fb59dda839b82b6a3bf7538b7604bafb5561a58",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "11e64b2db0ddf8f816561f8442b373de15a26d71",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "062d5baf842c22a6cf3b981ad605cafb6be3f130",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7bd517a82f9da3a6b42f6786da1d8a23151bdd94",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "cb5cd35991afa2ed5b14ad92f2b98ae341fee9c4",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "adf167991a762266afb75b4c0dcc583ae2d5858e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b9e28e5292d9b2a4b665c26eeba660437a6a0a45",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f97dd25d41816f51f4c233d69456dd9892b201b5",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ad53cf450ef01806ff8b2cfe8ff76fa350a7b4c5",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "cb642ceb75ef903a77593af943c6ba19053257ee",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f92283706408e25c48ed63abcbc9d07dc855106d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e8fcf04b5709d795a1de086824b6eff462c8c835",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "11360f707e969747e1a30791acb23857cc376589",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "441076b2ccf66949310030fc6680bb68c259d8da",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "2a7e1e091e69c53acc0a19e3d792ca15a3d7db62",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c2383ee9040001cfc1a9e8f6add65d24ad991969",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ad72691d24443bab1b3828bf435b3f8404ea9dab",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "83b0301c1aff51a59b88e8edf7e9cd047023086a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "dcd7c331dc72df9ab10e4867a3592faf89f1480b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "0709c62a6b48483a619ed99afc7dbfb493819236",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "112732db815660dfdf4b62aa443127d7884b6e63",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "afa6bc0b100450b5d80a27bf5b87cbd4a0fbb3a5",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "aba1eadbfc015095f31271b2648faa7023126b99",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "369a8493378f069d5471098d75a251fa67d99737",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "685f77b5dda92bb4ecd3a5480a1a5ed2eaee5fef",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "99b14a78e38b081efbdda59243626c244335ea7c",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a96034d38d378e4c53b72d50e7b7bcd91da9552d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7c213f9f260fa911db3fbdbc74cb4f723edf3dbc",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "081061e14bd54be4ee8f4eef6253d5ec9d395ee7",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "928b09ea0b2d97bc5055170c8c87fa0103615b4c",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9b01d2f864e5cc4a559cfd4199136bca0979b095",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5d1f592395fe23459091ac2c7a5d539cdd9be819",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "6f7ff7e8ca3a83d858561dd08f8f093787caa9b2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "42ec7e30d74104a15ff76cb004fe7a0c2649abe6",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "1db904a12ed295e08ded14bb5677dc02d76887a2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c5220b96e94d13530f14cd4ea9ba04cd1e559474",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "929eca43fe8fb9cac6eedd50656a6616616d0b11",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c9bcb5e33f7f9f97af0e8429a88d95f58ee48f13",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3ca90302562580a7c5c69fd3f11ab376cfac1f0b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "299958650916eecc243f20bf9362ed70073d30db",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3e4fa170cfd2c198599c3bed3982f2f643c7fbe8",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "d6d52c60636ae6a0c16469fa6761d0080fddf72f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "6b4b878d089c5a0ba88e94b0ec747d648c6a6084",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "d21753d903a78f2f728c9e77b5fed2e3a06f6c1c",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ec2334ceac28463d7586d79f6078c69fb3eb4877",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "dab5114f168112f6e195af8257c01a7c7c8ee082",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "62b8a341ddae0ab80195c41c7a44b84c1fe23d31",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b6d949b48a649acac27d5d9b91677bf2e25e9342",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "6d1aec604fd854dc0fb27a4c6aa6113ae771c7e1",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "8d29863c86aed57dc8f1a0a450bce3b256de2960",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "65844a8d29b715227f3b2ecdf9b102a08950ee67",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "8d4a7fe33e041719e2509f1f8ad3667e2ae7bbb4",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "08e82c469c456fbafc66c8e232dcd070f05fadee",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f4f9dd9d83a6a852c0e733802c6c49747cde5531",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "8527590772d05b58dcf7db460f743c6a43b78c1b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "920537cac83d59ac05676fb952d5479c41adf757",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e970e1f48302aec3af7eeca009a2c793757cd501",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3cab928b508be6729c9c8abe30b4beb5ddd12b04",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "bec70413c0943f38ee5cdf62fa3a79af44d8cded",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "d7b18783bdd6edd6355ee68714982401d3321f86",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ce3e8ec87083ef4cd4f33de39b6697f66ff3f277",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "d429169ff7ef66dfcd6825b74fcbceddb46369a5",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "16864aee14d465a098ca58599bce6c08eadd1b0b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e93c6a569310ce55c5a0fc0655328e7fd32a9da2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f5e31be0866848940510b91dd4e9cdc7500a9086",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c4a66324cdd3e289e0bf18bdd150b95ee6e4c66c",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "02073235c3bbe72db32ed282b3e318e7daa0800a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5cf2f2618b6a59a831543b588fb3bb85bdf5f1e8",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f2159c4573810f922fadff640a953175a852dc43",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "0dde7f9185a350599adaab5af5738b73a15243d7",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7a6b071647fae632af2126b517ac869e81f539cb",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "657e73f9b157a1ed4d6e6e515ae8f63156061b88",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "77ba561a6bacbf9e7dc9c1582eb068f7ad800cd9",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "0d91c451b0e823162c261ec09fed9b5f4748d9e6",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b0010bf3b449a9d2e01955b0746b795e22e577db",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ff0e3f5669f1a70cbe9d302e8b1e6a5dbc801b25",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7a98b1c878e330e53e53ddd1b9161c8669806efa",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b2c47a24be53016d1c9220cb98d9fb7cd587e748",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b51b3a39a81848e6fcb5bf7a2480769a012a4339",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "647e9faf255b9ae5796f513d13c769a8c87788d4",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "17802569fd64d865317353b3d855a68a6b3874bd",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "0d8a4d0a56dcb35e499216c7bfab17a05716bc44",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "2ee1c3fb0cb9740dc6d924f5e6e638aec19ed9b3",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "976420c49a3fe764f7cecd30b6cdb32861be5537",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e23967b9e9fcc95dbe71369098c8d12cba90eb95",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b9c2856d164c58075a2a0f88ed07fb00d24f65e5",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a38612b10f6ae04644519270f9b5eb631a77c148",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "749f6578561cbf065c7f74ab51b1c01881a1bd97",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e926c1a45ca95fa1911f6f88a0577554f2797760",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "2c4868e7707bcdb2b2e1f1530c7b2b4d81584a1f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "da2919a75f564be6c3d731a2c503959e416ebe71",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "47c5e518a756df815287502a50da9d73d28fc662",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "605b617cfa9a25bff48e618beccfaa7b4eaeee56",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c6bf95233240d75160670ee96c356946c44c6169",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b83d1d3e61d51a7b098789532e31531d94330cb0",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3ec9270e8e0be4c94106bdb09543971296ebe2d2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e807bb895e5a31a40f51b2c2bd9b732d26bebd46",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "89f482eaf249bf89b7182c4ca97ffda0929b4b7e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "01ad449ad68d9c77ee1493fcdf833df53df6106a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5388c7f7a3efb84516af71a2533e8953113b30da",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "8b5d6f94304229e9ec61d44aeda3b514dd67f2a6",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "26cdc457f6b2491caf28dcb7e33f03e7a2dac6fa",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "11bc1fe6f498850d2c496151741813001d3850a3",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "bd9cceccb582ede88b989824241498e8c32d4f13",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "319b7a58e4773ca51c4ef9b82faf55d03d208e46",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "78fd12259404cad8117862fdf0b948cbe115e453",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "36ce5bcd92fa6cb2fb88677eae1a7a846f606e3f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "56866a11fe8b7a0ef8340f221da30c83c72b85da",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "0ebef1c0a0e4b96616ee7e4372d3b9f0eb83a919",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "751e4ee88219c9d7d212cd2abcfe57ec59bb322e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "42b6aeca28664767add190374b13f57c99e17286",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "0364498ae3be553f7c9fab78469283a6958da2ff",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e4931744ebcb6380ec967636213c406fd80a735f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "af5ef4d49d9c7eb610c446d8058216f39bb2fcfa",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a44f66869f1b938e83857ceaed9291eca9194f45",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c0472d3317e9bfe0b39ee2212e760e96b5a67ee9",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "585ce0094d6527bab988f7657b4e84d12274ee28",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "524193eb4bd45eb21a64c68e927600a52b9ade1d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "32c9cad52c7eef1067f12867afc405a1624cef14",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "2eaba0962a67d72000a3b1033f5f3d5bde5f4d7f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "fcc497eff11f128b2c1feaa5ced6c340b6b41849",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "bf65269f66075069b421dfa25f90b105bc4ec662",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "581d54097c89e5f9c04d8f606c9081dc17138bd5",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5e61454a6c343225e6ca90c4be79e0c2937a748a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "063a98fc2b76beac28a4797884973abd2911c887",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "2fee087f0f167370570a88b6d9d28ddbe8402a3e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "6b417d1a867c51dad174fce7c68dd7a3146931b5",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "35b21855da209c812e006c1afff3d940d5ac2a18",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "bfdce7b082256f3f6c51321e102284191e847145",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a2312fa1b79609e35a9c7f775eb1d76cd0c0754a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "824f23bcb8b017aca44a6fbd8af41f4170e1eee0",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9c24151929659f80f88607f068662fdc5855fc91",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "858eda85d7a5e4ee3be9aa28e7e7311bc8fb8983",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "1072f2748a3e6802b0c1c9492edf7573779645ac",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b51646dcc76acc68e97dd6a67cc7557e362b590d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "217a84192c594929963856d2224b9282a71c4048",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "d3711a26415703c3db412ad3102856ce15459cde",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c3279cd5989805946267b046007ea23ba4b615c2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5b6026ba436f7bde0e810983b6934d07dbe46e8d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "bf1d36fa639cae558aa388d8d547e58ad2e67aba",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "21bb1b505a0a433bdbe367f7f252afdddafafc96",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "10e457278bee529d14e445012fa61e875e3f77cd",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "086853c004c6581e08744c5900210b6aaffd90e4",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "37ea79566de190605d0a941d6b65e2f46196de88",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "043eb564c2c7e4578237b5d0f2bbad8276db51f4",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ede6c9bda4dba8a9981252bd05f0725ff1024b95",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "df2e0c760e7df0bd1b200867b3f0d2ca3a3f1fce",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3387b3841f784fef2bb8548375b8c2078bc03506",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9e07cebece3b4c8b964ddca2f40053734a392ce2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "97ab97b72635164db5ac2a4f93e72e224603ffe0",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e0a5e0d3435acc5f01812aa46d96cc7d5eb65860",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "fb283934a33a0bc7b11f80e4149f7922fa4f0af5",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a9a97d6af47841caaa745497ec425267db0873c8",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "7fb1251c6ed769ea6877126957a03c5f95d42d8f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5a0d3f1cf963e0061364d915ac86a465dd079bac",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3574a89232ad8573d1f76b27f127cc2ab9195e38",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9697fbf71ead328cae6d56e9f99872e871342887",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "d3edac4612bde2fa9deca9536801dbc48961fb95",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "244d47494e2d4d5b3ca60e460e1feb9351fb8e69",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "459356e292ea869ffe5f39235646dc474da76ea5",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "25e0b75b3d03b6d460dc18d1a5fce7b881b0e019",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a64afdfd17ac974e451bceb877f3d40a9c775253",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "83796b3189570182c68a9c41e57b356124c301ca",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "404c7e82d9b538c356f93ffbbcb2c20d23310fd0",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "8d0e23173b3f21d7cdb24942913eb1132a111a32",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e783ab174946a0b767396239c0132c31c8d26458",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5e0f5e5521c52a08c284a92a3a6a00e34805cce5",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "aea7c1657ee41ac740b4974f4239c90960553f64",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "26684f5984baafdfcbef3718fa5abcbd0983a6a4",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "2a56f82908a8b8f788a7547d3c707c144696c1df",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "84dd9047d3902650d7ff5bc95b9789d6880ca8e2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "09fd6f64c527e6a822c4e17dc4e61b8fdee28189",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "acb1ada2f756b49d9f9a0aa152f99fcc9e86dde7",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "19d29ac7d0ac451324d25bfe85b51b1eca10bc67",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4e5c8671ef3213ffa5c40f09aae27aacfa20f907",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "6808559b018366b4bc6d47b40dbbe362f48f65d7",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "2a611f4ad3816b67b54e0fcd1ef588668fba0732",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9ecf0ccfb263cee8190afeb965ba350525860d6e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ce0a4c64d07d6eea926d1bfb92b69ae387b88f50",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "dbc9acd23a4eb208c7cd458bb3adaf54731d4145",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "bc82e2be6cf080ab99092758368e91f509a2004c",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "38c3ccc51a069dbccab718423055c0a708b44d63",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "1e1d9e1d345a104d6f873403ef2826778ac114d3",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e3019031d8fff60df4fec82eac3fd5c044011635",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3ef9e885cacc064fc316c61c7c826f3a1cb96da0",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "23afe7a4872fca66d9aeb36d209c6538a17d81f1",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "1ca912af0904283a270a822d5876babca5c89739",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "2d040145810b8b14c59c5882f9115698351039d1",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "01c868ab86e33161b03d422c03af41f01947ea06",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e5a69ed6af18a3af131323b2297aae6c052ebc72",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "d26dc0b229043afa5aefca239e72f40d80446917",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "347e297ac19ed55172e84e13075e19ce060954c6",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "923e2b4a1ef0645596eabcd41832cdf8acba4b9a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c1f8acab344fa632f1cce6268d2fc765c45e8b22",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "971c7d41bd912b0e00ae8606adbe36548e2c49b3",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b95367d82a4e0c31a526cf8b292388355847e274",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "04afac977d4bd615c217349083b5f86cfa8060c4",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3c90d252cc464fbd4ec3554fc930e41a0fcaa29f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "75c3f630d4dadda24a95f5d65031e462561d47f1",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ff1113f3b730a68dd0a1a7bd219ad20e5166f8ca",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "58c5bed40a76189a28dd72bbd67fcefaac587184",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "842eabb27fc7b4295a6ad8a44fb21ba0394c7aa8",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9c4217a3e1b9b728690282c914db2067117f4cfb",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "36b3b6f5dd913d3f1c9aa116aff8daf6540fed65",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "24a09c775f6d4b855e2096001f5e034da80158a8",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b65a897856259e7872e39a9e3e68661926592d7b",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "024230fbd23173db38e2c0f66808606481223003",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "d6e83e8f49828940159cd34711cc88ee7b42dc1c",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f7c2f8cedc999ddfbd3e29718442a507cf526cf0",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "20871a17b2ec2b0998b80d941bac51434b0854d5",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b6057c5e0e60945e7731367381d190dad47f710d",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3251d62bd3c740b25139029a1913d1cf5a57173f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "dfdc0e40e1f85c49e580b31204621758e3d76ac5",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "1c09f5b055cc78fabb4881cac75f43734f3dcf61",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "12523c379fe9d0bcf298fba80d9c2ca08e1a0d56",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "d050d980715c0d8649531a3ed5ca7a7472b29760",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "2ea8b0c3f1eeb19f4dc1e9946331c8fd93e6daab",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "2c6da09d9d17f33ebc025c9ec9fa949605288bb7",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "c0f42afa35768cf191dcc061feac2e7396457058",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3ee16b5439837f6bb03052a7d57edd8bc67db7d7",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "64df98fc4a15d5b80dfbb2843e919effa99c4ec2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "d0b9b56b7de3a70cc24475fd552ebe00ad07ab39",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a6908ef44dc21898ed53785fe0bd5f1e373ae779",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "40dd4dd637a44f532af9143bf588dc36a3ced729",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "b44f8521f2b25928bccce9a6ba5c89fb76e5330e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "4787076c6d87488c0087ac0cfb7fa86596b1357a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "d288e328339f29b8d5acffea416c9bd1281e6010",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "8139ffd94cae2b924477d3bd4fd4781929662b04",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "0b451b3a58cabe25c0cecd3fd8847a8597e2313a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "3d408ee96b7cc8eb15756276dbab031eb549e6e2",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "ae3c02fb3fff47da8f20c4f9c8012a257a3df792",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "5823c1ebd7e12a48805eed05532edfd25b69c6fe",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "a1483f2c5f3b921d1117d31f75453e45e5717259",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "065173211e2d884e22d48173f75763c8f6b6c7e3",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "d860fb18b6248abfa911e6188d1105f2afc4e582",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "93f8f12a30a05cd8c6862d0f895e4bd9a9b3336a",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "9c8f8212ef0979add9f5fba7d5c7c6be58869aab",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f120427607986de82f99f2ba9a2eb0ff136c2bae",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "e2dcef860672c140e4b66091292ff3bee3d20110",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "f47f0eb6cba5ae861a8c9e8eb06b6acdb68d159f",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "d1d33f725ecbef51cec05be805094b6bb1733c3e",
+        "repo_name": "apache/hudi"
+    },
+    {
+        "fix_commit_hash": "395806fc684d8f6c3fa1b6b0f29e601cb6f4bbd0",
+        "repo_name": "apache/hudi"
+    }
+]

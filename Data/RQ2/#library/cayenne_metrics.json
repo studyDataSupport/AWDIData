@@ -1,0 +1,46 @@
+{
+    "cate": "#library",
+    "#library-cate_aver_bug_rate": 0.2318840579710145,
+    "#library-cate_aver_bug_commit_rate": 0.2,
+    "high_bug_rate_error_prone_developer_number": 9,
+    "high_bug_commit_rate_error_prone_developer_number": 12,
+    "high_bug_rate_error_prone_developer": {
+        "#library--cayenne--ollybondareva": 0.4,
+        "#library--cayenne--AlexandrShestak": 0.3333333333333333,
+        "#library--cayenne--const1993": 0.28888888888888886,
+        "#library--cayenne--nismooooooo": 0.2682926829268293,
+        "#library--cayenne--AlexKolonitsky": 0.2631578947368421,
+        "#library--cayenne--OlegKhodokevich": 0.25,
+        "#library--cayenne--emecas": 0.25,
+        "#library--cayenne--aplgithub": 0.25,
+        "#library--cayenne--": 0.2395693135935397
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#library--cayenne--emecas": 0.75,
+        "#library--cayenne--AlexandrShestak": 0.4444444444444444,
+        "#library--cayenne--ollybondareva": 0.4,
+        "#library--cayenne--KravchenkoAS": 0.36363636363636365,
+        "#library--cayenne--nismooooooo": 0.2682926829268293,
+        "#library--cayenne--": 0.2597577388963661,
+        "#library--cayenne--OlegKhodokevich": 0.25,
+        "#library--cayenne--aplgithub": 0.25,
+        "#library--cayenne--const1993": 0.24444444444444444,
+        "#library--cayenne--johnthuss": 0.22666666666666666,
+        "#library--cayenne--AlexKolonitsky": 0.21052631578947367,
+        "#library--cayenne--faizel": 0.2
+    },
+    "error_prone_developer_num": 9,
+    "error_prone_developer": [
+        "#library--cayenne--ollybondareva",
+        "#library--cayenne--AlexandrShestak",
+        "#library--cayenne--const1993",
+        "#library--cayenne--nismooooooo",
+        "#library--cayenne--AlexKolonitsky",
+        "#library--cayenne--OlegKhodokevich",
+        "#library--cayenne--emecas",
+        "#library--cayenne--aplgithub",
+        "#library--cayenne--"
+    ],
+    "error_prone_developer_team_rate": 0.21951219512195122,
+    "team_developer_num": 41
+}

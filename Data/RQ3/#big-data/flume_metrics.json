@@ -1,0 +1,9 @@
+{
+    "all_file_num": 3058,
+    "error_developer_file_rate": {
+        "#big-data--flume--stakafum": 0.0013080444735120995,
+        "#big-data--flume--granthenke": 0.009810333551340745
+    },
+    "daily_error_prone_developer": [],
+    "number_daily_error_prone_developer": 0
+}

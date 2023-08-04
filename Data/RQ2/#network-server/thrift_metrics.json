@@ -1,0 +1,32 @@
+{
+    "cate": "#network-server",
+    "#network-server-cate_aver_bug_rate": 0.1875,
+    "#network-server-cate_aver_bug_commit_rate": 0.16170212765957448,
+    "high_bug_rate_error_prone_developer_number": 6,
+    "high_bug_commit_rate_error_prone_developer_number": 5,
+    "high_bug_rate_error_prone_developer": {
+        "#network-server--thrift--vihangk1": 1.0,
+        "#network-server--thrift--punwinger": 1.0,
+        "#network-server--thrift--thomaslee": 0.5,
+        "#network-server--thrift--toddlipcon": 0.2857142857142857,
+        "#network-server--thrift--roshan": 0.25,
+        "#network-server--thrift--dmvolod": 0.2
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#network-server--thrift--vihangk1": 1.0,
+        "#network-server--thrift--punwinger": 1.0,
+        "#network-server--thrift--roshan": 0.25,
+        "#network-server--thrift--thomaslee": 0.25,
+        "#network-server--thrift--dmvolod": 0.2
+    },
+    "error_prone_developer_num": 5,
+    "error_prone_developer": [
+        "#network-server--thrift--vihangk1",
+        "#network-server--thrift--punwinger",
+        "#network-server--thrift--thomaslee",
+        "#network-server--thrift--roshan",
+        "#network-server--thrift--dmvolod"
+    ],
+    "error_prone_developer_team_rate": 0.01256281407035176,
+    "team_developer_num": 398
+}

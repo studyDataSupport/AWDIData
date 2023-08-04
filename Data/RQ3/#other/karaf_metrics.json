@@ -1,0 +1,17 @@
+{
+    "all_file_num": 7165,
+    "error_developer_file_rate": {
+        "#other--karaf--slawekjaranowski": 0.00013956734124214934,
+        "#other--karaf--peculater": 0.00013956734124214934,
+        "#other--karaf--mcculls": 0.00013956734124214934,
+        "#other--karaf--cristcost": 0.00013956734124214934,
+        "#other--karaf--wborn": 0.0002791346824842987,
+        "#other--karaf--akuhtz": 0.0002791346824842987,
+        "#other--karaf--dleangen": 0.0002791346824842987,
+        "#other--karaf--labero": 0.000418702023726448,
+        "#other--karaf--tomqwpl": 0.000837404047452896,
+        "#other--karaf--vladimirfx": 0.0011165387299371947
+    },
+    "daily_error_prone_developer": [],
+    "number_daily_error_prone_developer": 0
+}

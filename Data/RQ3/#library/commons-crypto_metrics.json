@@ -1,0 +1,26 @@
+{
+    "all_file_num": 430,
+    "error_developer_file_rate": {
+        "#library--commons-crypto--kexianda": 0.004651162790697674,
+        "#library--commons-crypto--salyh": 0.011627906976744186,
+        "#library--commons-crypto--colinmjj": 0.020930232558139535,
+        "#library--commons-crypto--dongche": 0.020930232558139535,
+        "#library--commons-crypto--jerrychenhf": 0.05813953488372093,
+        "#library--commons-crypto--dianfu": 0.1186046511627907,
+        "#library--commons-crypto--JkSelf": 0.1372093023255814,
+        "#library--commons-crypto--winningsix": 0.3302325581395349,
+        "#library--commons-crypto--sundapeng": 0.38372093023255816,
+        "#library--commons-crypto--": 0.5558139534883721
+    },
+    "daily_error_prone_developer": [
+        "#library--commons-crypto--colinmjj",
+        "#library--commons-crypto--dongche",
+        "#library--commons-crypto--jerrychenhf",
+        "#library--commons-crypto--dianfu",
+        "#library--commons-crypto--JkSelf",
+        "#library--commons-crypto--winningsix",
+        "#library--commons-crypto--sundapeng",
+        "#library--commons-crypto--"
+    ],
+    "number_daily_error_prone_developer": 8
+}

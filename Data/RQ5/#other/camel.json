@@ -1,0 +1,63 @@
+{
+    "developer": {
+        "#other--camel--brmeyer": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "camel"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "brmeyer",
+                "createdAt": "2011-05-26T18:35:02Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 2,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "impactupgrade/hubspot-java-client",
+                            "isFork": false,
+                            "url": "https://github.com/impactupgrade/hubspot-java-client",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Kotlin"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 1,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 2
+                        },
+                        {
+                            "nameWithOwner": "impactupgrade/salesforce-java-tools",
+                            "isFork": false,
+                            "url": "https://github.com/impactupgrade/salesforce-java-tools",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 0,
+    "deveper_mul_apache_item_error": {
+        "#other--camel--brmeyer": [
+            "camel"
+        ]
+    }
+}

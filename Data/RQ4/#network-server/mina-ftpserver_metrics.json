@@ -1,0 +1,42 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#network-server--mina-ftpserver--garydgregory": "2022-04-11 00:00:00",
+        "#network-server--mina-ftpserver--": "2003-03-31 00:00:00",
+        "#network-server--mina-ftpserver--elecharny": "2008-06-24 00:00:00",
+        "#network-server--mina-ftpserver--hboutemy": "2022-03-19 00:00:00",
+        "#network-server--mina-ftpserver--XenoAmess": "2022-01-04 00:00:00",
+        "#network-server--mina-ftpserver--sebbASF": "2011-04-18 00:00:00",
+        "#network-server--mina-ftpserver--jvermillard": "2008-06-26 00:00:00",
+        "#network-server--mina-ftpserver--trustin": "2008-02-26 00:00:00"
+    },
+    "commiter_end_time": {
+        "#network-server--mina-ftpserver--garydgregory": "2022-04-11 00:00:00",
+        "#network-server--mina-ftpserver--": "2022-04-11 00:00:00",
+        "#network-server--mina-ftpserver--elecharny": "2022-03-28 00:00:00",
+        "#network-server--mina-ftpserver--hboutemy": "2022-03-19 00:00:00",
+        "#network-server--mina-ftpserver--XenoAmess": "2022-01-04 00:00:00",
+        "#network-server--mina-ftpserver--sebbASF": "2011-06-22 00:00:00",
+        "#network-server--mina-ftpserver--jvermillard": "2008-07-10 00:00:00",
+        "#network-server--mina-ftpserver--trustin": "2008-02-26 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#network-server--mina-ftpserver--garydgregory": 0,
+        "#network-server--mina-ftpserver--hboutemy": 0,
+        "#network-server--mina-ftpserver--XenoAmess": 0,
+        "#network-server--mina-ftpserver--trustin": 0,
+        "#network-server--mina-ftpserver--jvermillard": 14,
+        "#network-server--mina-ftpserver--sebbASF": 65,
+        "#network-server--mina-ftpserver--elecharny": 5025,
+        "#network-server--mina-ftpserver--": 6951
+    },
+    "commiter_contribute_time1": {},
+    "commiter_contribute_time2": {},
+    "commiter_contribute_time3": {},
+    "commiter_contribute_time4": {},
+    "commiter_time_trend": {},
+    "daily_long_time_error_prone_developer": [],
+    "number_daily_long_time_error_prone_developer": 0,
+    "improved_daily_long_time_error_prone_developer": [],
+    "number_improved_daily_long_time_error_prone_developer": 0
+}

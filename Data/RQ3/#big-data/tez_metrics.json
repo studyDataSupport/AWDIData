@@ -1,0 +1,17 @@
+{
+    "all_file_num": 3566,
+    "error_developer_file_rate": {
+        "#big-data--tez--jshmchenxi": 0.0005608524957936063,
+        "#big-data--tez--hagleitn": 0.0011217049915872126,
+        "#big-data--tez--pgaref": 0.0016825574873808188,
+        "#big-data--tez--r0hini": 0.0025238362310712283,
+        "#big-data--tez--acmurthy": 0.08468872686483454,
+        "#big-data--tez--sidseth": 0.37913628715647785,
+        "#big-data--tez--": 0.4097027481772294
+    },
+    "daily_error_prone_developer": [
+        "#big-data--tez--sidseth",
+        "#big-data--tez--"
+    ],
+    "number_daily_error_prone_developer": 2
+}

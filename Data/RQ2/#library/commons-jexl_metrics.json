@@ -1,0 +1,19 @@
+{
+    "cate": "#library",
+    "#library-cate_aver_bug_rate": 0.2318840579710145,
+    "#library-cate_aver_bug_commit_rate": 0.2,
+    "high_bug_rate_error_prone_developer_number": 1,
+    "high_bug_commit_rate_error_prone_developer_number": 1,
+    "high_bug_rate_error_prone_developer": {
+        "#library--commons-jexl--dmitri-blinov": 0.4
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#library--commons-jexl--dmitri-blinov": 0.2
+    },
+    "error_prone_developer_num": 1,
+    "error_prone_developer": [
+        "#library--commons-jexl--dmitri-blinov"
+    ],
+    "error_prone_developer_team_rate": 0.037037037037037035,
+    "team_developer_num": 27
+}

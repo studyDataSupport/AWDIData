@@ -1,0 +1,235 @@
+{
+    "developer": {
+        "#library--commons-io--jochenw": {
+            "attribute_apache_item_count": 2,
+            "attribute_apache_item_list": [
+                "commons-io",
+                "creadur-rat"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "jochenw",
+                "createdAt": "2011-09-16T06:52:49Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 8,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "apache/creadur-rat",
+                            "isFork": false,
+                            "url": "https://github.com/apache/creadur-rat",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Ruby"
+                                    },
+                                    {
+                                        "name": "C#"
+                                    },
+                                    {
+                                        "name": "Groovy"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 15,
+                            "watchers": {
+                                "totalCount": 12
+                            },
+                            "forkCount": 36
+                        },
+                        {
+                            "nameWithOwner": "jochenw/afw",
+                            "isFork": false,
+                            "url": "https://github.com/jochenw/afw",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Groovy"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "de-jcup/eclipse-bash-editor",
+                            "isFork": false,
+                            "url": "https://github.com/de-jcup/eclipse-bash-editor",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 34,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 9
+                        },
+                        {
+                            "nameWithOwner": "MPDFT/svn-to-git",
+                            "isFork": false,
+                            "url": "https://github.com/MPDFT/svn-to-git",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 12,
+                            "watchers": {
+                                "totalCount": 4
+                            },
+                            "forkCount": 8
+                        },
+                        {
+                            "nameWithOwner": "eclipse-m2e/m2e-core",
+                            "isFork": false,
+                            "url": "https://github.com/eclipse-m2e/m2e-core",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 85,
+                            "watchers": {
+                                "totalCount": 18
+                            },
+                            "forkCount": 96
+                        },
+                        {
+                            "nameWithOwner": "jochenw/WxUtilities",
+                            "isFork": false,
+                            "url": "https://github.com/jochenw/WxUtilities",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Faust"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "SagGcs/abebc",
+                            "isFork": false,
+                            "url": "https://github.com/SagGcs/abebc",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "SagGcs/wm-installation",
+                            "isFork": false,
+                            "url": "https://github.com/SagGcs/wm-installation",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 0,
+    "deveper_mul_apache_item_error": {
+        "#library--commons-io--jochenw": [
+            "commons-io"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "item_start_time": "",
+    "commiter_files": {
+        "#library--aries--jbonofre": [
+            "'proxy/proxy-impl/pom.xml'",
+            "'proxy/proxy-impl/src/main/java/org/apache/aries/proxy/impl/ProxyUtils.java'"
+        ],
+        "#library--aries--gnodet": [
+            "'transaction/transaction-blueprint/pom.xml'"
+        ]
+    },
+    "number_of_introduce_bugs_per_commit": {
+        "#library--aries--jbonofre": 0,
+        "#library--aries--gnodet": 0
+    },
+    "bug_introducing_commit_rate": {
+        "#library--aries--jbonofre": 0,
+        "#library--aries--gnodet": 0
+    },
+    "commiter_bug_number": {},
+    "number_inducing_commit": {},
+    "commiter_commit_number": {
+        "#library--aries--jbonofre": 7,
+        "#library--aries--gnodet": 2
+    },
+    "team_developer_num": 2
+}

@@ -1,0 +1,2058 @@
+[
+    {
+        "fix_commit_hash": "ecf45785a120b8f6a221363cd317b83fb09ff04f",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "3ca131009825a7ccd98a76ccc19f181e127a4d85",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "d826c9686ca85a79b4e8f52beda4ab78b38bb680",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "4494d7cb174c0ad344ef2ad87852822203190dcd",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "991ae60b432661c187b6cea49f5a964f7d849a25",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "63bbcfb75f437c7cee2578c07a4131e18e709ecf",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "0eff953a7e5a4df01ab8ded7a1737fd9278178a3",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "ae9f7523ffee786576ee76429d9632f90f4e8b1b",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "7909fc405176ab4f718f3901350983e81378ac37",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "ab2fa0d1715084a364c666504ad4b4ea74a23cdc",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "6f7de55890adb92fca49985380fe9dfb65e821f8",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "2ae479efbafe7e09b1d43b3ed9ff00ef51985072",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "d95495b81b52f15f4712ba062c404eb33ecc892b",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "8ff76c7df591d271103f7253451110568d227e82",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "eb6ae03a3286232ad0606d2f2bf6f4eb82607ab6",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "1c72e46de94421a1cb4458ff4511ba8f956b2ebb",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "2a4ecc1293dc2aa91927fdb36e2cedb047ff96a3",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "4dca77e08d0ff56d3c34ef9079d5727c3bd2c801",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "a62bec4dd3aae507bb39037fcde96c10a5f92bd8",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "a97f22412e34a4795a9beb8032a48fd08dfe6acf",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "20ba0e9f7d0c944885092bafb85f3df51b8ed7df",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "eb145ca585a97837a076aa5182e4ec62c8a57aa0",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "94776b09867fdea0875f3e3ca98f68a62f43e707",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "7bd3c1d53eeda4b8bc14656515ba7e885f2f6473",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "779d28b39c267b960ebb65ab3187c63033f7c834",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "c6db5a01632d93ccdd549e169af4fca30b9285a8",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "bdcf4c371677bcb6ac636ff8fa53e355fe7f4dab",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "3a2106c672e96c5d23d996f69572948eff72bfc2",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "4220069b47e41b3a60a2291f51710a3040ee65c2",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "06e9a160f0aae59e95ff04a9cdd431a01127cf91",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "0922aa512a2ba68dc685fc0984fd7662df84a3b9",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "fa8bff819197ce790ca365da97449d192ad7977c",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "f06a78939a6c448717856db21c8a33565d450402",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "1c3a16be161eb2e994df5454f7de3335c3ca1246",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "1f19c0e210dc3d22c5429b09985b2d6deb9f3340",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "b5f94113b15716e7fed81ea643f3948040079422",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "3734100febf7895923028a5ef836027eed2015c0",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "0a914ba3cd05f9a74ce19c7843f56445fa2a932c",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "9423d7466d9507bc243ca3e7bea5a97986bd3bb6",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "8cc2a7f6853c32e49d7aa93176b667502ce74f7c",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "2c185bd5f02ea842b9d2f4628a7204c0453eec0d",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "83053ca9af909a05114b1c1c51df005785daee52",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "5e0ab99fcc10c2c4fbd1bdb29cbddbe0b2a5fe09",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "21caa8c901080335a0ef849c55192f129d2c2dad",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "2c4c80d65984648437dcd602f2ba57f9deca91f6",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "d95abe8c01d256da2ce0a5a88f4593138156a4e5",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "72e607f3be66c30c72b32c24b44e9deaa8e54608",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "4e2502358526b944fc5514c206d306e97ff271bb",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "1509247730cbe639bdf51e0d886823f7bba90cf5",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "e10e8863afcaeafc37c0d1184fb6d8058a68d081",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "126362e4f049976b6b14a8cd627add1029321148",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "7b55ff21da633b11ac84a6526fce0b64473ca669",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "5685edbf58e42baa285198f9b6244d88b82ff7bf",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "f0d56be8f4867908c39c1937fdf25fa8d8524c07",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "717771b275f406ce7ce43cd528be44d6053b7d2b",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "77fa4b8653c525d631e462d148c3af5b368f8361",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "b1903c2b3463dfa368d0fe973c72f2055c838bf6",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "1174922e4fa438948bada8c9afe86952933fafc2",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "c4006cc3b5fda1eea5551fee5a0a7e15c19264d9",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "651c9a56937f8da2f92859bf5720362459bc3202",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "618dd99b6861c80250d2724208e77807c14b5f32",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "c7b5471c2912b68775ae887ab99d3e6cac57a053",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "7594ba6e36ccdf2bd0ea0e32926745b42c0eba63",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "a4998790afe24bde62ae3aa37e6a0c5728c81004",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "cdb86507f29fcae21ca8ccb65571cb7e5aeb49e8",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "fbf62e3bbc17310ff2c8eccd096f19764e02d4c1",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "84f956f6663c3604af0f0d07d2cfb2b8d857eafd",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "842c84bd1767905a19e2af01bdfe88d416d1b2da",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "d1e4739e3b25fc93e4206344d61ddb24dc1a1391",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "4aa12e06536de2f5acc151844a9bdf26f7c28b49",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "853bd6ffca53f44d8bb482b1dbb330ec7b85c9b5",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "1cfe5dc46695716cdbcc6184fcbaaef2bb0c68c2",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "b4126f708c8d163c660bac23230ca670a17e26c6",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "08d5916ed5719087abe4829f42b83d493c6ede3a",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "e26426638eeb9b4901f04af1fd1bdf9581d22200",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "b5fd1a23320cdf071e88ffc9d58c5911d91202f9",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "92de21f64216341c1487aebc1f4aa8ca30607195",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "28b48bb82a564acb72100104347a946ab177d9dd",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "ebb24accd05648df3206d77149ccf182d367700f",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "7215f7b7fdea436017c8a331d5468dc8fc5c7145",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "3fed4bfb910abf3e58b8e12fd6cead76aaddad9a",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "ad89061a33596b78d21bd23e069cacaeaa5a2fb6",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "552891f58e4359c884d4b67def72cbc68430d224",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "6105ac520e8eb0f8c5a6c2c4eeb554aa4362f97e",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "a51278e59334f4155e36a565b858275430022786",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "f8cf5ae43f741ffc99bef1da0a9612095769142f",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "f2985d5022a04dce005ee3540a350822d4987a3b",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "db8560c419cb8411dc77a634e52b3557a807be23",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "f8896e3f85535f7f367164e7a22781b6cadd1e4c",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "5e6c6ab2bdf9b969d4407786e851e305cc7fd25c",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "bc8c82e5b68fb1d888fa6bac7494ed9870dca80d",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "c37d5ba3bab0585a554d1ef56154c74ef2befab7",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "e865363e0f2381428f09aef26a91e6bce8f81a7a",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "03347f02faf5fff9bd5ea75a3d35263bed22cdc7",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "787b385215d45fce46004554d5e03cf2662a5f8f",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "946b88a7ba2738411c203d414aab7548ea549e46",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "df1a0c9d45fb7474ca23c0ab8fe56ef3dc185224",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "f4ee6a955d557ec993b2ce62740106d3a8b5c482",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "b02acc77ef1cd53abc40238f02950a4c404517e3",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "403c0b79bb9faca01ef1018f207f3133ebff2fb9",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "726b4ed879ccfbe3b48ad12bb1d9abd1c7bb766f",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "a86c606a3b4e642acc6fa7b78cc9ce499ebc9aaa",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "c25a89f1dd0ab8654396acedb60e1e1975386a41",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "138eec6167cf7cfa428d3dab78a7b870eb72920d",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "8659d998efa8594f202fa4cc1977898d0c56caff",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "b100e47e693de21bd4a6d33660320759c22654e9",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "a14aef88a8f5f4b92feb179f57a4c2676dba458e",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "e60776cc76c12e10b214db5950fcbf0d80f883e3",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "07f5199529a0e2cdb6dfbda20e4b16f060378b84",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "d2558b7ddf682e41bc829d69bbdafa4927c23887",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "cf140a98c4496f976e4a4fea9b84d58f795983a7",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "8e23c8205d18d4a5b4567bce9e53b656010742b6",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "6bef4aca2cf3126a0aadcdafed6674f269b919bd",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "07003cc9be36c79d2883398971f4167d2ad43bb7",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "de8041faa256b27a210b8fbbcd6d4256b1d1384d",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "2214758bdac1ff36c025afd26dca953b5023436f",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "50f9555e45e303adc616624d7dd7d46b206814ac",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "4523b5f358e7e2cc078bde232e6fec93febf87c4",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "265f9a0c04350b3b21ec8e00dbcd1279efd31107",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "e9213ad212a39c70cfd969ea00ad1a2d5209c544",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "0cfa2517e5493b55fb9d494fe490973c24da9859",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "323c7d38e9d949385eb9d90c47e8971548ab5ed4",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "b96a797af326167b67b4f361867efa20eead5058",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "3a424c771dda350eb9abfbe139d0eaca159cac62",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "8af46d10d15cc0b98560fd227fcc8e249170c323",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "530dc72c869af207dec8da1cbc7b793f8d01d85a",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "95c406fdfff5f753ceb7d400478c92fed90fc042",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "2acb0b76f38f88e824c6882901ecf04f9ebec0eb",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "eb58d604a18d8bc0c23de2a154c180ccb58d4b21",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "2f31242a01afdaf416060d7bb36a10efe89458f3",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "94b6f181e50c10fa925cdce45166addaed3d7955",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "cda343bca9e0ed543d60fcd0dc4c11072e083653",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "cc0da5e37ffa81d92afc3a99a00c4adc9d3c24ad",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "d0923ec55991cfc4282f313784a435fcbb1ea0ea",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "086871c024dd1a7e1c97d5d1caa1c1f593372b46",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "9ba6c92bd6ba0bc7af433289d48eccfc313f8abd",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "1ce13b85647a5695667927d0692cc63560e36bd3",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "74c0e3f8483e826398cc5f3491156db96b2f3b96",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "d9e7eac3bc35ce7446505f9673219b14f9166166",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "cf886865c3ef765ecad01f4b416da21dae6157c7",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "e7d35f57609e70ff4a975a072276e5dff7490a64",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "a6849f047df464c99d57d764d8dd94be0f4c13b4",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "ba51efff41e30108b9c341ac915f552e7357141b",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "68eabcd337ca5aecebec2577c0922f5310ba6c4b",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "02bc7139765142c9346b8ece2d24df9584f5c30b",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "ae3182b5ad977853872ee39e69d39773dcad56bc",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "138c8b328abb8350f2a865c59c7ba81dc3832fab",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "c7555daae221f06c325b2366376982a4c78f2a3b",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "6c476043ed7cfe3da4e90d20bef36b34deb52b93",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "36d44490259be9af0f0eeda98f26ca814c8119f0",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "78f6245797794c12eca26f7a840805f882a3b32b",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "88346896830ea5c2a2c579ee58e8d0be1ad126d7",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "61306d1543ed2b563b2b703bb8761cbee4619602",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "8b339706d517bae8fb8b90e93761b95af8e164a5",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "0eb8df7f144d3e2d5e649a71810cbbd2b97ec019",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "1c15f870a40425b687c649080b398b160026ecc3",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "65807283e61abc9b8288515a28997105ce49a48a",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "f8742c17cd4f03c01142b17f90a7ee17b6f831bd",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "8d9a276d9ae42d0e4dc9aec2951733cdd43f0f92",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "bf5dc6239e073c2f1152d48c4962ea2bf3275d2a",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "aa2d73f85cecc532d4a9a0ca822c5e66f7bbc263",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "b11d8174bf4a090db6b78666f06aeab04555b37b",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "e56035aa82babce38ec092a73e45a33488f681e5",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "6cf348a2a284f4e474a40cb3ebde6746d6056dd6",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "595a53f4424d0edb6f356a7f155c25910f53c7fc",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "0b8924f7519e806c7246d620dce6da4bb3526dfd",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "e0aabe00b3578fbe65095b34faf3533689c053c5",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "938e6ecb307af8973b0d44c0c0cb6c4435c37a38",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "7781c0b18d2e68511a933a53b403b234e399a950",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "94d71df337ee3a3b681eb1c5a55e64c014853c63",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "8f36723cb95e2000e40f3d3db207709403e015e7",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "bca730584d5f49d3cc66d7605eca41f31050ecc6",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "6ebde1a5bd944c4c2cdae4607075485fa3c2e74d",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "32e09a5400ef24b2b917a0118b2087356ea01b44",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "f6353412dad6c9c78d199b3cf6e085b997f842ce",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "85b49c11f73e43b1e02f978b5a9e2961f4e9412a",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "7a300c370085b0409d639c36e7647dbe0693e47b",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "3a967e95f73e7476ecad0726eeef7b5e7b5ddccf",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "34cbc6788123ed9605ead8fb4b31bc994ba7c139",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "029435236c08e79f66f1461f8e684ea690c1b7cd",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "75fba93ee4e5a473b82d3fbb6a9eba81c37ab409",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "aa64f7144df25820385a07975d617abdde5c252f",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "4a990b50ec6c292be8f1f1d66a42aab94f94dc38",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "1aa0d1be8adae22e723e89b2b94fb438e3ac2b1f",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "cd0bf79d3109b15719372eea832f0c6823cfc14a",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "b19d1b62ab3deb54a449746ae9eb608d99ea1543",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "937ddb203b7b88f51d0686f8b438535c8ae6d863",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "067718763835951a3b493e83e372e732f1c519e2",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "54d37558cab1ad731b68fbee7152436829a9f32c",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "334e1c4b6062ca40ac16a10d04f71a78ef8d96f3",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "1c828f3fd35cdbd353bc9ed6a763f4624b49022a",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "320ae6e1ffb856276c4864d540d003d65d530976",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "625e784fc4b353a640e73abbc610bb5c88619792",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "46ab26f8aa1f65ebcff7bdce56bffb3e54e1cc52",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "ed94665cacca5b3e1bc206ba83192d8c2f372d1f",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "3f0f5f095183ee61d0981c964a6c6566e8ab0ac2",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "a40c71da60080be0016e70d3bff54aee9789977e",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "8b43ecd7e3ee9b23e7b13a6e3fd832aefc9708c3",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "33b1b113bc27e3e1850b9907a7ca36d1f516968e",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "7077eec04fd2c7bec87c289e6df8007e79294eb7",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "459539356ad51b946d375ab25a7a555235309ba0",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "044149dfb92f8e058482e8462a651eb8b636c2fc",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "846537113b633963da07e253edfa7596a392c684",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "49c9a9eafd2aa69a0264a69eea388ad32fdaa803",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "abacdec106575e6f5c9d442c9447f693c53fb714",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "920f68c808859f1a417175e312acd1324ce85ea9",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "a7da667415ef96ac5c17e3337890f3dd9a6c5527",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "ca9ba188de6dade28faf55179d84ae38a71238e3",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "29cd1ce101556d76fae1dd161c7b57e3a24b8a70",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "241a0103b893c17d5485f7ceb5f11aa21b163ac1",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "3d457b21c185239c77caf38ef1cb9c8459c5ca28",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "a95de2f032817aec3ebd35f535d53a29af08a07b",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "77be425a75d56f1e998a9d5cf73e07baa387fd04",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "7ad36c14c22df3bb0b156a397766af29892f0bcf",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "d2a015cedb3ac4687952ff8717509bb4587a10b8",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "cdefea9d308a2c0bf02b7a9c7d36a89e2b74493e",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "4a325499b501b194123901c1e337d02bd24ad29b",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "934a2d9cb6a850b3065828a1c4788f8e8725ebe7",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "b3bf8516c515506c9e4b05c2abf1bf114e191f33",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "48cb0ec8a1976096195bb2aae471c3be0bfb4787",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "4604814f93e45cb7571b69eddb50ff1756592671",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "f2a3ea4e16726e29596c28eaef3b1a1f9dbd6e47",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "81f47b3260a4fffc7883d50ac2fc868001fb4bb7",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "15d021ddeb2e9d74ea96deea0ae24da0ccedf901",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "dbc9a65182f143635abe80ea12c0ee0164bc2160",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "54a5e71778c151cffada0290a160cbf84eee6a3c",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "01861806d3e29a17b3dcf2acdea29a3c94c6ad9f",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "cf16cd3ae67a4cc6d39fe6b6ff1713730edb1800",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "cc45eac0fc28605ff7b8de22514a7513b18ddcd6",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "515137f9e871e63ac809959ecf5af75666d86940",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "923d6301d117a65bb7258188ba50856453c34f31",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "a910828e9798ff469a65576f05cdb775fd5a6744",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "16ba76b8a908df33e2c5e77a0691eff3fb098f9c",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "1596f17d14ae0a91be6c365b95ecd5e0b904c173",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "60b8bf547f05bfcc180c3ccbdb590704baa963d3",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "3d66b6dd77a60fa49066e7cb01a7fedacd221faf",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "6c1377e2a0bac531a41cdf9ecfc6525527b8f9a4",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "ed8ad5816bafc030023bbcc8701d7399ce41b345",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "b4dd2ba9c18de97a70bda142d4dcb1adee3792fc",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "6e62f8eb3048fdffd2ce5fef53d6e338d4c05747",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "115322c0611b056031c55d78e0926d888102700e",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "c27d288e175b98accf8cf25526c95b4f0f9f43f3",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "5bdd172ad12e46b679b85d498bc528c7efc280f0",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "730c8a9b7eb16eea871726b01f8dd9f59325e736",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "ad3e0607c92b891809b6221dacf3e584d19de7bb",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "1815fc8274ea409bc100be2e60d3b6757f5ba560",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "e1728f0a12864cf1d0b2507677cbff644aed25f0",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "7a1c9837ef33b1a7ff3ac449c584f535f4c69857",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "b62fad9d427a1bc29dcdfd128aa729a9345349aa",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "c30c6bd0661282f9d8bdaf828aa23b4e315fc843",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "cd75b04e3c557f778b6a1dcdcf7f21a6c9d2be40",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "e8171f115e8bbba697a7df1f88764a29114dc502",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "80d52a5d245d973a82ba1b38ecf129a35e770a78",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "dafef3174a1c0eda03ffd15316a5e14fafd9a8e1",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "5ce25042de5cfa3089b60df66ff08390deb2b785",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "167b7bcf21fdde0f9ed25a1e2f9575040b080887",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "8048657e265ab4f39b8b2e42425602bf151c7b91",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "3b0abce3ca9939dc953877cb06942bc716e82cfd",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "702315367816527b7a129f5908f6d009ed5eae88",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "3b169675e0cb65f8ffac8a7d404f8bcd5d3f2f18",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "a8770d46b09f1c4a4c0dbe7d5e40b80de3f2bfae",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "1c31a714067b1eacbdbf661e6de264941efb3400",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "c447e841c3d16277c5a529ebf389a222146ad50a",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "5abca5e887efbd927bd0a5fe42bf2d3b948e7d8a",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "e836d91a4e788c9c850bcbae3b8d90334520b93e",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "c574593f0a141493fbb1af2db0ecd76462fb8157",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "4b564cc24e709373d8c85d548a02a70a63e83860",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "9487e30fae6528e2e12b978eca7263566b0c9a04",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "bf77a23ef610c25521fe0ca72f37de6e74b82564",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "641abce69d03104ed5ea336616cb103e5a9a13c6",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "5a22110b71dba7f36f68303e41d41563e9bf37f2",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "f041be25280d38987067529062b7e0fee1bd1575",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "90be5430d61bf28bc42459f1ccedd9bd38518182",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "dbc307eaf50ed602bdee8f80d534ad9454eb0dff",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "38557a401305fc7c7db787270dda402d7bca360b",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "ab90cc4ee677e5bfc609ceed3708780cf2d97c0d",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "d7942b54ba7ba699b90da0ee9f17f474c22075f3",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "6879f53e9bb079da120f12ebfbfda2a8dd0e60d8",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "298de6f2251a1bfe36493c6821b7620955b664c8",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "3f14b941154ac59edbb04fb0e77e21ade712ae19",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "72bbb515b772e3364bf2420b39931a085a61f699",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "9a74d8a2844a55eed7a2a0b49e1153d1bd5497a0",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "3a270ec59e1dc58f5e98fc0b40e997102ae57325",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "1d3dc077f7f9d3316a13e37448934c97c1bc2257",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "cd09d7fca567c4da48536b59c424674cc8b0ccfc",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "7d2666eabf63ce76e415543c877f1b087d72c853",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "750d11e163398066dc9f99ce43f486fe71dd5398",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "9275e695d37c115c5aeeaf7de9b14b0ec56d53ba",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "8f394989d1175b24f9f4fd7af98bcaba70d258b0",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "87eb87ecac1c2daf9994f479dc2c95f1d594ba54",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "31d0266b2789e55107959a78972bad827c667dce",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "a411ec7161fff842dc261969692fd10abc99ad57",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "feadbb85433b3ed8cf979829703585eeb073ea25",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "55eb3379338ee38c67fc19e90e9765c7f361ee5f",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "c99f55b4d7cc90afec6318e3079b26280b9e93cd",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "24f310ef5232ce846cc4e304c1025da9e9ab9905",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "8fc6b38bbcca6314e71337c499b035a11be0b4a6",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "11af2fa08063970c31338e05970f2cc2e88c7b64",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "16f247c73939efef2dc6530030cff32b41bbb30f",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "245afa94d2b3dde350b3234fce12429842d6f37b",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "95826016ff1afc65dc573527a7ab0fc1baf956c6",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "38a17fe52aff949517aa88ff42732034e0f18437",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "5b2d1937995f605e3570d982e02f4c37b63788e2",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "e7e0d82ec3623118d7735bd675a107ecb140369d",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "93fff0fcad35dab7ba91fcee1458fa8313c24f65",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "15fef2fdb805e8952cc64e82972d5753229fdfc2",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "801f28269525402de696415ecadedc87da3c6c52",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "f4739433ac774a45c3af57882184d23e9b45cfad",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "1744506d2909e7bd35d19a064271a43ebb4cd90e",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "d7e82d9d58009f7933cb9a3248b10c0b97b6a790",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "ebb464d20e0dbdaf4b5db0713f3d886cfcf0096e",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "3469101290ce6b1ed6340ef8b5a14f725a6bf227",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "356f8f7d9f4ddf996b705e6167e5b725dbdcf881",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "b68774d4b8975f6ac44c70812b465bcb88598c93",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "61aaa25e59defa3a655959aaa4dd033269af2c1b",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "090a057069f68d9abda3e53c0afe64c50fdabbb0",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "550a2cd2379d38ef5349246a5bec2d4f0c1656f3",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "73d63256a830d34f4d93305fdec9c5c0c6992ab0",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "f39136039d1f3acbfcbcc8acd56d556d039c4c18",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "ae9314971c5023c72d344c5ba7b3704c6b73c573",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "9c45305c6c3a45a620d7ed2ccde47d34556d6d60",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "204b00d48143739a1292e59571ec73005fa65264",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "fdaf798aa30f0f473dbed77cbfa5d28a96766390",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "89cad059f68fe5bbc058c4e579c7135eeaf4b20a",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "b671c09c9d2be2c9d4e4af9fb192e23d2359b84e",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "72bf21777346b64a93afa33b43cec5b6b8b12fee",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "61c68f012bb3799a235d6273e5f77b7fc9d45460",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "4944bb90f0760baf9e6067e270ba3b2a2007a2fe",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "6f37b12f0e4dc52cd6e4a57ff249c48a0ed59c59",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "360a69460cb4384554e9c3fa4060ec2b62f2bc00",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "fa1fc9fcc4b7f470fd27249cabc427e1af3e0e93",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "f24f10b3ff19a1d8eb9c421b9ec0ec3e8fbe60c1",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "6d1278201aab8fae40b1423a5204fc989003a89a",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "303507d6b9bc385699dc926e0ffa5b73737d9f89",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "ab5105bd574289f23404fddea5647328ecbcbc9f",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "10478c8e8ffff4cec8b27dd37e3ebe2dd37ed4f9",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "e88f2901c5bac5195768ad5e1b5e0af724f0d9f6",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "fd5beb5b201acde0664f8fbde0f87c318e0df99d",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "bd6796897ec8e7602a8dcdabe143077bc2ee156c",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "406e5c462c6a2c6475521078682520e6e5760991",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "2bfcd31301eb5619cb9bd6e3a40ddbc5359800b1",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "364b84a831738b7228b81ae5ae1b6638e1d6cc02",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "fab97551a801747d35ff890242a425969a26da59",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "a34a8ed3eeb5f8e95ee9b4432ece9d25ad266525",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "a848381293cca9f6ae4ec473c0e53baa92ed8378",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "7f05f64b0073e3e75ad357b80150da947c4c8c2b",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "68fbe33d8692978d2f5e78f3aaf06418097ca538",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "db3605e8eff803e09138288d16df2a3ee8948c0e",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "9429d0ef0e32afdbe88839ee955b2f638471f771",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "4e33427a1682bdba67186fe1fa0fab0b952736f3",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "02b78e988cd7b768655ae88f9b3b5f125396d79a",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "48811a5871ce0123a2592ad473368b7753e679dd",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "bcc29d014164335388d9797b8278d883546cac0d",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "0f3902141ca08612da77955644ca730f1e511133",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "3b52b8f8ea3dc247a8d786ffd131b014a1294f34",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "accd49607c8653679b2a047ccec62223a0b2f2bd",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "249ab699ff05f74258586e7dc908b29c83613130",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "2ed563da2fa4535225591570e48520b5c9d828b6",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "e62058be691ad452be79c96d0738207d34d55ea3",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "b1cdf8765d0d958217fe65568631c4be776eaaba",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "4c410f32f951085a0f03d256649c833cd00996a6",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "2f6d6ea62dbc4fee9e765547dbd65fb267e282f7",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "f724794a4d7e918c009f2d3282c4dd3282467c03",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "38b99026b59f3a97fa9c6f495e79c9f9f417afb7",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "e8148110ea2458fa2244a439583da0f2adddb482",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "c24b6823795b5d1da7965f7d53308a654f76b975",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "e9038460f6b49a1a69d261d9c2d3a269faed7bb5",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "2603727a923d45037a51b51f58717f4c1ed08192",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "dec5d7e7e7f80e4c7d22c4e56b42d0f568f730b4",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "af0270f9fe0f92ac55f482c72588a02566f4db45",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "e0132b6fe804291f8950fa2d107aa7d25cabb3a1",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "92c0e773d344c78808bce5ce923e3000368c68fe",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "28ca1132b913ee33d9f62689c859d847862c32c5",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "5638a30b2ba14b9e590fa6f2d411a2810d23c21c",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "28169465dc1748c711ff16a86c000cffc14063a8",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "a37851c6aba102d30e6acc33ac5c2098af7ac3eb",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "878eab3a8ea7d76e0d0a2672882597e3a3dbeb78",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "ede53193d6eba06b1f3ee657cb5777f4ca2f8e76",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "a421be8c740645d1c09402bdf94463b4319fcec1",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "e06f658edfe8dc3ed79a6ab760862e67110a8780",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "7fd2d861fe8ce8e51f32d79b5192b144eb2f68ea",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "02d6987886075a42bf2bba9d46aa3424c92ca9c9",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "28c14e9a4c54a2ecddb9359d81a608075149bf67",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "9612727f9353aa6a9f03bc307f86d765a904830f",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "7297d95bb3b73401aff2c44e66b7ced163d8d886",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "01b87451db42627e908f3f9c900aba9a7620f891",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "6fa6080e65f041a8f72dae9a831d2edab2770f43",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "776bfcff0e36b1d8338a12f3144885e430296566",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "b2394cb03e390075aa92b65f8b0f4247b27ecd32",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "17db0f11e85bb21def0af785e654db15120d874b",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "15de1f5c92d90b583cce13d0bd7bda05d396adea",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "e56f26140787fbe76b3c155c0248558287370e2c",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "fc063b934666bbf12886cd1fd5f07d1b3c82dfa8",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "acc6c73680f4f2fb0b13c9a4b429d995035a34c7",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "709fdb7cd7fc20abd151b1a92a7c9021553e5924",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "b43b71208e28d02ec1f07b4761195d66ba4337e8",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "cb8c0861e16bbab6ad11d1dc2b1820d054aa2fba",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "2b0f0fa30f2ed20965abbf0caf4b1e00d57b4f37",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "412fc078b9634cf659e11c63cb1a07c7eb385e40",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "19cb8aa1cd8c12078dc462eb7769928837c2a966",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "055131e8e94213ca7041ef7930881fd770fe7287",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "ae8e604436ac52b99a5fbacfce93da1186445b2f",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "320aa8ceae097f29959172ce48e254aa9571111b",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "d2e84a3a37fcbdfd4c9868e28d3fc34573973354",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "3faba994349f0fbf7fafb7b99f0620f0063b8f0d",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "d860a471e7ebbfbfd89815dd26ccb96944d61dd3",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "d97fc6805fc3209653e9818e8f148603026aed6f",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "be1fd862f67623f2d69a87445a777486f1c84e9e",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "23bd326c28e976c74fcf3c0b14b72fb3be34bdd8",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "32151ae7ab34f9df07340ad150b2920f128186e2",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "c2d25218b429e6041c3652025788701e795db22e",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "950225ed644937af40685339d143bd5da1c1e96d",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "820924d0fd05636def1aaadcf3de8d4253a64dfa",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "8bd3795aa4f4372c52b259ec65d5c2b8eeaa3095",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "4f10de53ef0246f556ff8ba62ac6810d43351fa5",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "a8347771ebdb93cf2427d899d443ba8ca7babbff",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "61e441b9290c8d1e0c29a0e45c926a6cf3322443",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "96adcbb82e842494eab2f60ea5763c7122e7df90",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "dcd40a841df390b975d56503101fb44412c1008d",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "52029152123e2eeb706a1090e972c86833184416",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "418c93a5db77bed058d9f361b873e43c92f58532",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "13f72a5ce74181b67fa6c55d2144cfa256d06a3f",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "26c6bf87df2d0e46fc233ba39e3494911dad655c",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "089973fbbf5a9aafdf41d4dadfb4b93b45fba7cf",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "77d4e440c7b5a09fc17268978535f4a8135d4ce8",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "b8e515a5b6b1a580e57fa31e9d7705ea84ad9bbc",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "0d2a0bd9112c968bc099dd56bff17e14e750c7e1",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "345923e83598ce5ec23eb463e7e8c626f42109b5",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "ae6b1771071426cdfbf805b7edb54d3f90f7e06c",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "f7fdffb4f21482ec67f8d6cb9fd2bc94f33962c1",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "26fd2730edf16da064d87ffd0f3e3f56aca5ed28",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "0a742231ed2a5d8b70bfa9928cf6d3b7fd5418ca",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "6aff08ca8c2913ed700eb7c817897360b810ce92",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "bf4acef3fa66a3cf403e2a70ca5d9c35f60e09ee",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "9176a822ad42cbcc56f0d157d776b5589cd8cc07",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "4600b51887de35647220ca47fa1a09042db2cb52",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "66fcfd7c5de57d6771ceb433c54458ae4ac021d3",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "4606ad05023b3c489d5f1459591df84cee99794d",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "db89d66a2a540573d476236eb7d0ce32f00cb6bd",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "7101eac548ef5b16d40ad36a243cd87de6f6cd44",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "d11e3ebe6bd0d1d9ce3a3c42b78884dcfa7532fc",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "439252fa891916db0ac1ae1673eafa954bb8f288",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "89a8723ca5f4e91e186a6461fc3b1b2599f0abda",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "5fb5ac0f1da068d87dd582b52066f1931e035bc5",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "096385207f654591ff0d74feea8fe4b79b41992a",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "c32050e080f598848f27aaeefd6c4283fba6a401",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "2bb1b2b990d67ea678cc450ead476b6bfa37476a",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "8e58f857f0e78bcf09aa13ca528fda6912dd9541",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "9c605a8a4b61fe3110b3e3f0083d3a79cd464573",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "390efbd3ce7eb0a02e016dc6fa4136057e12ecff",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "dcc789e3a7421f84378b4137ef5943075a50856c",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "0f4c52dbfe97f62641cf1713399335b86ca768c2",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "5819dc89013b6075a6eecedf0f62278c25bf00f9",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "5390c6cfb7560a3ea6c94de307febd7611cd27ee",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "e5e9da7944780939af3db567b585b3fdaaab8536",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "b545440adf929b0bef905d003ef88983199e52ce",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "66127d9ac593cd037d867466e7fc5970efa28b49",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "6055b4255b5353424a53776f1748949ff021cd48",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "633621ef54af4e5a82240d5ede45b37e28d4fd95",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "78f67ac3661923d8925171be718f226f37ddc8a5",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "5505bd950497ff98ac2b74ba0d32567ca3aa0703",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "7c063de9663e72d718b339c3d1c8d43c6aa04ac8",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "599ddeb4eeeca60c73a6238fd91db38a54c53b30",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "4cebd064256778d75dc9e94169bfcb85ccbf0805",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "d907379c83fee8ac3c68a08500ec2acc439a08c6",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "dfb062768a851275c8d346fa55ab85a360731ba9",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "f468e453233c8b66f3457526c4ba9fc1c478bec3",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "562e984a42fc42daebf0ae05cdee492ed083ce9a",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "8aeccd5b95901c739d36113d62a1c8976af85965",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "465127cb392d99878f61fc48a35089f12c4ef85b",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "408445efc3acceac1a17b92f07af037017d48746",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "c75903ac9edaec804cafcea3f0e07f725c63771d",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "54744b7231b2018dab6f893cbc2be88018081b31",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "01d4f0cdf356f7b7159f518872dfe6d117cf3456",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "57c9f71a8d496695d9c6f78b74b5c4b3cad63199",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "04f7d1736edc149f5699163191786328b30c1cf5",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "2fa81d4b8b0bbf304e4dd039f6cb5c29fa59ee16",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "1d9671cdeaed99d3bb8871ee8fd81695745dfe08",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "b8a5f2ceedb5126a7927272bd0164ffef35181b8",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "d69a530d6d04071377e3ce68d8ff7eaa0ef653f3",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "4279d2ba5f30d7b0e8aad94642096473262ae8cb",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "1c63546506457e1a74fed6ca92cb9d0c0d54a2fc",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "9ca1855d70ec6b64c686f07dafb0a2ce3f8273b5",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "f8a9d3e3b7e40e7bd0421545b6058b5f20fbfa65",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "9b50cfd5dde327a94bd9b014d7148a9b182f0ed8",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "8a3fe7196ce43c586f45b097c8fbae739ad63f86",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "15dde98d6ba3174607f2f1a936a7e18245c24ad1",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "8deaf4a7d5a7e5e6d3791992f326d639a348e240",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "c8407c237c7cc08d6b8ab5e63fab17c61fb80530",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "e405e700277221e12a5f86fac27fb0b4ee396930",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "289250c13e67d55120e9e62dc8d3e6cc1569a97a",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "f2e29a272a05303b7822411f214822264ea7cfc7",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "c0e020943ca7d4eeba1e8810cf1b55dcbab422a4",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "7febb8b9b7235b6e1b84d42aaa64bdbeee0317da",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "c0f45e4ba2c89cb4318f43bbf3d21ef66eed4261",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "81c12d4f13b0b238091f7d7672db0b5cfc0f9e85",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "1b7e45112cbddf4904914a4ab6b094cc570fd040",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "74016a168f9805f4a6449e93a2fcb630f6316f4c",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "617bece9b867912b6e868b086f0604a13721191e",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "94d0b8f129e8ecd6ab7a3c582f7e8fec7478a934",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "5ef267be3e0f7b39d4c430e7e588259551a82284",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "d1273355f53340e08ae306d4e50888b7e454fb26",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "d10187829685222aa6c639d638d37811bdccc0af",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "30d16a4975a982e0cc6bcac98554aa05f759aeb6",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "94327565d2c558185b71473a14786e11dc26c0b6",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "0aef2609c0737d33e9f1f527a9baf99b5108ac9e",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "318da67f5067210d079d58149650a9e5f62dff62",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "ea307310516185c0ffc3f979e7530cfe621555c7",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "35eb438923bb817dae17f75026d108641ff6aabb",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "973586980f1cfc0902e9824f5c63e1d976015812",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "6f5ff204280572d80eaaa7c1d5ecf9542408d921",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "798f293503ce318625181202ff71cb6d7b9864a2",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "1e2dd6712241cdfad81786f10015cf2a7b96d723",
+        "repo_name": "apache/deltaspike"
+    },
+    {
+        "fix_commit_hash": "e9cfab5b735264bd40cb2719442d728cf09ddf6f",
+        "repo_name": "apache/deltaspike"
+    }
+]

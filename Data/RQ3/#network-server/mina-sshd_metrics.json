@@ -1,0 +1,24 @@
+{
+    "all_file_num": 3235,
+    "error_developer_file_rate": {
+        "#network-server--mina-sshd--cleiner": 0.0006182380216383308,
+        "#network-server--mina-sshd--cschneider": 0.0006182380216383308,
+        "#network-server--mina-sshd--stephenc": 0.0009273570324574962,
+        "#network-server--mina-sshd--ggrandes": 0.0012364760432766616,
+        "#network-server--mina-sshd--sverhoeven": 0.0012364760432766616,
+        "#network-server--mina-sshd--jonnyzzz": 0.0015455950540958269,
+        "#network-server--mina-sshd--thefourtheye": 0.0018547140649149924,
+        "#network-server--mina-sshd--mheemskerk": 0.0018547140649149924,
+        "#network-server--mina-sshd--lifangning": 0.0021638330757341576,
+        "#network-server--mina-sshd--robertodeandrea": 0.0030911901081916537,
+        "#network-server--mina-sshd--jeis2497052": 0.0037094281298299847,
+        "#network-server--mina-sshd--The-Yoda": 0.004945904173106646,
+        "#network-server--mina-sshd--JackOfMostTrades": 0.0061823802163833074,
+        "#network-server--mina-sshd--alonbl": 0.0071097372488408035,
+        "#network-server--mina-sshd--gnodet": 0.5928902627511592
+    },
+    "daily_error_prone_developer": [
+        "#network-server--mina-sshd--gnodet"
+    ],
+    "number_daily_error_prone_developer": 1
+}

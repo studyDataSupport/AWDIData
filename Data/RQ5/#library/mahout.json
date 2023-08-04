@@ -1,0 +1,1028 @@
+{
+    "developer": {
+        "#library--mahout--drewfarris": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "mahout"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "drewfarris",
+                "createdAt": "2009-08-01T15:59:45Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 16,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "apache/accumulo",
+                            "isFork": false,
+                            "url": "https://github.com/apache/accumulo",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Thrift"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "FreeMarker"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 987,
+                            "watchers": {
+                                "totalCount": 88
+                            },
+                            "forkCount": 431
+                        },
+                        {
+                            "nameWithOwner": "NationalSecurityAgency/datawave",
+                            "isFork": false,
+                            "url": "https://github.com/NationalSecurityAgency/datawave",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 484,
+                            "watchers": {
+                                "totalCount": 55
+                            },
+                            "forkCount": 225
+                        },
+                        {
+                            "nameWithOwner": "NationalSecurityAgency/emissary",
+                            "isFork": false,
+                            "url": "https://github.com/NationalSecurityAgency/emissary",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Mustache"
+                                    },
+                                    {
+                                        "name": "Smarty"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 224,
+                            "watchers": {
+                                "totalCount": 35
+                            },
+                            "forkCount": 120
+                        },
+                        {
+                            "nameWithOwner": "NationalSecurityAgency/datawave-accumulo-service",
+                            "isFork": false,
+                            "url": "https://github.com/NationalSecurityAgency/datawave-accumulo-service",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 3,
+                            "watchers": {
+                                "totalCount": 11
+                            },
+                            "forkCount": 10
+                        },
+                        {
+                            "nameWithOwner": "NationalSecurityAgency/datawave-audit-service",
+                            "isFork": false,
+                            "url": "https://github.com/NationalSecurityAgency/datawave-audit-service",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 4,
+                            "watchers": {
+                                "totalCount": 11
+                            },
+                            "forkCount": 12
+                        },
+                        {
+                            "nameWithOwner": "NationalSecurityAgency/datawave-authorization-service",
+                            "isFork": false,
+                            "url": "https://github.com/NationalSecurityAgency/datawave-authorization-service",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 3,
+                            "watchers": {
+                                "totalCount": 9
+                            },
+                            "forkCount": 16
+                        },
+                        {
+                            "nameWithOwner": "NationalSecurityAgency/datawave-config-service",
+                            "isFork": false,
+                            "url": "https://github.com/NationalSecurityAgency/datawave-config-service",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 3,
+                            "watchers": {
+                                "totalCount": 9
+                            },
+                            "forkCount": 10
+                        },
+                        {
+                            "nameWithOwner": "NationalSecurityAgency/datawave-dictionary-service",
+                            "isFork": false,
+                            "url": "https://github.com/NationalSecurityAgency/datawave-dictionary-service",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 10,
+                            "watchers": {
+                                "totalCount": 10
+                            },
+                            "forkCount": 16
+                        },
+                        {
+                            "nameWithOwner": "NationalSecurityAgency/datawave-hazelcast-service",
+                            "isFork": false,
+                            "url": "https://github.com/NationalSecurityAgency/datawave-hazelcast-service",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2,
+                            "watchers": {
+                                "totalCount": 9
+                            },
+                            "forkCount": 9
+                        },
+                        {
+                            "nameWithOwner": "NationalSecurityAgency/datawave-microservices-root",
+                            "isFork": false,
+                            "url": "https://github.com/NationalSecurityAgency/datawave-microservices-root",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 11,
+                            "watchers": {
+                                "totalCount": 10
+                            },
+                            "forkCount": 18
+                        },
+                        {
+                            "nameWithOwner": "NationalSecurityAgency/datawave-spring-boot-starter",
+                            "isFork": false,
+                            "url": "https://github.com/NationalSecurityAgency/datawave-spring-boot-starter",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 9,
+                            "watchers": {
+                                "totalCount": 9
+                            },
+                            "forkCount": 14
+                        },
+                        {
+                            "nameWithOwner": "NationalSecurityAgency/datawave-spring-boot-starter-audit",
+                            "isFork": false,
+                            "url": "https://github.com/NationalSecurityAgency/datawave-spring-boot-starter-audit",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 5,
+                            "watchers": {
+                                "totalCount": 9
+                            },
+                            "forkCount": 9
+                        },
+                        {
+                            "nameWithOwner": "NationalSecurityAgency/datawave-type-utils",
+                            "isFork": false,
+                            "url": "https://github.com/NationalSecurityAgency/datawave-type-utils",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 3,
+                            "watchers": {
+                                "totalCount": 9
+                            },
+                            "forkCount": 11
+                        },
+                        {
+                            "nameWithOwner": "NationalSecurityAgency/datawave-query-metric-service",
+                            "isFork": false,
+                            "url": "https://github.com/NationalSecurityAgency/datawave-query-metric-service",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 4,
+                            "watchers": {
+                                "totalCount": 8
+                            },
+                            "forkCount": 11
+                        },
+                        {
+                            "nameWithOwner": "NationalSecurityAgency/datawave-spring-boot-starter-query-metric",
+                            "isFork": false,
+                            "url": "https://github.com/NationalSecurityAgency/datawave-spring-boot-starter-query-metric",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2,
+                            "watchers": {
+                                "totalCount": 7
+                            },
+                            "forkCount": 1
+                        },
+                        {
+                            "nameWithOwner": "NationalSecurityAgency/datawave-ingest-services",
+                            "isFork": false,
+                            "url": "https://github.com/NationalSecurityAgency/datawave-ingest-services",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Smarty"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 7,
+                            "watchers": {
+                                "totalCount": 11
+                            },
+                            "forkCount": 3
+                        }
+                    ]
+                }
+            }
+        },
+        "#library--mahout--adeneche": {
+            "attribute_apache_item_count": 2,
+            "attribute_apache_item_list": [
+                "mahout",
+                "drill"
+            ],
+            "is_error_developer_apache_item_count": 2,
+            "item_info": {
+                "login": "adeneche",
+                "createdAt": "2014-08-12T01:41:49Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 0,
+                    "nodes": []
+                }
+            }
+        },
+        "#library--mahout--MaineC": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "mahout"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "MaineC",
+                "createdAt": "2009-04-06T11:16:17Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 6,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "InnerSourceCommons/InnerSourcePatterns",
+                            "isFork": false,
+                            "url": "https://github.com/InnerSourceCommons/InnerSourcePatterns",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Ruby"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 693,
+                            "watchers": {
+                                "totalCount": 50
+                            },
+                            "forkCount": 170
+                        },
+                        {
+                            "nameWithOwner": "InnerSourceCommons/InnerSourceLearningPath",
+                            "isFork": false,
+                            "url": "https://github.com/InnerSourceCommons/InnerSourceLearningPath",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 68,
+                            "watchers": {
+                                "totalCount": 24
+                            },
+                            "forkCount": 51
+                        },
+                        {
+                            "nameWithOwner": "InnerSourceCommons/innersourcecommons.org",
+                            "isFork": false,
+                            "url": "https://github.com/InnerSourceCommons/innersourcecommons.org",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "SCSS"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 26,
+                            "watchers": {
+                                "totalCount": 10
+                            },
+                            "forkCount": 28
+                        },
+                        {
+                            "nameWithOwner": "InnerSourceCommons/foundation-governance",
+                            "isFork": false,
+                            "url": "https://github.com/InnerSourceCommons/foundation-governance",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 8,
+                            "watchers": {
+                                "totalCount": 9
+                            },
+                            "forkCount": 2
+                        },
+                        {
+                            "nameWithOwner": "MaineC/BlocklyCraft",
+                            "isFork": true,
+                            "url": "https://github.com/MaineC/BlocklyCraft",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "MaineC/mainec.github.io",
+                            "isFork": false,
+                            "url": "https://github.com/MaineC/mainec.github.io",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "SCSS"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Awk"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 2
+                        }
+                    ]
+                }
+            }
+        },
+        "#library--mahout--jakemannix": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "mahout"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "jakemannix",
+                "createdAt": "2009-03-31T22:15:30Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 3,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "yetanotheruseless/labs",
+                            "isFork": false,
+                            "url": "https://github.com/yetanotheruseless/labs",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Jupyter Notebook"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "jakemannix/jakemannix.github.io",
+                            "isFork": false,
+                            "url": "https://github.com/jakemannix/jakemannix.github.io",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "jakemannix/smithers",
+                            "isFork": false,
+                            "url": "https://github.com/jakemannix/smithers",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 1,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "#library--mahout--tdunning": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "mahout"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "tdunning",
+                "createdAt": "2010-04-23T05:04:12Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 17,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "carrot2/carrot2",
+                            "isFork": false,
+                            "url": "https://github.com/carrot2/carrot2",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Lex"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 694,
+                            "watchers": {
+                                "totalCount": 62
+                            },
+                            "forkCount": 201
+                        },
+                        {
+                            "nameWithOwner": "tdunning/pig-vector",
+                            "isFork": false,
+                            "url": "https://github.com/tdunning/pig-vector",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "GAP"
+                                    },
+                                    {
+                                        "name": "PigLatin"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 55,
+                            "watchers": {
+                                "totalCount": 9
+                            },
+                            "forkCount": 6
+                        },
+                        {
+                            "nameWithOwner": "tdunning/log-synth",
+                            "isFork": false,
+                            "url": "https://github.com/tdunning/log-synth",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "R"
+                                    },
+                                    {
+                                        "name": "1C Enterprise"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 249,
+                            "watchers": {
+                                "totalCount": 25
+                            },
+                            "forkCount": 92
+                        },
+                        {
+                            "nameWithOwner": "tdunning/work-group",
+                            "isFork": false,
+                            "url": "https://github.com/tdunning/work-group",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 1,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 1
+                        },
+                        {
+                            "nameWithOwner": "tdunning/t-digest",
+                            "isFork": false,
+                            "url": "https://github.com/tdunning/t-digest",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "R"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 1821,
+                            "watchers": {
+                                "totalCount": 66
+                            },
+                            "forkCount": 228
+                        },
+                        {
+                            "nameWithOwner": "JuliaLinearAlgebra/RandomizedLinAlg.jl",
+                            "isFork": false,
+                            "url": "https://github.com/JuliaLinearAlgebra/RandomizedLinAlg.jl",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Julia"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 14,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 6
+                        },
+                        {
+                            "nameWithOwner": "weymouth/WaterLily.jl",
+                            "isFork": false,
+                            "url": "https://github.com/weymouth/WaterLily.jl",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Julia"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 437,
+                            "watchers": {
+                                "totalCount": 22
+                            },
+                            "forkCount": 55
+                        },
+                        {
+                            "nameWithOwner": "PumasAI/SimpleChains.jl",
+                            "isFork": false,
+                            "url": "https://github.com/PumasAI/SimpleChains.jl",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Julia"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 207,
+                            "watchers": {
+                                "totalCount": 18
+                            },
+                            "forkCount": 12
+                        },
+                        {
+                            "nameWithOwner": "tdunning/LogSynth.jl",
+                            "isFork": false,
+                            "url": "https://github.com/tdunning/LogSynth.jl",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Julia"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "ucum-org/ucum",
+                            "isFork": false,
+                            "url": "https://github.com/ucum-org/ucum",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 28,
+                            "watchers": {
+                                "totalCount": 6
+                            },
+                            "forkCount": 6
+                        },
+                        {
+                            "nameWithOwner": "tdunning/TDigest",
+                            "isFork": false,
+                            "url": "https://github.com/tdunning/TDigest",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Julia"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 3,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 2
+                        },
+                        {
+                            "nameWithOwner": "tdunning/SimpleCompression",
+                            "isFork": false,
+                            "url": "https://github.com/tdunning/SimpleCompression",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Julia"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "tdunning/temperature-logger",
+                            "isFork": false,
+                            "url": "https://github.com/tdunning/temperature-logger",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "tdunning/ucum",
+                            "isFork": true,
+                            "url": "https://github.com/tdunning/ucum",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "tdunning/OpenUnits",
+                            "isFork": false,
+                            "url": "https://github.com/tdunning/OpenUnits",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 1,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "tdunning/sample",
+                            "isFork": false,
+                            "url": "https://github.com/tdunning/sample",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "tdunning/github-advisory-parser",
+                            "isFork": false,
+                            "url": "https://github.com/tdunning/github-advisory-parser",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "#library--mahout--robinanil": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "mahout"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "robinanil",
+                "createdAt": "2010-05-24T13:05:32Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 0,
+                    "nodes": []
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 1,
+    "deveper_mul_apache_item_error": {
+        "#library--mahout--drewfarris": [
+            "mahout"
+        ],
+        "#library--mahout--adeneche": [
+            "drill",
+            "mahout"
+        ],
+        "#library--mahout--MaineC": [
+            "mahout"
+        ],
+        "#library--mahout--jakemannix": [
+            "mahout"
+        ],
+        "#library--mahout--tdunning": [
+            "mahout"
+        ],
+        "#library--mahout--robinanil": [
+            "mahout"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "all_file_num": 411,
+    "error_developer_file_rate": {
+        "#library--commons-text--bradleyrumball": 0.004866180048661801,
+        "#library--commons-text--sermojohn": 0.004866180048661801,
+        "#library--commons-text--yuji-k64613": 0.004866180048661801,
+        "#library--commons-text--CAPS50": 0.0072992700729927005,
+        "#library--commons-text--jarst": 0.021897810218978103,
+        "#library--commons-text--TheRealHaui": 0.051094890510948905
+    },
+    "daily_error_prone_developer": [],
+    "number_daily_error_prone_developer": 0
+}

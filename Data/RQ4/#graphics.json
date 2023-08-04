@@ -1,0 +1,398 @@
+{
+    "commiter_start_time": {
+        "#graphics--cocoon--ilgrosso": "2012-03-15 00:00:00",
+        "#graphics--cocoon--cdamioli": "2013-04-02 00:00:00",
+        "#graphics--cocoon--": "2003-02-27 00:00:00",
+        "#graphics--cocoon--simonetripodi": "2010-01-11 00:00:00",
+        "#graphics--cocoon--jashaj": "2008-08-25 00:00:00",
+        "#graphics--cocoon--reinhard": "2003-06-30 00:00:00",
+        "#graphics--cocoon--cziegeler": "2003-03-10 00:00:00",
+        "#graphics--cocoon--devkat": "2004-02-24 00:00:00",
+        "#graphics--cocoon--gkossakowski": "2007-03-10 00:00:00",
+        "#graphics--cocoon--lgawron": "2004-11-21 00:00:00",
+        "#graphics--cocoon--rgoers": "2004-11-07 00:00:00",
+        "#graphics--cocoon--SimoneGianni": "2006-04-18 00:00:00",
+        "#graphics--cocoon--swallez": "2003-03-09 00:00:00",
+        "#graphics--cocoon--bdelacretaz": "2003-03-25 00:00:00",
+        "#graphics--cocoon--tcurdt": "2003-03-11 00:00:00",
+        "#graphics--cocoon--stefanom": "2003-03-10 00:00:00",
+        "#graphics--cocoon--pfumagalli": "2003-02-27 00:00:00",
+        "#graphics--cocoon--osi": "2003-09-10 00:00:00",
+        "#graphics--cocoon--rubys": "2003-03-09 00:00:00",
+        "#graphics--xmlgraphics-batik--simonsteiner1984": "2016-03-04 00:00:00",
+        "#graphics--xmlgraphics-batik--": "2000-10-01 00:00:00",
+        "#graphics--xmlgraphics-batik--vhennebert": "2013-11-05 00:00:00",
+        "#graphics--xmlgraphics-batik--jmaerki": "2005-06-23 00:00:00",
+        "#graphics--xmlgraphics-batik--cjolif": "2000-10-23 00:00:00",
+        "#graphics--xmlgraphics-batik--stefanom": "2000-10-28 00:00:00",
+        "#graphics--xmlgraphics-fop--simonsteiner1984": "2014-04-28 00:00:00",
+        "#graphics--xmlgraphics-fop--": "1999-10-31 00:00:00",
+        "#graphics--xmlgraphics-fop--jmaerki": "2002-05-05 00:00:00",
+        "#graphics--xmlgraphics-fop--vhennebert": "2006-10-25 00:00:00",
+        "#graphics--xmlgraphics-fop--spepping": "2004-05-27 00:00:00",
+        "#graphics--xmlgraphics-fop--bdelacretaz": "2002-10-31 00:00:00",
+        "#graphics--xmlgraphics-fop--chrisgt": "2002-03-01 00:00:00",
+        "#graphics--xmlgraphics-fop--dirkx": "1999-10-31 00:00:00"
+    },
+    "commiter_end_time": {
+        "#graphics--cocoon--ilgrosso": "2019-04-14 00:00:00",
+        "#graphics--cocoon--cdamioli": "2013-04-02 00:00:00",
+        "#graphics--cocoon--": "2012-10-02 00:00:00",
+        "#graphics--cocoon--simonetripodi": "2012-03-17 00:00:00",
+        "#graphics--cocoon--jashaj": "2012-01-05 00:00:00",
+        "#graphics--cocoon--reinhard": "2011-01-18 00:00:00",
+        "#graphics--cocoon--cziegeler": "2009-12-22 00:00:00",
+        "#graphics--cocoon--devkat": "2009-11-04 00:00:00",
+        "#graphics--cocoon--gkossakowski": "2009-03-30 00:00:00",
+        "#graphics--cocoon--lgawron": "2008-10-11 00:00:00",
+        "#graphics--cocoon--rgoers": "2008-01-09 00:00:00",
+        "#graphics--cocoon--SimoneGianni": "2007-07-16 00:00:00",
+        "#graphics--cocoon--swallez": "2007-04-26 00:00:00",
+        "#graphics--cocoon--bdelacretaz": "2006-12-19 00:00:00",
+        "#graphics--cocoon--tcurdt": "2006-11-06 00:00:00",
+        "#graphics--cocoon--stefanom": "2005-10-29 00:00:00",
+        "#graphics--cocoon--pfumagalli": "2004-12-17 00:00:00",
+        "#graphics--cocoon--osi": "2003-09-10 00:00:00",
+        "#graphics--cocoon--rubys": "2003-03-30 00:00:00",
+        "#graphics--xmlgraphics-batik--simonsteiner1984": "2022-11-03 00:00:00",
+        "#graphics--xmlgraphics-batik--": "2019-11-19 00:00:00",
+        "#graphics--xmlgraphics-batik--vhennebert": "2014-10-03 00:00:00",
+        "#graphics--xmlgraphics-batik--jmaerki": "2011-06-30 00:00:00",
+        "#graphics--xmlgraphics-batik--cjolif": "2004-02-17 00:00:00",
+        "#graphics--xmlgraphics-batik--stefanom": "2001-02-19 00:00:00",
+        "#graphics--xmlgraphics-fop--simonsteiner1984": "2022-12-23 00:00:00",
+        "#graphics--xmlgraphics-fop--": "2022-11-10 00:00:00",
+        "#graphics--xmlgraphics-fop--jmaerki": "2016-09-09 00:00:00",
+        "#graphics--xmlgraphics-fop--vhennebert": "2014-08-01 00:00:00",
+        "#graphics--xmlgraphics-fop--spepping": "2011-12-06 00:00:00",
+        "#graphics--xmlgraphics-fop--bdelacretaz": "2007-04-09 00:00:00",
+        "#graphics--xmlgraphics-fop--chrisgt": "2007-01-08 00:00:00",
+        "#graphics--xmlgraphics-fop--dirkx": "1999-11-09 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#graphics--cocoon--cdamioli": 0,
+        "#graphics--cocoon--osi": 0,
+        "#graphics--cocoon--rubys": 21,
+        "#graphics--cocoon--SimoneGianni": 454,
+        "#graphics--cocoon--pfumagalli": 659,
+        "#graphics--cocoon--gkossakowski": 751,
+        "#graphics--cocoon--simonetripodi": 796,
+        "#graphics--cocoon--stefanom": 964,
+        "#graphics--cocoon--rgoers": 1158,
+        "#graphics--cocoon--jashaj": 1228,
+        "#graphics--cocoon--tcurdt": 1336,
+        "#graphics--cocoon--bdelacretaz": 1365,
+        "#graphics--cocoon--lgawron": 1420,
+        "#graphics--cocoon--swallez": 1509,
+        "#graphics--cocoon--devkat": 2080,
+        "#graphics--cocoon--cziegeler": 2479,
+        "#graphics--cocoon--ilgrosso": 2586,
+        "#graphics--cocoon--reinhard": 2759,
+        "#graphics--cocoon--": 3505,
+        "#graphics--xmlgraphics-batik--stefanom": 114,
+        "#graphics--xmlgraphics-batik--vhennebert": 332,
+        "#graphics--xmlgraphics-batik--cjolif": 1212,
+        "#graphics--xmlgraphics-batik--jmaerki": 2198,
+        "#graphics--xmlgraphics-batik--simonsteiner1984": 2435,
+        "#graphics--xmlgraphics-batik--": 6988,
+        "#graphics--xmlgraphics-fop--dirkx": 9,
+        "#graphics--xmlgraphics-fop--bdelacretaz": 1621,
+        "#graphics--xmlgraphics-fop--chrisgt": 1774,
+        "#graphics--xmlgraphics-fop--spepping": 2749,
+        "#graphics--xmlgraphics-fop--vhennebert": 2837,
+        "#graphics--xmlgraphics-fop--simonsteiner1984": 3161,
+        "#graphics--xmlgraphics-fop--jmaerki": 5241,
+        "#graphics--xmlgraphics-fop--": 8411
+    },
+    "commiter_contribute_time1": {
+        "#graphics--cocoon--jashaj": {
+            "start": "2008-08-25 00:00:00",
+            "end": "2010-06-30 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.3333333333333333
+        },
+        "#graphics--cocoon--SimoneGianni": {
+            "start": "2006-04-18 00:00:00",
+            "end": "2006-12-03 00:00:00",
+            "bug_num_per_commit": 0.1111111111111111,
+            "bug_commit_num_rate": 0.3333333333333333
+        },
+        "#graphics--xmlgraphics-batik--simonsteiner1984": {
+            "start": "2016-03-04 00:00:00",
+            "end": "2022-01-07 00:00:00",
+            "bug_num_per_commit": 0.11764705882352941,
+            "bug_commit_num_rate": 0.29411764705882354
+        },
+        "#graphics--xmlgraphics-fop--spepping": {
+            "start": "2004-05-27 00:00:00",
+            "end": "2010-07-12 00:00:00",
+            "bug_num_per_commit": 0.0784313725490196,
+            "bug_commit_num_rate": 0.43137254901960786
+        },
+        "#graphics--xmlgraphics-fop--simonsteiner1984": {
+            "start": "2014-04-28 00:00:00",
+            "end": "2021-01-11 00:00:00",
+            "bug_num_per_commit": 0.06060606060606061,
+            "bug_commit_num_rate": 0.7474747474747475
+        },
+        "#graphics--xmlgraphics-fop--vhennebert": {
+            "start": "2006-10-25 00:00:00",
+            "end": "2012-08-02 00:00:00",
+            "bug_num_per_commit": 0.08441558441558442,
+            "bug_commit_num_rate": 0.38311688311688313
+        },
+        "#graphics--xmlgraphics-fop--jmaerki": {
+            "start": "2002-05-05 00:00:00",
+            "end": "2008-02-29 00:00:00",
+            "bug_num_per_commit": 0.0626118067978533,
+            "bug_commit_num_rate": 0.39713774597495527
+        }
+    },
+    "commiter_contribute_time2": {
+        "#graphics--cocoon--jashaj": {
+            "start": "2010-04-12 00:00:00",
+            "end": "2010-04-10 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--cocoon--SimoneGianni": {
+            "start": "2006-12-03 00:00:00",
+            "end": "2006-09-24 00:00:00",
+            "bug_num_per_commit": 0.1111111111111111,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--xmlgraphics-batik--simonsteiner1984": {
+            "start": "2021-01-12 00:00:00",
+            "end": "2018-05-15 00:00:00",
+            "bug_num_per_commit": 0.029411764705882353,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--xmlgraphics-fop--spepping": {
+            "start": "2010-07-07 00:00:00",
+            "end": "2006-10-09 00:00:00",
+            "bug_num_per_commit": 0.0196078431372549,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--xmlgraphics-fop--simonsteiner1984": {
+            "start": "2020-12-29 00:00:00",
+            "end": "2018-04-03 00:00:00",
+            "bug_num_per_commit": 0.13131313131313133,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--xmlgraphics-fop--vhennebert": {
+            "start": "2012-07-24 00:00:00",
+            "end": "2009-10-21 00:00:00",
+            "bug_num_per_commit": 0.06493506493506493,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--xmlgraphics-fop--jmaerki": {
+            "start": "2008-02-28 00:00:00",
+            "end": "2005-12-12 00:00:00",
+            "bug_num_per_commit": 0.04114490161001789,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time3": {
+        "#graphics--cocoon--jashaj": {
+            "start": "2010-04-05 00:00:00",
+            "end": "2009-05-03 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--cocoon--SimoneGianni": {
+            "start": "2006-09-24 00:00:00",
+            "end": "2006-06-28 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--xmlgraphics-batik--simonsteiner1984": {
+            "start": "2018-05-15 00:00:00",
+            "end": "2017-08-18 00:00:00",
+            "bug_num_per_commit": 0.029411764705882353,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--xmlgraphics-fop--spepping": {
+            "start": "2006-10-07 00:00:00",
+            "end": "2005-10-12 00:00:00",
+            "bug_num_per_commit": 0.058823529411764705,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--xmlgraphics-fop--simonsteiner1984": {
+            "start": "2018-04-03 00:00:00",
+            "end": "2016-06-24 00:00:00",
+            "bug_num_per_commit": 0.20202020202020202,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--xmlgraphics-fop--vhennebert": {
+            "start": "2009-10-21 00:00:00",
+            "end": "2007-12-13 00:00:00",
+            "bug_num_per_commit": 0.05844155844155844,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--xmlgraphics-fop--jmaerki": {
+            "start": "2005-12-12 00:00:00",
+            "end": "2005-02-15 00:00:00",
+            "bug_num_per_commit": 0.017889087656529516,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#graphics--cocoon--jashaj": {
+            "start": "2008-08-31 00:00:00",
+            "end": "2008-08-25 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--cocoon--SimoneGianni": {
+            "start": "2006-06-28 00:00:00",
+            "end": "2006-04-18 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--xmlgraphics-batik--simonsteiner1984": {
+            "start": "2017-08-16 00:00:00",
+            "end": "2016-03-04 00:00:00",
+            "bug_num_per_commit": 0.027777777777777776,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--xmlgraphics-fop--spepping": {
+            "start": "2005-10-11 00:00:00",
+            "end": "2004-05-27 00:00:00",
+            "bug_num_per_commit": 0.07692307692307693,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--xmlgraphics-fop--simonsteiner1984": {
+            "start": "2016-05-25 00:00:00",
+            "end": "2014-04-28 00:00:00",
+            "bug_num_per_commit": 0.2079207920792079,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--xmlgraphics-fop--vhennebert": {
+            "start": "2007-12-13 00:00:00",
+            "end": "2006-10-25 00:00:00",
+            "bug_num_per_commit": 0.032467532467532464,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--xmlgraphics-fop--jmaerki": {
+            "start": "2005-02-12 00:00:00",
+            "end": "2002-05-05 00:00:00",
+            "bug_num_per_commit": 0.0196078431372549,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#graphics--cocoon--jashaj": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.5
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.3333333333333333,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#graphics--cocoon--SimoneGianni": {
+            "bug_num_per_commit": {
+                "time1": 0.1111111111111111,
+                "time2": 0.1111111111111111,
+                "time3": 0.0,
+                "time4": 0.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.3333333333333333,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#graphics--xmlgraphics-batik--simonsteiner1984": {
+            "bug_num_per_commit": {
+                "time1": 0.11764705882352941,
+                "time2": 0.029411764705882353,
+                "time3": 0.029411764705882353,
+                "time4": 0.027777777777777776
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.29411764705882354,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#graphics--xmlgraphics-fop--spepping": {
+            "bug_num_per_commit": {
+                "time1": 0.0784313725490196,
+                "time2": 0.0196078431372549,
+                "time3": 0.058823529411764705,
+                "time4": 0.07692307692307693
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.43137254901960786,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#graphics--xmlgraphics-fop--simonsteiner1984": {
+            "bug_num_per_commit": {
+                "time1": 0.06060606060606061,
+                "time2": 0.13131313131313133,
+                "time3": 0.20202020202020202,
+                "time4": 0.2079207920792079
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.7474747474747475,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#graphics--xmlgraphics-fop--vhennebert": {
+            "bug_num_per_commit": {
+                "time1": 0.08441558441558442,
+                "time2": 0.06493506493506493,
+                "time3": 0.05844155844155844,
+                "time4": 0.032467532467532464
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.38311688311688313,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#graphics--xmlgraphics-fop--jmaerki": {
+            "bug_num_per_commit": {
+                "time1": 0.0626118067978533,
+                "time2": 0.04114490161001789,
+                "time3": 0.017889087656529516,
+                "time4": 0.0196078431372549
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.39713774597495527,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#graphics--cocoon--jashaj",
+        "#graphics--cocoon--SimoneGianni",
+        "#graphics--xmlgraphics-batik--simonsteiner1984",
+        "#graphics--xmlgraphics-fop--spepping",
+        "#graphics--xmlgraphics-fop--simonsteiner1984",
+        "#graphics--xmlgraphics-fop--vhennebert",
+        "#graphics--xmlgraphics-fop--jmaerki"
+    ],
+    "improved_daily_long_time_error_prone_developer": [
+        "#graphics--cocoon--jashaj",
+        "#graphics--xmlgraphics-fop--simonsteiner1984"
+    ],
+    "number_improved_daily_long_time_error_prone_developer": 2,
+    "number_daily_long_time_error_prone_developer": 7
+}

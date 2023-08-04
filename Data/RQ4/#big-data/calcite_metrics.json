@@ -1,0 +1,2175 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#big-data--calcite--HanumathRao": "2020-03-07 00:00:00",
+        "#big-data--calcite--asolimando": "2018-01-16 00:00:00",
+        "#big-data--calcite--F21": "2016-09-24 00:00:00",
+        "#big-data--calcite--snuyanzin": "2018-05-28 00:00:00",
+        "#big-data--calcite--l4wei": "2022-08-27 00:00:00",
+        "#big-data--calcite--JiajunBernoulli": "2021-11-20 00:00:00",
+        "#big-data--calcite--abhishek-das-gupta": "2022-03-29 00:00:00",
+        "#big-data--calcite--Aitozi": "2022-09-08 00:00:00",
+        "#big-data--calcite--julianhyde": "2012-04-19 00:00:00",
+        "#big-data--calcite--dssysolyatin": "2022-04-29 00:00:00",
+        "#big-data--calcite--clesaec": "2022-10-12 00:00:00",
+        "#big-data--calcite--wojustme": "2021-08-13 00:00:00",
+        "#big-data--calcite--bchapuis": "2022-08-21 00:00:00",
+        "#big-data--calcite--zstan": "2021-06-30 00:00:00",
+        "#big-data--calcite--libenchao": "2022-03-26 00:00:00",
+        "#big-data--calcite--alex-plekhanov": "2021-11-28 00:00:00",
+        "#big-data--calcite--tjbanghart": "2022-09-19 00:00:00",
+        "#big-data--calcite--kasakrisz": "2020-03-09 00:00:00",
+        "#big-data--calcite--DeaconDesperado": "2022-01-07 00:00:00",
+        "#big-data--calcite--zhuwenzhuang": "2022-09-06 00:00:00",
+        "#big-data--calcite--zabetak": "2018-08-12 00:00:00",
+        "#big-data--calcite--thomasbanghart": "2021-06-09 00:00:00",
+        "#big-data--calcite--rubenada": "2018-10-11 00:00:00",
+        "#big-data--calcite--flink-sql": "2017-12-21 00:00:00",
+        "#big-data--calcite--": "2014-01-23 00:00:00",
+        "#big-data--calcite--strongduanmu": "2022-08-08 00:00:00",
+        "#big-data--calcite--asereda-gs": "2018-08-28 00:00:00",
+        "#big-data--calcite--chunweilei": "2018-11-07 00:00:00",
+        "#big-data--calcite--beyond1920": "2017-12-22 00:00:00",
+        "#big-data--calcite--viliam-durina": "2021-03-26 00:00:00",
+        "#big-data--calcite--henneberger": "2022-06-14 00:00:00",
+        "#big-data--calcite--wenruimeng": "2022-05-30 00:00:00",
+        "#big-data--calcite--vvysotskyi": "2017-08-15 00:00:00",
+        "#big-data--calcite--francesco-gini88": "2021-11-28 00:00:00",
+        "#big-data--calcite--korlov42": "2022-06-03 00:00:00",
+        "#big-data--calcite--rkondakov": "2020-03-29 00:00:00",
+        "#big-data--calcite--NobiGo": "2021-04-16 00:00:00",
+        "#big-data--calcite--michaelmior": "2016-01-19 00:00:00",
+        "#big-data--calcite--godfreyhe": "2017-03-31 00:00:00",
+        "#big-data--calcite--innovimax": "2022-02-20 00:00:00",
+        "#big-data--calcite--raghavSharmaCode": "2022-02-11 00:00:00",
+        "#big-data--calcite--jnturton": "2022-03-20 00:00:00",
+        "#big-data--calcite--deadwind4": "2021-12-10 00:00:00",
+        "#big-data--calcite--liyafan82": "2020-02-13 00:00:00",
+        "#big-data--calcite--IceMimosa": "2022-02-23 00:00:00",
+        "#big-data--calcite--sdreynolds": "2022-02-26 00:00:00",
+        "#big-data--calcite--rpuch": "2022-02-10 00:00:00",
+        "#big-data--calcite--TeslaCN": "2022-02-01 00:00:00",
+        "#big-data--calcite--mkou": "2022-02-02 00:00:00",
+        "#big-data--calcite--wnob": "2021-08-10 00:00:00",
+        "#big-data--calcite--soumyakanti3578": "2021-08-11 00:00:00",
+        "#big-data--calcite--jaystarshot": "2021-11-04 00:00:00",
+        "#big-data--calcite--ieugen": "2022-01-28 00:00:00",
+        "#big-data--calcite--mans2singh": "2022-01-05 00:00:00",
+        "#big-data--calcite--ILuffZhe": "2021-11-14 00:00:00",
+        "#big-data--calcite--lmagic233": "2022-01-09 00:00:00",
+        "#big-data--calcite--guiyanakuang": "2021-12-05 00:00:00",
+        "#big-data--calcite--marcobjorge": "2021-12-23 00:00:00",
+        "#big-data--calcite--jacques-n": "2014-01-27 00:00:00",
+        "#big-data--calcite--amaliujia": "2019-09-27 00:00:00",
+        "#big-data--calcite--devozerov": "2021-01-13 00:00:00",
+        "#big-data--calcite--thomasrebele": "2020-12-16 00:00:00",
+        "#big-data--calcite--vlsi": "2014-03-08 00:00:00",
+        "#big-data--calcite--xwkuang5": "2021-11-01 00:00:00",
+        "#big-data--calcite--jamesstarr": "2020-08-12 00:00:00",
+        "#big-data--calcite--agajst": "2019-12-25 00:00:00",
+        "#big-data--calcite--yingyuwang": "2021-08-23 00:00:00",
+        "#big-data--calcite--xy2953396112": "2019-08-19 00:00:00",
+        "#big-data--calcite--birschick-bq": "2021-06-30 00:00:00",
+        "#big-data--calcite--hsyuan": "2018-04-24 00:00:00",
+        "#big-data--calcite--jcamachor": "2014-12-01 00:00:00",
+        "#big-data--calcite--gierlachg": "2021-09-24 00:00:00",
+        "#big-data--calcite--yanlin-Lynn": "2019-07-11 00:00:00",
+        "#big-data--calcite--Enzo-Liu": "2021-08-11 00:00:00",
+        "#big-data--calcite--njriasan": "2021-06-08 00:00:00",
+        "#big-data--calcite--vnhive": "2021-07-13 00:00:00",
+        "#big-data--calcite--AlonEldar89": "2021-07-05 00:00:00",
+        "#big-data--calcite--kramerul": "2021-06-04 00:00:00",
+        "#big-data--calcite--a-rafay": "2020-10-13 00:00:00",
+        "#big-data--calcite--angelzouxin": "2021-06-09 00:00:00",
+        "#big-data--calcite--jerrinot": "2021-04-15 00:00:00",
+        "#big-data--calcite--tisonkun": "2021-05-09 00:00:00",
+        "#big-data--calcite--wangxianghu": "2021-05-11 00:00:00",
+        "#big-data--calcite--jibiyr": "2021-03-10 00:00:00",
+        "#big-data--calcite--Aaaaaaron": "2020-06-11 00:00:00",
+        "#big-data--calcite--maheshk114": "2021-04-09 00:00:00",
+        "#big-data--calcite--dugenkui03": "2021-04-09 00:00:00",
+        "#big-data--calcite--MalteBellmann": "2021-02-22 00:00:00",
+        "#big-data--calcite--hbtoo": "2019-06-07 00:00:00",
+        "#big-data--calcite--tgrall": "2020-10-17 00:00:00",
+        "#big-data--calcite--danny0405": "2018-04-26 00:00:00",
+        "#big-data--calcite--wangjie-fourth": "2021-01-22 00:00:00",
+        "#big-data--calcite--zinking": "2015-12-15 00:00:00",
+        "#big-data--calcite--ostumpf": "2020-12-21 00:00:00",
+        "#big-data--calcite--intrigus-lgtm": "2020-12-24 00:00:00",
+        "#big-data--calcite--dawidwys": "2020-06-22 00:00:00",
+        "#big-data--calcite--shlok7296": "2019-10-25 00:00:00",
+        "#big-data--calcite--jeremiahrhall": "2020-10-05 00:00:00",
+        "#big-data--calcite--trushev": "2020-10-08 00:00:00",
+        "#big-data--calcite--LiShuMing": "2019-04-11 00:00:00",
+        "#big-data--calcite--neoremind": "2020-04-15 00:00:00",
+        "#big-data--calcite--docete": "2017-01-05 00:00:00",
+        "#big-data--calcite--liupc": "2020-09-22 00:00:00",
+        "#big-data--calcite--stutigupta028": "2019-02-18 00:00:00",
+        "#big-data--calcite--ihuzenko": "2019-07-11 00:00:00",
+        "#big-data--calcite--jinxing64": "2019-07-05 00:00:00",
+        "#big-data--calcite--fageiguanbing": "2020-08-27 00:00:00",
+        "#big-data--calcite--wangxlong": "2019-12-19 00:00:00",
+        "#big-data--calcite--DonnyZone": "2019-05-24 00:00:00",
+        "#big-data--calcite--wenhuitang": "2019-05-27 00:00:00",
+        "#big-data--calcite--XuQianJin-Stars": "2018-11-23 00:00:00",
+        "#big-data--calcite--THeinemann": "2020-04-09 00:00:00",
+        "#big-data--calcite--dasch-1": "2020-04-22 00:00:00",
+        "#big-data--calcite--xndai": "2019-08-16 00:00:00",
+        "#big-data--calcite--kgyrtkirk": "2018-04-05 00:00:00",
+        "#big-data--calcite--alexbaden": "2020-05-06 00:00:00",
+        "#big-data--calcite--laurentgo": "2016-10-03 00:00:00",
+        "#big-data--calcite--vineetgarg02": "2017-12-11 00:00:00",
+        "#big-data--calcite--my7ym": "2019-03-22 00:00:00",
+        "#big-data--calcite--chris-baynes": "2016-05-24 00:00:00",
+        "#big-data--calcite--rayokota": "2019-09-04 00:00:00",
+        "#big-data--calcite--ritesh-kapoor": "2019-02-28 00:00:00",
+        "#big-data--calcite--Liwink": "2020-03-30 00:00:00",
+        "#big-data--calcite--beikov": "2017-08-24 00:00:00",
+        "#big-data--calcite--dhirenda-gautam": "2020-01-06 00:00:00",
+        "#big-data--calcite--pengzhiwei2018": "2018-08-17 00:00:00",
+        "#big-data--calcite--weidong3630": "2019-08-20 00:00:00",
+        "#big-data--calcite--dependabot[bot]": "2019-11-13 00:00:00",
+        "#big-data--calcite--helloppx": "2019-12-20 00:00:00",
+        "#big-data--calcite--lxian": "2019-12-20 00:00:00",
+        "#big-data--calcite--divyanshuS27": "2019-12-05 00:00:00",
+        "#big-data--calcite--seancxmao": "2019-11-29 00:00:00",
+        "#big-data--calcite--wuchong": "2016-07-08 00:00:00",
+        "#big-data--calcite--cndaimin": "2019-11-01 00:00:00",
+        "#big-data--calcite--wuyunfeng": "2019-10-24 00:00:00",
+        "#big-data--calcite--fib-seq": "2019-08-13 00:00:00",
+        "#big-data--calcite--soma-mondal": "2019-10-17 00:00:00",
+        "#big-data--calcite--arnkore": "2019-10-17 00:00:00",
+        "#big-data--calcite--contextshuffling": "2019-10-05 00:00:00",
+        "#big-data--calcite--HuangZhenQiu": "2019-09-15 00:00:00",
+        "#big-data--calcite--jswett77": "2019-09-24 00:00:00",
+        "#big-data--calcite--lameyer": "2019-08-02 00:00:00",
+        "#big-data--calcite--JackyWoo": "2019-07-30 00:00:00",
+        "#big-data--calcite--JulianFeinauer": "2016-12-15 00:00:00",
+        "#big-data--calcite--shikhasomani": "2019-09-09 00:00:00",
+        "#big-data--calcite--LaiZhou": "2019-08-21 00:00:00",
+        "#big-data--calcite--jh3507": "2018-12-21 00:00:00",
+        "#big-data--calcite--khaitranq": "2016-12-06 00:00:00",
+        "#big-data--calcite--KhawlaMhb": "2019-06-03 00:00:00",
+        "#big-data--calcite--Zhiqiang-He": "2017-01-14 00:00:00",
+        "#big-data--calcite--MGelbana": "2018-06-04 00:00:00",
+        "#big-data--calcite--jszeluga": "2019-01-15 00:00:00",
+        "#big-data--calcite--sergeyT2": "2019-06-10 00:00:00",
+        "#big-data--calcite--KazydubB": "2019-05-23 00:00:00",
+        "#big-data--calcite--praveenbingo": "2019-07-09 00:00:00",
+        "#big-data--calcite--Fokko": "2019-01-03 00:00:00",
+        "#big-data--calcite--hequn8128": "2018-05-25 00:00:00",
+        "#big-data--calcite--siddharthteotia": "2019-02-05 00:00:00",
+        "#big-data--calcite--zhztheplayer": "2018-08-22 00:00:00",
+        "#big-data--calcite--joshelser": "2015-09-09 00:00:00",
+        "#big-data--calcite--ambition119": "2019-05-13 00:00:00",
+        "#big-data--calcite--shimamoto": "2019-05-21 00:00:00",
+        "#big-data--calcite--LastSmile732": "2019-05-20 00:00:00",
+        "#big-data--calcite--dijkspicy": "2019-05-05 00:00:00",
+        "#big-data--calcite--nishantmonu51": "2017-02-24 00:00:00",
+        "#big-data--calcite--dianfu": "2017-08-07 00:00:00",
+        "#big-data--calcite--zuozhiw": "2018-08-09 00:00:00",
+        "#big-data--calcite--risdenk": "2017-02-19 00:00:00",
+        "#big-data--calcite--wangzzu": "2019-03-18 00:00:00",
+        "#big-data--calcite--chadasa": "2018-11-24 00:00:00",
+        "#big-data--calcite--gianm": "2016-08-05 00:00:00",
+        "#big-data--calcite--belugabehr": "2019-01-08 00:00:00",
+        "#big-data--calcite--BenoitHanotte": "2018-07-17 00:00:00",
+        "#big-data--calcite--marcprux": "2014-07-06 00:00:00",
+        "#big-data--calcite--LantaoJin": "2018-11-26 00:00:00",
+        "#big-data--calcite--apilloud": "2018-06-05 00:00:00",
+        "#big-data--calcite--eolivelli": "2017-11-17 00:00:00",
+        "#big-data--calcite--alishaIBM": "2018-09-12 00:00:00",
+        "#big-data--calcite--rdsr": "2017-12-27 00:00:00",
+        "#big-data--calcite--arina-ielchiieva": "2016-03-03 00:00:00",
+        "#big-data--calcite--chenzl25": "2018-07-09 00:00:00",
+        "#big-data--calcite--ipatina": "2018-07-19 00:00:00",
+        "#big-data--calcite--jduo": "2018-06-12 00:00:00",
+        "#big-data--calcite--sudheeshkatkam": "2018-04-25 00:00:00",
+        "#big-data--calcite--chunhui-shi": "2018-04-18 00:00:00",
+        "#big-data--calcite--b-slim": "2017-02-23 00:00:00",
+        "#big-data--calcite--yanghua": "2018-06-11 00:00:00",
+        "#big-data--calcite--kennknowles": "2018-06-01 00:00:00",
+        "#big-data--calcite--hustfxj": "2017-12-20 00:00:00",
+        "#big-data--calcite--atris": "2017-06-27 00:00:00",
+        "#big-data--calcite--dkadams": "2017-05-31 00:00:00",
+        "#big-data--calcite--vdiravka": "2018-03-06 00:00:00",
+        "#big-data--calcite--malcolmtaylor": "2018-02-04 00:00:00",
+        "#big-data--calcite--fhueske": "2018-03-16 00:00:00",
+        "#big-data--calcite--rajrahul": "2018-03-04 00:00:00",
+        "#big-data--calcite--ebegoli": "2018-02-13 00:00:00",
+        "#big-data--calcite--tzolov": "2016-11-03 00:00:00",
+        "#big-data--calcite--msydoron": "2017-12-18 00:00:00",
+        "#big-data--calcite--rmunjam": "2018-01-23 00:00:00",
+        "#big-data--calcite--maryannxue": "2015-12-29 00:00:00",
+        "#big-data--calcite--samwagg": "2018-01-18 00:00:00",
+        "#big-data--calcite--vladimirtkach": "2018-01-21 00:00:00",
+        "#big-data--calcite--vijayk": "2018-01-18 00:00:00",
+        "#big-data--calcite--LeoWangLZ": "2017-08-25 00:00:00",
+        "#big-data--calcite--vladimirdolzhenko": "2017-12-21 00:00:00",
+        "#big-data--calcite--XintaoLiao": "2017-11-03 00:00:00",
+        "#big-data--calcite--lfkpoa": "2017-11-07 00:00:00",
+        "#big-data--calcite--KulykRoman": "2017-11-07 00:00:00",
+        "#big-data--calcite--twalthr": "2017-10-17 00:00:00",
+        "#big-data--calcite--alexeyroytman": "2017-10-27 00:00:00",
+        "#big-data--calcite--abbas-gadhia": "2017-10-05 00:00:00",
+        "#big-data--calcite--minji-kim": "2016-03-08 00:00:00",
+        "#big-data--calcite--sunjincheng121": "2017-05-11 00:00:00",
+        "#big-data--calcite--ch33hau": "2017-08-02 00:00:00",
+        "#big-data--calcite--axeisghost": "2017-07-05 00:00:00",
+        "#big-data--calcite--elilevine": "2017-01-26 00:00:00",
+        "#big-data--calcite--hzyuemeng1": "2017-06-20 00:00:00",
+        "#big-data--calcite--ankitsinghal": "2017-04-28 00:00:00",
+        "#big-data--calcite--Xpray": "2017-06-28 00:00:00",
+        "#big-data--calcite--xumingming": "2017-06-21 00:00:00",
+        "#big-data--calcite--darionyaphet": "2017-06-19 00:00:00",
+        "#big-data--calcite--rusanu": "2017-02-22 00:00:00",
+        "#big-data--calcite--batytskyy": "2016-10-07 00:00:00",
+        "#big-data--calcite--binmahone": "2015-03-16 00:00:00",
+        "#big-data--calcite--rtudoran": "2017-04-13 00:00:00",
+        "#big-data--calcite--kstirman": "2017-04-13 00:00:00",
+        "#big-data--calcite--kliewkliew": "2017-02-03 00:00:00",
+        "#big-data--calcite--markap14": "2017-03-07 00:00:00",
+        "#big-data--calcite--HenryOlson": "2016-04-14 00:00:00",
+        "#big-data--calcite--tmostak": "2017-02-10 00:00:00",
+        "#big-data--calcite--jbalint": "2016-12-01 00:00:00",
+        "#big-data--calcite--ashutoshc": "2014-08-27 00:00:00",
+        "#big-data--calcite--KurtYoung": "2017-01-04 00:00:00",
+        "#big-data--calcite--Lerm": "2015-12-27 00:00:00",
+        "#big-data--calcite--gaodayue": "2016-11-21 00:00:00",
+        "#big-data--calcite--Serhii-Harnyk": "2016-11-22 00:00:00",
+        "#big-data--calcite--pengchengxiong": "2016-11-07 00:00:00",
+        "#big-data--calcite--HeartSaVioR": "2016-09-27 00:00:00",
+        "#big-data--calcite--amihalik": "2016-10-26 00:00:00",
+        "#big-data--calcite--VcamX": "2016-10-09 00:00:00",
+        "#big-data--calcite--arunmahadevan": "2016-10-13 00:00:00",
+        "#big-data--calcite--zhengd": "2016-09-26 00:00:00",
+        "#big-data--calcite--bluejoe2008": "2016-09-07 00:00:00",
+        "#big-data--calcite--yiming187": "2016-07-08 00:00:00",
+        "#big-data--calcite--julienledem": "2015-11-05 00:00:00",
+        "#big-data--calcite--dynamix": "2016-07-21 00:00:00",
+        "#big-data--calcite--milinda": "2015-07-09 00:00:00",
+        "#big-data--calcite--vkorukanti": "2014-03-25 00:00:00",
+        "#big-data--calcite--baunz": "2016-05-19 00:00:00",
+        "#big-data--calcite--sbcd90": "2016-05-21 00:00:00",
+        "#big-data--calcite--yixinglu": "2016-05-16 00:00:00",
+        "#big-data--calcite--jinfengni": "2015-02-09 00:00:00",
+        "#big-data--calcite--ebastien": "2016-05-12 00:00:00",
+        "#big-data--calcite--jxiang": "2016-05-03 00:00:00",
+        "#big-data--calcite--amoghmargoor": "2015-06-11 00:00:00",
+        "#big-data--calcite--hsuanyi": "2015-01-31 00:00:00",
+        "#big-data--calcite--javanlion": "2016-04-28 00:00:00",
+        "#big-data--calcite--chrisdpa": "2016-03-14 00:00:00",
+        "#big-data--calcite--wanglan": "2016-03-04 00:00:00",
+        "#big-data--calcite--vasia": "2016-03-07 00:00:00",
+        "#big-data--calcite--matthewshaer": "2016-02-03 00:00:00",
+        "#big-data--calcite--jaltekruse": "2014-03-31 00:00:00",
+        "#big-data--calcite--jpullokkaran": "2015-11-25 00:00:00",
+        "#big-data--calcite--mikehinchey": "2015-12-03 00:00:00",
+        "#big-data--calcite--navis": "2015-10-26 00:00:00",
+        "#big-data--calcite--bdumon": "2014-03-13 00:00:00",
+        "#big-data--calcite--andygrove": "2015-10-22 00:00:00",
+        "#big-data--calcite--jyates": "2015-08-09 00:00:00",
+        "#big-data--calcite--lalinsky": "2015-06-23 00:00:00",
+        "#big-data--calcite--xhoong": "2015-04-16 00:00:00",
+        "#big-data--calcite--aertoria": "2015-04-26 00:00:00",
+        "#big-data--calcite--smola": "2015-05-12 00:00:00",
+        "#big-data--calcite--ndimiduk": "2015-03-24 00:00:00",
+        "#big-data--calcite--danielcooperxyz": "2015-03-17 00:00:00",
+        "#big-data--calcite--devth": "2015-02-04 00:00:00",
+        "#big-data--calcite--mehant": "2013-11-05 00:00:00",
+        "#big-data--calcite--lmccay": "2014-11-21 00:00:00",
+        "#big-data--calcite--aleph-zero": "2014-11-18 00:00:00",
+        "#big-data--calcite--yssharma": "2014-09-23 00:00:00",
+        "#big-data--calcite--sreev": "2014-09-17 00:00:00",
+        "#big-data--calcite--wgorman": "2014-09-17 00:00:00",
+        "#big-data--calcite--jcentenn": "2014-07-31 00:00:00",
+        "#big-data--calcite--martijn-basesoft": "2014-06-06 00:00:00",
+        "#big-data--calcite--kul": "2014-05-23 00:00:00",
+        "#big-data--calcite--wseidel": "2014-04-23 00:00:00",
+        "#big-data--calcite--rmetzger": "2013-11-29 00:00:00",
+        "#big-data--calcite--marianol": "2014-03-13 00:00:00",
+        "#big-data--calcite--juhoautio": "2013-11-13 00:00:00",
+        "#big-data--calcite--lucboudreau": "2013-10-15 00:00:00",
+        "#big-data--calcite--joeposner": "2013-08-28 00:00:00",
+        "#big-data--calcite--AEtherSurfer": "2013-07-15 00:00:00",
+        "#big-data--calcite--lesleh": "2013-07-09 00:00:00",
+        "#big-data--calcite--cwensel": "2012-10-15 00:00:00",
+        "#big-data--calcite--catfishlar": "2013-03-12 00:00:00",
+        "#big-data--calcite--jganoff": "2012-04-23 00:00:00",
+        "#big-data--calcite--pstoellberger": "2012-04-20 00:00:00"
+    },
+    "commiter_end_time": {
+        "#big-data--calcite--HanumathRao": "2022-10-09 00:00:00",
+        "#big-data--calcite--asolimando": "2022-10-21 00:00:00",
+        "#big-data--calcite--F21": "2022-10-25 00:00:00",
+        "#big-data--calcite--snuyanzin": "2022-10-20 00:00:00",
+        "#big-data--calcite--l4wei": "2022-10-15 00:00:00",
+        "#big-data--calcite--JiajunBernoulli": "2022-10-22 00:00:00",
+        "#big-data--calcite--abhishek-das-gupta": "2022-07-08 00:00:00",
+        "#big-data--calcite--Aitozi": "2022-09-08 00:00:00",
+        "#big-data--calcite--julianhyde": "2022-10-19 00:00:00",
+        "#big-data--calcite--dssysolyatin": "2022-09-30 00:00:00",
+        "#big-data--calcite--clesaec": "2022-10-12 00:00:00",
+        "#big-data--calcite--wojustme": "2022-09-23 00:00:00",
+        "#big-data--calcite--bchapuis": "2022-10-03 00:00:00",
+        "#big-data--calcite--zstan": "2022-08-30 00:00:00",
+        "#big-data--calcite--libenchao": "2022-09-15 00:00:00",
+        "#big-data--calcite--alex-plekhanov": "2022-09-19 00:00:00",
+        "#big-data--calcite--tjbanghart": "2022-09-20 00:00:00",
+        "#big-data--calcite--kasakrisz": "2022-09-21 00:00:00",
+        "#big-data--calcite--DeaconDesperado": "2022-01-07 00:00:00",
+        "#big-data--calcite--zhuwenzhuang": "2022-09-06 00:00:00",
+        "#big-data--calcite--zabetak": "2022-09-16 00:00:00",
+        "#big-data--calcite--thomasbanghart": "2022-09-07 00:00:00",
+        "#big-data--calcite--rubenada": "2022-09-08 00:00:00",
+        "#big-data--calcite--flink-sql": "2022-08-29 00:00:00",
+        "#big-data--calcite--": "2022-08-27 00:00:00",
+        "#big-data--calcite--strongduanmu": "2022-08-08 00:00:00",
+        "#big-data--calcite--asereda-gs": "2022-08-10 00:00:00",
+        "#big-data--calcite--chunweilei": "2022-06-22 00:00:00",
+        "#big-data--calcite--beyond1920": "2022-07-18 00:00:00",
+        "#big-data--calcite--viliam-durina": "2022-05-17 00:00:00",
+        "#big-data--calcite--henneberger": "2022-06-14 00:00:00",
+        "#big-data--calcite--wenruimeng": "2022-06-14 00:00:00",
+        "#big-data--calcite--vvysotskyi": "2022-03-24 00:00:00",
+        "#big-data--calcite--francesco-gini88": "2021-12-11 00:00:00",
+        "#big-data--calcite--korlov42": "2022-06-03 00:00:00",
+        "#big-data--calcite--rkondakov": "2022-05-29 00:00:00",
+        "#big-data--calcite--NobiGo": "2022-05-08 00:00:00",
+        "#big-data--calcite--michaelmior": "2022-04-26 00:00:00",
+        "#big-data--calcite--godfreyhe": "2022-04-21 00:00:00",
+        "#big-data--calcite--innovimax": "2022-02-20 00:00:00",
+        "#big-data--calcite--raghavSharmaCode": "2022-02-11 00:00:00",
+        "#big-data--calcite--jnturton": "2022-03-20 00:00:00",
+        "#big-data--calcite--deadwind4": "2022-04-01 00:00:00",
+        "#big-data--calcite--liyafan82": "2022-03-25 00:00:00",
+        "#big-data--calcite--IceMimosa": "2022-02-23 00:00:00",
+        "#big-data--calcite--sdreynolds": "2022-02-26 00:00:00",
+        "#big-data--calcite--rpuch": "2022-02-10 00:00:00",
+        "#big-data--calcite--TeslaCN": "2022-02-01 00:00:00",
+        "#big-data--calcite--mkou": "2022-02-02 00:00:00",
+        "#big-data--calcite--wnob": "2021-12-01 00:00:00",
+        "#big-data--calcite--soumyakanti3578": "2021-08-11 00:00:00",
+        "#big-data--calcite--jaystarshot": "2022-01-25 00:00:00",
+        "#big-data--calcite--ieugen": "2022-01-28 00:00:00",
+        "#big-data--calcite--mans2singh": "2022-01-10 00:00:00",
+        "#big-data--calcite--ILuffZhe": "2022-01-17 00:00:00",
+        "#big-data--calcite--lmagic233": "2022-01-09 00:00:00",
+        "#big-data--calcite--guiyanakuang": "2022-01-05 00:00:00",
+        "#big-data--calcite--marcobjorge": "2021-12-23 00:00:00",
+        "#big-data--calcite--jacques-n": "2021-12-18 00:00:00",
+        "#big-data--calcite--amaliujia": "2021-12-26 00:00:00",
+        "#big-data--calcite--devozerov": "2021-07-26 00:00:00",
+        "#big-data--calcite--thomasrebele": "2021-12-17 00:00:00",
+        "#big-data--calcite--vlsi": "2021-12-08 00:00:00",
+        "#big-data--calcite--xwkuang5": "2021-11-01 00:00:00",
+        "#big-data--calcite--jamesstarr": "2021-09-24 00:00:00",
+        "#big-data--calcite--agajst": "2019-12-25 00:00:00",
+        "#big-data--calcite--yingyuwang": "2021-08-23 00:00:00",
+        "#big-data--calcite--xy2953396112": "2021-10-10 00:00:00",
+        "#big-data--calcite--birschick-bq": "2021-06-30 00:00:00",
+        "#big-data--calcite--hsyuan": "2021-10-08 00:00:00",
+        "#big-data--calcite--jcamachor": "2021-10-01 00:00:00",
+        "#big-data--calcite--gierlachg": "2021-09-24 00:00:00",
+        "#big-data--calcite--yanlin-Lynn": "2021-04-15 00:00:00",
+        "#big-data--calcite--Enzo-Liu": "2021-08-11 00:00:00",
+        "#big-data--calcite--njriasan": "2021-06-08 00:00:00",
+        "#big-data--calcite--vnhive": "2021-07-13 00:00:00",
+        "#big-data--calcite--AlonEldar89": "2021-07-05 00:00:00",
+        "#big-data--calcite--kramerul": "2021-06-18 00:00:00",
+        "#big-data--calcite--a-rafay": "2021-06-14 00:00:00",
+        "#big-data--calcite--angelzouxin": "2021-06-09 00:00:00",
+        "#big-data--calcite--jerrinot": "2021-04-15 00:00:00",
+        "#big-data--calcite--tisonkun": "2021-05-09 00:00:00",
+        "#big-data--calcite--wangxianghu": "2021-05-11 00:00:00",
+        "#big-data--calcite--jibiyr": "2021-03-26 00:00:00",
+        "#big-data--calcite--Aaaaaaron": "2021-04-16 00:00:00",
+        "#big-data--calcite--maheshk114": "2021-04-12 00:00:00",
+        "#big-data--calcite--dugenkui03": "2021-04-09 00:00:00",
+        "#big-data--calcite--MalteBellmann": "2021-02-22 00:00:00",
+        "#big-data--calcite--hbtoo": "2021-02-25 00:00:00",
+        "#big-data--calcite--tgrall": "2020-10-18 00:00:00",
+        "#big-data--calcite--danny0405": "2021-01-27 00:00:00",
+        "#big-data--calcite--wangjie-fourth": "2021-01-22 00:00:00",
+        "#big-data--calcite--zinking": "2021-01-01 00:00:00",
+        "#big-data--calcite--ostumpf": "2020-12-21 00:00:00",
+        "#big-data--calcite--intrigus-lgtm": "2020-12-24 00:00:00",
+        "#big-data--calcite--dawidwys": "2020-11-11 00:00:00",
+        "#big-data--calcite--shlok7296": "2020-10-15 00:00:00",
+        "#big-data--calcite--jeremiahrhall": "2020-10-05 00:00:00",
+        "#big-data--calcite--trushev": "2020-10-08 00:00:00",
+        "#big-data--calcite--LiShuMing": "2019-12-26 00:00:00",
+        "#big-data--calcite--neoremind": "2020-06-12 00:00:00",
+        "#big-data--calcite--docete": "2020-09-30 00:00:00",
+        "#big-data--calcite--liupc": "2020-09-28 00:00:00",
+        "#big-data--calcite--stutigupta028": "2019-02-19 00:00:00",
+        "#big-data--calcite--ihuzenko": "2020-09-02 00:00:00",
+        "#big-data--calcite--jinxing64": "2020-05-12 00:00:00",
+        "#big-data--calcite--fageiguanbing": "2020-08-27 00:00:00",
+        "#big-data--calcite--wangxlong": "2020-03-27 00:00:00",
+        "#big-data--calcite--DonnyZone": "2020-07-09 00:00:00",
+        "#big-data--calcite--wenhuitang": "2020-05-27 00:00:00",
+        "#big-data--calcite--XuQianJin-Stars": "2020-05-08 00:00:00",
+        "#big-data--calcite--THeinemann": "2020-04-09 00:00:00",
+        "#big-data--calcite--dasch-1": "2020-04-22 00:00:00",
+        "#big-data--calcite--xndai": "2020-04-10 00:00:00",
+        "#big-data--calcite--kgyrtkirk": "2020-05-10 00:00:00",
+        "#big-data--calcite--alexbaden": "2020-05-06 00:00:00",
+        "#big-data--calcite--laurentgo": "2020-04-30 00:00:00",
+        "#big-data--calcite--vineetgarg02": "2020-05-01 00:00:00",
+        "#big-data--calcite--my7ym": "2020-02-25 00:00:00",
+        "#big-data--calcite--chris-baynes": "2018-05-09 00:00:00",
+        "#big-data--calcite--rayokota": "2019-09-04 00:00:00",
+        "#big-data--calcite--ritesh-kapoor": "2020-03-21 00:00:00",
+        "#big-data--calcite--Liwink": "2020-03-30 00:00:00",
+        "#big-data--calcite--beikov": "2020-03-04 00:00:00",
+        "#big-data--calcite--dhirenda-gautam": "2020-02-05 00:00:00",
+        "#big-data--calcite--pengzhiwei2018": "2020-01-15 00:00:00",
+        "#big-data--calcite--weidong3630": "2019-11-26 00:00:00",
+        "#big-data--calcite--dependabot[bot]": "2019-11-14 00:00:00",
+        "#big-data--calcite--helloppx": "2019-12-20 00:00:00",
+        "#big-data--calcite--lxian": "2019-12-20 00:00:00",
+        "#big-data--calcite--divyanshuS27": "2019-12-05 00:00:00",
+        "#big-data--calcite--seancxmao": "2019-12-16 00:00:00",
+        "#big-data--calcite--wuchong": "2019-11-10 00:00:00",
+        "#big-data--calcite--cndaimin": "2019-11-01 00:00:00",
+        "#big-data--calcite--wuyunfeng": "2019-10-24 00:00:00",
+        "#big-data--calcite--fib-seq": "2019-10-17 00:00:00",
+        "#big-data--calcite--soma-mondal": "2019-10-17 00:00:00",
+        "#big-data--calcite--arnkore": "2019-10-17 00:00:00",
+        "#big-data--calcite--contextshuffling": "2019-10-05 00:00:00",
+        "#big-data--calcite--HuangZhenQiu": "2019-09-15 00:00:00",
+        "#big-data--calcite--jswett77": "2019-09-24 00:00:00",
+        "#big-data--calcite--lameyer": "2019-09-19 00:00:00",
+        "#big-data--calcite--JackyWoo": "2019-08-26 00:00:00",
+        "#big-data--calcite--JulianFeinauer": "2019-08-28 00:00:00",
+        "#big-data--calcite--shikhasomani": "2019-09-09 00:00:00",
+        "#big-data--calcite--LaiZhou": "2019-08-21 00:00:00",
+        "#big-data--calcite--jh3507": "2019-08-26 00:00:00",
+        "#big-data--calcite--khaitranq": "2016-12-06 00:00:00",
+        "#big-data--calcite--KhawlaMhb": "2019-08-05 00:00:00",
+        "#big-data--calcite--Zhiqiang-He": "2017-12-15 00:00:00",
+        "#big-data--calcite--MGelbana": "2019-05-22 00:00:00",
+        "#big-data--calcite--jszeluga": "2019-06-14 00:00:00",
+        "#big-data--calcite--sergeyT2": "2019-06-10 00:00:00",
+        "#big-data--calcite--KazydubB": "2019-07-05 00:00:00",
+        "#big-data--calcite--praveenbingo": "2019-07-09 00:00:00",
+        "#big-data--calcite--Fokko": "2019-07-08 00:00:00",
+        "#big-data--calcite--hequn8128": "2019-01-27 00:00:00",
+        "#big-data--calcite--siddharthteotia": "2019-02-06 00:00:00",
+        "#big-data--calcite--zhztheplayer": "2019-05-28 00:00:00",
+        "#big-data--calcite--joshelser": "2019-05-24 00:00:00",
+        "#big-data--calcite--ambition119": "2019-05-21 00:00:00",
+        "#big-data--calcite--shimamoto": "2019-05-21 00:00:00",
+        "#big-data--calcite--LastSmile732": "2019-05-20 00:00:00",
+        "#big-data--calcite--dijkspicy": "2019-05-05 00:00:00",
+        "#big-data--calcite--nishantmonu51": "2019-04-18 00:00:00",
+        "#big-data--calcite--dianfu": "2018-12-12 00:00:00",
+        "#big-data--calcite--zuozhiw": "2018-08-09 00:00:00",
+        "#big-data--calcite--risdenk": "2019-03-29 00:00:00",
+        "#big-data--calcite--wangzzu": "2019-03-18 00:00:00",
+        "#big-data--calcite--chadasa": "2019-02-27 00:00:00",
+        "#big-data--calcite--gianm": "2018-10-20 00:00:00",
+        "#big-data--calcite--belugabehr": "2019-01-08 00:00:00",
+        "#big-data--calcite--BenoitHanotte": "2019-01-02 00:00:00",
+        "#big-data--calcite--marcprux": "2018-12-15 00:00:00",
+        "#big-data--calcite--LantaoJin": "2018-12-06 00:00:00",
+        "#big-data--calcite--apilloud": "2018-09-19 00:00:00",
+        "#big-data--calcite--eolivelli": "2018-11-08 00:00:00",
+        "#big-data--calcite--alishaIBM": "2018-09-12 00:00:00",
+        "#big-data--calcite--rdsr": "2017-12-27 00:00:00",
+        "#big-data--calcite--arina-ielchiieva": "2018-08-31 00:00:00",
+        "#big-data--calcite--chenzl25": "2018-07-09 00:00:00",
+        "#big-data--calcite--ipatina": "2018-07-19 00:00:00",
+        "#big-data--calcite--jduo": "2018-07-03 00:00:00",
+        "#big-data--calcite--sudheeshkatkam": "2018-04-25 00:00:00",
+        "#big-data--calcite--chunhui-shi": "2018-04-30 00:00:00",
+        "#big-data--calcite--b-slim": "2018-06-15 00:00:00",
+        "#big-data--calcite--yanghua": "2018-06-11 00:00:00",
+        "#big-data--calcite--kennknowles": "2018-06-01 00:00:00",
+        "#big-data--calcite--hustfxj": "2018-05-24 00:00:00",
+        "#big-data--calcite--atris": "2017-06-27 00:00:00",
+        "#big-data--calcite--dkadams": "2018-05-22 00:00:00",
+        "#big-data--calcite--vdiravka": "2018-04-23 00:00:00",
+        "#big-data--calcite--malcolmtaylor": "2018-02-04 00:00:00",
+        "#big-data--calcite--fhueske": "2018-03-16 00:00:00",
+        "#big-data--calcite--rajrahul": "2018-03-04 00:00:00",
+        "#big-data--calcite--ebegoli": "2018-02-13 00:00:00",
+        "#big-data--calcite--tzolov": "2016-12-04 00:00:00",
+        "#big-data--calcite--msydoron": "2017-12-18 00:00:00",
+        "#big-data--calcite--rmunjam": "2018-01-23 00:00:00",
+        "#big-data--calcite--maryannxue": "2018-01-25 00:00:00",
+        "#big-data--calcite--samwagg": "2018-01-22 00:00:00",
+        "#big-data--calcite--vladimirtkach": "2018-01-21 00:00:00",
+        "#big-data--calcite--vijayk": "2018-01-18 00:00:00",
+        "#big-data--calcite--LeoWangLZ": "2018-01-05 00:00:00",
+        "#big-data--calcite--vladimirdolzhenko": "2017-12-21 00:00:00",
+        "#big-data--calcite--XintaoLiao": "2017-12-05 00:00:00",
+        "#big-data--calcite--lfkpoa": "2017-11-09 00:00:00",
+        "#big-data--calcite--KulykRoman": "2017-11-07 00:00:00",
+        "#big-data--calcite--twalthr": "2017-10-17 00:00:00",
+        "#big-data--calcite--alexeyroytman": "2017-10-27 00:00:00",
+        "#big-data--calcite--abbas-gadhia": "2017-10-05 00:00:00",
+        "#big-data--calcite--minji-kim": "2017-08-27 00:00:00",
+        "#big-data--calcite--sunjincheng121": "2017-08-03 00:00:00",
+        "#big-data--calcite--ch33hau": "2017-08-02 00:00:00",
+        "#big-data--calcite--axeisghost": "2017-07-17 00:00:00",
+        "#big-data--calcite--elilevine": "2017-05-30 00:00:00",
+        "#big-data--calcite--hzyuemeng1": "2017-06-20 00:00:00",
+        "#big-data--calcite--ankitsinghal": "2017-06-23 00:00:00",
+        "#big-data--calcite--Xpray": "2017-06-28 00:00:00",
+        "#big-data--calcite--xumingming": "2017-06-21 00:00:00",
+        "#big-data--calcite--darionyaphet": "2017-06-19 00:00:00",
+        "#big-data--calcite--rusanu": "2017-05-31 00:00:00",
+        "#big-data--calcite--batytskyy": "2017-05-22 00:00:00",
+        "#big-data--calcite--binmahone": "2017-04-16 00:00:00",
+        "#big-data--calcite--rtudoran": "2017-04-13 00:00:00",
+        "#big-data--calcite--kstirman": "2017-04-13 00:00:00",
+        "#big-data--calcite--kliewkliew": "2017-04-07 00:00:00",
+        "#big-data--calcite--markap14": "2017-03-07 00:00:00",
+        "#big-data--calcite--HenryOlson": "2016-04-14 00:00:00",
+        "#big-data--calcite--tmostak": "2017-02-10 00:00:00",
+        "#big-data--calcite--jbalint": "2017-01-27 00:00:00",
+        "#big-data--calcite--ashutoshc": "2017-01-18 00:00:00",
+        "#big-data--calcite--KurtYoung": "2017-01-04 00:00:00",
+        "#big-data--calcite--Lerm": "2015-12-27 00:00:00",
+        "#big-data--calcite--gaodayue": "2016-11-21 00:00:00",
+        "#big-data--calcite--Serhii-Harnyk": "2016-11-22 00:00:00",
+        "#big-data--calcite--pengchengxiong": "2016-11-07 00:00:00",
+        "#big-data--calcite--HeartSaVioR": "2016-10-18 00:00:00",
+        "#big-data--calcite--amihalik": "2016-10-26 00:00:00",
+        "#big-data--calcite--VcamX": "2016-10-11 00:00:00",
+        "#big-data--calcite--arunmahadevan": "2016-10-13 00:00:00",
+        "#big-data--calcite--zhengd": "2016-09-26 00:00:00",
+        "#big-data--calcite--bluejoe2008": "2016-09-07 00:00:00",
+        "#big-data--calcite--yiming187": "2016-09-08 00:00:00",
+        "#big-data--calcite--julienledem": "2016-08-01 00:00:00",
+        "#big-data--calcite--dynamix": "2016-07-21 00:00:00",
+        "#big-data--calcite--milinda": "2016-07-18 00:00:00",
+        "#big-data--calcite--vkorukanti": "2016-04-14 00:00:00",
+        "#big-data--calcite--baunz": "2016-05-19 00:00:00",
+        "#big-data--calcite--sbcd90": "2016-05-21 00:00:00",
+        "#big-data--calcite--yixinglu": "2016-05-19 00:00:00",
+        "#big-data--calcite--jinfengni": "2016-03-09 00:00:00",
+        "#big-data--calcite--ebastien": "2016-05-12 00:00:00",
+        "#big-data--calcite--jxiang": "2016-05-03 00:00:00",
+        "#big-data--calcite--amoghmargoor": "2016-05-01 00:00:00",
+        "#big-data--calcite--hsuanyi": "2016-04-27 00:00:00",
+        "#big-data--calcite--javanlion": "2016-04-28 00:00:00",
+        "#big-data--calcite--chrisdpa": "2016-03-14 00:00:00",
+        "#big-data--calcite--wanglan": "2016-03-10 00:00:00",
+        "#big-data--calcite--vasia": "2016-03-07 00:00:00",
+        "#big-data--calcite--matthewshaer": "2016-02-03 00:00:00",
+        "#big-data--calcite--jaltekruse": "2015-04-10 00:00:00",
+        "#big-data--calcite--jpullokkaran": "2015-11-25 00:00:00",
+        "#big-data--calcite--mikehinchey": "2015-12-03 00:00:00",
+        "#big-data--calcite--navis": "2015-10-26 00:00:00",
+        "#big-data--calcite--bdumon": "2015-10-23 00:00:00",
+        "#big-data--calcite--andygrove": "2015-10-22 00:00:00",
+        "#big-data--calcite--jyates": "2015-08-09 00:00:00",
+        "#big-data--calcite--lalinsky": "2015-07-12 00:00:00",
+        "#big-data--calcite--xhoong": "2015-05-29 00:00:00",
+        "#big-data--calcite--aertoria": "2015-04-26 00:00:00",
+        "#big-data--calcite--smola": "2015-05-12 00:00:00",
+        "#big-data--calcite--ndimiduk": "2015-04-06 00:00:00",
+        "#big-data--calcite--danielcooperxyz": "2015-03-17 00:00:00",
+        "#big-data--calcite--devth": "2015-02-04 00:00:00",
+        "#big-data--calcite--mehant": "2014-12-22 00:00:00",
+        "#big-data--calcite--lmccay": "2014-11-23 00:00:00",
+        "#big-data--calcite--aleph-zero": "2014-11-18 00:00:00",
+        "#big-data--calcite--yssharma": "2014-09-28 00:00:00",
+        "#big-data--calcite--sreev": "2014-09-17 00:00:00",
+        "#big-data--calcite--wgorman": "2014-09-17 00:00:00",
+        "#big-data--calcite--jcentenn": "2014-07-31 00:00:00",
+        "#big-data--calcite--martijn-basesoft": "2014-06-06 00:00:00",
+        "#big-data--calcite--kul": "2014-05-26 00:00:00",
+        "#big-data--calcite--wseidel": "2014-04-23 00:00:00",
+        "#big-data--calcite--rmetzger": "2014-03-31 00:00:00",
+        "#big-data--calcite--marianol": "2014-03-13 00:00:00",
+        "#big-data--calcite--juhoautio": "2013-11-13 00:00:00",
+        "#big-data--calcite--lucboudreau": "2013-10-15 00:00:00",
+        "#big-data--calcite--joeposner": "2013-08-28 00:00:00",
+        "#big-data--calcite--AEtherSurfer": "2013-07-15 00:00:00",
+        "#big-data--calcite--lesleh": "2013-07-09 00:00:00",
+        "#big-data--calcite--cwensel": "2013-06-21 00:00:00",
+        "#big-data--calcite--catfishlar": "2013-03-12 00:00:00",
+        "#big-data--calcite--jganoff": "2012-04-24 00:00:00",
+        "#big-data--calcite--pstoellberger": "2012-04-20 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#big-data--calcite--Aitozi": 0,
+        "#big-data--calcite--clesaec": 0,
+        "#big-data--calcite--DeaconDesperado": 0,
+        "#big-data--calcite--zhuwenzhuang": 0,
+        "#big-data--calcite--strongduanmu": 0,
+        "#big-data--calcite--henneberger": 0,
+        "#big-data--calcite--korlov42": 0,
+        "#big-data--calcite--innovimax": 0,
+        "#big-data--calcite--raghavSharmaCode": 0,
+        "#big-data--calcite--jnturton": 0,
+        "#big-data--calcite--IceMimosa": 0,
+        "#big-data--calcite--sdreynolds": 0,
+        "#big-data--calcite--rpuch": 0,
+        "#big-data--calcite--TeslaCN": 0,
+        "#big-data--calcite--mkou": 0,
+        "#big-data--calcite--soumyakanti3578": 0,
+        "#big-data--calcite--ieugen": 0,
+        "#big-data--calcite--lmagic233": 0,
+        "#big-data--calcite--marcobjorge": 0,
+        "#big-data--calcite--xwkuang5": 0,
+        "#big-data--calcite--agajst": 0,
+        "#big-data--calcite--yingyuwang": 0,
+        "#big-data--calcite--birschick-bq": 0,
+        "#big-data--calcite--gierlachg": 0,
+        "#big-data--calcite--Enzo-Liu": 0,
+        "#big-data--calcite--njriasan": 0,
+        "#big-data--calcite--vnhive": 0,
+        "#big-data--calcite--AlonEldar89": 0,
+        "#big-data--calcite--angelzouxin": 0,
+        "#big-data--calcite--jerrinot": 0,
+        "#big-data--calcite--tisonkun": 0,
+        "#big-data--calcite--wangxianghu": 0,
+        "#big-data--calcite--dugenkui03": 0,
+        "#big-data--calcite--MalteBellmann": 0,
+        "#big-data--calcite--wangjie-fourth": 0,
+        "#big-data--calcite--ostumpf": 0,
+        "#big-data--calcite--intrigus-lgtm": 0,
+        "#big-data--calcite--jeremiahrhall": 0,
+        "#big-data--calcite--trushev": 0,
+        "#big-data--calcite--fageiguanbing": 0,
+        "#big-data--calcite--THeinemann": 0,
+        "#big-data--calcite--dasch-1": 0,
+        "#big-data--calcite--alexbaden": 0,
+        "#big-data--calcite--rayokota": 0,
+        "#big-data--calcite--Liwink": 0,
+        "#big-data--calcite--helloppx": 0,
+        "#big-data--calcite--lxian": 0,
+        "#big-data--calcite--divyanshuS27": 0,
+        "#big-data--calcite--cndaimin": 0,
+        "#big-data--calcite--wuyunfeng": 0,
+        "#big-data--calcite--soma-mondal": 0,
+        "#big-data--calcite--arnkore": 0,
+        "#big-data--calcite--contextshuffling": 0,
+        "#big-data--calcite--HuangZhenQiu": 0,
+        "#big-data--calcite--jswett77": 0,
+        "#big-data--calcite--shikhasomani": 0,
+        "#big-data--calcite--LaiZhou": 0,
+        "#big-data--calcite--khaitranq": 0,
+        "#big-data--calcite--sergeyT2": 0,
+        "#big-data--calcite--praveenbingo": 0,
+        "#big-data--calcite--shimamoto": 0,
+        "#big-data--calcite--LastSmile732": 0,
+        "#big-data--calcite--dijkspicy": 0,
+        "#big-data--calcite--zuozhiw": 0,
+        "#big-data--calcite--wangzzu": 0,
+        "#big-data--calcite--belugabehr": 0,
+        "#big-data--calcite--alishaIBM": 0,
+        "#big-data--calcite--rdsr": 0,
+        "#big-data--calcite--chenzl25": 0,
+        "#big-data--calcite--ipatina": 0,
+        "#big-data--calcite--sudheeshkatkam": 0,
+        "#big-data--calcite--yanghua": 0,
+        "#big-data--calcite--kennknowles": 0,
+        "#big-data--calcite--atris": 0,
+        "#big-data--calcite--malcolmtaylor": 0,
+        "#big-data--calcite--fhueske": 0,
+        "#big-data--calcite--rajrahul": 0,
+        "#big-data--calcite--ebegoli": 0,
+        "#big-data--calcite--msydoron": 0,
+        "#big-data--calcite--rmunjam": 0,
+        "#big-data--calcite--vladimirtkach": 0,
+        "#big-data--calcite--vijayk": 0,
+        "#big-data--calcite--vladimirdolzhenko": 0,
+        "#big-data--calcite--KulykRoman": 0,
+        "#big-data--calcite--twalthr": 0,
+        "#big-data--calcite--alexeyroytman": 0,
+        "#big-data--calcite--abbas-gadhia": 0,
+        "#big-data--calcite--ch33hau": 0,
+        "#big-data--calcite--hzyuemeng1": 0,
+        "#big-data--calcite--Xpray": 0,
+        "#big-data--calcite--xumingming": 0,
+        "#big-data--calcite--darionyaphet": 0,
+        "#big-data--calcite--rtudoran": 0,
+        "#big-data--calcite--kstirman": 0,
+        "#big-data--calcite--markap14": 0,
+        "#big-data--calcite--HenryOlson": 0,
+        "#big-data--calcite--tmostak": 0,
+        "#big-data--calcite--KurtYoung": 0,
+        "#big-data--calcite--Lerm": 0,
+        "#big-data--calcite--gaodayue": 0,
+        "#big-data--calcite--Serhii-Harnyk": 0,
+        "#big-data--calcite--pengchengxiong": 0,
+        "#big-data--calcite--amihalik": 0,
+        "#big-data--calcite--arunmahadevan": 0,
+        "#big-data--calcite--zhengd": 0,
+        "#big-data--calcite--bluejoe2008": 0,
+        "#big-data--calcite--dynamix": 0,
+        "#big-data--calcite--baunz": 0,
+        "#big-data--calcite--sbcd90": 0,
+        "#big-data--calcite--ebastien": 0,
+        "#big-data--calcite--jxiang": 0,
+        "#big-data--calcite--javanlion": 0,
+        "#big-data--calcite--chrisdpa": 0,
+        "#big-data--calcite--vasia": 0,
+        "#big-data--calcite--matthewshaer": 0,
+        "#big-data--calcite--jpullokkaran": 0,
+        "#big-data--calcite--mikehinchey": 0,
+        "#big-data--calcite--navis": 0,
+        "#big-data--calcite--andygrove": 0,
+        "#big-data--calcite--jyates": 0,
+        "#big-data--calcite--aertoria": 0,
+        "#big-data--calcite--smola": 0,
+        "#big-data--calcite--danielcooperxyz": 0,
+        "#big-data--calcite--devth": 0,
+        "#big-data--calcite--aleph-zero": 0,
+        "#big-data--calcite--sreev": 0,
+        "#big-data--calcite--wgorman": 0,
+        "#big-data--calcite--jcentenn": 0,
+        "#big-data--calcite--martijn-basesoft": 0,
+        "#big-data--calcite--wseidel": 0,
+        "#big-data--calcite--marianol": 0,
+        "#big-data--calcite--juhoautio": 0,
+        "#big-data--calcite--lucboudreau": 0,
+        "#big-data--calcite--joeposner": 0,
+        "#big-data--calcite--AEtherSurfer": 0,
+        "#big-data--calcite--lesleh": 0,
+        "#big-data--calcite--catfishlar": 0,
+        "#big-data--calcite--pstoellberger": 0,
+        "#big-data--calcite--tjbanghart": 1,
+        "#big-data--calcite--tgrall": 1,
+        "#big-data--calcite--stutigupta028": 1,
+        "#big-data--calcite--dependabot[bot]": 1,
+        "#big-data--calcite--siddharthteotia": 1,
+        "#big-data--calcite--jganoff": 1,
+        "#big-data--calcite--lfkpoa": 2,
+        "#big-data--calcite--VcamX": 2,
+        "#big-data--calcite--lmccay": 2,
+        "#big-data--calcite--maheshk114": 3,
+        "#big-data--calcite--yixinglu": 3,
+        "#big-data--calcite--kul": 3,
+        "#big-data--calcite--samwagg": 4,
+        "#big-data--calcite--mans2singh": 5,
+        "#big-data--calcite--yssharma": 5,
+        "#big-data--calcite--liupc": 6,
+        "#big-data--calcite--wanglan": 6,
+        "#big-data--calcite--ambition119": 8,
+        "#big-data--calcite--LantaoJin": 10,
+        "#big-data--calcite--chunhui-shi": 12,
+        "#big-data--calcite--axeisghost": 12,
+        "#big-data--calcite--francesco-gini88": 13,
+        "#big-data--calcite--ndimiduk": 13,
+        "#big-data--calcite--kramerul": 14,
+        "#big-data--calcite--wenruimeng": 15,
+        "#big-data--calcite--jibiyr": 16,
+        "#big-data--calcite--seancxmao": 17,
+        "#big-data--calcite--lalinsky": 19,
+        "#big-data--calcite--jduo": 21,
+        "#big-data--calcite--HeartSaVioR": 21,
+        "#big-data--calcite--JackyWoo": 27,
+        "#big-data--calcite--dhirenda-gautam": 30,
+        "#big-data--calcite--guiyanakuang": 31,
+        "#big-data--calcite--tzolov": 31,
+        "#big-data--calcite--XintaoLiao": 32,
+        "#big-data--calcite--bchapuis": 43,
+        "#big-data--calcite--KazydubB": 43,
+        "#big-data--calcite--xhoong": 43,
+        "#big-data--calcite--lameyer": 48,
+        "#big-data--calcite--vdiravka": 48,
+        "#big-data--calcite--l4wei": 49,
+        "#big-data--calcite--ankitsinghal": 56,
+        "#big-data--calcite--jbalint": 57,
+        "#big-data--calcite--neoremind": 58,
+        "#big-data--calcite--yiming187": 62,
+        "#big-data--calcite--KhawlaMhb": 63,
+        "#big-data--calcite--kliewkliew": 63,
+        "#big-data--calcite--ILuffZhe": 64,
+        "#big-data--calcite--fib-seq": 65,
+        "#big-data--calcite--jaystarshot": 82,
+        "#big-data--calcite--sunjincheng121": 84,
+        "#big-data--calcite--chadasa": 95,
+        "#big-data--calcite--weidong3630": 98,
+        "#big-data--calcite--rusanu": 98,
+        "#big-data--calcite--wangxlong": 99,
+        "#big-data--calcite--abhishek-das-gupta": 101,
+        "#big-data--calcite--apilloud": 106,
+        "#big-data--calcite--deadwind4": 112,
+        "#big-data--calcite--wnob": 113,
+        "#big-data--calcite--rmetzger": 122,
+        "#big-data--calcite--elilevine": 124,
+        "#big-data--calcite--LeoWangLZ": 133,
+        "#big-data--calcite--dawidwys": 142,
+        "#big-data--calcite--jszeluga": 150,
+        "#big-data--calcite--dssysolyatin": 154,
+        "#big-data--calcite--hustfxj": 155,
+        "#big-data--calcite--BenoitHanotte": 169,
+        "#big-data--calcite--libenchao": 173,
+        "#big-data--calcite--Fokko": 186,
+        "#big-data--calcite--devozerov": 194,
+        "#big-data--calcite--batytskyy": 227,
+        "#big-data--calcite--xndai": 238,
+        "#big-data--calcite--a-rafay": 244,
+        "#big-data--calcite--hequn8128": 247,
+        "#big-data--calcite--jh3507": 248,
+        "#big-data--calcite--cwensel": 249,
+        "#big-data--calcite--LiShuMing": 259,
+        "#big-data--calcite--julienledem": 270,
+        "#big-data--calcite--zhztheplayer": 279,
+        "#big-data--calcite--alex-plekhanov": 295,
+        "#big-data--calcite--Aaaaaaron": 309,
+        "#big-data--calcite--jinxing64": 312,
+        "#big-data--calcite--amoghmargoor": 325,
+        "#big-data--calcite--Zhiqiang-He": 335,
+        "#big-data--calcite--JiajunBernoulli": 336,
+        "#big-data--calcite--my7ym": 340,
+        "#big-data--calcite--MGelbana": 352,
+        "#big-data--calcite--shlok7296": 356,
+        "#big-data--calcite--eolivelli": 356,
+        "#big-data--calcite--dkadams": 356,
+        "#big-data--calcite--thomasrebele": 366,
+        "#big-data--calcite--wenhuitang": 366,
+        "#big-data--calcite--milinda": 375,
+        "#big-data--calcite--jaltekruse": 375,
+        "#big-data--calcite--NobiGo": 387,
+        "#big-data--calcite--ritesh-kapoor": 387,
+        "#big-data--calcite--jinfengni": 394,
+        "#big-data--calcite--wojustme": 406,
+        "#big-data--calcite--jamesstarr": 408,
+        "#big-data--calcite--DonnyZone": 412,
+        "#big-data--calcite--mehant": 412,
+        "#big-data--calcite--viliam-durina": 417,
+        "#big-data--calcite--ihuzenko": 419,
+        "#big-data--calcite--zstan": 426,
+        "#big-data--calcite--hsuanyi": 452,
+        "#big-data--calcite--thomasbanghart": 455,
+        "#big-data--calcite--b-slim": 477,
+        "#big-data--calcite--dianfu": 492,
+        "#big-data--calcite--pengzhiwei2018": 516,
+        "#big-data--calcite--XuQianJin-Stars": 532,
+        "#big-data--calcite--minji-kim": 537,
+        "#big-data--calcite--bdumon": 589,
+        "#big-data--calcite--hbtoo": 629,
+        "#big-data--calcite--yanlin-Lynn": 644,
+        "#big-data--calcite--chris-baynes": 715,
+        "#big-data--calcite--vkorukanti": 751,
+        "#big-data--calcite--maryannxue": 758,
+        "#big-data--calcite--binmahone": 762,
+        "#big-data--calcite--kgyrtkirk": 766,
+        "#big-data--calcite--risdenk": 768,
+        "#big-data--calcite--liyafan82": 771,
+        "#big-data--calcite--xy2953396112": 783,
+        "#big-data--calcite--nishantmonu51": 783,
+        "#big-data--calcite--rkondakov": 791,
+        "#big-data--calcite--gianm": 806,
+        "#big-data--calcite--amaliujia": 821,
+        "#big-data--calcite--vineetgarg02": 872,
+        "#big-data--calcite--ashutoshc": 875,
+        "#big-data--calcite--arina-ielchiieva": 911,
+        "#big-data--calcite--beikov": 923,
+        "#big-data--calcite--kasakrisz": 926,
+        "#big-data--calcite--HanumathRao": 946,
+        "#big-data--calcite--JulianFeinauer": 986,
+        "#big-data--calcite--danny0405": 1007,
+        "#big-data--calcite--wuchong": 1220,
+        "#big-data--calcite--hsyuan": 1263,
+        "#big-data--calcite--laurentgo": 1305,
+        "#big-data--calcite--chunweilei": 1323,
+        "#big-data--calcite--joshelser": 1353,
+        "#big-data--calcite--docete": 1364,
+        "#big-data--calcite--rubenada": 1428,
+        "#big-data--calcite--asereda-gs": 1443,
+        "#big-data--calcite--zabetak": 1496,
+        "#big-data--calcite--snuyanzin": 1606,
+        "#big-data--calcite--marcprux": 1623,
+        "#big-data--calcite--beyond1920": 1669,
+        "#big-data--calcite--vvysotskyi": 1682,
+        "#big-data--calcite--flink-sql": 1712,
+        "#big-data--calcite--asolimando": 1739,
+        "#big-data--calcite--zinking": 1844,
+        "#big-data--calcite--godfreyhe": 1847,
+        "#big-data--calcite--F21": 2222,
+        "#big-data--calcite--michaelmior": 2289,
+        "#big-data--calcite--jcamachor": 2496,
+        "#big-data--calcite--vlsi": 2832,
+        "#big-data--calcite--jacques-n": 2882,
+        "#big-data--calcite--": 3138,
+        "#big-data--calcite--julianhyde": 3835
+    },
+    "commiter_contribute_time1": {
+        "#big-data--calcite--pengzhiwei2018": {
+            "start": "2018-08-17 00:00:00",
+            "end": "2019-01-16 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--mehant": {
+            "start": "2013-11-05 00:00:00",
+            "end": "2014-12-22 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--chris-baynes": {
+            "start": "2016-05-24 00:00:00",
+            "end": "2018-05-09 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--gianm": {
+            "start": "2016-08-05 00:00:00",
+            "end": "2017-10-03 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--amoghmargoor": {
+            "start": "2015-06-11 00:00:00",
+            "end": "2016-03-08 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--eolivelli": {
+            "start": "2017-11-17 00:00:00",
+            "end": "2018-11-08 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--ihuzenko": {
+            "start": "2019-07-11 00:00:00",
+            "end": "2020-09-02 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--xndai": {
+            "start": "2019-08-16 00:00:00",
+            "end": "2020-02-25 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--ritesh-kapoor": {
+            "start": "2019-02-28 00:00:00",
+            "end": "2020-03-06 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--nishantmonu51": {
+            "start": "2017-02-24 00:00:00",
+            "end": "2018-01-22 00:00:00",
+            "bug_num_per_commit": 0.6,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--wenhuitang": {
+            "start": "2019-05-27 00:00:00",
+            "end": "2020-03-27 00:00:00",
+            "bug_num_per_commit": 0.6666666666666666,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--wuchong": {
+            "start": "2016-07-08 00:00:00",
+            "end": "2019-11-10 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--jinfengni": {
+            "start": "2015-02-09 00:00:00",
+            "end": "2016-03-09 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--b-slim": {
+            "start": "2017-02-23 00:00:00",
+            "end": "2018-03-22 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--zinking": {
+            "start": "2015-12-15 00:00:00",
+            "end": "2020-12-31 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--vkorukanti": {
+            "start": "2014-03-25 00:00:00",
+            "end": "2016-04-14 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--hsuanyi": {
+            "start": "2015-01-31 00:00:00",
+            "end": "2015-10-15 00:00:00",
+            "bug_num_per_commit": 0.8,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--jinxing64": {
+            "start": "2019-07-05 00:00:00",
+            "end": "2019-11-27 00:00:00",
+            "bug_num_per_commit": 0.42857142857142855,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--Zhiqiang-He": {
+            "start": "2017-01-14 00:00:00",
+            "end": "2017-07-08 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--laurentgo": {
+            "start": "2016-10-03 00:00:00",
+            "end": "2019-05-29 00:00:00",
+            "bug_num_per_commit": 0.16666666666666666,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--kgyrtkirk": {
+            "start": "2018-04-05 00:00:00",
+            "end": "2019-02-26 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--DonnyZone": {
+            "start": "2019-05-24 00:00:00",
+            "end": "2020-01-06 00:00:00",
+            "bug_num_per_commit": 0.4,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--snuyanzin": {
+            "start": "2018-05-28 00:00:00",
+            "end": "2021-09-28 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--amaliujia": {
+            "start": "2019-09-27 00:00:00",
+            "end": "2020-06-07 00:00:00",
+            "bug_num_per_commit": 0.2,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--minji-kim": {
+            "start": "2016-03-08 00:00:00",
+            "end": "2016-08-30 00:00:00",
+            "bug_num_per_commit": 0.6666666666666666,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--yanlin-Lynn": {
+            "start": "2019-07-11 00:00:00",
+            "end": "2019-11-06 00:00:00",
+            "bug_num_per_commit": 0.2222222222222222,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--jamesstarr": {
+            "start": "2020-08-12 00:00:00",
+            "end": "2021-03-22 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--beikov": {
+            "start": "2017-08-24 00:00:00",
+            "end": "2020-03-04 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--maryannxue": {
+            "start": "2015-12-29 00:00:00",
+            "end": "2017-02-21 00:00:00",
+            "bug_num_per_commit": 0.42857142857142855,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--zhztheplayer": {
+            "start": "2018-08-22 00:00:00",
+            "end": "2019-05-05 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--vvysotskyi": {
+            "start": "2017-08-15 00:00:00",
+            "end": "2019-10-29 00:00:00",
+            "bug_num_per_commit": 0.125,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--jcamachor": {
+            "start": "2014-12-01 00:00:00",
+            "end": "2018-03-17 00:00:00",
+            "bug_num_per_commit": 0.21951219512195122,
+            "bug_commit_num_rate": 1.0
+        }
+    },
+    "commiter_contribute_time2": {
+        "#big-data--calcite--pengzhiwei2018": {
+            "start": "2018-10-11 00:00:00",
+            "end": "2018-09-24 00:00:00",
+            "bug_num_per_commit": 0.75,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--mehant": {
+            "start": "2014-06-10 00:00:00",
+            "end": "2014-06-10 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--chris-baynes": {
+            "start": "2017-07-28 00:00:00",
+            "end": "2017-07-14 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--gianm": {
+            "start": "2017-10-11 00:00:00",
+            "end": "2017-07-05 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--amoghmargoor": {
+            "start": "2016-02-28 00:00:00",
+            "end": "2015-12-09 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--eolivelli": {
+            "start": "2018-09-23 00:00:00",
+            "end": "2018-09-23 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--ihuzenko": {
+            "start": "2019-11-25 00:00:00",
+            "end": "2019-11-25 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--xndai": {
+            "start": "2020-02-19 00:00:00",
+            "end": "2020-02-04 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--ritesh-kapoor": {
+            "start": "2020-01-13 00:00:00",
+            "end": "2020-01-07 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--nishantmonu51": {
+            "start": "2018-01-13 00:00:00",
+            "end": "2018-01-08 00:00:00",
+            "bug_num_per_commit": 0.4,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--wenhuitang": {
+            "start": "2020-03-19 00:00:00",
+            "end": "2019-09-18 00:00:00",
+            "bug_num_per_commit": 0.6666666666666666,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--wuchong": {
+            "start": "2017-12-12 00:00:00",
+            "end": "2017-12-12 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--jinfengni": {
+            "start": "2015-08-13 00:00:00",
+            "end": "2015-08-13 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--b-slim": {
+            "start": "2018-02-17 00:00:00",
+            "end": "2017-11-07 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--zinking": {
+            "start": "2018-04-29 00:00:00",
+            "end": "2018-02-23 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--vkorukanti": {
+            "start": "2016-03-29 00:00:00",
+            "end": "2014-05-11 00:00:00",
+            "bug_num_per_commit": 0.6666666666666666,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--hsuanyi": {
+            "start": "2015-09-21 00:00:00",
+            "end": "2015-08-24 00:00:00",
+            "bug_num_per_commit": 0.4,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--jinxing64": {
+            "start": "2019-10-25 00:00:00",
+            "end": "2019-10-10 00:00:00",
+            "bug_num_per_commit": 0.5714285714285714,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--Zhiqiang-He": {
+            "start": "2017-06-13 00:00:00",
+            "end": "2017-05-10 00:00:00",
+            "bug_num_per_commit": 0.75,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--laurentgo": {
+            "start": "2019-01-24 00:00:00",
+            "end": "2018-10-17 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--kgyrtkirk": {
+            "start": "2019-02-15 00:00:00",
+            "end": "2019-02-15 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--DonnyZone": {
+            "start": "2020-01-10 00:00:00",
+            "end": "2019-11-18 00:00:00",
+            "bug_num_per_commit": 0.6,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--snuyanzin": {
+            "start": "2021-09-28 00:00:00",
+            "end": "2018-09-10 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--amaliujia": {
+            "start": "2020-05-15 00:00:00",
+            "end": "2020-05-31 00:00:00",
+            "bug_num_per_commit": 0.2,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--minji-kim": {
+            "start": "2016-11-15 00:00:00",
+            "end": "2016-07-28 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--yanlin-Lynn": {
+            "start": "2019-08-13 00:00:00",
+            "end": "2019-10-17 00:00:00",
+            "bug_num_per_commit": 0.4444444444444444,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--jamesstarr": {
+            "start": "2021-09-24 00:00:00",
+            "end": "2021-03-19 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--beikov": {
+            "start": "2020-02-19 00:00:00",
+            "end": "2020-02-19 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--maryannxue": {
+            "start": "2017-02-10 00:00:00",
+            "end": "2016-12-01 00:00:00",
+            "bug_num_per_commit": 0.5714285714285714,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--zhztheplayer": {
+            "start": "2019-05-01 00:00:00",
+            "end": "2019-02-14 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.6666666666666666
+        },
+        "#big-data--calcite--vvysotskyi": {
+            "start": "2017-12-19 00:00:00",
+            "end": "2018-07-07 00:00:00",
+            "bug_num_per_commit": 0.375,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--jcamachor": {
+            "start": "2018-03-17 00:00:00",
+            "end": "2017-04-28 00:00:00",
+            "bug_num_per_commit": 0.24390243902439024,
+            "bug_commit_num_rate": 1.0
+        }
+    },
+    "commiter_contribute_time3": {
+        "#big-data--calcite--pengzhiwei2018": {
+            "start": "2018-09-23 00:00:00",
+            "end": "2018-09-20 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.75
+        },
+        "#big-data--calcite--mehant": {
+            "start": "2014-07-02 00:00:00",
+            "end": "2014-07-02 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--chris-baynes": {
+            "start": "2017-07-05 00:00:00",
+            "end": "2017-05-29 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--gianm": {
+            "start": "2017-01-14 00:00:00",
+            "end": "2016-11-23 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.6666666666666666
+        },
+        "#big-data--calcite--amoghmargoor": {
+            "start": "2015-12-01 00:00:00",
+            "end": "2015-10-16 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--eolivelli": {
+            "start": "2018-04-17 00:00:00",
+            "end": "2018-04-17 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--ihuzenko": {
+            "start": "2019-10-18 00:00:00",
+            "end": "2019-10-18 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--xndai": {
+            "start": "2019-11-14 00:00:00",
+            "end": "2019-11-08 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--calcite--ritesh-kapoor": {
+            "start": "2019-12-28 00:00:00",
+            "end": "2019-12-16 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--nishantmonu51": {
+            "start": "2017-12-29 00:00:00",
+            "end": "2017-12-21 00:00:00",
+            "bug_num_per_commit": 0.8,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--wenhuitang": {
+            "start": "2019-06-11 00:00:00",
+            "end": "2019-06-05 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--wuchong": {
+            "start": "2016-11-21 00:00:00",
+            "end": "2016-11-21 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--jinfengni": {
+            "start": "2015-03-03 00:00:00",
+            "end": "2015-03-03 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--b-slim": {
+            "start": "2017-10-20 00:00:00",
+            "end": "2017-04-27 00:00:00",
+            "bug_num_per_commit": 0.6666666666666666,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--zinking": {
+            "start": "2018-02-22 00:00:00",
+            "end": "2018-02-12 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--vkorukanti": {
+            "start": "2014-05-01 00:00:00",
+            "end": "2014-04-20 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--hsuanyi": {
+            "start": "2015-08-16 00:00:00",
+            "end": "2015-07-13 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--jinxing64": {
+            "start": "2019-09-19 00:00:00",
+            "end": "2019-07-05 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--Zhiqiang-He": {
+            "start": "2017-04-14 00:00:00",
+            "end": "2017-03-06 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--laurentgo": {
+            "start": "2018-08-16 00:00:00",
+            "end": "2017-01-26 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.5
+        },
+        "#big-data--calcite--kgyrtkirk": {
+            "start": "2019-01-24 00:00:00",
+            "end": "2018-11-22 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--DonnyZone": {
+            "start": "2019-08-15 00:00:00",
+            "end": "2019-10-14 00:00:00",
+            "bug_num_per_commit": 0.4,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--snuyanzin": {
+            "start": "2018-08-31 00:00:00",
+            "end": "2018-07-02 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--calcite--amaliujia": {
+            "start": "2020-05-19 00:00:00",
+            "end": "2019-12-23 00:00:00",
+            "bug_num_per_commit": 0.6,
+            "bug_commit_num_rate": 0.2
+        },
+        "#big-data--calcite--minji-kim": {
+            "start": "2016-07-07 00:00:00",
+            "end": "2016-03-08 00:00:00",
+            "bug_num_per_commit": 0.6666666666666666,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--yanlin-Lynn": {
+            "start": "2019-10-04 00:00:00",
+            "end": "2019-09-26 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--jamesstarr": {
+            "start": "2021-08-06 00:00:00",
+            "end": "2021-06-25 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.5
+        },
+        "#big-data--calcite--beikov": {
+            "start": "2017-09-14 00:00:00",
+            "end": "2017-09-14 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--maryannxue": {
+            "start": "2016-11-23 00:00:00",
+            "end": "2016-09-21 00:00:00",
+            "bug_num_per_commit": 0.42857142857142855,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--zhztheplayer": {
+            "start": "2019-03-30 00:00:00",
+            "end": "2019-02-22 00:00:00",
+            "bug_num_per_commit": 0.16666666666666666,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--calcite--vvysotskyi": {
+            "start": "2018-07-15 00:00:00",
+            "end": "2018-04-14 00:00:00",
+            "bug_num_per_commit": 0.375,
+            "bug_commit_num_rate": 0.125
+        },
+        "#big-data--calcite--jcamachor": {
+            "start": "2017-04-26 00:00:00",
+            "end": "2016-08-24 00:00:00",
+            "bug_num_per_commit": 0.3902439024390244,
+            "bug_commit_num_rate": 0.43902439024390244
+        }
+    },
+    "commiter_contribute_time4": {
+        "#big-data--calcite--pengzhiwei2018": {
+            "start": "2018-09-19 00:00:00",
+            "end": "2018-08-17 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--calcite--mehant": {
+            "start": "2014-04-02 00:00:00",
+            "end": "2013-11-05 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.3333333333333333
+        },
+        "#big-data--calcite--chris-baynes": {
+            "start": "2017-05-21 00:00:00",
+            "end": "2016-05-24 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--gianm": {
+            "start": "2016-11-11 00:00:00",
+            "end": "2016-08-05 00:00:00",
+            "bug_num_per_commit": 1.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--calcite--amoghmargoor": {
+            "start": "2015-07-06 00:00:00",
+            "end": "2015-06-11 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 2.0
+        },
+        "#big-data--calcite--eolivelli": {
+            "start": "2018-04-04 00:00:00",
+            "end": "2017-11-21 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--calcite--ihuzenko": {
+            "start": "2019-10-15 00:00:00",
+            "end": "2019-07-11 00:00:00",
+            "bug_num_per_commit": 1.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--xndai": {
+            "start": "2019-11-07 00:00:00",
+            "end": "2019-08-16 00:00:00",
+            "bug_num_per_commit": 0.8,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--calcite--ritesh-kapoor": {
+            "start": "2019-12-16 00:00:00",
+            "end": "2019-02-28 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--nishantmonu51": {
+            "start": "2017-12-02 00:00:00",
+            "end": "2017-02-24 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.3333333333333333
+        },
+        "#big-data--calcite--wenhuitang": {
+            "start": "2019-06-20 00:00:00",
+            "end": "2019-05-28 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.6666666666666666
+        },
+        "#big-data--calcite--wuchong": {
+            "start": "2016-10-24 00:00:00",
+            "end": "2016-07-08 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.5
+        },
+        "#big-data--calcite--jinfengni": {
+            "start": "2015-09-16 00:00:00",
+            "end": "2015-02-09 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.5
+        },
+        "#big-data--calcite--b-slim": {
+            "start": "2017-04-26 00:00:00",
+            "end": "2017-02-23 00:00:00",
+            "bug_num_per_commit": 0.7142857142857143,
+            "bug_commit_num_rate": 0.5714285714285714
+        },
+        "#big-data--calcite--zinking": {
+            "start": "2017-01-20 00:00:00",
+            "end": "2015-12-15 00:00:00",
+            "bug_num_per_commit": 1.3333333333333333,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--calcite--vkorukanti": {
+            "start": "2014-04-10 00:00:00",
+            "end": "2014-03-25 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.75
+        },
+        "#big-data--calcite--hsuanyi": {
+            "start": "2015-06-26 00:00:00",
+            "end": "2015-01-31 00:00:00",
+            "bug_num_per_commit": 1.2,
+            "bug_commit_num_rate": 0.8
+        },
+        "#big-data--calcite--jinxing64": {
+            "start": "2019-08-19 00:00:00",
+            "end": "2019-07-09 00:00:00",
+            "bug_num_per_commit": 0.2857142857142857,
+            "bug_commit_num_rate": 0.14285714285714285
+        },
+        "#big-data--calcite--Zhiqiang-He": {
+            "start": "2017-03-09 00:00:00",
+            "end": "2017-01-14 00:00:00",
+            "bug_num_per_commit": 0.6666666666666666,
+            "bug_commit_num_rate": 0.6666666666666666
+        },
+        "#big-data--calcite--laurentgo": {
+            "start": "2017-01-25 00:00:00",
+            "end": "2016-10-05 00:00:00",
+            "bug_num_per_commit": 0.5714285714285714,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--calcite--kgyrtkirk": {
+            "start": "2018-11-20 00:00:00",
+            "end": "2018-04-05 00:00:00",
+            "bug_num_per_commit": 0.6,
+            "bug_commit_num_rate": 0.7
+        },
+        "#big-data--calcite--DonnyZone": {
+            "start": "2019-10-14 00:00:00",
+            "end": "2019-05-24 00:00:00",
+            "bug_num_per_commit": 0.16666666666666666,
+            "bug_commit_num_rate": 0.8333333333333334
+        },
+        "#big-data--calcite--snuyanzin": {
+            "start": "2018-06-26 00:00:00",
+            "end": "2018-06-12 00:00:00",
+            "bug_num_per_commit": 0.8,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--calcite--amaliujia": {
+            "start": "2019-12-15 00:00:00",
+            "end": "2019-10-02 00:00:00",
+            "bug_num_per_commit": 0.16666666666666666,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--calcite--minji-kim": {
+            "start": "2016-06-10 00:00:00",
+            "end": "2016-06-03 00:00:00",
+            "bug_num_per_commit": 0.8,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--calcite--yanlin-Lynn": {
+            "start": "2019-09-14 00:00:00",
+            "end": "2019-07-11 00:00:00",
+            "bug_num_per_commit": 0.375,
+            "bug_commit_num_rate": 0.25
+        },
+        "#big-data--calcite--jamesstarr": {
+            "start": "2020-11-18 00:00:00",
+            "end": "2020-08-12 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--calcite--beikov": {
+            "start": "2017-09-22 00:00:00",
+            "end": "2017-08-24 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--calcite--maryannxue": {
+            "start": "2016-04-27 00:00:00",
+            "end": "2015-12-29 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.3333333333333333
+        },
+        "#big-data--calcite--zhztheplayer": {
+            "start": "2019-02-23 00:00:00",
+            "end": "2018-08-22 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--calcite--vvysotskyi": {
+            "start": "2018-02-07 00:00:00",
+            "end": "2017-08-15 00:00:00",
+            "bug_num_per_commit": 0.5555555555555556,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--calcite--jcamachor": {
+            "start": "2016-08-04 00:00:00",
+            "end": "2014-12-10 00:00:00",
+            "bug_num_per_commit": 0.5116279069767442,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#big-data--calcite--pengzhiwei2018": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 0.75,
+                "time3": 0.25,
+                "time4": 1.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.75,
+                "time4": 0.0
+            }
+        },
+        "#big-data--calcite--mehant": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 1.0,
+                "time3": 0.0,
+                "time4": 1.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.3333333333333333
+            }
+        },
+        "#big-data--calcite--chris-baynes": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 1.0,
+                "time3": 0.5,
+                "time4": 0.5
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 1.0
+            }
+        },
+        "#big-data--calcite--gianm": {
+            "bug_num_per_commit": {
+                "time1": 0.3333333333333333,
+                "time2": 1.0,
+                "time3": 0.3333333333333333,
+                "time4": 1.5
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.6666666666666666,
+                "time4": 0.0
+            }
+        },
+        "#big-data--calcite--amoghmargoor": {
+            "bug_num_per_commit": {
+                "time1": 1.0,
+                "time2": 0.5,
+                "time3": 0.5,
+                "time4": 1.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 2.0
+            }
+        },
+        "#big-data--calcite--eolivelli": {
+            "bug_num_per_commit": {
+                "time1": 1.0,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 1.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.0
+            }
+        },
+        "#big-data--calcite--ihuzenko": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 1.5
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 1.0
+            }
+        },
+        "#big-data--calcite--xndai": {
+            "bug_num_per_commit": {
+                "time1": 0.3333333333333333,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.8
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#big-data--calcite--ritesh-kapoor": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.5,
+                "time3": 1.0,
+                "time4": 1.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 1.0
+            }
+        },
+        "#big-data--calcite--nishantmonu51": {
+            "bug_num_per_commit": {
+                "time1": 0.6,
+                "time2": 0.4,
+                "time3": 0.8,
+                "time4": 0.3333333333333333
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.3333333333333333
+            }
+        },
+        "#big-data--calcite--wenhuitang": {
+            "bug_num_per_commit": {
+                "time1": 0.6666666666666666,
+                "time2": 0.6666666666666666,
+                "time3": 0.3333333333333333,
+                "time4": 1.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.6666666666666666
+            }
+        },
+        "#big-data--calcite--wuchong": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.0,
+                "time3": 1.0,
+                "time4": 1.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.5
+            }
+        },
+        "#big-data--calcite--jinfengni": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 1.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.5
+            }
+        },
+        "#big-data--calcite--b-slim": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 0.5,
+                "time3": 0.6666666666666666,
+                "time4": 0.7142857142857143
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.5714285714285714
+            }
+        },
+        "#big-data--calcite--zinking": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 0.5,
+                "time3": 0.5,
+                "time4": 1.3333333333333333
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 1.0
+            }
+        },
+        "#big-data--calcite--vkorukanti": {
+            "bug_num_per_commit": {
+                "time1": 1.0,
+                "time2": 0.6666666666666666,
+                "time3": 1.0,
+                "time4": 1.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.75
+            }
+        },
+        "#big-data--calcite--hsuanyi": {
+            "bug_num_per_commit": {
+                "time1": 0.8,
+                "time2": 0.4,
+                "time3": 1.0,
+                "time4": 1.2
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.8
+            }
+        },
+        "#big-data--calcite--jinxing64": {
+            "bug_num_per_commit": {
+                "time1": 0.42857142857142855,
+                "time2": 0.5714285714285714,
+                "time3": 0.0,
+                "time4": 0.2857142857142857
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.14285714285714285
+            }
+        },
+        "#big-data--calcite--Zhiqiang-He": {
+            "bug_num_per_commit": {
+                "time1": 1.0,
+                "time2": 0.75,
+                "time3": 1.0,
+                "time4": 0.6666666666666666
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.6666666666666666
+            }
+        },
+        "#big-data--calcite--laurentgo": {
+            "bug_num_per_commit": {
+                "time1": 0.16666666666666666,
+                "time2": 0.3333333333333333,
+                "time3": 0.3333333333333333,
+                "time4": 0.5714285714285714
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.5,
+                "time4": 0.0
+            }
+        },
+        "#big-data--calcite--kgyrtkirk": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 0.5,
+                "time3": 0.5,
+                "time4": 0.6
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.7
+            }
+        },
+        "#big-data--calcite--DonnyZone": {
+            "bug_num_per_commit": {
+                "time1": 0.4,
+                "time2": 0.6,
+                "time3": 0.4,
+                "time4": 0.16666666666666666
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.8333333333333334
+            }
+        },
+        "#big-data--calcite--snuyanzin": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.3333333333333333,
+                "time3": 0.3333333333333333,
+                "time4": 0.8
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#big-data--calcite--amaliujia": {
+            "bug_num_per_commit": {
+                "time1": 0.2,
+                "time2": 0.2,
+                "time3": 0.6,
+                "time4": 0.16666666666666666
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.2,
+                "time4": 0.0
+            }
+        },
+        "#big-data--calcite--minji-kim": {
+            "bug_num_per_commit": {
+                "time1": 0.6666666666666666,
+                "time2": 0.3333333333333333,
+                "time3": 0.6666666666666666,
+                "time4": 0.8
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.0
+            }
+        },
+        "#big-data--calcite--yanlin-Lynn": {
+            "bug_num_per_commit": {
+                "time1": 0.2222222222222222,
+                "time2": 0.4444444444444444,
+                "time3": 0.3333333333333333,
+                "time4": 0.375
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.25
+            }
+        },
+        "#big-data--calcite--jamesstarr": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.5,
+                "time3": 0.5,
+                "time4": 1.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.5,
+                "time4": 0.0
+            }
+        },
+        "#big-data--calcite--beikov": {
+            "bug_num_per_commit": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.0,
+                "time4": 0.3333333333333333
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.0
+            }
+        },
+        "#big-data--calcite--maryannxue": {
+            "bug_num_per_commit": {
+                "time1": 0.42857142857142855,
+                "time2": 0.5714285714285714,
+                "time3": 0.42857142857142855,
+                "time4": 0.5
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.3333333333333333
+            }
+        },
+        "#big-data--calcite--zhztheplayer": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 0.3333333333333333,
+                "time3": 0.16666666666666666,
+                "time4": 0.3333333333333333
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.6666666666666666,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#big-data--calcite--vvysotskyi": {
+            "bug_num_per_commit": {
+                "time1": 0.125,
+                "time2": 0.375,
+                "time3": 0.375,
+                "time4": 0.5555555555555556
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.125,
+                "time4": 0.0
+            }
+        },
+        "#big-data--calcite--jcamachor": {
+            "bug_num_per_commit": {
+                "time1": 0.21951219512195122,
+                "time2": 0.24390243902439024,
+                "time3": 0.3902439024390244,
+                "time4": 0.5116279069767442
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.43902439024390244,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#big-data--calcite--pengzhiwei2018",
+        "#big-data--calcite--mehant",
+        "#big-data--calcite--chris-baynes",
+        "#big-data--calcite--gianm",
+        "#big-data--calcite--amoghmargoor",
+        "#big-data--calcite--eolivelli",
+        "#big-data--calcite--ihuzenko",
+        "#big-data--calcite--xndai",
+        "#big-data--calcite--ritesh-kapoor",
+        "#big-data--calcite--nishantmonu51",
+        "#big-data--calcite--wenhuitang",
+        "#big-data--calcite--wuchong",
+        "#big-data--calcite--jinfengni",
+        "#big-data--calcite--b-slim",
+        "#big-data--calcite--zinking",
+        "#big-data--calcite--vkorukanti",
+        "#big-data--calcite--hsuanyi",
+        "#big-data--calcite--jinxing64",
+        "#big-data--calcite--Zhiqiang-He",
+        "#big-data--calcite--laurentgo",
+        "#big-data--calcite--kgyrtkirk",
+        "#big-data--calcite--DonnyZone",
+        "#big-data--calcite--snuyanzin",
+        "#big-data--calcite--amaliujia",
+        "#big-data--calcite--minji-kim",
+        "#big-data--calcite--yanlin-Lynn",
+        "#big-data--calcite--jamesstarr",
+        "#big-data--calcite--beikov",
+        "#big-data--calcite--maryannxue",
+        "#big-data--calcite--zhztheplayer",
+        "#big-data--calcite--vvysotskyi",
+        "#big-data--calcite--jcamachor"
+    ],
+    "number_daily_long_time_error_prone_developer": 32,
+    "improved_daily_long_time_error_prone_developer": [
+        "#big-data--calcite--chris-baynes",
+        "#big-data--calcite--amoghmargoor",
+        "#big-data--calcite--ihuzenko",
+        "#big-data--calcite--ritesh-kapoor",
+        "#big-data--calcite--wuchong",
+        "#big-data--calcite--jinfengni",
+        "#big-data--calcite--b-slim",
+        "#big-data--calcite--zinking",
+        "#big-data--calcite--laurentgo",
+        "#big-data--calcite--kgyrtkirk",
+        "#big-data--calcite--snuyanzin",
+        "#big-data--calcite--jamesstarr",
+        "#big-data--calcite--vvysotskyi",
+        "#big-data--calcite--jcamachor"
+    ],
+    "number_improved_daily_long_time_error_prone_developer": 14
+}

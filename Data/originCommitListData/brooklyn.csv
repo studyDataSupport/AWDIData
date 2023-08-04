@@ -1,0 +1,425 @@
+hash,authors,committer,changes_FileNum,changed_files,message,bug_id
+7c04efa3cb1c61cfc2af77f98c9e4def7499658f,iuliana,web-flow,1,['Jenkinsfile'],"Merge pull request #56 from algairim/build/Jenkinsfile
+
+Use double quotes to resolve DOCKER_TAG",
+68d657aa90ad0b46b4e558f96c43ecf55c768f67,algairim,algairim,1,['Jenkinsfile'],"Use double quotes to resolve DOCKER_TAG
+
+Signed-off-by: Mykola Mandra <mykola.mandra@cloudsoft.io>",
+80904c1cb24f331fa6d80a0dfcde24bcabb0cb34,duncangrant,web-flow,7,"['DEPENDENCIES', 'brooklyn-client', 'brooklyn-dist', 'brooklyn-docs', 'brooklyn-library', 'brooklyn-server', 'brooklyn-ui']","Merge pull request #55 from duncangrant/update-licenses
+
+Update to include new licenses - Reviewed by @ahgittin",
+8bf0604c9f32961b5aa53bcfb0e566290919e1bd,,,7,"['DEPENDENCIES', 'brooklyn-client', 'brooklyn-dist', 'brooklyn-docs', 'brooklyn-library', 'brooklyn-server', 'brooklyn-ui']",Update to include new licenses,
+7fdccd260164293e0ebfe51a4d428aca1c717e2d,ahgittin,ahgittin,9,"['Dockerfile', 'Jenkinsfile', 'brooklyn-client', 'brooklyn-dist', 'brooklyn-docs', 'brooklyn-library', 'brooklyn-server', 'brooklyn-ui', 'pom.xml']",Merge remote-tracking branch 'apache-git/master',
+09a51f48a0fd66d92547f33a1a095f4c57f5ae2a,ahgittin,ahgittin,1,['Jenkinsfile'],"do a docker logout as part of jenkins build
+
+    suggested this fixes problems with unauthorization",
+8d71f00ad98a70c7791fcb4cb82e4c187e4cb000,iuliana,iuliana,6,"['brooklyn-client', 'brooklyn-dist', 'brooklyn-docs', 'brooklyn-server', 'brooklyn-ui', 'pom.xml']",Added default goal,
+f96aef5b1f11783d8e9a77d5bb0d75a71b37c428,grkvlt,web-flow,1,['Jenkinsfile'],"Merge pull request #53 from apache/revert-52-fix/brooklyn-client-memory
+
+Revert ""Fix brooklyn-client build issue""",
+37ffd62d24a0d2c2b397b40f5a8fb4153c0a5bce,grkvlt,web-flow,1,['Jenkinsfile'],"Revert ""Fix brooklyn-client build issue""",
+69fc1f756a761b9ba4ddf406460a6a65b7c5ae2a,iuliana,web-flow,1,['Jenkinsfile'],"Merge pull request #52 from grkvlt/fix/brooklyn-client-memory
+
+Fix brooklyn-client build issue",
+4ae75f0123a5bc07fc0b4c02fc583ebe820ff967,grkvlt,grkvlt,1,['Jenkinsfile'],Add client profile to Maven build and set memory to 12Gb,
+793cefff8902dad7f2460049c4d2eefbfa5848f7,iuliana,web-flow,2,"['Jenkinsfile', 'brooklyn-ui']","Merge pull request #51 from apache/revert-50-fix/brooklyn-client-build
+
+Revert ""Fix brooklyn-client build issue""",
+5f307a47904c18824a5c5178e86a9dd1f91b9303,iuliana,web-flow,2,"['Jenkinsfile', 'brooklyn-ui']","Revert ""Fix brooklyn-client build issue""",
+bf7cc33c6e393f18b927b2fd519946ab96a17419,iuliana,web-flow,2,"['Jenkinsfile', 'brooklyn-ui']","Merge pull request #50 from grkvlt/fix/brooklyn-client-build
+
+Fix brooklyn-client build issue",
+4feec3c48c0cd20d090f110a115f83ece0f2137b,grkvlt,grkvlt,1,['Jenkinsfile'],Add client profile to Maven build commands and set memory to 8Gb,
+82a189f66133925301693605e93868ff839fdd54,grkvlt,grkvlt,1,['brooklyn-ui'],Updated brooklyn-ui commit reference,
+5858d3c161808bfb134efd45aeb66d76a1a9a06d,,,3,"['Jenkinsfile', 'brooklyn-server', 'pom.xml']",Disable client build,
+7188f83be5c24eb9d36cb21d84bcc414ff298603,,,8,"['Jenkinsfile', 'brooklyn-client', 'brooklyn-dist', 'brooklyn-docs', 'brooklyn-library', 'brooklyn-server', 'brooklyn-ui', 'pom.xml']",UseConcMarkSweepGC,
+630724af1792097ee2001022041f06412f66830d,,,1,['Jenkinsfile'],Re-enable unit tests,Re-
+7132ee77654b55ebd87c4fc0e97897c297f2470b,,,1,['Jenkinsfile'],XX:+CMSClassUnloadingEnabled -XX:+UseConcMarkSweepGC for testing,
+b851e5679ee0c46748161603e25a1bf2ea702959,,,1,['Jenkinsfile'],XX:+CMSClassUnloadingEnabled -XX:+UseConcMarkSweepGC for testing,
+e66c271a4c6d4dd04a6942ef094790d0d860a738,,,1,['Jenkinsfile'],XX:+CMSClassUnloadingEnabled -XX:+UseConcMarkSweepGC for testing,
+055dd72fd1c3ee4a7ea3b2871838d4a7cb1a77c8,,,1,['Jenkinsfile'],Increase heap for deploy step,
+c893f3627adbb9aa2058a8b175914bded10221c8,,,1,['Jenkinsfile'],Temp disable unit tests,
+c06ca9f759b3c31dfa2b47109335973bc57b56bd,,,1,['Jenkinsfile'],Try 8g mem,
+5acb4d22d07e12656de8e799d7abea75eb65f9ed,,,1,['Jenkinsfile'],Up available memory,
+11a023bde822166ec8b36de97be08fac69c952d8,jcabrerizo,web-flow,1,['Dockerfile'],Merge pull request #48 from apache/extend-go-version,
+b6def2d33709203c6c32c04e2160b07647c9566b,,,1,['Dockerfile'],Revert change to maven container version,
+1abf5c7ce1f074c02594835283288ab99b4a2feb,,,1,['Dockerfile'],"Updates go version
+
+Duplicates https://github.com/apache/brooklyn-client/pull/86",
+8786592c0dcc7d1b2e2915cd732156a65ce3ee21,ahgittin,ahgittin,5,"['brooklyn-client', 'brooklyn-dist', 'brooklyn-library', 'brooklyn-server', 'brooklyn-ui']",bump sub-projects to latest commits,
+bb51cd17fa3da0d6063c4dd49f74861b3f6a3859,ahgittin,ahgittin,8,"['DEPENDENCIES', 'LICENSE', 'NOTICE', 'brooklyn-client', 'brooklyn-dist', 'brooklyn-library', 'brooklyn-server', 'brooklyn-ui']",This closes #47,
+3c29bf249726106df949088e18d149165bb8341a,ahgittin,ahgittin,5,"['brooklyn-client', 'brooklyn-dist', 'brooklyn-library', 'brooklyn-server', 'brooklyn-ui']",bump submodules to latest versions,
+d5e10b2423b4018f8dd35be8cd04883359e576ea,ahgittin,ahgittin,10,"['Dockerfile', 'Jenkinsfile', 'README.md', 'brooklyn-client', 'brooklyn-dist', 'brooklyn-docs', 'brooklyn-library', 'brooklyn-server', 'brooklyn-ui', 'pom.xml']",Merge branch 'master' into license-update-2020,
+2e8af80eb1f9431693e732ebd22b601f36f7327b,ahgittin,ahgittin,3,"['DEPENDENCIES', 'LICENSE', 'NOTICE']","fully updated LICENSE, NOTICE, DEPENDENCIES
+
+DEPENDENCIES as per previous but with all licenses added",
+fa0ed65c1c287d3e0683e63468d94e501455887e,ahgittin,ahgittin,1,['DEPENDENCIES'],"DEPENDENCIES file containing latest info, but in same format as old NOTICE
+
+to enable easy comparison of changes this introduces",
+5540b29e372fa2d9b7e7f0afd4d81cdd8a601bf5,ahgittin,ahgittin,1,['DEPENDENCIES'],add old NOTICE file as DEPENDENCIES - for subsequent comparison,
+0f77fa1606b22f2a5e2dec7a5157257126684119,duncangrant,web-flow,1,['Jenkinsfile'],"Merge pull request #45 from jcabrerizo/feature/add-cli-jenkins
+
+add client profile to jenkins build",
+dcd3b6ebdeef6b82db27247a418d47cb07892a16,jcabrerizo,jcabrerizo,1,['Jenkinsfile'],add client profile to jenkins build,
+b38fcc24fdad30a81c90478bee7f5c602652acdc,rdowner,rdowner,6,"['brooklyn-client', 'brooklyn-dist', 'brooklyn-docs', 'brooklyn-library', 'brooklyn-server', 'brooklyn-ui']",Update submodule pointers,
+c1e9f406468e49ab8df19e7844e59606921220b8,rdowner,rdowner,2,"['README.md', 'pom.xml']",Set version to 1.1.0-SNAPSHOT,
+50de637e69a16a1f8331f142e4d286291b70e3a0,geomacy,web-flow,1,['Dockerfile'],"Merge pull request #44 from kemitix/docker-openjdk-8-already-installed
+
+Don't install openjdk",
+8603ab4b2c2041dbc69155a462934950fcb5d9e7,kemitix,web-flow,1,['Dockerfile'],"Don't install openjdk
+
+The source image already includes a version of openjdk-8. Removing this command as it fails due to the package not being available from the software repos.",
+bd1da8df641a6b4908df369ae64c0b037efa0f8b,tbouron,web-flow,1,['Dockerfile'],"Merge pull request #43 from tbouron/fix/dockerfile-2
+
+Fix docker build by reverting to docker image maven:3.5.4-jdk-8",
+667083e648d52c0aba7f4da600ff17e5510d9b1b,tbouron,tbouron,1,['Dockerfile'],Fix docker build by reverting to docker image maven:3.5.4-jdk-8,
+0586a6367c570146f18391613e853f0051842ddc,rdowner,web-flow,1,['Dockerfile'],"Merge pull request #40 from nakomis/dockerfile-update
+
+Adds dependencies to Dockerfile for creating release artifacts",
+38950e10235656080a5030bc4db677e319652a73,,,1,['Dockerfile'],Adds dependencies to Dockerfile for creating release artifacts,
+7071bdced72c479e6f2d4b926310c79cee24641f,tbouron,web-flow,1,['README.md'],"Merge pull request #36 from nakomis/fix/README
+
+Fixes instructions for building Brooklyn",
+5ad540b36d59744df0a505ec43d8ae403dea1a10,,,1,['README.md'],Fixes instructions for building Brooklyn,
+fefab67779e8313c1ee1693a91dbc13781db6de9,ahgittin,ahgittin,1,['Dockerfile'],This closes #37,
+47fb37041bbce8be2375193a65fbea2bcf7cea7a,,,1,['Dockerfile'],Bumps maven version in Dockerfile,
+47c12464d80d28fed113c85ab8596038ce72b0be,tbouron,web-flow,1,['.gitignore'],"Merge pull request #31 from nakomis/ignore-java-version
+
+Ignores .java-version (jenv config file)",
+f7ef3e793091536eeba5c2dd77dcf1f5dcb32952,tbouron,web-flow,1,['README.md'],"Merge pull request #32 from infrastation/master
+
+fixup README.md",
+4a83d865e379888a6d4ba80cec0a82b547fa8262,tbouron,web-flow,2,"['Dockerfile', 'Jenkinsfile']","Merge pull request #33 from tbouron/master
+
+Add jenkinsfile for multibranch job on Jenkins",
+ae872cda08b0a5ed5662597162cd17032df9b075,tbouron,tbouron,2,"['Dockerfile', 'Jenkinsfile']",Add jenkinsfile for multibranch job on Jenkins,
+7e815e4adbe11ccf09d23a19be87a10084f5e9c5,infrastation,infrastation,1,['README.md'],"fixup README.md
+
+Switch some URLs to HTTPS and put some fencing right.",
+bd16f4d3e1d1b5d5afc24f528bf1ad112d6ec6ad,,,1,['.gitignore'],Ignores .java-version (jenv config file),
+30f3d2754a98670d57d142193ba51af3038555af,geomacy,web-flow,1,['pom.xml'],"Merge pull request #30 from tbouron/feature/optional-build
+
+Make the go cli optional by default",
+0cdd12d4fe1a320457716e9b552deb8de0015774,tbouron,tbouron,1,['pom.xml'],"Make the build of rpm, deb, docker and go cli optional by default",
+2e38d758937b9c72a987273996ee505f23b4d609,ahgittin,ahgittin,2,"['LICENSE', 'NOTICE']",updated license / dependencies,
+4bf4f4c821cad74bbdbf82951717e43a96956f32,ahgittin,ahgittin,1,['pom.xml'],add eclipse excludes for non-supported maven goals,
+2bfd3c01e38bd16313ca9c3dcc44b9140296e10b,ahgittin,ahgittin,1,['README.md'],Merge branch 'build-number-instruction',
+7eec5c7bee07d94d37f79aadbdfe2a4466df7827,,,1,['README.md'],"Closes #24
+
+Update docker instructions to mount the docker socket
+
+This is because https://github.com/apache/brooklyn-dist/pull/118 now build docker, therefore the container needs to be able to access the docker engine on the host",
+e09ef2bf43416bb91339573c52aa9876c2c8962a,tbouron,web-flow,1,['README.md'],"Update docker instructions to mount the docker socket
+
+This is because https://github.com/apache/brooklyn-dist/pull/118 now build docker, therefore the container needs to be able to access the docker engine on the host",
+7f421bb10bffe1ba966d3a16bf1f172f85d84022,aledsage,aledsage,1,['Jenkinsfile'],This closes #23,
+18d07ee82b10c5fc9415accd200701e1e4ca8642,aledsage,aledsage,1,['Jenkinsfile'],"jenkins: fix npm build, removing docker -u
+
+npm writes to ~/.npm, and reads ~/.npmrc. But user 910 does
+not exist in container, so has no home directory. Therefore
+npm fails. Reverting `-u` for now.",
+a915db73123703bf5fd2bffb9841d2cc313fc299,aledsage,aledsage,1,['Dockerfile'],This closes #19,
+bd0f52c3bf790f3e3cc9d01b2fb7fa7facb15c99,aledsage,aledsage,2,"['Jenkinsfile', 'README.md']",This closes #22,
+5122c6d558465a6254c81fa7c1bcc6b959f6710d,aledsage,aledsage,1,['README.md'],README: fix path to built karaf artifact,
+c2a3f37518278c8a03c738f8ef1d4378fe628d3b,aledsage,aledsage,1,['Jenkinsfile'],"jenkins: fix user.name in docker
+
+User 910 is unknown in the docker container, so 
+`${id -un 910}` does not return a name. We don’t 
+care what user.name it has, as long as there is one.",
+2610f689804974f93cfbc2c63ca0d9a98be5ca66,aledsage,aledsage,1,['Jenkinsfile'],jenkins: add submodule-init,
+4b9d577cf4b12ef82ee04ba681c7f4a1409d50c9,aledsage,aledsage,3,"['Dockerfile', 'Jenkinsfile', 'README.md']",This closes #21,
+d1280c84bb88ccb9b99ccaf3faa0ce0583b36a61,aledsage,aledsage,3,"['Dockerfile', 'Jenkinsfile', 'README.md']","Jenkins: use pipeline, and don’t bind-mount .m2",
+103f4452c9a27a61d3ce48e3d17ac51d660a0e7c,ahgittin,ahgittin,1,['README.md'],include instructions for building outwith source control,
+48bb7ac45953c97859ed72cec76362d8585d3fa8,slachiewicz,web-flow,1,['Dockerfile'],Update Docker image to use Maven 3.5.4,
+3af021d73c579d8dd5ee901dc5a6b2e8ba6791b7,rdowner,rdowner,6,"['brooklyn-client', 'brooklyn-dist', 'brooklyn-docs', 'brooklyn-library', 'brooklyn-server', 'brooklyn-ui']",Update submodule pointers ready for 1.0.0-M1-RC1 release,
+ddcb46c24f60be807542d5034becf82a5997f9c1,ahgittin,ahgittin,1,['Dockerfile'],This closes #18,
+c2c0b5385834c4d11223f97cebe21d39163d66b1,tbouron,web-flow,1,['Dockerfile'],Add required dependencies for the new Brooklyn UI,
+1e39ed81db662771ee0452cccc17d1dfb310378f,tbouron,tbouron,1,['pom.xml'],This closes #17,
+6f9d19aed4f0d7bd7c4271fd3cbd25427852f8c2,ahgittin,ahgittin,1,['pom.xml'],"switch order of build, so server before ui
+
+needed because ui modularity server depends on brooklyn server java;
+fortunately ui is no longer needed for brooklyn server so this is safe.",
+655cedbcabe55f424b1ef91824f6195e890238bf,geomacy,geomacy,2,"['LICENSE', 'NOTICE']","Closes #16
+
+updated LICENSE and NOTICE, using new procedure
+
+Supporting changes for https://github.com/apache/brooklyn-dist/pull/123",
+bd676446424b71dd876e17533da8849623ca468b,ahgittin,ahgittin,2,"['LICENSE', 'NOTICE']","updated LICENSE and NOTICE, using new procedure",
+9b36dfac2095983ccc167c11168409792fe7fee3,geomacy,geomacy,2,"['LICENSE', 'README.md']","Closes #15
+
+edit Brooklyn license info so that GitHub recognizes it
+
+Hello! 👋
+
+(CCing @dankohn who has requested this work so that the license will appear correctly in https://landscape.cncf.io/selected=apache-brooklyn)
+
+GitHub uses a library called Licensee to identify a project's license
+type. It shows this information in the status bar and via the API if it
+can unambiguously identify the license.
+
+This commit updates the LICENSE file so that it begins with the full
+text of the Apache license (including the Appendix). The text that
+preceded the beginning of the license text has been transferred to a
+new ""License"" section in the README.
+
+Collectively, these changes allow Licensee to successfully identify the
+license type of Brooklyn as Apache 2.0.
+
+REFS: [BROOKLYN-593](https://issues.apache.org/jira/browse/BROOKLYN-593)",
+6ca934ad1dacbfd9f49c5191b6fd40fe0cdb8073,eirinikos,eirinikos,2,"['LICENSE', 'README.md']","edit Brooklyn license info so that GitHub recognizes it
+
+GitHub uses a library called Licensee to identify a project's license
+type. It shows this information in the status bar and via the API if it
+can unambiguously identify the license.
+
+This commit updates the LICENSE file so that it begins with the full
+text of the Apache license (including the Appendix). The text that
+preceded the beginning of the license text has been transferred to a
+new ""License"" section in the README.
+
+Collectively, these changes allow Licensee to successfully identify the
+license type of Brooklyn as Apache 2.0.
+
+REFS: BROOKLYN-593
+Signed-off-by: Andrea Kao <eirinikos@gmail.com>",
+d136ae3a3cc022a4da7d62f10e3e886c4e3e26ae,rdowner,rdowner,1,['doap_Brooklyn.rdf'],Merge and close #14,
+d7f0049c46a0aa2b8be65e5f3c4bdae898b0d3e1,rdowner,web-flow,1,['doap_Brooklyn.rdf'],"Fix issue in doap_Brooklyn.rdf
+
+As requested, update the DOAP file to correct an error. See [this post on the mailing list](https://lists.apache.org/thread.html/3a7f99b538c7109caef91bcf54733ab9c419a3507d5c9a96c4aec484@%3Cdev.brooklyn.apache.org%3E).",
+48dbcc3c42ac3e216db94c30edbfe98519a79d1d,drigodwin,drigodwin,2,"['Dockerfile', 'README.md']",This closes #13,
+09106a0fbe4eef46da91ed2005ce9abacd770fa3,drigodwin,tbouron,3,"['Dockerfile', 'README.md', 'pom.xml']",Add dockerfile for CI build,
+1ce6bc2682cdf1e151f06409a462c69020141944,drigodwin,drigodwin,2,"['README.md', 'pom.xml']",Change version to 1.0.0-SNAPSHOT,
+5f50bc6d15d50adc30316f618fc8bbf07a6f8311,drigodwin,drigodwin,6,"['brooklyn-client', 'brooklyn-dist', 'brooklyn-docs', 'brooklyn-library', 'brooklyn-server', 'brooklyn-ui']",Update submodules to 1.0.0-SNAPSHOT,
+3185d2ad1f71add402198fb1fa9fa5bcccc86f74,drigodwin,drigodwin,2,"['README.md', 'pom.xml']",Change version to 0.13.0-SNAPSHOT,
+fed4d826459cf90cd4d57161c7c1dd1fc3c23cf9,drigodwin,drigodwin,6,"['brooklyn-client', 'brooklyn-dist', 'brooklyn-docs', 'brooklyn-library', 'brooklyn-server', 'brooklyn-ui']",Update submodules to 0.13.0-SNAPSHOT,
+3f6609ad257b1d8828ece793dae5dd84806ad995,drigodwin,drigodwin,1,['doap_Brooklyn.rdf'],This closes #12,
+067e0436d9236ba20cf2ef2c1b88d96d7273e72f,rdowner,rdowner,1,['doap_Brooklyn.rdf'],"Update the DOAP (""Description Of A Project"") file",
+7cdaa69a1c6bdf1dbd93f20a240998130acfd99f,drigodwin,drigodwin,1,['.mvn/jvm.config'],This closes #11,
+d8cca3e05c6bac24fc2ac9cd9313d692ef79d597,neykov,neykov,1,['.mvn/jvm.config'],"Move to Java 8, remove MaxPermSize options",
+164dcff75720c60592fa04a5942236246f7a1a62,drigodwin,drigodwin,1,['LICENSE'],This closes #10,
+cc6e8cfc13e98f0cbab05a806588b506b20a6d8c,rdowner,rdowner,1,['LICENSE'],LICENSE updates,
+6263e7cb0f16a6d30b3a203babaccb62d3b0e67b,rdowner,rdowner,6,"['brooklyn-client', 'brooklyn-dist', 'brooklyn-docs', 'brooklyn-library', 'brooklyn-server', 'brooklyn-ui']",Bump submodule pointers,
+d57402880ca7e62b203460492973aebb7d5b71e6,rdowner,rdowner,2,"['README.md', 'pom.xml']",Bump version to 0.12.0-SNAPSHOT,
+406d5b580ba1b98b0e1a09356499f97e6f64341e,aledsage,aledsage,1,['.mvn/jvm.config'],This closes #8,
+0bcd9ac733a0b83edef98214ba37d61be32c4a11,geomacy,geomacy,1,['LICENSE'],This closes #9 Update LICENSE dependencies to current project state,
+64d4ba92d4ecef3273852a32da0582772d65249a,neykov,neykov,2,"['README.md', 'pom.xml']",Change version to 0.11.0-SNAPSHOT,
+c08a6df6f6dd63000f8bd4a34cec40e8e60643ac,neykov,neykov,6,"['brooklyn-client', 'brooklyn-dist', 'brooklyn-docs', 'brooklyn-library', 'brooklyn-server', 'brooklyn-ui']",Update submodules to 0.11.0-SNAPSHOT,
+acb915547f272cd89bda6f0c218ff87ed2e5707f,neykov,neykov,1,['LICENSE'],Update LICENSE dependencies to current project state,
+de985a0f3b0c8e0e7119925a882d22e49f8bf79a,neykov,neykov,1,['.mvn/jvm.config'],Set default JVM memory settings for the build,
+e9ea4570b82ae6d41a9197d45ba576a173c1d275,ahgittin,ahgittin,1,['README.md'],simplify quick-start build instructions,
+b853ac581c2371c355f409e2fc9eec441c37c600,neykov,neykov,1,['README.md'],"Closes #7
+
+Corrected results location",
+a45e66732457f563144347450323b8941f054de9,drigodwin,drigodwin,1,['README.md'],Corrected results location,
+17ff7ac40cbd8054a93d21179a99e3271ab67d73,ahgittin,ahgittin,2,"['README.md', 'pom.xml']",Change version to 0.10.0-SNAPSHOT,
+a2a80e54016106c37f64850762e6c40fafd7f4c3,ahgittin,ahgittin,6,"['brooklyn-client', 'brooklyn-dist', 'brooklyn-docs', 'brooklyn-library', 'brooklyn-server', 'brooklyn-ui']",Update submodules to 0.10.0-SNAPSHOT,
+f74dae097e71ac47c40bcd532d4934922cdfdf3e,ahgittin,ahgittin,6,"['brooklyn-client', 'brooklyn-dist', 'brooklyn-docs', 'brooklyn-library', 'brooklyn-server', 'brooklyn-ui']",bump to tips of branches,
+b1e89c40b4811eaa7549e87529cf01c90c4296da,ahgittin,ahgittin,1,['LICENSE'],update license,
+1fa9a8b5ea3baa1f614dfb4f65712f3c4588acce,ahgittin,ahgittin,1,['LICENSE'],regenerate license,
+d828ea37c429babdfb7b7adf4380c805da422000,ahgittin,ahgittin,2,"['README.md', 'pom.xml']",This closes #6,
+0e9da8a768e847a0e819de30b332a977c9bf7611,ahgittin,ahgittin,2,"['README.md', 'pom.xml']",exclude the client (go) project based on whether a property is set,
+9537f2310ea59bb31b6f112bb56f3cb548e2cd13,ahgittin,ahgittin,1,['pom.xml'],This closes #5,
+c102bbc8f48bee1ab3ba667deed32ae609f87aa9,geomacy,geomacy,1,['pom.xml'],Add brooklyn-client (the client CLI) to the build.,
+2ad8bfed9356389d2cc4f567d5154cefbbb6f1ac,rdowner,rdowner,1,['doap_Brooklyn.rdf'],Merge and close PR #4,
+9ac8cfef3ca6a42b9d2ce520dfe8784f761e8a93,johnmccabe,johnmccabe,1,['doap_Brooklyn.rdf'],"add additional maintainers, update desc",
+36a0478eaeb43f6fa1102f25a1e5f2046d49b5ce,johnmccabe,johnmccabe,1,['doap_Brooklyn.rdf'],"add ASF DOAP file (Description of a Project)
+- https://projects.apache.org/project.html?brooklyn
+- https://projects-old.apache.org/doap.html",
+0dbfb071a09c18cb826b52b8b50bc4ec09907ec4,ahgittin,ahgittin,1,['README.md'],"minor tweaks to README
+
+grammar, remove index.html and unhelpful sentences, and link to other versions",
+b4ec51195cd2178f731512f789bb267b7ca68e43,ahgittin,ahgittin,1,['README.md'],This closes #3,
+9d259025cc40f3378e67e8e0e6fe51458cdbef9e,rdowner,rdowner,1,['README.md'],"Fix README links after website changes
+
+Fix README links after some website pages were refactored",
+c8996efd5f577d90b4251e229ba2c9419c90213a,rdowner,rdowner,1,['NOTICE'],Merge and close #2,
+693f6d45b2c4fc08d71d90d0ad3af8cbcfba3ef3,aledsage,aledsage,1,['NOTICE'],Update copyright to 2016,
+29e2322e113d152b1ac35fa9474db61bde03641f,ahgittin,ahgittin,1,['LICENSE'],update license file,
+fa95695ecfd0a547efa6fe41b998a114b3b2aeee,ahgittin,ahgittin,1,['README.md'],change README to point at this version docs for code,
+1402dfa38cebcc402beff0e3ea4c5192f53714b0,ahgittin,ahgittin,1,['pom.xml'],update pom to build submodules in subdirs not sibling dirs,
+1f6a9a0267b7f366696549f1b439a8135f909ac6,ahgittin,ahgittin,8,"['.gitmodules', 'README.md', 'brooklyn-client', 'brooklyn-dist', 'brooklyn-docs', 'brooklyn-library', 'brooklyn-server', 'brooklyn-ui']",This closes #1,
+ddabaed9bdcf06ebfa15e025cd5df17b1e88fad1,ahgittin,ahgittin,1,['README.md'],add docs for using submodules,
+acbb9f7d0e80aea123dc27bc405e1bb5a44d1d6b,ahgittin,ahgittin,7,"['.gitmodules', 'brooklyn-client', 'brooklyn-dist', 'brooklyn-docs', 'brooklyn-library', 'brooklyn-server', 'brooklyn-ui']",add submodules for brooklyn projects,
+b32a0b374ed6f5d34828117437c529c39ccd3067,ahgittin,ahgittin,8,"['LICENSE', 'README.md', 'brooklyn/.gitattributes', 'brooklyn/.gitignore', 'brooklyn/LICENSE', 'brooklyn/NOTICE', 'brooklyn/README.md', 'pom.xml']",move subdir from incubator up a level as it is promoted to its own repo (first non-incubator commit!),
+7a79eb2674da9239e63a31256ddd812943164a78,ahgittin,ahgittin,1,['README.md'],"Apache Brooklyn has moved to http://github.com/apache/brooklyn
+
+This commit updates historic notices for clarity.
+Almost all visitors will now want either:
+
+* **The Active Codebase**: at [http://github.com/apache/brooklyn/](http://github.com/apache/brooklyn/)
+* **The Apache Brooklyn Homepage**: at [http://brooklyn.apache.org/](http://brooklyn.apache.org/)",
+74a877214ba125e5207a97cffffda6cb232ecc89,ahgittin,ahgittin,1,['LICENSE'],update LICENSE files throughout,
+9dc964a81484f8c92bcedc42d31c20910c2afb51,ahgittin,ahgittin,1,['LICENSE'],This closes #1144,
+be2fd94d188db167fedc2090bf5804cf90a68ed3,drigodwin,drigodwin,1,['LICENSE'],Updated license for Glossarizer MIT statement,
+ee2cd441fe7a2f759db3bad6cad637aa666a19bc,ahgittin,ahgittin,1,['LICENSE'],update licenses with latest metadata and dependencies,
+5b281fd631bb1eb55c116170019641745660a822,ahgittin,ahgittin,1,['brooklyn/pom.xml'],"[ALL] comment about relativePath in pom
+
+and prevent root from misbehaving if their is a pom in its parent dir",
+e95cec3427c9d171c8535488802960152bbf8fdc,ahgittin,ahgittin,1,['brooklyn/pom.xml'],[SPLITPREP] revert version to 0.9.0-SNAPSHOT,
+9b542badd67ca690bd8633a7df6803cc23115458,ahgittin,ahgittin,1,['README.md'],"[ALL]  update README file in each repo to be appropriate to that repo, with building instructions",
+796e2ecc919773375f124d47cbf93db121c6e10e,ahgittin,ahgittin,2,"['brooklyn/README.md', 'brooklyn/pom.xml']","[UBER]  add pom in brooklyn uber project subdir to build everything
+
+it's the same as the pom in the root, but referring to ../ for submodules",
+ee70c9a51366dff962c1753ad66cb906c0f07c01,johnmccabe,johnmccabe,5,"['brooklyn/.gitattributes', 'brooklyn/.gitignore', 'brooklyn/LICENSE', 'brooklyn/NOTICE', 'brooklyn/README.md']",[SPLITPREP] rearranged to have structure of new repositories,
+1f71963a0b4d6f79dec24c191f508de5defac58e,rdowner,rdowner,1,['README.md'],brooklyn.apache.org updates: README.md,
+2f8cc894dea069b5a76d121f011ca63cacceb5f1,rdowner,rdowner,1,['README.md'],brooklyn.apache.org updates: README.md,
+dc9afe96996b68cf9fe2dc7ed8af402dde889410,m4rkmckenna,m4rkmckenna,1,['usage/jsgui/src/main/license/files/LICENSE'],Added static Swagger UI due to js dependency issue,
+0990938ce427d2d5b91def2904d48d90502dd03f,ahgittin,ahgittin,2,"['LICENSE', 'usage/jsgui/src/main/license/files/LICENSE']",updated LICENSE files w latest versions,
+abc822cf43f61ff52a731610cf67e6aecb707219,ahgittin,ahgittin,2,"['LICENSE', 'usage/jsgui/src/main/license/files/LICENSE']",report versions used in LICENSE files,
+80701440a9a45293423ec16ce9a19a0bcc1f772f,ahgittin,ahgittin,2,"['LICENSE', 'usage/jsgui/src/main/license/files/LICENSE']",update our LICENSE files with better info,
+4e7a12e1ec9c338e5581358f3ab5d226f1bb80ee,geomacy,geomacy,1,['README.md'],Fix broken link in top level README,
+e69ea20a475eddcb368253ba6322c29c10895736,brooklyn-bot,brooklyn-bot,1,['README.md'],"remove the sandbox/ and release/ dirs from the build
+
+and update the README in the root
+
+and delete the old brooklyn-install.sh in the root.
+(it is not maintained; it doesn't even refer to the apache downloads.)
+
+basically make the source build look nice when it's unpacked",
+75413b0e1429fb330b7adea93e7d1c59fa50df8f,brooklyn-bot,brooklyn-bot,2,"['LICENSE', 'usage/jsgui/src/main/license/files/LICENSE']",license files updated for r.js inclusion,
+476d9421e0563e03f039f58470f2d469e06cb1cd,bradfora,bradfora,1,['README.md'],remove old brooklyncentral github project references in root README,
+dd7ec04fd897fe368677ed832e871e6bdab6b9b0,,,1,['README.md'],"README.MD quick start description update
+
+README.md previously directed users to run the app by using
+“bin/brooklyn launch”, however this should be “./brooklyn/bin/brooklyn
+launch”",
+69017032ef7bc52e76b2edba74ca06fc99685fcc,ahgittin,ahgittin,2,"['LICENSE', 'usage/jsgui/src/main/license/files/LICENSE']",new LICENSE files,
+4fe332913ac9b9942f7a1ae0cd9692ed46d1e9ec,ahgittin,ahgittin,1,['usage/jsgui/src/main/license/files/LICENSE'],scripts for auto-generating the various LICENSE files we need,
+44d3aebe9e63f47f0a1e57aeb53cf0aae9c3a02f,ahgittin,ahgittin,1,['LICENSE'],"new and improved LICENSE doc, autogenerated as per instructions in usage/dist/licensing",
+d316f1c7befcead47e1017d6925a48f4fdde2768,ahgittin,ahgittin,1,['LICENSE'],"Revert ""new and improved LICENSE doc, autogenerated as per instructions in usage/dist/licensing""
+
+This reverts commit 32b9579d67fcdc8e469ccfce10a4c9c2296239cc.",
+3cf1dc2460b77326683f9396959be7337a415cf2,ahgittin,ahgittin,1,['LICENSE'],"new and improved LICENSE doc, autogenerated as per instructions in usage/dist/licensing",
+bb9c8004b359334a10457461fe9844f0e0bd049e,nakomis,rdowner,1,['.gitattributes'],Adds MSSQL (YAML-based) blueprint,
+e697d1127b41bdeb8c1ab748e95bc843e998f2b6,rdowner,rdowner,2,"['usage/jsgui/src/main/license/LICENSE', 'usage/jsgui/src/test/license/NOTICE']",Different LICENSE/NOTICE for usage/jsgui,
+b6f8e72a220e4e469c9d1c7f931d494ff7c2f351,ahgittin,ahgittin,1,['LICENSE'],"address code review comments
+
+* add js-yaml to license
+* ensure None location works (see below)
+* fix iconUr mis-spelling
+
+with the None location it was odd but the old pruneLocation / set(""location"", []) caused the same yaml parse errors Undefined. however unsetting it works fine.",
+bab58f848d201565aa04ad83b3c6c7747381e19b,CMoH,CMoH,1,['.gitignore'],Ignore netbeans files,
+963f9faa84720e04e13e2808f05e63ca4e5c95dd,jadelus,jadelus,1,['README.md'],Changed the 'how-to-contrib' URL to point to apache.org,
+3d62a19a7c35382c56e4bbe0d52f79da45d8d8ff,jadelus,jadelus,1,['README.md'],Changed the open new issue URL from Brooklyn Central GitHub to Apache Jira,
+36d037556e83a4bba7ae29ce09ef02b4b8ba6bfd,jadelus,jadelus,1,['README.md'],fixed the getting started URL,
+8bb6b2d0b3d9e799614a47b64081c1dcac51f7b8,bostko,bostko,1,['README.md'],Update the build instructions to include the launch command,
+f9aaa4d2975e19ece90b3c7492db4801df4f6428,sjcorbett,sjcorbett,1,['README.md'],This closes #433,
+b4ee6b34d994820520b6b36d3e749df05d908b4f,duncangrant,duncangrant,1,['README.md'],Add cd to path to build instructions,
+d139785a26a030efcc170deac33aa561e6263677,duncangrant,duncangrant,1,['README.md'],Minor Documentation fixes,
+2f5cf1e3b3e198442ad1a8adfb87e4d7e2a7e6fc,rdowner,rdowner,1,['NOTICE'],Update copyright date for 2015 in NOTICE,
+a01f3168e700f1e979d6d7be57e1b738c99026f8,sjcorbett,sjcorbett,1,['README.md'],Fix Brooklyn logo link in README,
+1b1ad459ed680f2e24a5ea6182f21d8c8374238f,rdowner,rdowner,1,['LICENSE'],"Formatting tweak to LICENSE
+
+Hadrian Zbarcea noticed that the first lines of LICENSE are incorrectly
+formatted - most likely due to copy-and-paste from the HTML page rather
+than the text document.
+
+No change to content.",
+b6ec4c7d0fb5be214742fd8b38deb607e3712c9b,rdowner,rdowner,2,"['LICENSE', 'NOTICE']","Revise LICENSE and NOTICE following mentor feedback
+
+See:
+https://mail-archives.apache.org/mod_mbox/incubator-brooklyn-dev/201412.mbox/%3C20141211165910.GG36553%40Chips-MacBook-Air.local%3E
+
+MIT/BSD licensed subcomponents now credited in LICENSE instead of
+NOTICE. Reviewed ASL2 credits in NOTICE; determined that they do not
+have their own NOTICE file, and therefore there is no need to mention
+them, per https://www.apache.org/dev/licensing-howto.html#alv2-dep.
+This meant that there were no credits remaining in NOTICE; replaced
+NOTICE with boilerplate recommended by
+https://www.apache.org/dev/licensing-howto.html#simple.",
+506082ebc89a26fe1eace3106e7554e02f9fe7c4,aledsage,aledsage,1,['NOTICE'],"Remove unnecessary config files from NOTICE
+
+These config files are just starting points supplied by the
+various projects in docs + blogs + default installs. The files
+in Brooklyn are templated versions of the common install
+configurations. These are files ""without any degree of creativity"".
+
+e.g. see https://developer.jboss.org/message/909912 for an example
+response from the community on licensing config files.",
+99f10c4e1ba8bcf756dadf41406e142fedc15718,aledsage,aledsage,1,['NOTICE'],"Remove from NOTICE MariaDB/JBoss config files
+
+- These are based on the defaults shipped with the given projects, 
+  but just match snippets from the docs, and examples that are readily 
+  available on a myriad of blogs. Our template config files are similar 
+  to the default files, but unsurprisingly the defaults match docs and 
+  thus match what one would write for a basic deployment.",
+7d464a72d98ae326e385099fce9bc9a0ee6a192a,ahgittin,ahgittin,1,['NOTICE'],"fix mis-attribution in notice, and other tidies there (punctuation mainly)",
+b92832663abaed38cae3a2f5acfe37cc6d0dfaf5,ahgittin,aledsage,1,['NOTICE'],"fix mis-attribution in notice, and other tidies there (punctuation mainly)",
+48ab9d9f34fc9339eaa3eaf7fe56031c759d4e51,neykov,neykov,1,['.gitattributes'],Preserve CRLF line endings for Windows batch files,
+bd20c232b7b20f925ba10f1d94597572a5c14168,aledsage,aledsage,1,['.gitattributes'],This closes #222,
+1354449d10d53e59c6a2fa8269b9567273e4669c,neykov,neykov,1,['.gitattributes'],Instruct git to do eol normalization on text files (in case core.autocrlf is not set in git config),
+eca5e8a4657857979f01ec1134cd03d25293d788,aledsage,aledsage,1,['NOTICE'],"For “install config files”, add to NOTICE
+
+- for config files we’ve copied from other projects, add a reference
+  to each in NOTICE",
+9d371439f1752cd48b8798da6997a0a8a39a54bf,sjcorbett,sjcorbett,1,['NOTICE'],Filter by blueprint type in catalogue list documentation page,
+e59bdf28708f323e9622429effbb2ea32026afc9,ahgittin,ahgittin,2,"['LICENSE', 'NOTICE']",expand NOTICE for all included software and include license text in LICENSE,
+50559efb0b7bf9110ac298278c37009d307e7a9b,ahgittin,ahgittin,3,"['LICENSE', 'NOTICE', 'README.md']","include NOTICE file as per BROOKLYN-19 and DISCLAIMER as per BROOKLYN-22,
+both in root of source and included in binary distributable artifacts.
+Minor tweaks to README to increase visisbility of apache and podling status,
+and removal of old (out-of-date) COPYRIGHT.",
+00bae1777a6bc35a60823594f8ceddd105fd7274,neykov,neykov,1,['.gitattributes'],"Force UNIX style line endings for shell scripts.
+
+Shell scripts must have UNIX style endings even on Windows so that when the projects is built, packaged and run on Linux they work without errors.",
+6733d5944f8fc64d3a8be9638925ad70ec592247,brooklyn-images,brooklyn-images,1,['README.md'],"Revert ""Revert ""Merge and close PR #43""""
+
+This reverts commit b03200dbfc9acb5030633d7cd4326a50f2c3918a.
+
+Re-open #43",
+78b0196ca005c53f1876dedfbc557f01e8674b8d,rdowner,rdowner,1,['README.md'],"Revert ""Merge and close PR #43""
+
+This reverts commit f6b5e90f09ec6eee622e62dc8a97ef94eda19fd7, reversing
+changes made to 35dce9b92bc92d3221c2142f73b6ab8d04132e5e.",
+d0b28fc1be64efc8bd442be3edfc5413e5479a35,nakomis,nakomis,1,['README.md'],Updated various files following PR comments,
+4e2e24b80c618ac166fd93146e56911fe75cb159,aledsage,aledsage,1,['.gitignore'],Add brooklyn-persisted-state to .gitignore,
+af839590455fdb1b450227408a7f7be3b8d66201,jdtoy,jdtoy,1,['README.md'],"Tweaks to Licence, Copyright and Readme for clarity.",
+99cce005d05779c41c18ce69b47114cfa2af071a,jdtoy,jdtoy,1,['README.md'],"Typo: ""logic groupings"" -> ""logical groupings""",
+b9ef19f99f779d63501d3f18359cf09b2d4c069d,jdtoy,jdtoy,1,['README.md'],Updates to wording of Deployment section.,
+d7b9c8d4eda2961c3ac847118abc0cf7761e60f1,jdtoy,jdtoy,1,['README.md'],"Added What:Brooklyn, removed Versioning, simplified licence, & other small tweaks.",
+5f6375c85f2a960f4f4dcb08119ee11d7ce91ee4,jdtoy,jdtoy,1,['README.md'],Will add better 'What' section later.,
+218b834fceba2f7bfd240c303402f886360a352f,jdtoy,jdtoy,1,['README.md'],"Removed Brooklyn version, as is rendered on github.com.",
+8d1a04235553d9f07ade1600139c6a3d873932d4,jdtoy,jdtoy,1,['README.md'],Significant upgrade to Brooklyn's Readme.,
+df0a31989fa800b0afb7b02a0d5553036de05ba4,pveentjer,pveentjer,1,['.gitignore'],Fixed 'install' methods of driver when calling scripthelper with bad append methods,
+621d29c5a858ebfb21bfba075b3885d2a51c0948,pveentjer,pveentjer,1,['.gitignore'],Updated .gitignore,
+ad3ff100e649fbb77985c1bf2fb7dceac29377b5,,,1,['.gitignore'],Remove bin/ from .gitignore so that it does not clash with <some example>/src/main/example/bin,
+02a747dcf334a0765f9665f54fed1fd90d4742c5,,,1,['.gitignore'],"improved sed recommendation for eclipse (my version made a different
+pattern of includes/excludes)",
+36e84e84f3a1fc0cbc1ab036714ac0ec00dc71aa,ahgittin,ahgittin,1,['.gitignore'],delete and gitignore brooklyn*.log.* files,
+67f8ba2e8878c2e95bd82b22612222b052f18a31,ahgittin,ahgittin,1,['.gitignore'],"tided up logging - messages, categories, and properties files",
+41fd5ba66f35c959b1f307815648104649ce34c9,ahgittin,ahgittin,1,['.gitignore'],simplified gitignores and corrected cleaned files list,
+e5c5ac218063a652b8882a61e62be84175cca703,ahgittin,ahgittin,1,['.gitignore'],"major project reorg; packages and classes are mostly untouched, but split into a more granular (and sensible) project structure.
+moved examples to separate projects, reduced number of shaded jars (now it's just 'all'), added sandbox and moved WIP there.
+also, added osgi (karaf) container as entity.",
+f4ce280e0f56e5fbbe6111a44be12303bb4f4cdd,ahgittin,ahgittin,1,['.gitignore'],"new sensor API, moved old sensor API, everything use log4j consistently but marked optional so not transitive",
+f5de9d8875be6c18987b844fab65ba0f4ab3e998,,,0,[],"Merge branch 'refs/heads/ENGR-1668-GemfireEntities-Strike2' into ENGR-2103-Gemfire-Effectors
+
+Conflicts:
+	.gitignore
+	extra/src/main/java/brooklyn/entity/nosql/gemfire/GemfireServer.groovy
+	extra/src/main/java/brooklyn/entity/nosql/gemfire/GemfireSetup.groovy
+	extra/src/test/java/brooklyn/entity/nosql/gemfire/GemfireServerIntegrationTest.groovy
+	extra/src/test/resources/brooklyn/entity/nosql/gemfire/eu/cache.xml
+	gemfire/pom.xml
+	gemfire/src/brooklyn/gemfire/demo/GatewayRequestHandler.java
+	gemfire/src/main/java/brooklyn/gemfire/demo/GatewayRequestHandler.java
+	gemfire/src/main/java/brooklyn/gemfire/demo/GeneralRequestHandler.java
+	gemfire/src/main/java/brooklyn/gemfire/demo/HubManager.java
+	gemfire/start.sh",
+19f4f2740cb0c4e98a163e4102c1a977dea4c9d5,,,1,['.gitignore'],ignore log directory,
+85032ae009000a686f41f08a80baa262a8a87e2d,sjcorbett,,1,['.gitignore'],Append gemfire .gitignore to brooklyn-wide .gitignore and delete former.,
+f933ee7b37e146488d27babef0da62112b3c2746,sjcorbett,,1,['.gitignore'],Add swap files to gitignore,
+fc59fd9b239feaaee38dec40013539dbc49ca223,sjcorbett,sjcorbett,1,['.gitignore'],Append gemfire .gitignore to brooklyn-wide .gitignore and delete former.,
+f90ad061a3d9797074cab7b46fac672adc5f35d4,sjcorbett,sjcorbett,1,['.gitignore'],Add swap files to gitignore,
+942a5978c3e36ea954c29a0df7e985c085dba002,ahgittin,ahgittin,1,['.gitignore'],ignore things called ignored,
+de956a6ef9e92a0c16bc1a84da8a96f8cda6413d,,,1,['.gitignore'],Added .metadata/ to .gitignore,
+b964b36f4d17e97cf9e47cd785bc91fadddc9ae1,,,1,['.gitignore'],ignore .bk of the instances,
+b3ceb978150858973d0fc6a3331e2bffff904b98,,,1,['.gitignore'],add log output directory to ignore,
+9add90d9ac6cdc3e2027ff5218dcf46f2461ce84,,,1,['.gitignore'],ignore generated instances.txt,
+08ff6e34b73676e36c1a60081c7a777aabce1f5b,theambidextrousboy,theambidextrousboy,1,['.gitignore'],gitignore prodDd files that get created in selenium tests,
+88eb7e64b177c418be3e66b970eb964db16f2142,anm,anm,1,['.gitignore'],Added stacktrace.log to gitignore.,
+abe98410220514430f83d2c09f96aa728429a605,richardcloudsoft,richardcloudsoft,1,['.gitignore'],Remove IntelliJ metadata files from source control as they can vary between machines,
+ef06853609993093a05c15daa364c2503463db2c,,,1,['.gitignore'],Ignored .idea and added .iml file to support IntelliJ,
+1088058baedb65be52bf9af5b9377faa34a49332,brooklyn-images,brooklyn-images,1,['.gitignore'],Added .gitignore for Brooklyn,
+f7bd6d61916087b4e6dd3811726bfbb2190a1f7f,anm,anm,1,['.gitignore'],Added .gitignore.,
+a2935985154fd1fc8e8a48adae1dd988d8389632,anm,anm,0,[],Initial commit of overpaas svn version 11177.,

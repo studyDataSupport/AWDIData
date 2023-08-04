@@ -1,0 +1,21 @@
+{
+    "all_file_num": 1575,
+    "error_developer_file_rate": {
+        "#library--commons-lang--thiyagu-7": 0.0012698412698412698,
+        "#library--commons-lang--juanpablo-santos": 0.0012698412698412698,
+        "#library--commons-lang--thiagoh": 0.0012698412698412698,
+        "#library--commons-lang--MSaifAsif": 0.0012698412698412698,
+        "#library--commons-lang--ptemplier": 0.0012698412698412698,
+        "#library--commons-lang--big-andy-coates": 0.0012698412698412698,
+        "#library--commons-lang--MaridProject": 0.0012698412698412698,
+        "#library--commons-lang--Derek-Ashmore": 0.0012698412698412698,
+        "#library--commons-lang--Stzx": 0.0025396825396825397,
+        "#library--commons-lang--yasserzamani": 0.0031746031746031746,
+        "#library--commons-lang--jbduncan": 0.012698412698412698,
+        "#library--commons-lang--chonton": 0.040634920634920635
+    },
+    "daily_error_prone_developer": [
+        "#library--commons-lang--chonton"
+    ],
+    "number_daily_error_prone_developer": 1
+}

@@ -1,0 +1,39 @@
+{
+    "cate": "#network-server",
+    "#network-server-cate_aver_bug_rate": 0.1875,
+    "#network-server-cate_aver_bug_commit_rate": 0.16170212765957448,
+    "high_bug_rate_error_prone_developer_number": 7,
+    "high_bug_commit_rate_error_prone_developer_number": 9,
+    "high_bug_rate_error_prone_developer": {
+        "#network-server--felix--djencks": 0.680327868852459,
+        "#network-server--felix--chirino": 0.5,
+        "#network-server--felix--bobpaulin": 0.36,
+        "#network-server--felix--srs": 0.3181818181818182,
+        "#network-server--felix--gertv": 0.2727272727272727,
+        "#network-server--felix--ffang": 0.2222222222222222,
+        "#network-server--felix--gnodet": 0.18754745634016703
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#network-server--felix--djencks": 0.6775956284153005,
+        "#network-server--felix--bobpaulin": 0.36,
+        "#network-server--felix--dulvac": 0.3333333333333333,
+        "#network-server--felix--chirino": 0.3333333333333333,
+        "#network-server--felix--ffang": 0.2222222222222222,
+        "#network-server--felix--srs": 0.20454545454545456,
+        "#network-server--felix--gertv": 0.18181818181818182,
+        "#network-server--felix--gnodet": 0.18147304479878512,
+        "#network-server--felix--tjwatson": 0.16981132075471697
+    },
+    "error_prone_developer_num": 7,
+    "error_prone_developer": [
+        "#network-server--felix--djencks",
+        "#network-server--felix--chirino",
+        "#network-server--felix--bobpaulin",
+        "#network-server--felix--srs",
+        "#network-server--felix--gertv",
+        "#network-server--felix--ffang",
+        "#network-server--felix--gnodet"
+    ],
+    "error_prone_developer_team_rate": 0.22580645161290322,
+    "team_developer_num": 31
+}

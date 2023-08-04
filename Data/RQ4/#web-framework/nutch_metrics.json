@@ -1,0 +1,245 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#web-framework--nutch--": "2005-04-01 00:00:00",
+        "#web-framework--nutch--sebastian-nagel": "2012-09-18 00:00:00",
+        "#web-framework--nutch--lewismc": "2016-05-09 00:00:00",
+        "#web-framework--nutch--prakharchaube": "2021-11-30 00:00:00",
+        "#web-framework--nutch--sufyan-info": "2021-10-19 00:00:00",
+        "#web-framework--nutch--aalbahem": "2019-07-01 00:00:00",
+        "#web-framework--nutch--derhecht": "2020-08-03 00:00:00",
+        "#web-framework--nutch--madhawa-gunasekara": "2020-08-03 00:00:00",
+        "#web-framework--nutch--balashashanka": "2019-10-24 00:00:00",
+        "#web-framework--nutch--pmezard": "2020-06-09 00:00:00",
+        "#web-framework--nutch--YossiTamari": "2017-08-27 00:00:00",
+        "#web-framework--nutch--r0ann3l": "2017-06-15 00:00:00",
+        "#web-framework--nutch--chrisgavin": "2019-03-02 00:00:00",
+        "#web-framework--nutch--sbatururimi": "2018-11-15 00:00:00",
+        "#web-framework--nutch--malcolmtaylor": "2019-02-13 00:00:00",
+        "#web-framework--nutch--AyalCiobotaru": "2018-08-02 00:00:00",
+        "#web-framework--nutch--jorgelbg": "2015-04-24 00:00:00",
+        "#web-framework--nutch--rustyx": "2018-09-04 00:00:00",
+        "#web-framework--nutch--owenson": "2018-07-13 00:00:00",
+        "#web-framework--nutch--okedoki": "2017-11-29 00:00:00",
+        "#web-framework--nutch--hussein-alahmad": "2018-05-15 00:00:00",
+        "#web-framework--nutch--Omkar20895": "2017-04-10 00:00:00",
+        "#web-framework--nutch--HansBrende": "2018-04-07 00:00:00",
+        "#web-framework--nutch--mfeltscher": "2017-07-21 00:00:00",
+        "#web-framework--nutch--nickredmark": "2017-12-13 00:00:00",
+        "#web-framework--nutch--smadha": "2017-03-29 00:00:00",
+        "#web-framework--nutch--maborec": "2017-08-25 00:00:00",
+        "#web-framework--nutch--vipulbehl": "2017-05-15 00:00:00",
+        "#web-framework--nutch--jnioche": "2009-12-30 00:00:00",
+        "#web-framework--nutch--kamaci": "2016-05-19 00:00:00",
+        "#web-framework--nutch--chrismattmann": "2006-11-23 00:00:00",
+        "#web-framework--nutch--sujen1412": "2015-09-25 00:00:00",
+        "#web-framework--nutch--sachin086": "2016-10-06 00:00:00",
+        "#web-framework--nutch--bmzhao": "2016-08-03 00:00:00",
+        "#web-framework--nutch--naegelejd": "2016-04-07 00:00:00",
+        "#web-framework--nutch--stevegy": "2016-07-12 00:00:00",
+        "#web-framework--nutch--thammegowda": "2016-02-28 00:00:00",
+        "#web-framework--nutch--karanjeets": "2016-03-19 00:00:00",
+        "#web-framework--nutch--kwhitehall": "2016-04-16 00:00:00",
+        "#web-framework--nutch--MJJoyce": "2015-11-11 00:00:00",
+        "#web-framework--nutch--tejasapatil": "2013-01-28 00:00:00",
+        "#web-framework--nutch--sigram": "2005-05-04 00:00:00",
+        "#web-framework--nutch--siren": "2005-04-04 00:00:00",
+        "#web-framework--nutch--gmcdonald": "2010-05-12 00:00:00",
+        "#web-framework--nutch--cutting": "2005-01-25 00:00:00",
+        "#web-framework--nutch--erikhatcher": "2005-07-21 00:00:00",
+        "#web-framework--nutch--royfielding": "2005-01-23 00:00:00"
+    },
+    "commiter_end_time": {
+        "#web-framework--nutch--": "2022-12-12 00:00:00",
+        "#web-framework--nutch--sebastian-nagel": "2022-09-08 00:00:00",
+        "#web-framework--nutch--lewismc": "2022-05-20 00:00:00",
+        "#web-framework--nutch--prakharchaube": "2022-01-27 00:00:00",
+        "#web-framework--nutch--sufyan-info": "2021-10-19 00:00:00",
+        "#web-framework--nutch--aalbahem": "2021-01-13 00:00:00",
+        "#web-framework--nutch--derhecht": "2020-12-17 00:00:00",
+        "#web-framework--nutch--madhawa-gunasekara": "2020-08-03 00:00:00",
+        "#web-framework--nutch--balashashanka": "2020-07-29 00:00:00",
+        "#web-framework--nutch--pmezard": "2020-06-09 00:00:00",
+        "#web-framework--nutch--YossiTamari": "2019-10-15 00:00:00",
+        "#web-framework--nutch--r0ann3l": "2019-09-27 00:00:00",
+        "#web-framework--nutch--chrisgavin": "2019-03-02 00:00:00",
+        "#web-framework--nutch--sbatururimi": "2018-11-15 00:00:00",
+        "#web-framework--nutch--malcolmtaylor": "2019-02-13 00:00:00",
+        "#web-framework--nutch--AyalCiobotaru": "2019-02-12 00:00:00",
+        "#web-framework--nutch--jorgelbg": "2018-10-23 00:00:00",
+        "#web-framework--nutch--rustyx": "2018-09-04 00:00:00",
+        "#web-framework--nutch--owenson": "2018-07-13 00:00:00",
+        "#web-framework--nutch--okedoki": "2018-04-11 00:00:00",
+        "#web-framework--nutch--hussein-alahmad": "2018-05-15 00:00:00",
+        "#web-framework--nutch--Omkar20895": "2018-05-06 00:00:00",
+        "#web-framework--nutch--HansBrende": "2018-04-11 00:00:00",
+        "#web-framework--nutch--mfeltscher": "2018-01-31 00:00:00",
+        "#web-framework--nutch--nickredmark": "2018-01-11 00:00:00",
+        "#web-framework--nutch--smadha": "2017-03-29 00:00:00",
+        "#web-framework--nutch--maborec": "2017-09-29 00:00:00",
+        "#web-framework--nutch--vipulbehl": "2017-05-15 00:00:00",
+        "#web-framework--nutch--jnioche": "2017-04-18 00:00:00",
+        "#web-framework--nutch--kamaci": "2017-04-14 00:00:00",
+        "#web-framework--nutch--chrismattmann": "2017-03-14 00:00:00",
+        "#web-framework--nutch--sujen1412": "2016-10-18 00:00:00",
+        "#web-framework--nutch--sachin086": "2016-10-06 00:00:00",
+        "#web-framework--nutch--bmzhao": "2016-08-20 00:00:00",
+        "#web-framework--nutch--naegelejd": "2016-06-30 00:00:00",
+        "#web-framework--nutch--stevegy": "2016-07-13 00:00:00",
+        "#web-framework--nutch--thammegowda": "2016-07-01 00:00:00",
+        "#web-framework--nutch--karanjeets": "2016-04-18 00:00:00",
+        "#web-framework--nutch--kwhitehall": "2016-04-16 00:00:00",
+        "#web-framework--nutch--MJJoyce": "2016-02-18 00:00:00",
+        "#web-framework--nutch--tejasapatil": "2014-02-09 00:00:00",
+        "#web-framework--nutch--sigram": "2011-11-28 00:00:00",
+        "#web-framework--nutch--siren": "2011-09-26 00:00:00",
+        "#web-framework--nutch--gmcdonald": "2010-05-12 00:00:00",
+        "#web-framework--nutch--cutting": "2007-02-23 00:00:00",
+        "#web-framework--nutch--erikhatcher": "2005-09-23 00:00:00",
+        "#web-framework--nutch--royfielding": "2005-01-23 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#web-framework--nutch--sufyan-info": 0,
+        "#web-framework--nutch--madhawa-gunasekara": 0,
+        "#web-framework--nutch--pmezard": 0,
+        "#web-framework--nutch--chrisgavin": 0,
+        "#web-framework--nutch--sbatururimi": 0,
+        "#web-framework--nutch--malcolmtaylor": 0,
+        "#web-framework--nutch--rustyx": 0,
+        "#web-framework--nutch--owenson": 0,
+        "#web-framework--nutch--hussein-alahmad": 0,
+        "#web-framework--nutch--smadha": 0,
+        "#web-framework--nutch--vipulbehl": 0,
+        "#web-framework--nutch--sachin086": 0,
+        "#web-framework--nutch--kwhitehall": 0,
+        "#web-framework--nutch--gmcdonald": 0,
+        "#web-framework--nutch--royfielding": 0,
+        "#web-framework--nutch--stevegy": 1,
+        "#web-framework--nutch--HansBrende": 4,
+        "#web-framework--nutch--bmzhao": 17,
+        "#web-framework--nutch--nickredmark": 29,
+        "#web-framework--nutch--karanjeets": 30,
+        "#web-framework--nutch--maborec": 35,
+        "#web-framework--nutch--prakharchaube": 58,
+        "#web-framework--nutch--erikhatcher": 64,
+        "#web-framework--nutch--naegelejd": 84,
+        "#web-framework--nutch--MJJoyce": 99,
+        "#web-framework--nutch--thammegowda": 124,
+        "#web-framework--nutch--okedoki": 133,
+        "#web-framework--nutch--derhecht": 136,
+        "#web-framework--nutch--AyalCiobotaru": 194,
+        "#web-framework--nutch--mfeltscher": 194,
+        "#web-framework--nutch--balashashanka": 279,
+        "#web-framework--nutch--kamaci": 330,
+        "#web-framework--nutch--tejasapatil": 377,
+        "#web-framework--nutch--sujen1412": 389,
+        "#web-framework--nutch--Omkar20895": 391,
+        "#web-framework--nutch--aalbahem": 562,
+        "#web-framework--nutch--cutting": 759,
+        "#web-framework--nutch--YossiTamari": 779,
+        "#web-framework--nutch--r0ann3l": 834,
+        "#web-framework--nutch--jorgelbg": 1278,
+        "#web-framework--nutch--lewismc": 2202,
+        "#web-framework--nutch--siren": 2366,
+        "#web-framework--nutch--sigram": 2399,
+        "#web-framework--nutch--jnioche": 2666,
+        "#web-framework--nutch--sebastian-nagel": 3642,
+        "#web-framework--nutch--chrismattmann": 3764,
+        "#web-framework--nutch--": 6464
+    },
+    "commiter_contribute_time1": {
+        "#web-framework--nutch--balashashanka": {
+            "start": "2019-10-24 00:00:00",
+            "end": "2020-07-10 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 1.0
+        },
+        "#web-framework--nutch--sigram": {
+            "start": "2005-05-04 00:00:00",
+            "end": "2009-11-26 00:00:00",
+            "bug_num_per_commit": 0.09333333333333334,
+            "bug_commit_num_rate": 1.0
+        }
+    },
+    "commiter_contribute_time2": {
+        "#web-framework--nutch--balashashanka": {
+            "start": "2020-04-27 00:00:00",
+            "end": "2020-04-20 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.25
+        },
+        "#web-framework--nutch--sigram": {
+            "start": "2009-11-25 00:00:00",
+            "end": "2007-01-17 00:00:00",
+            "bug_num_per_commit": 0.10666666666666667,
+            "bug_commit_num_rate": 0.09333333333333334
+        }
+    },
+    "commiter_contribute_time3": {
+        "#web-framework--nutch--balashashanka": {
+            "start": "2020-04-16 00:00:00",
+            "end": "2020-04-11 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#web-framework--nutch--sigram": {
+            "start": "2007-01-15 00:00:00",
+            "end": "2006-04-25 00:00:00",
+            "bug_num_per_commit": 0.2,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#web-framework--nutch--balashashanka": {
+            "start": "2020-04-06 00:00:00",
+            "end": "2019-10-24 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.0
+        },
+        "#web-framework--nutch--sigram": {
+            "start": "2006-04-24 00:00:00",
+            "end": "2005-05-04 00:00:00",
+            "bug_num_per_commit": 0.23684210526315788,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#web-framework--nutch--balashashanka": {
+            "bug_num_per_commit": {
+                "time1": 0.25,
+                "time2": 0.25,
+                "time3": 0.0,
+                "time4": 0.3333333333333333
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.25,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#web-framework--nutch--sigram": {
+            "bug_num_per_commit": {
+                "time1": 0.09333333333333334,
+                "time2": 0.10666666666666667,
+                "time3": 0.2,
+                "time4": 0.23684210526315788
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.09333333333333334,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#web-framework--nutch--balashashanka",
+        "#web-framework--nutch--sigram"
+    ],
+    "number_daily_long_time_error_prone_developer": 2,
+    "improved_daily_long_time_error_prone_developer": [
+        "#web-framework--nutch--sigram"
+    ],
+    "number_improved_daily_long_time_error_prone_developer": 1
+}

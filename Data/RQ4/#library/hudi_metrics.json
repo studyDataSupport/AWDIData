@@ -1,0 +1,2437 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#library--hudi--Zhangshunyu": "2022-10-27 00:00:00",
+        "#library--hudi--waywtdcc": "2022-10-26 00:00:00",
+        "#library--hudi--danny0405": "2020-12-10 00:00:00",
+        "#library--hudi--yangxiao0320": "2022-10-26 00:00:00",
+        "#library--hudi--jonvex": "2022-08-30 00:00:00",
+        "#library--hudi--scxwhite": "2022-02-26 00:00:00",
+        "#library--hudi--alexeykudinkin": "2021-11-02 00:00:00",
+        "#library--hudi--Zouxxyy": "2022-08-24 00:00:00",
+        "#library--hudi--honeyaya": "2022-08-31 00:00:00",
+        "#library--hudi--SteNicholas": "2019-12-26 00:00:00",
+        "#library--hudi--yihua": "2019-07-12 00:00:00",
+        "#library--hudi--YuweiXiao": "2021-12-10 00:00:00",
+        "#library--hudi--hbgstc123": "2022-09-07 00:00:00",
+        "#library--hudi--zhangrenhua": "2022-10-25 00:00:00",
+        "#library--hudi--liufangqi": "2022-03-16 00:00:00",
+        "#library--hudi--slfan1989": "2022-10-13 00:00:00",
+        "#library--hudi--the-other-tim-brown": "2022-07-14 00:00:00",
+        "#library--hudi--xushiyan": "2019-11-02 00:00:00",
+        "#library--hudi--nsivabalan": "2019-11-11 00:00:00",
+        "#library--hudi--YannByron": "2021-10-06 00:00:00",
+        "#library--hudi--rmahindra123": "2021-07-05 00:00:00",
+        "#library--hudi--parisni": "2022-01-04 00:00:00",
+        "#library--hudi--xicm": "2022-04-30 00:00:00",
+        "#library--hudi--yuzhaojing": "2021-05-28 00:00:00",
+        "#library--hudi--wulei0302": "2022-09-23 00:00:00",
+        "#library--hudi--vvsd": "2022-10-16 00:00:00",
+        "#library--hudi--hameizi": "2022-10-15 00:00:00",
+        "#library--hudi--wxplovecc": "2022-03-11 00:00:00",
+        "#library--hudi--zhangyue19921010": "2021-06-27 00:00:00",
+        "#library--hudi--huberylee": "2022-03-04 00:00:00",
+        "#library--hudi--pramodbiligiri": "2022-09-30 00:00:00",
+        "#library--hudi--boneanxs": "2021-12-09 00:00:00",
+        "#library--hudi--suryaprasanna": "2022-03-24 00:00:00",
+        "#library--hudi--codope": "2021-06-19 00:00:00",
+        "#library--hudi--fengjian428": "2021-12-05 00:00:00",
+        "#library--hudi--Aiden-Dong": "2022-09-30 00:00:00",
+        "#library--hudi--shenshengli": "2022-09-29 00:00:00",
+        "#library--hudi--gnailJC": "2022-09-29 00:00:00",
+        "#library--hudi--jsbali": "2021-04-21 00:00:00",
+        "#library--hudi--hj2016": "2020-06-08 00:00:00",
+        "#library--hudi--voonhous": "2022-07-05 00:00:00",
+        "#library--hudi--paul8263": "2022-09-19 00:00:00",
+        "#library--hudi--Forus0322": "2022-06-21 00:00:00",
+        "#library--hudi--KnightChess": "2022-03-31 00:00:00",
+        "#library--hudi--brightwon": "2022-09-25 00:00:00",
+        "#library--hudi--liujinhui1994": "2020-05-11 00:00:00",
+        "#library--hudi--wongxingjun": "2022-09-24 00:00:00",
+        "#library--hudi--wangxianghu": "2019-12-25 00:00:00",
+        "#library--hudi--XuQianJin-Stars": "2019-11-28 00:00:00",
+        "#library--hudi--CTTY": "2022-06-20 00:00:00",
+        "#library--hudi--rahil-c": "2022-07-21 00:00:00",
+        "#library--hudi--microbearz": "2022-06-22 00:00:00",
+        "#library--hudi--dohongdayi": "2022-09-20 00:00:00",
+        "#library--hudi--kk17": "2022-09-20 00:00:00",
+        "#library--hudi--TJX2014": "2022-09-14 00:00:00",
+        "#library--hudi--eric9204": "2022-09-14 00:00:00",
+        "#library--hudi--vburenin": "2021-01-19 00:00:00",
+        "#library--hudi--y0908105023": "2022-09-18 00:00:00",
+        "#library--hudi--simonsssu": "2022-07-16 00:00:00",
+        "#library--hudi--5herhom": "2022-06-20 00:00:00",
+        "#library--hudi--wzx140": "2022-05-26 00:00:00",
+        "#library--hudi--slachiewicz": "2022-09-15 00:00:00",
+        "#library--hudi--loukey-lj": "2021-01-22 00:00:00",
+        "#library--hudi--wuwenchi": "2022-08-10 00:00:00",
+        "#library--hudi--Neuw84": "2022-09-13 00:00:00",
+        "#library--hudi--dongkelun": "2021-07-25 00:00:00",
+        "#library--hudi--shuai-xu": "2022-09-13 00:00:00",
+        "#library--hudi--modi95": "2020-01-06 00:00:00",
+        "#library--hudi--wangp-nhlab": "2022-09-10 00:00:00",
+        "#library--hudi--xccui": "2022-05-13 00:00:00",
+        "#library--hudi--junyuc25": "2022-09-07 00:00:00",
+        "#library--hudi--vinishjail97": "2022-01-05 00:00:00",
+        "#library--hudi--hehuiyuan": "2022-04-24 00:00:00",
+        "#library--hudi--felixYyu": "2022-05-24 00:00:00",
+        "#library--hudi--LinMingQiang": "2022-06-06 00:00:00",
+        "#library--hudi--leandro-rouberte": "2022-08-30 00:00:00",
+        "#library--hudi--TengHuo": "2022-06-29 00:00:00",
+        "#library--hudi--qjqqyy": "2022-06-01 00:00:00",
+        "#library--hudi--novisfff": "2022-08-16 00:00:00",
+        "#library--hudi--": "2017-09-18 00:00:00",
+        "#library--hudi--linfey90": "2022-08-12 00:00:00",
+        "#library--hudi--vamshigv": "2022-08-11 00:00:00",
+        "#library--hudi--BruceKellan": "2022-04-06 00:00:00",
+        "#library--hudi--XinyaoTian": "2022-08-10 00:00:00",
+        "#library--hudi--pratyakshsharma": "2019-11-07 00:00:00",
+        "#library--hudi--RexXiong": "2022-04-11 00:00:00",
+        "#library--hudi--leesf": "2019-08-16 00:00:00",
+        "#library--hudi--f7753": "2022-08-03 00:00:00",
+        "#library--hudi--umehrot2": "2019-09-05 00:00:00",
+        "#library--hudi--dwkwon": "2021-03-10 00:00:00",
+        "#library--hudi--hechao-ustc": "2022-06-13 00:00:00",
+        "#library--hudi--vanderzh": "2022-07-25 00:00:00",
+        "#library--hudi--zhedoubushishi": "2019-11-26 00:00:00",
+        "#library--hudi--cuibo01": "2022-02-19 00:00:00",
+        "#library--hudi--JerryYue-M": "2022-03-18 00:00:00",
+        "#library--hudi--deadwind4": "2022-07-12 00:00:00",
+        "#library--hudi--dependabot[bot]": "2019-11-01 00:00:00",
+        "#library--hudi--xiarixiaoyao": "2021-03-08 00:00:00",
+        "#library--hudi--kumudkumartirupati": "2022-05-31 00:00:00",
+        "#library--hudi--lanyuanxiaoyao": "2022-05-11 00:00:00",
+        "#library--hudi--shenjiayu17": "2022-07-06 00:00:00",
+        "#library--hudi--miomiocat": "2022-04-23 00:00:00",
+        "#library--hudi--cxzl25": "2020-05-14 00:00:00",
+        "#library--hudi--luoyajun10": "2020-06-02 00:00:00",
+        "#library--hudi--bschell": "2019-11-26 00:00:00",
+        "#library--hudi--trushev": "2022-06-20 00:00:00",
+        "#library--hudi--chenshzh": "2022-06-20 00:00:00",
+        "#library--hudi--sandyfog": "2022-06-09 00:00:00",
+        "#library--hudi--yanenze": "2022-02-24 00:00:00",
+        "#library--hudi--liuzhuang2017": "2022-06-09 00:00:00",
+        "#library--hudi--marchpure": "2022-06-06 00:00:00",
+        "#library--hudi--jerryshao": "2022-06-05 00:00:00",
+        "#library--hudi--jinxing64": "2022-05-06 00:00:00",
+        "#library--hudi--cartershanklin": "2022-05-28 00:00:00",
+        "#library--hudi--uday08bce": "2022-05-21 00:00:00",
+        "#library--hudi--watermelon12138": "2022-04-27 00:00:00",
+        "#library--hudi--h1ap": "2022-05-24 00:00:00",
+        "#library--hudi--YuangZhang": "2022-05-23 00:00:00",
+        "#library--hudi--aliceyyan": "2022-05-10 00:00:00",
+        "#library--hudi--minihippo": "2021-07-05 00:00:00",
+        "#library--hudi--bettermouse": "2022-05-16 00:00:00",
+        "#library--hudi--wqwl611": "2022-05-14 00:00:00",
+        "#library--hudi--guanziyue": "2021-12-09 00:00:00",
+        "#library--hudi--qianchutao": "2021-09-26 00:00:00",
+        "#library--hudi--7c00": "2022-01-11 00:00:00",
+        "#library--hudi--onlywangyh": "2022-04-30 00:00:00",
+        "#library--hudi--garyli1019": "2019-07-17 00:00:00",
+        "#library--hudi--CodeCooker17": "2022-04-29 00:00:00",
+        "#library--hudi--lipusheng": "2022-04-28 00:00:00",
+        "#library--hudi--yuruguo": "2022-04-25 00:00:00",
+        "#library--hudi--sekaiga": "2022-04-14 00:00:00",
+        "#library--hudi--vingov": "2020-05-31 00:00:00",
+        "#library--hudi--data-storyteller": "2021-08-24 00:00:00",
+        "#library--hudi--rkkalluri": "2022-04-06 00:00:00",
+        "#library--hudi--prashantwason": "2020-01-13 00:00:00",
+        "#library--hudi--todd5167": "2022-01-12 00:00:00",
+        "#library--hudi--liuhe0702": "2022-04-01 00:00:00",
+        "#library--hudi--codejoyan": "2022-03-31 00:00:00",
+        "#library--hudi--harsh1231": "2021-12-14 00:00:00",
+        "#library--hudi--ljl1988com": "2022-03-15 00:00:00",
+        "#library--hudi--cdmikechen": "2019-06-02 00:00:00",
+        "#library--hudi--peanut-chenzhong": "2021-11-03 00:00:00",
+        "#library--hudi--MrSleeping123": "2022-03-10 00:00:00",
+        "#library--hudi--aditiwari01": "2021-04-19 00:00:00",
+        "#library--hudi--manojpec": "2021-10-12 00:00:00",
+        "#library--hudi--stayrascal": "2022-02-19 00:00:00",
+        "#library--hudi--xiaozhch5": "2022-02-23 00:00:00",
+        "#library--hudi--zhangxiang17": "2022-02-12 00:00:00",
+        "#library--hudi--guyuqi": "2022-02-15 00:00:00",
+        "#library--hudi--satishkotha": "2020-01-22 00:00:00",
+        "#library--hudi--fuyun2024": "2022-02-07 00:00:00",
+        "#library--hudi--dcoliversun": "2022-02-07 00:00:00",
+        "#library--hudi--h7kanna": "2021-11-20 00:00:00",
+        "#library--hudi--xuzifu666": "2021-08-10 00:00:00",
+        "#library--hudi--stym06": "2022-01-25 00:00:00",
+        "#library--hudi--EchoLee5": "2022-01-18 00:00:00",
+        "#library--hudi--xiaotianzhang01": "2022-01-17 00:00:00",
+        "#library--hudi--0x3E6": "2021-11-17 00:00:00",
+        "#library--hudi--AirToSupply": "2021-05-25 00:00:00",
+        "#library--hudi--low-on-mana": "2021-03-03 00:00:00",
+        "#library--hudi--hehexiaoduantui": "2022-01-06 00:00:00",
+        "#library--hudi--lsyldliu": "2021-11-20 00:00:00",
+        "#library--hudi--Aimiyoo": "2021-12-22 00:00:00",
+        "#library--hudi--minchowang": "2021-04-15 00:00:00",
+        "#library--hudi--Fugle666": "2021-12-14 00:00:00",
+        "#library--hudi--Arun-kc": "2021-12-10 00:00:00",
+        "#library--hudi--vinothchandar": "2016-12-16 00:00:00",
+        "#library--hudi--zzzhy": "2021-12-02 00:00:00",
+        "#library--hudi--vortual": "2021-11-28 00:00:00",
+        "#library--hudi--huleilei": "2021-11-27 00:00:00",
+        "#library--hudi--YongjinZhou": "2021-09-22 00:00:00",
+        "#library--hudi--nateradtke": "2021-11-21 00:00:00",
+        "#library--hudi--dufeng1010": "2021-11-15 00:00:00",
+        "#library--hudi--lubo212": "2021-11-17 00:00:00",
+        "#library--hudi--davehagman": "2021-07-28 00:00:00",
+        "#library--hudi--manasaks": "2021-11-06 00:00:00",
+        "#library--hudi--uncleGen": "2021-11-07 00:00:00",
+        "#library--hudi--Carl-Zhou-CN": "2021-09-26 00:00:00",
+        "#library--hudi--yanghua": "2019-07-30 00:00:00",
+        "#library--hudi--Matrix42": "2021-10-22 00:00:00",
+        "#library--hudi--jaxonzhang": "2021-10-19 00:00:00",
+        "#library--hudi--yiduwangkai": "2021-10-18 00:00:00",
+        "#library--hudi--RocMarshal": "2021-04-02 00:00:00",
+        "#library--hudi--helanto": "2021-10-11 00:00:00",
+        "#library--hudi--veenaypatil": "2021-05-26 00:00:00",
+        "#library--hudi--tangyoupeng": "2021-09-30 00:00:00",
+        "#library--hudi--sarah-witt": "2021-09-16 00:00:00",
+        "#library--hudi--kination": "2021-09-13 00:00:00",
+        "#library--hudi--akanungoz": "2021-02-23 00:00:00",
+        "#library--hudi--chaplinthink": "2021-05-31 00:00:00",
+        "#library--hudi--xingbowu": "2021-08-27 00:00:00",
+        "#library--hudi--pengzhiwei2018": "2020-11-19 00:00:00",
+        "#library--hudi--AyachiNene": "2021-08-18 00:00:00",
+        "#library--hudi--swuferhong": "2021-05-20 00:00:00",
+        "#library--hudi--tsianglei": "2021-07-13 00:00:00",
+        "#library--hudi--dacort": "2021-08-10 00:00:00",
+        "#library--hudi--xiang2102": "2021-07-27 00:00:00",
+        "#library--hudi--leoluan2009": "2021-06-11 00:00:00",
+        "#library--hudi--jintaoguan": "2021-03-18 00:00:00",
+        "#library--hudi--moranyuwen": "2021-07-14 00:00:00",
+        "#library--hudi--Yungthuis": "2020-08-08 00:00:00",
+        "#library--hudi--sbernauer": "2021-03-31 00:00:00",
+        "#library--hudi--jhsb25": "2021-07-06 00:00:00",
+        "#library--hudi--dwshmilyss": "2021-07-06 00:00:00",
+        "#library--hudi--n3nash": "2017-05-18 00:00:00",
+        "#library--hudi--s-sanjay": "2021-06-25 00:00:00",
+        "#library--hudi--vaibhav-sinha": "2021-06-23 00:00:00",
+        "#library--hudi--marin-ma": "2021-06-22 00:00:00",
+        "#library--hudi--zhangjun0x01": "2021-06-10 00:00:00",
+        "#library--hudi--taylorliao": "2021-06-01 00:00:00",
+        "#library--hudi--hk-lrzy": "2021-06-01 00:00:00",
+        "#library--hudi--Yao-MR": "2021-05-31 00:00:00",
+        "#library--hudi--rmpifer": "2020-08-13 00:00:00",
+        "#library--hudi--mpouttu": "2021-05-23 00:00:00",
+        "#library--hudi--ssdong": "2021-05-22 00:00:00",
+        "#library--hudi--zhangminglei": "2021-05-19 00:00:00",
+        "#library--hudi--Xoln": "2021-05-14 00:00:00",
+        "#library--hudi--lw309637554": "2020-04-19 00:00:00",
+        "#library--hudi--TeRS-K": "2021-05-11 00:00:00",
+        "#library--hudi--MyLanPangzi": "2021-02-05 00:00:00",
+        "#library--hudi--li36909": "2021-04-06 00:00:00",
+        "#library--hudi--dijiekstra": "2021-04-28 00:00:00",
+        "#library--hudi--NickYoungPeng": "2021-04-26 00:00:00",
+        "#library--hudi--giaosudau": "2021-04-22 00:00:00",
+        "#library--hudi--xglv1985": "2021-04-16 00:00:00",
+        "#library--hudi--hddong": "2019-11-22 00:00:00",
+        "#library--hudi--simon824": "2021-04-08 00:00:00",
+        "#library--hudi--hmit": "2021-04-01 00:00:00",
+        "#library--hudi--leo-Iamok": "2021-03-31 00:00:00",
+        "#library--hudi--shenh062326": "2020-04-12 00:00:00",
+        "#library--hudi--legendtkl": "2021-03-23 00:00:00",
+        "#library--hudi--Liulietong": "2021-02-27 00:00:00",
+        "#library--hudi--nbalajee": "2020-01-13 00:00:00",
+        "#library--hudi--ZhangChaoming": "2021-02-06 00:00:00",
+        "#library--hudi--Karl-WangSK": "2020-09-10 00:00:00",
+        "#library--hudi--lamberken": "2019-11-14 00:00:00",
+        "#library--hudi--teeyog": "2021-01-20 00:00:00",
+        "#library--hudi--slamke": "2021-02-08 00:00:00",
+        "#library--hudi--jackiehff": "2021-02-02 00:00:00",
+        "#library--hudi--yui2010": "2020-11-25 00:00:00",
+        "#library--hudi--jiangjiguang": "2021-01-30 00:00:00",
+        "#library--hudi--c-f-cooper": "2021-01-22 00:00:00",
+        "#library--hudi--Nieal-Yang": "2021-01-22 00:00:00",
+        "#library--hudi--puyvqi": "2021-01-09 00:00:00",
+        "#library--hudi--Trevor-zhang": "2020-04-01 00:00:00",
+        "#library--hudi--jshmchenxi": "2020-12-08 00:00:00",
+        "#library--hudi--bvaradar": "2018-03-20 00:00:00",
+        "#library--hudi--bhasudha": "2020-03-04 00:00:00",
+        "#library--hudi--lichang-bd": "2020-12-16 00:00:00",
+        "#library--hudi--guykhazma": "2020-10-18 00:00:00",
+        "#library--hudi--v3nkatesh": "2019-05-24 00:00:00",
+        "#library--hudi--hotienvu": "2019-06-25 00:00:00",
+        "#library--hudi--dugenkui03": "2020-09-25 00:00:00",
+        "#library--hudi--Kaiux": "2020-09-22 00:00:00",
+        "#library--hudi--afilipchik": "2019-08-28 00:00:00",
+        "#library--hudi--linshan-ma": "2020-07-07 00:00:00",
+        "#library--hudi--chuangehh": "2020-09-08 00:00:00",
+        "#library--hudi--sreeram26": "2020-08-04 00:00:00",
+        "#library--hudi--kwondw": "2020-04-20 00:00:00",
+        "#library--hudi--cheshta2904": "2020-08-08 00:00:00",
+        "#library--hudi--zherenyu831": "2020-07-23 00:00:00",
+        "#library--hudi--DeyinZhong": "2020-07-22 00:00:00",
+        "#library--hudi--GuoPhilipse": "2020-07-11 00:00:00",
+        "#library--hudi--clocklear": "2020-07-03 00:00:00",
+        "#library--hudi--andreitaleanu": "2020-07-03 00:00:00",
+        "#library--hudi--baobaoyeye": "2020-04-18 00:00:00",
+        "#library--hudi--Litianye": "2020-06-14 00:00:00",
+        "#library--hudi--sathyaprakashg": "2020-05-24 00:00:00",
+        "#library--hudi--dengziming": "2019-12-25 00:00:00",
+        "#library--hudi--rolandjohann": "2020-05-18 00:00:00",
+        "#library--hudi--jfrazee": "2020-05-18 00:00:00",
+        "#library--hudi--Jecarm": "2020-05-10 00:00:00",
+        "#library--hudi--AakashPradeep": "2020-05-03 00:00:00",
+        "#library--hudi--ramachandranms": "2020-02-26 00:00:00",
+        "#library--hudi--Jiayi-Liao": "2020-04-09 00:00:00",
+        "#library--hudi--zhaomin1423": "2020-03-20 00:00:00",
+        "#library--hudi--shaofengshi": "2020-03-31 00:00:00",
+        "#library--hudi--EdwinGuo": "2020-03-31 00:00:00",
+        "#library--hudi--ffcchi": "2020-03-30 00:00:00",
+        "#library--hudi--smarthi": "2019-03-14 00:00:00",
+        "#library--hudi--OpenOpened": "2020-01-13 00:00:00",
+        "#library--hudi--akitanaka": "2020-03-07 00:00:00",
+        "#library--hudi--amitsingh-10": "2020-02-19 00:00:00",
+        "#library--hudi--RickyRajinder": "2020-02-10 00:00:00",
+        "#library--hudi--hmatu": "2020-01-26 00:00:00",
+        "#library--hudi--harveyyue": "2020-01-10 00:00:00",
+        "#library--hudi--yuehan124": "2020-01-06 00:00:00",
+        "#library--hudi--hejinbiao123": "2019-12-31 00:00:00",
+        "#library--hudi--yungthuis66": "2019-12-27 00:00:00",
+        "#library--hudi--comsir": "2019-12-25 00:00:00",
+        "#library--hudi--nisheet195": "2019-12-10 00:00:00",
+        "#library--hudi--Guru107": "2019-10-23 00:00:00",
+        "#library--hudi--fbalicchia": "2019-11-25 00:00:00",
+        "#library--hudi--broussea1901": "2019-11-17 00:00:00",
+        "#library--hudi--Pahtoe": "2019-11-10 00:00:00",
+        "#library--hudi--firecast": "2019-10-23 00:00:00",
+        "#library--hudi--Anurag870": "2019-10-14 00:00:00",
+        "#library--hudi--Panxing4game": "2019-09-22 00:00:00",
+        "#library--hudi--taherk77": "2019-09-03 00:00:00",
+        "#library--hudi--alunarbeach": "2019-08-01 00:00:00",
+        "#library--hudi--luke-zhu": "2019-08-01 00:00:00",
+        "#library--hudi--eisig": "2019-07-16 00:00:00",
+        "#library--hudi--jaimin-shah": "2019-06-21 00:00:00",
+        "#library--hudi--RonBarabash": "2019-06-19 00:00:00",
+        "#library--hudi--leilinen": "2019-05-24 00:00:00",
+        "#library--hudi--pseudomuto": "2019-05-07 00:00:00",
+        "#library--hudi--ovj": "2017-03-21 00:00:00",
+        "#library--hudi--takezoe": "2019-04-27 00:00:00",
+        "#library--hudi--lyogev": "2019-04-11 00:00:00",
+        "#library--hudi--milantracy": "2019-03-18 00:00:00",
+        "#library--hudi--ambition119": "2019-03-20 00:00:00",
+        "#library--hudi--kaka11chen": "2019-03-06 00:00:00",
+        "#library--hudi--yaooqinn": "2019-01-29 00:00:00",
+        "#library--hudi--msridhar": "2018-12-16 00:00:00",
+        "#library--hudi--artem0": "2018-12-12 00:00:00",
+        "#library--hudi--xubo245": "2018-12-11 00:00:00",
+        "#library--hudi--leletan": "2018-08-13 00:00:00",
+        "#library--hudi--shangxinli": "2018-10-11 00:00:00",
+        "#library--hudi--lys0716": "2018-09-23 00:00:00",
+        "#library--hudi--saravsars": "2018-08-29 00:00:00",
+        "#library--hudi--kaushikd49": "2017-05-29 00:00:00",
+        "#library--hudi--xjodoin": "2018-03-27 00:00:00",
+        "#library--hudi--suniluber": "2018-04-23 00:00:00",
+        "#library--hudi--jianxu": "2017-06-27 00:00:00",
+        "#library--hudi--prasannarajaperumal": "2016-12-16 00:00:00",
+        "#library--hudi--prazanna": "2017-06-16 00:00:00",
+        "#library--hudi--gekath": "2017-06-02 00:00:00",
+        "#library--hudi--dannyhchen": "2017-05-31 00:00:00",
+        "#library--hudi--zqureshi": "2017-01-16 00:00:00",
+        "#library--hudi--yashs360": "2017-03-24 00:00:00",
+        "#library--hudi--fishie9": "2017-03-23 00:00:00",
+        "#library--hudi--siddharthagunda": "2017-03-04 00:00:00",
+        "#library--hudi--ywskycn": "2017-02-23 00:00:00"
+    },
+    "commiter_end_time": {
+        "#library--hudi--Zhangshunyu": "2022-10-27 00:00:00",
+        "#library--hudi--waywtdcc": "2022-10-26 00:00:00",
+        "#library--hudi--danny0405": "2022-10-26 00:00:00",
+        "#library--hudi--yangxiao0320": "2022-10-26 00:00:00",
+        "#library--hudi--jonvex": "2022-10-25 00:00:00",
+        "#library--hudi--scxwhite": "2022-10-26 00:00:00",
+        "#library--hudi--alexeykudinkin": "2022-10-25 00:00:00",
+        "#library--hudi--Zouxxyy": "2022-10-26 00:00:00",
+        "#library--hudi--honeyaya": "2022-10-25 00:00:00",
+        "#library--hudi--SteNicholas": "2022-10-25 00:00:00",
+        "#library--hudi--yihua": "2022-10-24 00:00:00",
+        "#library--hudi--YuweiXiao": "2022-10-25 00:00:00",
+        "#library--hudi--hbgstc123": "2022-10-25 00:00:00",
+        "#library--hudi--zhangrenhua": "2022-10-25 00:00:00",
+        "#library--hudi--liufangqi": "2022-10-25 00:00:00",
+        "#library--hudi--slfan1989": "2022-10-24 00:00:00",
+        "#library--hudi--the-other-tim-brown": "2022-10-23 00:00:00",
+        "#library--hudi--xushiyan": "2022-10-23 00:00:00",
+        "#library--hudi--nsivabalan": "2022-10-21 00:00:00",
+        "#library--hudi--YannByron": "2022-10-21 00:00:00",
+        "#library--hudi--rmahindra123": "2022-10-20 00:00:00",
+        "#library--hudi--parisni": "2022-10-20 00:00:00",
+        "#library--hudi--xicm": "2022-10-20 00:00:00",
+        "#library--hudi--yuzhaojing": "2022-10-18 00:00:00",
+        "#library--hudi--wulei0302": "2022-10-17 00:00:00",
+        "#library--hudi--vvsd": "2022-10-16 00:00:00",
+        "#library--hudi--hameizi": "2022-10-15 00:00:00",
+        "#library--hudi--wxplovecc": "2022-10-14 00:00:00",
+        "#library--hudi--zhangyue19921010": "2022-10-13 00:00:00",
+        "#library--hudi--huberylee": "2022-10-12 00:00:00",
+        "#library--hudi--pramodbiligiri": "2022-10-12 00:00:00",
+        "#library--hudi--boneanxs": "2022-10-11 00:00:00",
+        "#library--hudi--suryaprasanna": "2022-10-09 00:00:00",
+        "#library--hudi--codope": "2022-10-06 00:00:00",
+        "#library--hudi--fengjian428": "2022-09-30 00:00:00",
+        "#library--hudi--Aiden-Dong": "2022-09-30 00:00:00",
+        "#library--hudi--shenshengli": "2022-09-29 00:00:00",
+        "#library--hudi--gnailJC": "2022-09-29 00:00:00",
+        "#library--hudi--jsbali": "2022-09-29 00:00:00",
+        "#library--hudi--hj2016": "2022-09-28 00:00:00",
+        "#library--hudi--voonhous": "2022-09-27 00:00:00",
+        "#library--hudi--paul8263": "2022-09-26 00:00:00",
+        "#library--hudi--Forus0322": "2022-09-26 00:00:00",
+        "#library--hudi--KnightChess": "2022-09-26 00:00:00",
+        "#library--hudi--brightwon": "2022-09-25 00:00:00",
+        "#library--hudi--liujinhui1994": "2022-09-24 00:00:00",
+        "#library--hudi--wongxingjun": "2022-09-24 00:00:00",
+        "#library--hudi--wangxianghu": "2022-09-23 00:00:00",
+        "#library--hudi--XuQianJin-Stars": "2022-09-23 00:00:00",
+        "#library--hudi--CTTY": "2022-09-22 00:00:00",
+        "#library--hudi--rahil-c": "2022-09-22 00:00:00",
+        "#library--hudi--microbearz": "2022-09-21 00:00:00",
+        "#library--hudi--dohongdayi": "2022-09-20 00:00:00",
+        "#library--hudi--kk17": "2022-09-20 00:00:00",
+        "#library--hudi--TJX2014": "2022-09-20 00:00:00",
+        "#library--hudi--eric9204": "2022-09-19 00:00:00",
+        "#library--hudi--vburenin": "2022-09-17 00:00:00",
+        "#library--hudi--y0908105023": "2022-09-18 00:00:00",
+        "#library--hudi--simonsssu": "2022-09-18 00:00:00",
+        "#library--hudi--5herhom": "2022-09-18 00:00:00",
+        "#library--hudi--wzx140": "2022-09-16 00:00:00",
+        "#library--hudi--slachiewicz": "2022-09-15 00:00:00",
+        "#library--hudi--loukey-lj": "2022-09-15 00:00:00",
+        "#library--hudi--wuwenchi": "2022-09-15 00:00:00",
+        "#library--hudi--Neuw84": "2022-09-13 00:00:00",
+        "#library--hudi--dongkelun": "2022-09-13 00:00:00",
+        "#library--hudi--shuai-xu": "2022-09-13 00:00:00",
+        "#library--hudi--modi95": "2022-09-12 00:00:00",
+        "#library--hudi--wangp-nhlab": "2022-09-10 00:00:00",
+        "#library--hudi--xccui": "2022-09-08 00:00:00",
+        "#library--hudi--junyuc25": "2022-09-07 00:00:00",
+        "#library--hudi--vinishjail97": "2022-09-07 00:00:00",
+        "#library--hudi--hehuiyuan": "2022-09-07 00:00:00",
+        "#library--hudi--felixYyu": "2022-09-07 00:00:00",
+        "#library--hudi--LinMingQiang": "2022-09-06 00:00:00",
+        "#library--hudi--leandro-rouberte": "2022-08-30 00:00:00",
+        "#library--hudi--TengHuo": "2022-08-30 00:00:00",
+        "#library--hudi--qjqqyy": "2022-08-17 00:00:00",
+        "#library--hudi--novisfff": "2022-08-16 00:00:00",
+        "#library--hudi--": "2022-08-15 00:00:00",
+        "#library--hudi--linfey90": "2022-08-12 00:00:00",
+        "#library--hudi--vamshigv": "2022-08-11 00:00:00",
+        "#library--hudi--BruceKellan": "2022-08-10 00:00:00",
+        "#library--hudi--XinyaoTian": "2022-08-10 00:00:00",
+        "#library--hudi--pratyakshsharma": "2022-08-09 00:00:00",
+        "#library--hudi--RexXiong": "2022-08-08 00:00:00",
+        "#library--hudi--leesf": "2022-08-07 00:00:00",
+        "#library--hudi--f7753": "2022-08-03 00:00:00",
+        "#library--hudi--umehrot2": "2022-07-28 00:00:00",
+        "#library--hudi--dwkwon": "2021-03-10 00:00:00",
+        "#library--hudi--hechao-ustc": "2022-07-25 00:00:00",
+        "#library--hudi--vanderzh": "2022-07-25 00:00:00",
+        "#library--hudi--zhedoubushishi": "2022-07-21 00:00:00",
+        "#library--hudi--cuibo01": "2022-07-18 00:00:00",
+        "#library--hudi--JerryYue-M": "2022-07-15 00:00:00",
+        "#library--hudi--deadwind4": "2022-07-12 00:00:00",
+        "#library--hudi--dependabot[bot]": "2022-07-09 00:00:00",
+        "#library--hudi--xiarixiaoyao": "2022-07-09 00:00:00",
+        "#library--hudi--kumudkumartirupati": "2022-07-08 00:00:00",
+        "#library--hudi--lanyuanxiaoyao": "2022-07-07 00:00:00",
+        "#library--hudi--shenjiayu17": "2022-07-06 00:00:00",
+        "#library--hudi--miomiocat": "2022-07-01 00:00:00",
+        "#library--hudi--cxzl25": "2022-06-30 00:00:00",
+        "#library--hudi--luoyajun10": "2022-06-30 00:00:00",
+        "#library--hudi--bschell": "2022-06-28 00:00:00",
+        "#library--hudi--trushev": "2022-06-20 00:00:00",
+        "#library--hudi--chenshzh": "2022-06-20 00:00:00",
+        "#library--hudi--sandyfog": "2022-06-13 00:00:00",
+        "#library--hudi--yanenze": "2022-06-10 00:00:00",
+        "#library--hudi--liuzhuang2017": "2022-06-09 00:00:00",
+        "#library--hudi--marchpure": "2022-06-06 00:00:00",
+        "#library--hudi--jerryshao": "2022-06-05 00:00:00",
+        "#library--hudi--jinxing64": "2022-05-30 00:00:00",
+        "#library--hudi--cartershanklin": "2022-05-28 00:00:00",
+        "#library--hudi--uday08bce": "2022-05-28 00:00:00",
+        "#library--hudi--watermelon12138": "2022-05-27 00:00:00",
+        "#library--hudi--h1ap": "2022-05-24 00:00:00",
+        "#library--hudi--YuangZhang": "2022-05-23 00:00:00",
+        "#library--hudi--aliceyyan": "2022-05-20 00:00:00",
+        "#library--hudi--minihippo": "2022-05-17 00:00:00",
+        "#library--hudi--bettermouse": "2022-05-16 00:00:00",
+        "#library--hudi--wqwl611": "2022-05-14 00:00:00",
+        "#library--hudi--guanziyue": "2022-05-09 00:00:00",
+        "#library--hudi--qianchutao": "2022-05-06 00:00:00",
+        "#library--hudi--7c00": "2022-05-03 00:00:00",
+        "#library--hudi--onlywangyh": "2022-04-30 00:00:00",
+        "#library--hudi--garyli1019": "2022-04-29 00:00:00",
+        "#library--hudi--CodeCooker17": "2022-04-29 00:00:00",
+        "#library--hudi--lipusheng": "2022-04-28 00:00:00",
+        "#library--hudi--yuruguo": "2022-04-25 00:00:00",
+        "#library--hudi--sekaiga": "2022-04-14 00:00:00",
+        "#library--hudi--vingov": "2022-04-12 00:00:00",
+        "#library--hudi--data-storyteller": "2022-04-12 00:00:00",
+        "#library--hudi--rkkalluri": "2022-04-06 00:00:00",
+        "#library--hudi--prashantwason": "2022-04-04 00:00:00",
+        "#library--hudi--todd5167": "2022-04-02 00:00:00",
+        "#library--hudi--liuhe0702": "2022-04-01 00:00:00",
+        "#library--hudi--codejoyan": "2022-03-31 00:00:00",
+        "#library--hudi--harsh1231": "2022-03-30 00:00:00",
+        "#library--hudi--ljl1988com": "2022-03-15 00:00:00",
+        "#library--hudi--cdmikechen": "2022-03-15 00:00:00",
+        "#library--hudi--peanut-chenzhong": "2022-03-14 00:00:00",
+        "#library--hudi--MrSleeping123": "2022-03-10 00:00:00",
+        "#library--hudi--aditiwari01": "2022-03-06 00:00:00",
+        "#library--hudi--manojpec": "2022-03-03 00:00:00",
+        "#library--hudi--stayrascal": "2022-03-02 00:00:00",
+        "#library--hudi--xiaozhch5": "2022-02-23 00:00:00",
+        "#library--hudi--zhangxiang17": "2022-02-17 00:00:00",
+        "#library--hudi--guyuqi": "2022-02-15 00:00:00",
+        "#library--hudi--satishkotha": "2022-02-11 00:00:00",
+        "#library--hudi--fuyun2024": "2022-02-07 00:00:00",
+        "#library--hudi--dcoliversun": "2022-02-07 00:00:00",
+        "#library--hudi--h7kanna": "2022-01-28 00:00:00",
+        "#library--hudi--xuzifu666": "2022-01-25 00:00:00",
+        "#library--hudi--stym06": "2022-01-25 00:00:00",
+        "#library--hudi--EchoLee5": "2022-01-18 00:00:00",
+        "#library--hudi--xiaotianzhang01": "2022-01-17 00:00:00",
+        "#library--hudi--0x3E6": "2022-01-16 00:00:00",
+        "#library--hudi--AirToSupply": "2022-01-11 00:00:00",
+        "#library--hudi--low-on-mana": "2022-01-11 00:00:00",
+        "#library--hudi--hehexiaoduantui": "2022-01-06 00:00:00",
+        "#library--hudi--lsyldliu": "2021-12-31 00:00:00",
+        "#library--hudi--Aimiyoo": "2022-01-01 00:00:00",
+        "#library--hudi--minchowang": "2021-12-15 00:00:00",
+        "#library--hudi--Fugle666": "2021-12-14 00:00:00",
+        "#library--hudi--Arun-kc": "2021-12-10 00:00:00",
+        "#library--hudi--vinothchandar": "2021-12-04 00:00:00",
+        "#library--hudi--zzzhy": "2021-12-02 00:00:00",
+        "#library--hudi--vortual": "2021-11-28 00:00:00",
+        "#library--hudi--huleilei": "2021-11-27 00:00:00",
+        "#library--hudi--YongjinZhou": "2021-11-23 00:00:00",
+        "#library--hudi--nateradtke": "2021-11-21 00:00:00",
+        "#library--hudi--dufeng1010": "2021-11-21 00:00:00",
+        "#library--hudi--lubo212": "2021-11-17 00:00:00",
+        "#library--hudi--davehagman": "2021-11-09 00:00:00",
+        "#library--hudi--manasaks": "2021-11-06 00:00:00",
+        "#library--hudi--uncleGen": "2021-11-07 00:00:00",
+        "#library--hudi--Carl-Zhou-CN": "2021-11-03 00:00:00",
+        "#library--hudi--yanghua": "2021-11-01 00:00:00",
+        "#library--hudi--Matrix42": "2021-10-22 00:00:00",
+        "#library--hudi--jaxonzhang": "2021-10-19 00:00:00",
+        "#library--hudi--yiduwangkai": "2021-10-18 00:00:00",
+        "#library--hudi--RocMarshal": "2021-10-12 00:00:00",
+        "#library--hudi--helanto": "2021-10-11 00:00:00",
+        "#library--hudi--veenaypatil": "2021-09-30 00:00:00",
+        "#library--hudi--tangyoupeng": "2021-09-30 00:00:00",
+        "#library--hudi--sarah-witt": "2021-09-16 00:00:00",
+        "#library--hudi--kination": "2021-09-13 00:00:00",
+        "#library--hudi--akanungoz": "2021-09-11 00:00:00",
+        "#library--hudi--chaplinthink": "2021-09-09 00:00:00",
+        "#library--hudi--xingbowu": "2021-08-27 00:00:00",
+        "#library--hudi--pengzhiwei2018": "2021-08-26 00:00:00",
+        "#library--hudi--AyachiNene": "2021-08-26 00:00:00",
+        "#library--hudi--swuferhong": "2021-08-19 00:00:00",
+        "#library--hudi--tsianglei": "2021-07-13 00:00:00",
+        "#library--hudi--dacort": "2021-08-10 00:00:00",
+        "#library--hudi--xiang2102": "2021-07-27 00:00:00",
+        "#library--hudi--leoluan2009": "2021-07-24 00:00:00",
+        "#library--hudi--jintaoguan": "2021-07-15 00:00:00",
+        "#library--hudi--moranyuwen": "2021-07-14 00:00:00",
+        "#library--hudi--Yungthuis": "2021-07-08 00:00:00",
+        "#library--hudi--sbernauer": "2021-07-07 00:00:00",
+        "#library--hudi--jhsb25": "2021-07-06 00:00:00",
+        "#library--hudi--dwshmilyss": "2021-07-06 00:00:00",
+        "#library--hudi--n3nash": "2021-06-24 00:00:00",
+        "#library--hudi--s-sanjay": "2021-06-25 00:00:00",
+        "#library--hudi--vaibhav-sinha": "2021-06-23 00:00:00",
+        "#library--hudi--marin-ma": "2021-06-22 00:00:00",
+        "#library--hudi--zhangjun0x01": "2021-06-10 00:00:00",
+        "#library--hudi--taylorliao": "2021-06-03 00:00:00",
+        "#library--hudi--hk-lrzy": "2021-06-01 00:00:00",
+        "#library--hudi--Yao-MR": "2021-05-31 00:00:00",
+        "#library--hudi--rmpifer": "2021-05-29 00:00:00",
+        "#library--hudi--mpouttu": "2021-05-23 00:00:00",
+        "#library--hudi--ssdong": "2021-05-22 00:00:00",
+        "#library--hudi--zhangminglei": "2021-05-21 00:00:00",
+        "#library--hudi--Xoln": "2021-05-14 00:00:00",
+        "#library--hudi--lw309637554": "2021-05-12 00:00:00",
+        "#library--hudi--TeRS-K": "2021-05-11 00:00:00",
+        "#library--hudi--MyLanPangzi": "2021-05-11 00:00:00",
+        "#library--hudi--li36909": "2021-05-08 00:00:00",
+        "#library--hudi--dijiekstra": "2021-05-01 00:00:00",
+        "#library--hudi--NickYoungPeng": "2021-05-01 00:00:00",
+        "#library--hudi--giaosudau": "2021-04-22 00:00:00",
+        "#library--hudi--xglv1985": "2021-04-16 00:00:00",
+        "#library--hudi--hddong": "2021-04-08 00:00:00",
+        "#library--hudi--simon824": "2021-04-08 00:00:00",
+        "#library--hudi--hmit": "2021-04-06 00:00:00",
+        "#library--hudi--leo-Iamok": "2021-03-31 00:00:00",
+        "#library--hudi--shenh062326": "2021-03-28 00:00:00",
+        "#library--hudi--legendtkl": "2021-03-23 00:00:00",
+        "#library--hudi--Liulietong": "2021-03-20 00:00:00",
+        "#library--hudi--nbalajee": "2021-03-09 00:00:00",
+        "#library--hudi--ZhangChaoming": "2021-03-02 00:00:00",
+        "#library--hudi--Karl-WangSK": "2021-02-17 00:00:00",
+        "#library--hudi--lamberken": "2021-02-17 00:00:00",
+        "#library--hudi--teeyog": "2021-02-11 00:00:00",
+        "#library--hudi--slamke": "2021-02-08 00:00:00",
+        "#library--hudi--jackiehff": "2021-02-02 00:00:00",
+        "#library--hudi--yui2010": "2021-02-01 00:00:00",
+        "#library--hudi--jiangjiguang": "2021-01-30 00:00:00",
+        "#library--hudi--c-f-cooper": "2021-01-22 00:00:00",
+        "#library--hudi--Nieal-Yang": "2021-01-22 00:00:00",
+        "#library--hudi--puyvqi": "2021-01-09 00:00:00",
+        "#library--hudi--Trevor-zhang": "2021-01-09 00:00:00",
+        "#library--hudi--jshmchenxi": "2021-01-04 00:00:00",
+        "#library--hudi--bvaradar": "2020-12-26 00:00:00",
+        "#library--hudi--bhasudha": "2020-12-17 00:00:00",
+        "#library--hudi--lichang-bd": "2020-12-16 00:00:00",
+        "#library--hudi--guykhazma": "2020-12-01 00:00:00",
+        "#library--hudi--v3nkatesh": "2020-11-02 00:00:00",
+        "#library--hudi--hotienvu": "2020-10-21 00:00:00",
+        "#library--hudi--dugenkui03": "2020-10-12 00:00:00",
+        "#library--hudi--Kaiux": "2020-09-22 00:00:00",
+        "#library--hudi--afilipchik": "2020-09-19 00:00:00",
+        "#library--hudi--linshan-ma": "2020-09-09 00:00:00",
+        "#library--hudi--chuangehh": "2020-09-08 00:00:00",
+        "#library--hudi--sreeram26": "2020-09-04 00:00:00",
+        "#library--hudi--kwondw": "2020-09-01 00:00:00",
+        "#library--hudi--cheshta2904": "2020-08-08 00:00:00",
+        "#library--hudi--zherenyu831": "2020-07-23 00:00:00",
+        "#library--hudi--DeyinZhong": "2020-07-22 00:00:00",
+        "#library--hudi--GuoPhilipse": "2020-07-11 00:00:00",
+        "#library--hudi--clocklear": "2020-07-03 00:00:00",
+        "#library--hudi--andreitaleanu": "2020-07-03 00:00:00",
+        "#library--hudi--baobaoyeye": "2020-07-01 00:00:00",
+        "#library--hudi--Litianye": "2020-06-14 00:00:00",
+        "#library--hudi--sathyaprakashg": "2020-06-10 00:00:00",
+        "#library--hudi--dengziming": "2020-05-28 00:00:00",
+        "#library--hudi--rolandjohann": "2020-05-20 00:00:00",
+        "#library--hudi--jfrazee": "2020-05-18 00:00:00",
+        "#library--hudi--Jecarm": "2020-05-10 00:00:00",
+        "#library--hudi--AakashPradeep": "2020-05-03 00:00:00",
+        "#library--hudi--ramachandranms": "2020-03-23 00:00:00",
+        "#library--hudi--Jiayi-Liao": "2020-04-09 00:00:00",
+        "#library--hudi--zhaomin1423": "2020-04-06 00:00:00",
+        "#library--hudi--shaofengshi": "2020-03-31 00:00:00",
+        "#library--hudi--EdwinGuo": "2020-03-31 00:00:00",
+        "#library--hudi--ffcchi": "2020-03-30 00:00:00",
+        "#library--hudi--smarthi": "2020-03-29 00:00:00",
+        "#library--hudi--OpenOpened": "2020-03-10 00:00:00",
+        "#library--hudi--akitanaka": "2020-03-07 00:00:00",
+        "#library--hudi--amitsingh-10": "2020-02-19 00:00:00",
+        "#library--hudi--RickyRajinder": "2020-02-10 00:00:00",
+        "#library--hudi--hmatu": "2020-01-26 00:00:00",
+        "#library--hudi--harveyyue": "2020-01-10 00:00:00",
+        "#library--hudi--yuehan124": "2020-01-06 00:00:00",
+        "#library--hudi--hejinbiao123": "2020-01-06 00:00:00",
+        "#library--hudi--yungthuis66": "2019-12-27 00:00:00",
+        "#library--hudi--comsir": "2019-12-25 00:00:00",
+        "#library--hudi--nisheet195": "2019-12-10 00:00:00",
+        "#library--hudi--Guru107": "2019-12-04 00:00:00",
+        "#library--hudi--fbalicchia": "2019-11-25 00:00:00",
+        "#library--hudi--broussea1901": "2019-11-17 00:00:00",
+        "#library--hudi--Pahtoe": "2019-11-10 00:00:00",
+        "#library--hudi--firecast": "2019-10-23 00:00:00",
+        "#library--hudi--Anurag870": "2019-10-14 00:00:00",
+        "#library--hudi--Panxing4game": "2019-09-24 00:00:00",
+        "#library--hudi--taherk77": "2019-09-03 00:00:00",
+        "#library--hudi--alunarbeach": "2019-08-01 00:00:00",
+        "#library--hudi--luke-zhu": "2019-08-01 00:00:00",
+        "#library--hudi--eisig": "2019-07-30 00:00:00",
+        "#library--hudi--jaimin-shah": "2019-06-21 00:00:00",
+        "#library--hudi--RonBarabash": "2019-06-19 00:00:00",
+        "#library--hudi--leilinen": "2019-05-24 00:00:00",
+        "#library--hudi--pseudomuto": "2019-05-10 00:00:00",
+        "#library--hudi--ovj": "2019-04-30 00:00:00",
+        "#library--hudi--takezoe": "2019-04-27 00:00:00",
+        "#library--hudi--lyogev": "2019-04-11 00:00:00",
+        "#library--hudi--milantracy": "2019-04-02 00:00:00",
+        "#library--hudi--ambition119": "2019-03-20 00:00:00",
+        "#library--hudi--kaka11chen": "2019-03-16 00:00:00",
+        "#library--hudi--yaooqinn": "2019-02-14 00:00:00",
+        "#library--hudi--msridhar": "2018-12-16 00:00:00",
+        "#library--hudi--artem0": "2018-12-12 00:00:00",
+        "#library--hudi--xubo245": "2018-12-11 00:00:00",
+        "#library--hudi--leletan": "2018-10-11 00:00:00",
+        "#library--hudi--shangxinli": "2018-10-11 00:00:00",
+        "#library--hudi--lys0716": "2018-09-23 00:00:00",
+        "#library--hudi--saravsars": "2018-08-29 00:00:00",
+        "#library--hudi--kaushikd49": "2018-07-19 00:00:00",
+        "#library--hudi--xjodoin": "2018-03-28 00:00:00",
+        "#library--hudi--suniluber": "2018-05-17 00:00:00",
+        "#library--hudi--jianxu": "2018-03-20 00:00:00",
+        "#library--hudi--prasannarajaperumal": "2017-06-30 00:00:00",
+        "#library--hudi--prazanna": "2017-06-20 00:00:00",
+        "#library--hudi--gekath": "2017-06-13 00:00:00",
+        "#library--hudi--dannyhchen": "2017-05-31 00:00:00",
+        "#library--hudi--zqureshi": "2017-03-16 00:00:00",
+        "#library--hudi--yashs360": "2017-03-28 00:00:00",
+        "#library--hudi--fishie9": "2017-03-23 00:00:00",
+        "#library--hudi--siddharthagunda": "2017-03-04 00:00:00",
+        "#library--hudi--ywskycn": "2017-02-23 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#library--hudi--Zhangshunyu": 0,
+        "#library--hudi--waywtdcc": 0,
+        "#library--hudi--yangxiao0320": 0,
+        "#library--hudi--zhangrenhua": 0,
+        "#library--hudi--vvsd": 0,
+        "#library--hudi--hameizi": 0,
+        "#library--hudi--Aiden-Dong": 0,
+        "#library--hudi--shenshengli": 0,
+        "#library--hudi--gnailJC": 0,
+        "#library--hudi--brightwon": 0,
+        "#library--hudi--wongxingjun": 0,
+        "#library--hudi--dohongdayi": 0,
+        "#library--hudi--kk17": 0,
+        "#library--hudi--y0908105023": 0,
+        "#library--hudi--slachiewicz": 0,
+        "#library--hudi--Neuw84": 0,
+        "#library--hudi--shuai-xu": 0,
+        "#library--hudi--wangp-nhlab": 0,
+        "#library--hudi--junyuc25": 0,
+        "#library--hudi--leandro-rouberte": 0,
+        "#library--hudi--novisfff": 0,
+        "#library--hudi--linfey90": 0,
+        "#library--hudi--vamshigv": 0,
+        "#library--hudi--XinyaoTian": 0,
+        "#library--hudi--f7753": 0,
+        "#library--hudi--dwkwon": 0,
+        "#library--hudi--vanderzh": 0,
+        "#library--hudi--deadwind4": 0,
+        "#library--hudi--shenjiayu17": 0,
+        "#library--hudi--trushev": 0,
+        "#library--hudi--chenshzh": 0,
+        "#library--hudi--liuzhuang2017": 0,
+        "#library--hudi--marchpure": 0,
+        "#library--hudi--jerryshao": 0,
+        "#library--hudi--cartershanklin": 0,
+        "#library--hudi--h1ap": 0,
+        "#library--hudi--YuangZhang": 0,
+        "#library--hudi--bettermouse": 0,
+        "#library--hudi--wqwl611": 0,
+        "#library--hudi--onlywangyh": 0,
+        "#library--hudi--CodeCooker17": 0,
+        "#library--hudi--lipusheng": 0,
+        "#library--hudi--yuruguo": 0,
+        "#library--hudi--sekaiga": 0,
+        "#library--hudi--rkkalluri": 0,
+        "#library--hudi--liuhe0702": 0,
+        "#library--hudi--codejoyan": 0,
+        "#library--hudi--ljl1988com": 0,
+        "#library--hudi--MrSleeping123": 0,
+        "#library--hudi--xiaozhch5": 0,
+        "#library--hudi--guyuqi": 0,
+        "#library--hudi--fuyun2024": 0,
+        "#library--hudi--dcoliversun": 0,
+        "#library--hudi--stym06": 0,
+        "#library--hudi--EchoLee5": 0,
+        "#library--hudi--xiaotianzhang01": 0,
+        "#library--hudi--hehexiaoduantui": 0,
+        "#library--hudi--Fugle666": 0,
+        "#library--hudi--Arun-kc": 0,
+        "#library--hudi--zzzhy": 0,
+        "#library--hudi--vortual": 0,
+        "#library--hudi--huleilei": 0,
+        "#library--hudi--nateradtke": 0,
+        "#library--hudi--lubo212": 0,
+        "#library--hudi--manasaks": 0,
+        "#library--hudi--uncleGen": 0,
+        "#library--hudi--Matrix42": 0,
+        "#library--hudi--jaxonzhang": 0,
+        "#library--hudi--yiduwangkai": 0,
+        "#library--hudi--helanto": 0,
+        "#library--hudi--tangyoupeng": 0,
+        "#library--hudi--sarah-witt": 0,
+        "#library--hudi--kination": 0,
+        "#library--hudi--xingbowu": 0,
+        "#library--hudi--tsianglei": 0,
+        "#library--hudi--dacort": 0,
+        "#library--hudi--xiang2102": 0,
+        "#library--hudi--moranyuwen": 0,
+        "#library--hudi--jhsb25": 0,
+        "#library--hudi--dwshmilyss": 0,
+        "#library--hudi--s-sanjay": 0,
+        "#library--hudi--vaibhav-sinha": 0,
+        "#library--hudi--marin-ma": 0,
+        "#library--hudi--zhangjun0x01": 0,
+        "#library--hudi--hk-lrzy": 0,
+        "#library--hudi--Yao-MR": 0,
+        "#library--hudi--mpouttu": 0,
+        "#library--hudi--ssdong": 0,
+        "#library--hudi--Xoln": 0,
+        "#library--hudi--TeRS-K": 0,
+        "#library--hudi--giaosudau": 0,
+        "#library--hudi--xglv1985": 0,
+        "#library--hudi--simon824": 0,
+        "#library--hudi--leo-Iamok": 0,
+        "#library--hudi--legendtkl": 0,
+        "#library--hudi--slamke": 0,
+        "#library--hudi--jackiehff": 0,
+        "#library--hudi--jiangjiguang": 0,
+        "#library--hudi--c-f-cooper": 0,
+        "#library--hudi--Nieal-Yang": 0,
+        "#library--hudi--puyvqi": 0,
+        "#library--hudi--lichang-bd": 0,
+        "#library--hudi--Kaiux": 0,
+        "#library--hudi--chuangehh": 0,
+        "#library--hudi--cheshta2904": 0,
+        "#library--hudi--zherenyu831": 0,
+        "#library--hudi--DeyinZhong": 0,
+        "#library--hudi--GuoPhilipse": 0,
+        "#library--hudi--clocklear": 0,
+        "#library--hudi--andreitaleanu": 0,
+        "#library--hudi--Litianye": 0,
+        "#library--hudi--jfrazee": 0,
+        "#library--hudi--Jecarm": 0,
+        "#library--hudi--AakashPradeep": 0,
+        "#library--hudi--Jiayi-Liao": 0,
+        "#library--hudi--shaofengshi": 0,
+        "#library--hudi--EdwinGuo": 0,
+        "#library--hudi--ffcchi": 0,
+        "#library--hudi--akitanaka": 0,
+        "#library--hudi--amitsingh-10": 0,
+        "#library--hudi--RickyRajinder": 0,
+        "#library--hudi--hmatu": 0,
+        "#library--hudi--harveyyue": 0,
+        "#library--hudi--yuehan124": 0,
+        "#library--hudi--yungthuis66": 0,
+        "#library--hudi--comsir": 0,
+        "#library--hudi--nisheet195": 0,
+        "#library--hudi--fbalicchia": 0,
+        "#library--hudi--broussea1901": 0,
+        "#library--hudi--Pahtoe": 0,
+        "#library--hudi--firecast": 0,
+        "#library--hudi--Anurag870": 0,
+        "#library--hudi--taherk77": 0,
+        "#library--hudi--alunarbeach": 0,
+        "#library--hudi--luke-zhu": 0,
+        "#library--hudi--jaimin-shah": 0,
+        "#library--hudi--RonBarabash": 0,
+        "#library--hudi--leilinen": 0,
+        "#library--hudi--takezoe": 0,
+        "#library--hudi--lyogev": 0,
+        "#library--hudi--ambition119": 0,
+        "#library--hudi--msridhar": 0,
+        "#library--hudi--artem0": 0,
+        "#library--hudi--xubo245": 0,
+        "#library--hudi--shangxinli": 0,
+        "#library--hudi--lys0716": 0,
+        "#library--hudi--saravsars": 0,
+        "#library--hudi--dannyhchen": 0,
+        "#library--hudi--fishie9": 0,
+        "#library--hudi--siddharthagunda": 0,
+        "#library--hudi--ywskycn": 0,
+        "#library--hudi--xjodoin": 1,
+        "#library--hudi--taylorliao": 2,
+        "#library--hudi--zhangminglei": 2,
+        "#library--hudi--rolandjohann": 2,
+        "#library--hudi--Panxing4game": 2,
+        "#library--hudi--dijiekstra": 3,
+        "#library--hudi--pseudomuto": 3,
+        "#library--hudi--sandyfog": 4,
+        "#library--hudi--prazanna": 4,
+        "#library--hudi--yashs360": 4,
+        "#library--hudi--eric9204": 5,
+        "#library--hudi--zhangxiang17": 5,
+        "#library--hudi--NickYoungPeng": 5,
+        "#library--hudi--hmit": 5,
+        "#library--hudi--TJX2014": 6,
+        "#library--hudi--dufeng1010": 6,
+        "#library--hudi--hejinbiao123": 6,
+        "#library--hudi--paul8263": 7,
+        "#library--hudi--uday08bce": 7,
+        "#library--hudi--AyachiNene": 8,
+        "#library--hudi--aliceyyan": 10,
+        "#library--hudi--Aimiyoo": 10,
+        "#library--hudi--kaka11chen": 10,
+        "#library--hudi--slfan1989": 11,
+        "#library--hudi--stayrascal": 11,
+        "#library--hudi--gekath": 11,
+        "#library--hudi--pramodbiligiri": 12,
+        "#library--hudi--eisig": 14,
+        "#library--hudi--milantracy": 15,
+        "#library--hudi--yaooqinn": 16,
+        "#library--hudi--dugenkui03": 17,
+        "#library--hudi--sathyaprakashg": 17,
+        "#library--hudi--zhaomin1423": 17,
+        "#library--hudi--Liulietong": 21,
+        "#library--hudi--teeyog": 22,
+        "#library--hudi--wulei0302": 24,
+        "#library--hudi--jinxing64": 24,
+        "#library--hudi--ZhangChaoming": 24,
+        "#library--hudi--suniluber": 24,
+        "#library--hudi--ramachandranms": 26,
+        "#library--hudi--jshmchenxi": 27,
+        "#library--hudi--watermelon12138": 30,
+        "#library--hudi--sreeram26": 31,
+        "#library--hudi--li36909": 32,
+        "#library--hudi--wuwenchi": 36,
+        "#library--hudi--kumudkumartirupati": 38,
+        "#library--hudi--Carl-Zhou-CN": 38,
+        "#library--hudi--lsyldliu": 41,
+        "#library--hudi--hechao-ustc": 42,
+        "#library--hudi--Guru107": 42,
+        "#library--hudi--leoluan2009": 43,
+        "#library--hudi--guykhazma": 44,
+        "#library--hudi--hbgstc123": 48,
+        "#library--hudi--honeyaya": 55,
+        "#library--hudi--jonvex": 56,
+        "#library--hudi--lanyuanxiaoyao": 57,
+        "#library--hudi--OpenOpened": 57,
+        "#library--hudi--leletan": 59,
+        "#library--hudi--zqureshi": 59,
+        "#library--hudi--0x3E6": 60,
+        "#library--hudi--TengHuo": 62,
+        "#library--hudi--YongjinZhou": 62,
+        "#library--hudi--Zouxxyy": 63,
+        "#library--hudi--rahil-c": 63,
+        "#library--hudi--simonsssu": 64,
+        "#library--hudi--linshan-ma": 64,
+        "#library--hudi--yui2010": 68,
+        "#library--hudi--miomiocat": 69,
+        "#library--hudi--h7kanna": 69,
+        "#library--hudi--baobaoyeye": 74,
+        "#library--hudi--qjqqyy": 77,
+        "#library--hudi--todd5167": 80,
+        "#library--hudi--voonhous": 84,
+        "#library--hudi--5herhom": 90,
+        "#library--hudi--microbearz": 91,
+        "#library--hudi--swuferhong": 91,
+        "#library--hudi--LinMingQiang": 92,
+        "#library--hudi--CTTY": 94,
+        "#library--hudi--MyLanPangzi": 95,
+        "#library--hudi--Forus0322": 97,
+        "#library--hudi--sbernauer": 98,
+        "#library--hudi--the-other-tim-brown": 101,
+        "#library--hudi--chaplinthink": 101,
+        "#library--hudi--davehagman": 104,
+        "#library--hudi--felixYyu": 106,
+        "#library--hudi--yanenze": 106,
+        "#library--hudi--harsh1231": 106,
+        "#library--hudi--7c00": 112,
+        "#library--hudi--wzx140": 113,
+        "#library--hudi--xccui": 118,
+        "#library--hudi--RexXiong": 119,
+        "#library--hudi--JerryYue-M": 119,
+        "#library--hudi--jintaoguan": 119,
+        "#library--hudi--BruceKellan": 126,
+        "#library--hudi--veenaypatil": 127,
+        "#library--hudi--peanut-chenzhong": 131,
+        "#library--hudi--kwondw": 134,
+        "#library--hudi--hehuiyuan": 136,
+        "#library--hudi--manojpec": 142,
+        "#library--hudi--cuibo01": 149,
+        "#library--hudi--guanziyue": 151,
+        "#library--hudi--dengziming": 155,
+        "#library--hudi--Karl-WangSK": 160,
+        "#library--hudi--xuzifu666": 168,
+        "#library--hudi--xicm": 173,
+        "#library--hudi--KnightChess": 179,
+        "#library--hudi--RocMarshal": 193,
+        "#library--hudi--prasannarajaperumal": 196,
+        "#library--hudi--suryaprasanna": 199,
+        "#library--hudi--akanungoz": 200,
+        "#library--hudi--wxplovecc": 217,
+        "#library--hudi--huberylee": 222,
+        "#library--hudi--qianchutao": 222,
+        "#library--hudi--liufangqi": 223,
+        "#library--hudi--data-storyteller": 231,
+        "#library--hudi--AirToSupply": 231,
+        "#library--hudi--scxwhite": 242,
+        "#library--hudi--minchowang": 244,
+        "#library--hudi--vinishjail97": 245,
+        "#library--hudi--jianxu": 266,
+        "#library--hudi--pengzhiwei2018": 280,
+        "#library--hudi--Trevor-zhang": 283,
+        "#library--hudi--bhasudha": 288,
+        "#library--hudi--parisni": 289,
+        "#library--hudi--rmpifer": 289,
+        "#library--hudi--fengjian428": 299,
+        "#library--hudi--boneanxs": 306,
+        "#library--hudi--low-on-mana": 314,
+        "#library--hudi--minihippo": 316,
+        "#library--hudi--YuweiXiao": 319,
+        "#library--hudi--aditiwari01": 321,
+        "#library--hudi--Yungthuis": 334,
+        "#library--hudi--shenh062326": 350,
+        "#library--hudi--alexeykudinkin": 357,
+        "#library--hudi--YannByron": 380,
+        "#library--hudi--smarthi": 381,
+        "#library--hudi--lw309637554": 388,
+        "#library--hudi--afilipchik": 388,
+        "#library--hudi--dongkelun": 415,
+        "#library--hudi--kaushikd49": 416,
+        "#library--hudi--nbalajee": 421,
+        "#library--hudi--lamberken": 461,
+        "#library--hudi--rmahindra123": 472,
+        "#library--hudi--zhangyue19921010": 473,
+        "#library--hudi--codope": 474,
+        "#library--hudi--hotienvu": 484,
+        "#library--hudi--xiarixiaoyao": 488,
+        "#library--hudi--hddong": 503,
+        "#library--hudi--yuzhaojing": 508,
+        "#library--hudi--jsbali": 526,
+        "#library--hudi--v3nkatesh": 528,
+        "#library--hudi--loukey-lj": 601,
+        "#library--hudi--vburenin": 606,
+        "#library--hudi--vingov": 681,
+        "#library--hudi--danny0405": 685,
+        "#library--hudi--satishkotha": 751,
+        "#library--hudi--luoyajun10": 758,
+        "#library--hudi--ovj": 770,
+        "#library--hudi--cxzl25": 777,
+        "#library--hudi--prashantwason": 812,
+        "#library--hudi--yanghua": 825,
+        "#library--hudi--hj2016": 842,
+        "#library--hudi--liujinhui1994": 866,
+        "#library--hudi--bschell": 945,
+        "#library--hudi--zhedoubushishi": 968,
+        "#library--hudi--modi95": 980,
+        "#library--hudi--dependabot[bot]": 981,
+        "#library--hudi--wangxianghu": 1003,
+        "#library--hudi--pratyakshsharma": 1006,
+        "#library--hudi--bvaradar": 1012,
+        "#library--hudi--garyli1019": 1017,
+        "#library--hudi--cdmikechen": 1017,
+        "#library--hudi--XuQianJin-Stars": 1030,
+        "#library--hudi--SteNicholas": 1034,
+        "#library--hudi--umehrot2": 1057,
+        "#library--hudi--nsivabalan": 1075,
+        "#library--hudi--xushiyan": 1086,
+        "#library--hudi--leesf": 1087,
+        "#library--hudi--yihua": 1200,
+        "#library--hudi--n3nash": 1498,
+        "#library--hudi--": 1792,
+        "#library--hudi--vinothchandar": 1814
+    },
+    "commiter_contribute_time1": {
+        "#library--hudi--hj2016": {
+            "start": "2020-06-08 00:00:00",
+            "end": "2022-09-28 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--RocMarshal": {
+            "start": "2021-04-02 00:00:00",
+            "end": "2021-05-17 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--wxplovecc": {
+            "start": "2022-03-11 00:00:00",
+            "end": "2022-10-14 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--rmpifer": {
+            "start": "2020-08-13 00:00:00",
+            "end": "2021-05-29 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--parisni": {
+            "start": "2022-01-04 00:00:00",
+            "end": "2022-10-10 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--afilipchik": {
+            "start": "2019-08-28 00:00:00",
+            "end": "2020-05-15 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--vburenin": {
+            "start": "2021-01-19 00:00:00",
+            "end": "2022-09-17 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--veenaypatil": {
+            "start": "2021-05-26 00:00:00",
+            "end": "2021-07-13 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--nbalajee": {
+            "start": "2020-01-13 00:00:00",
+            "end": "2021-02-17 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--ovj": {
+            "start": "2017-03-21 00:00:00",
+            "end": "2019-04-16 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--jsbali": {
+            "start": "2021-04-21 00:00:00",
+            "end": "2022-09-29 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--vingov": {
+            "start": "2020-05-31 00:00:00",
+            "end": "2022-04-12 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--jianxu": {
+            "start": "2017-06-27 00:00:00",
+            "end": "2018-03-08 00:00:00",
+            "bug_num_per_commit": 0.75,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--SteNicholas": {
+            "start": "2019-12-26 00:00:00",
+            "end": "2022-09-26 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--cuibo01": {
+            "start": "2022-02-19 00:00:00",
+            "end": "2022-05-28 00:00:00",
+            "bug_num_per_commit": 0.6666666666666666,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--swuferhong": {
+            "start": "2021-05-20 00:00:00",
+            "end": "2021-07-30 00:00:00",
+            "bug_num_per_commit": 0.6,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--hddong": {
+            "start": "2019-11-22 00:00:00",
+            "end": "2020-06-18 00:00:00",
+            "bug_num_per_commit": 0.5555555555555556,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--liujinhui1994": {
+            "start": "2020-05-11 00:00:00",
+            "end": "2021-09-16 00:00:00",
+            "bug_num_per_commit": 0.125,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--zhangyue19921010": {
+            "start": "2021-06-27 00:00:00",
+            "end": "2022-03-31 00:00:00",
+            "bug_num_per_commit": 0.15384615384615385,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--manojpec": {
+            "start": "2021-10-12 00:00:00",
+            "end": "2021-12-18 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--shenh062326": {
+            "start": "2020-04-12 00:00:00",
+            "end": "2020-12-20 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--pratyakshsharma": {
+            "start": "2019-11-07 00:00:00",
+            "end": "2021-10-27 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--lw309637554": {
+            "start": "2020-04-19 00:00:00",
+            "end": "2020-12-28 00:00:00",
+            "bug_num_per_commit": 0.6666666666666666,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--yuzhaojing": {
+            "start": "2021-05-28 00:00:00",
+            "end": "2022-03-01 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--XuQianJin-Stars": {
+            "start": "2019-11-28 00:00:00",
+            "end": "2022-05-28 00:00:00",
+            "bug_num_per_commit": 0.1,
+            "bug_commit_num_rate": 0.9
+        },
+        "#library--hudi--satishkotha": {
+            "start": "2020-01-22 00:00:00",
+            "end": "2021-03-05 00:00:00",
+            "bug_num_per_commit": 0.4444444444444444,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--prashantwason": {
+            "start": "2020-01-13 00:00:00",
+            "end": "2021-07-02 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--zhedoubushishi": {
+            "start": "2019-11-26 00:00:00",
+            "end": "2021-12-06 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--codope": {
+            "start": "2021-06-19 00:00:00",
+            "end": "2022-07-26 00:00:00",
+            "bug_num_per_commit": 0.04,
+            "bug_commit_num_rate": 0.88
+        },
+        "#library--hudi--umehrot2": {
+            "start": "2019-09-05 00:00:00",
+            "end": "2021-08-15 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--n3nash": {
+            "start": "2017-05-18 00:00:00",
+            "end": "2019-07-17 00:00:00",
+            "bug_num_per_commit": 0.34782608695652173,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--alexeykudinkin": {
+            "start": "2021-11-02 00:00:00",
+            "end": "2022-07-22 00:00:00",
+            "bug_num_per_commit": 0.043478260869565216,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--xushiyan": {
+            "start": "2019-11-02 00:00:00",
+            "end": "2022-05-22 00:00:00",
+            "bug_num_per_commit": 0.02564102564102564,
+            "bug_commit_num_rate": 0.9743589743589743
+        },
+        "#library--hudi--danny0405": {
+            "start": "2020-12-10 00:00:00",
+            "end": "2022-04-13 00:00:00",
+            "bug_num_per_commit": 0.14705882352941177,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--nsivabalan": {
+            "start": "2019-11-11 00:00:00",
+            "end": "2022-04-07 00:00:00",
+            "bug_num_per_commit": 0.12698412698412698,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--bvaradar": {
+            "start": "2018-03-20 00:00:00",
+            "end": "2019-10-09 00:00:00",
+            "bug_num_per_commit": 0.3684210526315789,
+            "bug_commit_num_rate": 1.0
+        }
+    },
+    "commiter_contribute_time2": {
+        "#library--hudi--hj2016": {
+            "start": "2021-04-16 00:00:00",
+            "end": "2021-04-16 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--RocMarshal": {
+            "start": "2021-04-27 00:00:00",
+            "end": "2021-04-27 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--wxplovecc": {
+            "start": "2022-08-03 00:00:00",
+            "end": "2022-08-03 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--rmpifer": {
+            "start": "2020-12-29 00:00:00",
+            "end": "2020-12-29 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--parisni": {
+            "start": "2022-09-21 00:00:00",
+            "end": "2022-09-10 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--afilipchik": {
+            "start": "2020-05-14 00:00:00",
+            "end": "2020-05-13 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--vburenin": {
+            "start": "2022-09-15 00:00:00",
+            "end": "2022-09-15 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--veenaypatil": {
+            "start": "2021-06-30 00:00:00",
+            "end": "2021-06-28 00:00:00",
+            "bug_num_per_commit": 0.6666666666666666,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--nbalajee": {
+            "start": "2020-12-29 00:00:00",
+            "end": "2020-12-28 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--ovj": {
+            "start": "2019-03-18 00:00:00",
+            "end": "2019-03-01 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--jsbali": {
+            "start": "2022-02-01 00:00:00",
+            "end": "2022-02-01 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--vingov": {
+            "start": "2022-04-05 00:00:00",
+            "end": "2022-04-03 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.5
+        },
+        "#library--hudi--jianxu": {
+            "start": "2018-03-01 00:00:00",
+            "end": "2018-01-30 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.25
+        },
+        "#library--hudi--SteNicholas": {
+            "start": "2022-08-18 00:00:00",
+            "end": "2022-08-04 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.5
+        },
+        "#library--hudi--cuibo01": {
+            "start": "2022-05-13 00:00:00",
+            "end": "2022-05-13 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.3333333333333333
+        },
+        "#library--hudi--swuferhong": {
+            "start": "2021-07-28 00:00:00",
+            "end": "2021-07-09 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.6
+        },
+        "#library--hudi--hddong": {
+            "start": "2020-06-14 00:00:00",
+            "end": "2020-04-14 00:00:00",
+            "bug_num_per_commit": 0.5555555555555556,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--liujinhui1994": {
+            "start": "2021-09-15 00:00:00",
+            "end": "2021-08-14 00:00:00",
+            "bug_num_per_commit": 0.125,
+            "bug_commit_num_rate": 0.25
+        },
+        "#library--hudi--zhangyue19921010": {
+            "start": "2022-03-31 00:00:00",
+            "end": "2022-01-24 00:00:00",
+            "bug_num_per_commit": 0.38461538461538464,
+            "bug_commit_num_rate": 0.15384615384615385
+        },
+        "#library--hudi--manojpec": {
+            "start": "2021-12-18 00:00:00",
+            "end": "2021-11-26 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.625
+        },
+        "#library--hudi--shenh062326": {
+            "start": "2020-12-11 00:00:00",
+            "end": "2020-08-22 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.8333333333333334
+        },
+        "#library--hudi--pratyakshsharma": {
+            "start": "2020-10-21 00:00:00",
+            "end": "2020-07-11 00:00:00",
+            "bug_num_per_commit": 0.6666666666666666,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--lw309637554": {
+            "start": "2020-12-26 00:00:00",
+            "end": "2020-10-26 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.6666666666666666
+        },
+        "#library--hudi--yuzhaojing": {
+            "start": "2022-02-23 00:00:00",
+            "end": "2021-11-08 00:00:00",
+            "bug_num_per_commit": 0.18181818181818182,
+            "bug_commit_num_rate": 0.18181818181818182
+        },
+        "#library--hudi--XuQianJin-Stars": {
+            "start": "2022-05-09 00:00:00",
+            "end": "2022-03-30 00:00:00",
+            "bug_num_per_commit": 0.3,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--satishkotha": {
+            "start": "2021-03-04 00:00:00",
+            "end": "2020-11-07 00:00:00",
+            "bug_num_per_commit": 0.2222222222222222,
+            "bug_commit_num_rate": 0.4444444444444444
+        },
+        "#library--hudi--prashantwason": {
+            "start": "2021-06-22 00:00:00",
+            "end": "2020-12-01 00:00:00",
+            "bug_num_per_commit": 0.5833333333333334,
+            "bug_commit_num_rate": 0.75
+        },
+        "#library--hudi--zhedoubushishi": {
+            "start": "2021-11-19 00:00:00",
+            "end": "2021-01-21 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.6666666666666666
+        },
+        "#library--hudi--codope": {
+            "start": "2022-07-24 00:00:00",
+            "end": "2022-03-24 00:00:00",
+            "bug_num_per_commit": 0.24,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--umehrot2": {
+            "start": "2021-08-14 00:00:00",
+            "end": "2020-08-12 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.5
+        },
+        "#library--hudi--n3nash": {
+            "start": "2019-06-14 00:00:00",
+            "end": "2018-09-07 00:00:00",
+            "bug_num_per_commit": 0.391304347826087,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--alexeykudinkin": {
+            "start": "2022-07-22 00:00:00",
+            "end": "2022-04-08 00:00:00",
+            "bug_num_per_commit": 0.2608695652173913,
+            "bug_commit_num_rate": 0.17391304347826086
+        },
+        "#library--hudi--xushiyan": {
+            "start": "2022-05-21 00:00:00",
+            "end": "2021-12-18 00:00:00",
+            "bug_num_per_commit": 0.07692307692307693,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--danny0405": {
+            "start": "2022-04-13 00:00:00",
+            "end": "2021-11-04 00:00:00",
+            "bug_num_per_commit": 0.17647058823529413,
+            "bug_commit_num_rate": 0.35294117647058826
+        },
+        "#library--hudi--nsivabalan": {
+            "start": "2022-04-06 00:00:00",
+            "end": "2022-01-07 00:00:00",
+            "bug_num_per_commit": 0.19047619047619047,
+            "bug_commit_num_rate": 0.09523809523809523
+        },
+        "#library--hudi--bvaradar": {
+            "start": "2019-10-04 00:00:00",
+            "end": "2019-07-24 00:00:00",
+            "bug_num_per_commit": 0.02631578947368421,
+            "bug_commit_num_rate": 0.39473684210526316
+        }
+    },
+    "commiter_contribute_time3": {
+        "#library--hudi--hj2016": {
+            "start": "2021-04-12 00:00:00",
+            "end": "2021-04-12 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--RocMarshal": {
+            "start": "2021-04-19 00:00:00",
+            "end": "2021-04-15 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--wxplovecc": {
+            "start": "2022-06-27 00:00:00",
+            "end": "2022-06-27 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--rmpifer": {
+            "start": "2020-12-01 00:00:00",
+            "end": "2020-12-01 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--parisni": {
+            "start": "2022-06-04 00:00:00",
+            "end": "2022-03-31 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--afilipchik": {
+            "start": "2020-05-07 00:00:00",
+            "end": "2020-04-22 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--vburenin": {
+            "start": "2021-05-10 00:00:00",
+            "end": "2021-05-10 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--veenaypatil": {
+            "start": "2021-06-25 00:00:00",
+            "end": "2021-06-09 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--nbalajee": {
+            "start": "2020-12-18 00:00:00",
+            "end": "2020-08-24 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.5
+        },
+        "#library--hudi--ovj": {
+            "start": "2018-07-18 00:00:00",
+            "end": "2018-03-14 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--jsbali": {
+            "start": "2021-09-24 00:00:00",
+            "end": "2021-09-24 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--hudi--vingov": {
+            "start": "2022-04-02 00:00:00",
+            "end": "2021-12-08 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--jianxu": {
+            "start": "2018-01-18 00:00:00",
+            "end": "2017-12-14 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--SteNicholas": {
+            "start": "2021-09-10 00:00:00",
+            "end": "2021-01-28 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--cuibo01": {
+            "start": "2022-03-31 00:00:00",
+            "end": "2022-03-04 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--swuferhong": {
+            "start": "2021-07-06 00:00:00",
+            "end": "2021-06-23 00:00:00",
+            "bug_num_per_commit": 0.2,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--hddong": {
+            "start": "2020-04-11 00:00:00",
+            "end": "2020-03-04 00:00:00",
+            "bug_num_per_commit": 0.5555555555555556,
+            "bug_commit_num_rate": 0.6666666666666666
+        },
+        "#library--hudi--liujinhui1994": {
+            "start": "2021-08-13 00:00:00",
+            "end": "2020-12-04 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--zhangyue19921010": {
+            "start": "2022-01-21 00:00:00",
+            "end": "2021-11-22 00:00:00",
+            "bug_num_per_commit": 0.23076923076923078,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--manojpec": {
+            "start": "2021-11-26 00:00:00",
+            "end": "2021-11-14 00:00:00",
+            "bug_num_per_commit": 0.375,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--shenh062326": {
+            "start": "2020-08-03 00:00:00",
+            "end": "2020-06-09 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--pratyakshsharma": {
+            "start": "2020-07-09 00:00:00",
+            "end": "2020-01-09 00:00:00",
+            "bug_num_per_commit": 0.6666666666666666,
+            "bug_commit_num_rate": 0.3333333333333333
+        },
+        "#library--hudi--lw309637554": {
+            "start": "2020-10-19 00:00:00",
+            "end": "2020-10-10 00:00:00",
+            "bug_num_per_commit": 0.16666666666666666,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--yuzhaojing": {
+            "start": "2021-11-05 00:00:00",
+            "end": "2021-06-30 00:00:00",
+            "bug_num_per_commit": 0.36363636363636365,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--XuQianJin-Stars": {
+            "start": "2022-03-29 00:00:00",
+            "end": "2022-03-01 00:00:00",
+            "bug_num_per_commit": 0.1,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--satishkotha": {
+            "start": "2020-11-05 00:00:00",
+            "end": "2020-07-07 00:00:00",
+            "bug_num_per_commit": 0.1111111111111111,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--prashantwason": {
+            "start": "2020-10-29 00:00:00",
+            "end": "2020-03-31 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--zhedoubushishi": {
+            "start": "2020-12-25 00:00:00",
+            "end": "2020-11-05 00:00:00",
+            "bug_num_per_commit": 0.16666666666666666,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--codope": {
+            "start": "2022-03-24 00:00:00",
+            "end": "2021-11-24 00:00:00",
+            "bug_num_per_commit": 0.12,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--umehrot2": {
+            "start": "2020-08-09 00:00:00",
+            "end": "2020-03-11 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--n3nash": {
+            "start": "2018-06-11 00:00:00",
+            "end": "2018-01-24 00:00:00",
+            "bug_num_per_commit": 0.43478260869565216,
+            "bug_commit_num_rate": 0.30434782608695654
+        },
+        "#library--hudi--alexeykudinkin": {
+            "start": "2022-04-06 00:00:00",
+            "end": "2022-02-08 00:00:00",
+            "bug_num_per_commit": 0.21739130434782608,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--xushiyan": {
+            "start": "2021-12-15 00:00:00",
+            "end": "2020-09-07 00:00:00",
+            "bug_num_per_commit": 0.3076923076923077,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--danny0405": {
+            "start": "2021-11-03 00:00:00",
+            "end": "2021-06-25 00:00:00",
+            "bug_num_per_commit": 0.3088235294117647,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--nsivabalan": {
+            "start": "2022-01-06 00:00:00",
+            "end": "2021-08-11 00:00:00",
+            "bug_num_per_commit": 0.23809523809523808,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--bvaradar": {
+            "start": "2019-07-15 00:00:00",
+            "end": "2019-04-17 00:00:00",
+            "bug_num_per_commit": 0.21052631578947367,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#library--hudi--hj2016": {
+            "start": "2021-02-24 00:00:00",
+            "end": "2020-06-08 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--RocMarshal": {
+            "start": "2021-04-11 00:00:00",
+            "end": "2021-04-02 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--wxplovecc": {
+            "start": "2022-04-29 00:00:00",
+            "end": "2022-03-11 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--rmpifer": {
+            "start": "2020-10-14 00:00:00",
+            "end": "2020-08-13 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--parisni": {
+            "start": "2022-03-29 00:00:00",
+            "end": "2022-01-04 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--afilipchik": {
+            "start": "2020-04-21 00:00:00",
+            "end": "2019-08-28 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--vburenin": {
+            "start": "2021-03-20 00:00:00",
+            "end": "2021-01-19 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--veenaypatil": {
+            "start": "2021-06-08 00:00:00",
+            "end": "2021-05-26 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--nbalajee": {
+            "start": "2020-08-25 00:00:00",
+            "end": "2020-01-13 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--ovj": {
+            "start": "2017-09-08 00:00:00",
+            "end": "2017-03-21 00:00:00",
+            "bug_num_per_commit": 0.6666666666666666,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--jsbali": {
+            "start": "2021-07-23 00:00:00",
+            "end": "2021-04-21 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.6666666666666666
+        },
+        "#library--hudi--vingov": {
+            "start": "2021-06-10 00:00:00",
+            "end": "2020-05-31 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--jianxu": {
+            "start": "2017-12-06 00:00:00",
+            "end": "2017-06-27 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--SteNicholas": {
+            "start": "2020-01-05 00:00:00",
+            "end": "2019-12-26 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--cuibo01": {
+            "start": "2022-03-02 00:00:00",
+            "end": "2022-02-19 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--swuferhong": {
+            "start": "2021-06-22 00:00:00",
+            "end": "2021-05-20 00:00:00",
+            "bug_num_per_commit": 0.5714285714285714,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--hddong": {
+            "start": "2020-01-09 00:00:00",
+            "end": "2019-11-22 00:00:00",
+            "bug_num_per_commit": 0.375,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--liujinhui1994": {
+            "start": "2020-10-29 00:00:00",
+            "end": "2020-05-11 00:00:00",
+            "bug_num_per_commit": 0.4444444444444444,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--zhangyue19921010": {
+            "start": "2021-11-15 00:00:00",
+            "end": "2021-06-27 00:00:00",
+            "bug_num_per_commit": 0.3076923076923077,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--manojpec": {
+            "start": "2021-11-13 00:00:00",
+            "end": "2021-10-12 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--shenh062326": {
+            "start": "2020-06-08 00:00:00",
+            "end": "2020-04-12 00:00:00",
+            "bug_num_per_commit": 0.6,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--pratyakshsharma": {
+            "start": "2020-01-03 00:00:00",
+            "end": "2019-11-07 00:00:00",
+            "bug_num_per_commit": 0.5714285714285714,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--lw309637554": {
+            "start": "2020-10-06 00:00:00",
+            "end": "2020-04-19 00:00:00",
+            "bug_num_per_commit": 0.4,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--yuzhaojing": {
+            "start": "2021-06-30 00:00:00",
+            "end": "2021-05-28 00:00:00",
+            "bug_num_per_commit": 0.45454545454545453,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--XuQianJin-Stars": {
+            "start": "2022-02-25 00:00:00",
+            "end": "2019-11-28 00:00:00",
+            "bug_num_per_commit": 0.2727272727272727,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--satishkotha": {
+            "start": "2020-06-08 00:00:00",
+            "end": "2020-01-31 00:00:00",
+            "bug_num_per_commit": 0.36363636363636365,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--prashantwason": {
+            "start": "2020-03-27 00:00:00",
+            "end": "2020-01-13 00:00:00",
+            "bug_num_per_commit": 0.2727272727272727,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--zhedoubushishi": {
+            "start": "2020-09-22 00:00:00",
+            "end": "2019-11-26 00:00:00",
+            "bug_num_per_commit": 0.625,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--codope": {
+            "start": "2021-11-23 00:00:00",
+            "end": "2021-06-19 00:00:00",
+            "bug_num_per_commit": 0.375,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--umehrot2": {
+            "start": "2020-03-01 00:00:00",
+            "end": "2019-09-05 00:00:00",
+            "bug_num_per_commit": 0.5714285714285714,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--n3nash": {
+            "start": "2018-01-10 00:00:00",
+            "end": "2017-05-18 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--alexeykudinkin": {
+            "start": "2022-02-07 00:00:00",
+            "end": "2021-11-02 00:00:00",
+            "bug_num_per_commit": 0.2608695652173913,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--xushiyan": {
+            "start": "2020-08-28 00:00:00",
+            "end": "2019-11-02 00:00:00",
+            "bug_num_per_commit": 0.38461538461538464,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--danny0405": {
+            "start": "2021-06-23 00:00:00",
+            "end": "2020-12-10 00:00:00",
+            "bug_num_per_commit": 0.23529411764705882,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--nsivabalan": {
+            "start": "2021-08-10 00:00:00",
+            "end": "2019-11-11 00:00:00",
+            "bug_num_per_commit": 0.27692307692307694,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--hudi--bvaradar": {
+            "start": "2019-04-17 00:00:00",
+            "end": "2018-03-20 00:00:00",
+            "bug_num_per_commit": 0.4473684210526316,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#library--hudi--hj2016": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 1.0,
+                "time3": 0.0,
+                "time4": 1.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--RocMarshal": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.5,
+                "time3": 0.0,
+                "time4": 1.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--wxplovecc": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.0,
+                "time3": 1.0,
+                "time4": 0.5
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--rmpifer": {
+            "bug_num_per_commit": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.0,
+                "time4": 0.5
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--parisni": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.5,
+                "time3": 0.0,
+                "time4": 1.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--afilipchik": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 0.5,
+                "time3": 0.5,
+                "time4": 0.5
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--vburenin": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 1.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--veenaypatil": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.6666666666666666,
+                "time3": 0.0,
+                "time4": 0.25
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--nbalajee": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 0.5,
+                "time3": 0.0,
+                "time4": 1.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.5,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--ovj": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.6666666666666666
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--jsbali": {
+            "bug_num_per_commit": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.0,
+                "time4": 1.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.6666666666666666
+            }
+        },
+        "#library--hudi--vingov": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.5
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.5,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--jianxu": {
+            "bug_num_per_commit": {
+                "time1": 0.75,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.5
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.25,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--SteNicholas": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.5,
+                "time3": 0.5,
+                "time4": 0.5
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.5,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--cuibo01": {
+            "bug_num_per_commit": {
+                "time1": 0.6666666666666666,
+                "time2": 0.3333333333333333,
+                "time3": 0.0,
+                "time4": 0.5
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.3333333333333333,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--swuferhong": {
+            "bug_num_per_commit": {
+                "time1": 0.6,
+                "time2": 0.0,
+                "time3": 0.2,
+                "time4": 0.5714285714285714
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.6,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--hddong": {
+            "bug_num_per_commit": {
+                "time1": 0.5555555555555556,
+                "time2": 0.5555555555555556,
+                "time3": 0.5555555555555556,
+                "time4": 0.375
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.6666666666666666,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--liujinhui1994": {
+            "bug_num_per_commit": {
+                "time1": 0.125,
+                "time2": 0.125,
+                "time3": 0.5,
+                "time4": 0.4444444444444444
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.25,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--zhangyue19921010": {
+            "bug_num_per_commit": {
+                "time1": 0.15384615384615385,
+                "time2": 0.38461538461538464,
+                "time3": 0.23076923076923078,
+                "time4": 0.3076923076923077
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.15384615384615385,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--manojpec": {
+            "bug_num_per_commit": {
+                "time1": 0.25,
+                "time2": 0.5,
+                "time3": 0.375,
+                "time4": 0.25
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.625,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--shenh062326": {
+            "bug_num_per_commit": {
+                "time1": 0.3333333333333333,
+                "time2": 0.3333333333333333,
+                "time3": 0.3333333333333333,
+                "time4": 0.6
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.8333333333333334,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--pratyakshsharma": {
+            "bug_num_per_commit": {
+                "time1": 0.3333333333333333,
+                "time2": 0.6666666666666666,
+                "time3": 0.6666666666666666,
+                "time4": 0.5714285714285714
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.3333333333333333,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--lw309637554": {
+            "bug_num_per_commit": {
+                "time1": 0.6666666666666666,
+                "time2": 0.3333333333333333,
+                "time3": 0.16666666666666666,
+                "time4": 0.4
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.6666666666666666,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--yuzhaojing": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.18181818181818182,
+                "time3": 0.36363636363636365,
+                "time4": 0.45454545454545453
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.18181818181818182,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--XuQianJin-Stars": {
+            "bug_num_per_commit": {
+                "time1": 0.1,
+                "time2": 0.3,
+                "time3": 0.1,
+                "time4": 0.2727272727272727
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.9,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--satishkotha": {
+            "bug_num_per_commit": {
+                "time1": 0.4444444444444444,
+                "time2": 0.2222222222222222,
+                "time3": 0.1111111111111111,
+                "time4": 0.36363636363636365
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.4444444444444444,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--prashantwason": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 0.5833333333333334,
+                "time3": 0.25,
+                "time4": 0.2727272727272727
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.75,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--zhedoubushishi": {
+            "bug_num_per_commit": {
+                "time1": 0.3333333333333333,
+                "time2": 0.3333333333333333,
+                "time3": 0.16666666666666666,
+                "time4": 0.625
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.6666666666666666,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--codope": {
+            "bug_num_per_commit": {
+                "time1": 0.04,
+                "time2": 0.24,
+                "time3": 0.12,
+                "time4": 0.375
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.88,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--umehrot2": {
+            "bug_num_per_commit": {
+                "time1": 0.25,
+                "time2": 0.25,
+                "time3": 0.5,
+                "time4": 0.5714285714285714
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.5,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--n3nash": {
+            "bug_num_per_commit": {
+                "time1": 0.34782608695652173,
+                "time2": 0.391304347826087,
+                "time3": 0.43478260869565216,
+                "time4": 0.5
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.30434782608695654,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--alexeykudinkin": {
+            "bug_num_per_commit": {
+                "time1": 0.043478260869565216,
+                "time2": 0.2608695652173913,
+                "time3": 0.21739130434782608,
+                "time4": 0.2608695652173913
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.17391304347826086,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--xushiyan": {
+            "bug_num_per_commit": {
+                "time1": 0.02564102564102564,
+                "time2": 0.07692307692307693,
+                "time3": 0.3076923076923077,
+                "time4": 0.38461538461538464
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.9743589743589743,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--danny0405": {
+            "bug_num_per_commit": {
+                "time1": 0.14705882352941177,
+                "time2": 0.17647058823529413,
+                "time3": 0.3088235294117647,
+                "time4": 0.23529411764705882
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.35294117647058826,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--nsivabalan": {
+            "bug_num_per_commit": {
+                "time1": 0.12698412698412698,
+                "time2": 0.19047619047619047,
+                "time3": 0.23809523809523808,
+                "time4": 0.27692307692307694
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.09523809523809523,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--hudi--bvaradar": {
+            "bug_num_per_commit": {
+                "time1": 0.3684210526315789,
+                "time2": 0.02631578947368421,
+                "time3": 0.21052631578947367,
+                "time4": 0.4473684210526316
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.39473684210526316,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#library--hudi--hj2016",
+        "#library--hudi--RocMarshal",
+        "#library--hudi--wxplovecc",
+        "#library--hudi--rmpifer",
+        "#library--hudi--parisni",
+        "#library--hudi--afilipchik",
+        "#library--hudi--vburenin",
+        "#library--hudi--veenaypatil",
+        "#library--hudi--nbalajee",
+        "#library--hudi--ovj",
+        "#library--hudi--jsbali",
+        "#library--hudi--vingov",
+        "#library--hudi--jianxu",
+        "#library--hudi--SteNicholas",
+        "#library--hudi--cuibo01",
+        "#library--hudi--swuferhong",
+        "#library--hudi--hddong",
+        "#library--hudi--liujinhui1994",
+        "#library--hudi--zhangyue19921010",
+        "#library--hudi--manojpec",
+        "#library--hudi--shenh062326",
+        "#library--hudi--pratyakshsharma",
+        "#library--hudi--lw309637554",
+        "#library--hudi--yuzhaojing",
+        "#library--hudi--XuQianJin-Stars",
+        "#library--hudi--satishkotha",
+        "#library--hudi--prashantwason",
+        "#library--hudi--zhedoubushishi",
+        "#library--hudi--codope",
+        "#library--hudi--umehrot2",
+        "#library--hudi--n3nash",
+        "#library--hudi--alexeykudinkin",
+        "#library--hudi--xushiyan",
+        "#library--hudi--danny0405",
+        "#library--hudi--nsivabalan",
+        "#library--hudi--bvaradar"
+    ],
+    "number_daily_long_time_error_prone_developer": 36,
+    "improved_daily_long_time_error_prone_developer": [
+        "#library--hudi--afilipchik",
+        "#library--hudi--vburenin",
+        "#library--hudi--SteNicholas",
+        "#library--hudi--shenh062326",
+        "#library--hudi--yuzhaojing",
+        "#library--hudi--umehrot2",
+        "#library--hudi--n3nash",
+        "#library--hudi--xushiyan",
+        "#library--hudi--nsivabalan"
+    ],
+    "number_improved_daily_long_time_error_prone_developer": 9
+}

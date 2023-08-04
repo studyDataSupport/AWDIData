@@ -1,0 +1,180 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#library--commons-csv--garydgregory": "2012-03-10 00:00:00",
+        "#library--commons-csv--aherbert": "2019-06-15 00:00:00",
+        "#library--commons-csv--dependabot[bot]": "2020-07-23 00:00:00",
+        "#library--commons-csv--sebbASF": "2012-03-07 00:00:00",
+        "#library--commons-csv--pedro-w": "2022-09-06 00:00:00",
+        "#library--commons-csv--": "2005-12-17 00:00:00",
+        "#library--commons-csv--angusdev": "2022-02-20 00:00:00",
+        "#library--commons-csv--SethFalco": "2021-07-09 00:00:00",
+        "#library--commons-csv--kinow": "2017-08-26 00:00:00",
+        "#library--commons-csv--rvesse": "2021-10-26 00:00:00",
+        "#library--commons-csv--arturobernalg": "2020-12-12 00:00:00",
+        "#library--commons-csv--king-tyler": "2021-07-21 00:00:00",
+        "#library--commons-csv--belugabehr": "2021-07-13 00:00:00",
+        "#library--commons-csv--mirasrael": "2021-07-07 00:00:00",
+        "#library--commons-csv--amarlearning": "2021-07-05 00:00:00",
+        "#library--commons-csv--dota17": "2019-12-30 00:00:00",
+        "#library--commons-csv--ameyjadiye": "2020-02-13 00:00:00",
+        "#library--commons-csv--a4ff7810": "2020-04-03 00:00:00",
+        "#library--commons-csv--0x100": "2019-12-26 00:00:00",
+        "#library--commons-csv--mureinik": "2019-10-05 00:00:00",
+        "#library--commons-csv--sullis": "2019-08-14 00:00:00",
+        "#library--commons-csv--davidmoten": "2019-05-24 00:00:00",
+        "#library--commons-csv--britter": "2013-03-19 00:00:00",
+        "#library--commons-csv--tvand": "2018-12-10 00:00:00",
+        "#library--commons-csv--davidwarshaw": "2018-05-18 00:00:00",
+        "#library--commons-csv--PascalSchumacher": "2017-07-28 00:00:00",
+        "#library--commons-csv--alex270295": "2017-10-09 00:00:00",
+        "#library--commons-csv--invalid-email-address": "2017-07-10 00:00:00",
+        "#library--commons-csv--chtompki": "2017-05-27 00:00:00",
+        "#library--commons-csv--ebourg": "2011-11-09 00:00:00",
+        "#library--commons-csv--olamy": "2012-06-11 00:00:00",
+        "#library--commons-csv--mebigfatguy": "2011-11-10 00:00:00",
+        "#library--commons-csv--jacopoc": "2011-01-30 00:00:00",
+        "#library--commons-csv--joehni": "2010-09-30 00:00:00",
+        "#library--commons-csv--yonik": "2006-11-21 00:00:00",
+        "#library--commons-csv--dennisl": "2007-01-06 00:00:00",
+        "#library--commons-csv--rahu1": "2007-07-31 00:00:00",
+        "#library--commons-csv--mbenson": "2007-07-23 00:00:00",
+        "#library--commons-csv--baahmi": "2006-01-31 00:00:00"
+    },
+    "commiter_end_time": {
+        "#library--commons-csv--garydgregory": "2022-10-26 00:00:00",
+        "#library--commons-csv--aherbert": "2022-10-25 00:00:00",
+        "#library--commons-csv--dependabot[bot]": "2022-10-21 00:00:00",
+        "#library--commons-csv--sebbASF": "2022-10-08 00:00:00",
+        "#library--commons-csv--pedro-w": "2022-10-06 00:00:00",
+        "#library--commons-csv--": "2022-09-27 00:00:00",
+        "#library--commons-csv--angusdev": "2022-09-26 00:00:00",
+        "#library--commons-csv--SethFalco": "2022-02-19 00:00:00",
+        "#library--commons-csv--kinow": "2021-12-15 00:00:00",
+        "#library--commons-csv--rvesse": "2021-10-26 00:00:00",
+        "#library--commons-csv--arturobernalg": "2021-10-22 00:00:00",
+        "#library--commons-csv--king-tyler": "2021-07-21 00:00:00",
+        "#library--commons-csv--belugabehr": "2021-07-19 00:00:00",
+        "#library--commons-csv--mirasrael": "2021-07-07 00:00:00",
+        "#library--commons-csv--amarlearning": "2021-07-05 00:00:00",
+        "#library--commons-csv--dota17": "2021-07-04 00:00:00",
+        "#library--commons-csv--ameyjadiye": "2020-05-25 00:00:00",
+        "#library--commons-csv--a4ff7810": "2020-04-03 00:00:00",
+        "#library--commons-csv--0x100": "2019-12-26 00:00:00",
+        "#library--commons-csv--mureinik": "2019-10-06 00:00:00",
+        "#library--commons-csv--sullis": "2019-08-14 00:00:00",
+        "#library--commons-csv--davidmoten": "2019-05-28 00:00:00",
+        "#library--commons-csv--britter": "2019-02-09 00:00:00",
+        "#library--commons-csv--tvand": "2018-12-10 00:00:00",
+        "#library--commons-csv--davidwarshaw": "2018-05-18 00:00:00",
+        "#library--commons-csv--PascalSchumacher": "2018-01-07 00:00:00",
+        "#library--commons-csv--alex270295": "2017-10-09 00:00:00",
+        "#library--commons-csv--invalid-email-address": "2017-07-10 00:00:00",
+        "#library--commons-csv--chtompki": "2017-05-27 00:00:00",
+        "#library--commons-csv--ebourg": "2015-02-10 00:00:00",
+        "#library--commons-csv--olamy": "2013-02-26 00:00:00",
+        "#library--commons-csv--mebigfatguy": "2011-11-10 00:00:00",
+        "#library--commons-csv--jacopoc": "2011-02-01 00:00:00",
+        "#library--commons-csv--joehni": "2010-11-22 00:00:00",
+        "#library--commons-csv--yonik": "2010-07-20 00:00:00",
+        "#library--commons-csv--dennisl": "2007-08-01 00:00:00",
+        "#library--commons-csv--rahu1": "2007-07-31 00:00:00",
+        "#library--commons-csv--mbenson": "2007-07-23 00:00:00",
+        "#library--commons-csv--baahmi": "2007-04-07 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#library--commons-csv--rvesse": 0,
+        "#library--commons-csv--king-tyler": 0,
+        "#library--commons-csv--mirasrael": 0,
+        "#library--commons-csv--amarlearning": 0,
+        "#library--commons-csv--a4ff7810": 0,
+        "#library--commons-csv--0x100": 0,
+        "#library--commons-csv--sullis": 0,
+        "#library--commons-csv--tvand": 0,
+        "#library--commons-csv--davidwarshaw": 0,
+        "#library--commons-csv--alex270295": 0,
+        "#library--commons-csv--invalid-email-address": 0,
+        "#library--commons-csv--chtompki": 0,
+        "#library--commons-csv--mebigfatguy": 0,
+        "#library--commons-csv--rahu1": 0,
+        "#library--commons-csv--mbenson": 0,
+        "#library--commons-csv--mureinik": 1,
+        "#library--commons-csv--jacopoc": 2,
+        "#library--commons-csv--davidmoten": 4,
+        "#library--commons-csv--belugabehr": 6,
+        "#library--commons-csv--pedro-w": 30,
+        "#library--commons-csv--joehni": 53,
+        "#library--commons-csv--ameyjadiye": 102,
+        "#library--commons-csv--PascalSchumacher": 163,
+        "#library--commons-csv--dennisl": 207,
+        "#library--commons-csv--angusdev": 218,
+        "#library--commons-csv--SethFalco": 225,
+        "#library--commons-csv--olamy": 260,
+        "#library--commons-csv--arturobernalg": 314,
+        "#library--commons-csv--baahmi": 431,
+        "#library--commons-csv--dota17": 552,
+        "#library--commons-csv--dependabot[bot]": 820,
+        "#library--commons-csv--ebourg": 1189,
+        "#library--commons-csv--aherbert": 1228,
+        "#library--commons-csv--yonik": 1337,
+        "#library--commons-csv--kinow": 1572,
+        "#library--commons-csv--britter": 2153,
+        "#library--commons-csv--sebbASF": 3867,
+        "#library--commons-csv--garydgregory": 3882,
+        "#library--commons-csv--": 6128
+    },
+    "commiter_contribute_time1": {
+        "#library--commons-csv--ebourg": {
+            "start": "2011-11-09 00:00:00",
+            "end": "2012-03-14 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 1.0
+        }
+    },
+    "commiter_contribute_time2": {
+        "#library--commons-csv--ebourg": {
+            "start": "2012-03-14 00:00:00",
+            "end": "2012-03-07 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.5625
+        }
+    },
+    "commiter_contribute_time3": {
+        "#library--commons-csv--ebourg": {
+            "start": "2012-03-06 00:00:00",
+            "end": "2011-11-11 00:00:00",
+            "bug_num_per_commit": 0.1875,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#library--commons-csv--ebourg": {
+            "start": "2011-11-10 00:00:00",
+            "end": "2011-11-09 00:00:00",
+            "bug_num_per_commit": 0.1111111111111111,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#library--commons-csv--ebourg": {
+            "bug_num_per_commit": {
+                "time1": 0.25,
+                "time2": 0.25,
+                "time3": 0.1875,
+                "time4": 0.1111111111111111
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.5625,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#library--commons-csv--ebourg"
+    ],
+    "number_daily_long_time_error_prone_developer": 1,
+    "improved_daily_long_time_error_prone_developer": [],
+    "number_improved_daily_long_time_error_prone_developer": 0
+}

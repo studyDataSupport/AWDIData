@@ -1,0 +1,438 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#http--httpcomponents-client--ok2c": "2005-12-21 00:00:00",
+        "#http--httpcomponents-client--dependabot[bot]": "2022-05-20 00:00:00",
+        "#http--httpcomponents-client--garydgregory": "2012-08-06 00:00:00",
+        "#http--httpcomponents-client--arturobernalg": "2020-12-31 00:00:00",
+        "#http--httpcomponents-client--tsaarni": "2022-06-29 00:00:00",
+        "#http--httpcomponents-client--": "2006-09-04 00:00:00",
+        "#http--httpcomponents-client--carterkozak": "2020-06-09 00:00:00",
+        "#http--httpcomponents-client--j3graham": "2022-05-28 00:00:00",
+        "#http--httpcomponents-client--naveensrinivasan": "2022-05-15 00:00:00",
+        "#http--httpcomponents-client--yinwoods": "2022-05-18 00:00:00",
+        "#http--httpcomponents-client--nathannaveen": "2022-05-13 00:00:00",
+        "#http--httpcomponents-client--niranjanghule": "2022-05-04 00:00:00",
+        "#http--httpcomponents-client--rhernandez35": "2019-08-21 00:00:00",
+        "#http--httpcomponents-client--ajbaldocchi": "2022-03-30 00:00:00",
+        "#http--httpcomponents-client--rschmitt": "2018-08-30 00:00:00",
+        "#http--httpcomponents-client--reta": "2022-03-12 00:00:00",
+        "#http--httpcomponents-client--schlosna": "2022-02-26 00:00:00",
+        "#http--httpcomponents-client--cda007": "2022-02-18 00:00:00",
+        "#http--httpcomponents-client--AndreiSVasilev": "2022-01-20 00:00:00",
+        "#http--httpcomponents-client--JasonMathison": "2022-01-05 00:00:00",
+        "#http--httpcomponents-client--pcoelho-coveo": "2021-12-22 00:00:00",
+        "#http--httpcomponents-client--michael-o": "2014-11-14 00:00:00",
+        "#http--httpcomponents-client--Marcono1234": "2020-12-23 00:00:00",
+        "#http--httpcomponents-client--jaikiran": "2021-08-22 00:00:00",
+        "#http--httpcomponents-client--YunLemon": "2021-08-16 00:00:00",
+        "#http--httpcomponents-client--peterdettman": "2021-04-09 00:00:00",
+        "#http--httpcomponents-client--rrodewald": "2021-04-06 00:00:00",
+        "#http--httpcomponents-client--donggyu04": "2021-02-25 00:00:00",
+        "#http--httpcomponents-client--careylam": "2021-02-20 00:00:00",
+        "#http--httpcomponents-client--imbyungjun": "2021-02-16 00:00:00",
+        "#http--httpcomponents-client--hboutemy": "2021-01-09 00:00:00",
+        "#http--httpcomponents-client--robtimus": "2020-12-09 00:00:00",
+        "#http--httpcomponents-client--kojilin": "2020-11-06 00:00:00",
+        "#http--httpcomponents-client--martin-g": "2020-11-03 00:00:00",
+        "#http--httpcomponents-client--artem-smotrakov": "2019-03-06 00:00:00",
+        "#http--httpcomponents-client--sivapalan": "2020-10-06 00:00:00",
+        "#http--httpcomponents-client--dirkhenselin": "2020-08-18 00:00:00",
+        "#http--httpcomponents-client--nielsbasjes": "2019-11-26 00:00:00",
+        "#http--httpcomponents-client--slisaasquatch": "2020-03-06 00:00:00",
+        "#http--httpcomponents-client--smashtakov": "2020-06-03 00:00:00",
+        "#http--httpcomponents-client--vonahok": "2020-04-26 00:00:00",
+        "#http--httpcomponents-client--heejeongkim": "2020-04-17 00:00:00",
+        "#http--httpcomponents-client--ralphgee": "2020-04-07 00:00:00",
+        "#http--httpcomponents-client--scottgifford": "2019-12-30 00:00:00",
+        "#http--httpcomponents-client--chang-chao": "2019-11-09 00:00:00",
+        "#http--httpcomponents-client--oloflarsson": "2019-11-06 00:00:00",
+        "#http--httpcomponents-client--s1monw": "2019-08-17 00:00:00",
+        "#http--httpcomponents-client--itonyli": "2019-08-11 00:00:00",
+        "#http--httpcomponents-client--coxlinton": "2019-07-27 00:00:00",
+        "#http--httpcomponents-client--kirill-usov": "2018-03-15 00:00:00",
+        "#http--httpcomponents-client--jeromedemangel": "2019-06-26 00:00:00",
+        "#http--httpcomponents-client--neonailol": "2019-06-25 00:00:00",
+        "#http--httpcomponents-client--serkanturgut": "2019-06-10 00:00:00",
+        "#http--httpcomponents-client--adamretter": "2019-06-02 00:00:00",
+        "#http--httpcomponents-client--dowy": "2019-05-30 00:00:00",
+        "#http--httpcomponents-client--panchenko": "2018-12-19 00:00:00",
+        "#http--httpcomponents-client--jborgland": "2018-12-12 00:00:00",
+        "#http--httpcomponents-client--sullis": "2018-10-07 00:00:00",
+        "#http--httpcomponents-client--don-vip": "2018-09-10 00:00:00",
+        "#http--httpcomponents-client--izeye": "2018-09-04 00:00:00",
+        "#http--httpcomponents-client--mmielke-ciena": "2018-08-08 00:00:00",
+        "#http--httpcomponents-client--xiaohu-zhang": "2018-07-11 00:00:00",
+        "#http--httpcomponents-client--hapeka72": "2018-02-09 00:00:00",
+        "#http--httpcomponents-client--catchsudheera": "2018-01-11 00:00:00",
+        "#http--httpcomponents-client--DaddyWri": "2017-06-22 00:00:00",
+        "#http--httpcomponents-client--sermojohn": "2017-09-28 00:00:00",
+        "#http--httpcomponents-client--andyklimczak": "2017-09-06 00:00:00",
+        "#http--httpcomponents-client--sebbASF": "2008-01-31 00:00:00",
+        "#http--httpcomponents-client--pavolloffay": "2017-05-09 00:00:00",
+        "#http--httpcomponents-client--jsedding": "2016-09-30 00:00:00",
+        "#http--httpcomponents-client--simonetripodi": "2016-07-26 00:00:00",
+        "#http--httpcomponents-client--fxbonnet": "2013-02-11 00:00:00"
+    },
+    "commiter_end_time": {
+        "#http--httpcomponents-client--ok2c": "2022-10-23 00:00:00",
+        "#http--httpcomponents-client--dependabot[bot]": "2022-09-30 00:00:00",
+        "#http--httpcomponents-client--garydgregory": "2022-09-28 00:00:00",
+        "#http--httpcomponents-client--arturobernalg": "2022-07-05 00:00:00",
+        "#http--httpcomponents-client--tsaarni": "2022-06-29 00:00:00",
+        "#http--httpcomponents-client--": "2022-07-01 00:00:00",
+        "#http--httpcomponents-client--carterkozak": "2022-06-13 00:00:00",
+        "#http--httpcomponents-client--j3graham": "2022-05-28 00:00:00",
+        "#http--httpcomponents-client--naveensrinivasan": "2022-05-18 00:00:00",
+        "#http--httpcomponents-client--yinwoods": "2022-05-18 00:00:00",
+        "#http--httpcomponents-client--nathannaveen": "2022-05-13 00:00:00",
+        "#http--httpcomponents-client--niranjanghule": "2022-05-08 00:00:00",
+        "#http--httpcomponents-client--rhernandez35": "2022-04-06 00:00:00",
+        "#http--httpcomponents-client--ajbaldocchi": "2022-03-30 00:00:00",
+        "#http--httpcomponents-client--rschmitt": "2022-03-22 00:00:00",
+        "#http--httpcomponents-client--reta": "2022-03-12 00:00:00",
+        "#http--httpcomponents-client--schlosna": "2022-02-26 00:00:00",
+        "#http--httpcomponents-client--cda007": "2022-02-18 00:00:00",
+        "#http--httpcomponents-client--AndreiSVasilev": "2022-01-21 00:00:00",
+        "#http--httpcomponents-client--JasonMathison": "2022-01-05 00:00:00",
+        "#http--httpcomponents-client--pcoelho-coveo": "2021-12-22 00:00:00",
+        "#http--httpcomponents-client--michael-o": "2021-11-13 00:00:00",
+        "#http--httpcomponents-client--Marcono1234": "2021-09-11 00:00:00",
+        "#http--httpcomponents-client--jaikiran": "2021-08-22 00:00:00",
+        "#http--httpcomponents-client--YunLemon": "2021-08-16 00:00:00",
+        "#http--httpcomponents-client--peterdettman": "2021-04-09 00:00:00",
+        "#http--httpcomponents-client--rrodewald": "2021-04-06 00:00:00",
+        "#http--httpcomponents-client--donggyu04": "2021-02-25 00:00:00",
+        "#http--httpcomponents-client--careylam": "2021-02-20 00:00:00",
+        "#http--httpcomponents-client--imbyungjun": "2021-02-16 00:00:00",
+        "#http--httpcomponents-client--hboutemy": "2021-01-29 00:00:00",
+        "#http--httpcomponents-client--robtimus": "2020-12-09 00:00:00",
+        "#http--httpcomponents-client--kojilin": "2020-11-06 00:00:00",
+        "#http--httpcomponents-client--martin-g": "2020-11-03 00:00:00",
+        "#http--httpcomponents-client--artem-smotrakov": "2020-10-30 00:00:00",
+        "#http--httpcomponents-client--sivapalan": "2020-10-06 00:00:00",
+        "#http--httpcomponents-client--dirkhenselin": "2020-08-18 00:00:00",
+        "#http--httpcomponents-client--nielsbasjes": "2020-07-04 00:00:00",
+        "#http--httpcomponents-client--slisaasquatch": "2020-07-04 00:00:00",
+        "#http--httpcomponents-client--smashtakov": "2020-06-03 00:00:00",
+        "#http--httpcomponents-client--vonahok": "2020-04-26 00:00:00",
+        "#http--httpcomponents-client--heejeongkim": "2020-04-17 00:00:00",
+        "#http--httpcomponents-client--ralphgee": "2020-04-07 00:00:00",
+        "#http--httpcomponents-client--scottgifford": "2019-12-30 00:00:00",
+        "#http--httpcomponents-client--chang-chao": "2019-11-09 00:00:00",
+        "#http--httpcomponents-client--oloflarsson": "2019-11-06 00:00:00",
+        "#http--httpcomponents-client--s1monw": "2019-08-17 00:00:00",
+        "#http--httpcomponents-client--itonyli": "2019-08-11 00:00:00",
+        "#http--httpcomponents-client--coxlinton": "2019-07-27 00:00:00",
+        "#http--httpcomponents-client--kirill-usov": "2018-03-15 00:00:00",
+        "#http--httpcomponents-client--jeromedemangel": "2019-06-26 00:00:00",
+        "#http--httpcomponents-client--neonailol": "2019-06-25 00:00:00",
+        "#http--httpcomponents-client--serkanturgut": "2019-06-10 00:00:00",
+        "#http--httpcomponents-client--adamretter": "2019-06-02 00:00:00",
+        "#http--httpcomponents-client--dowy": "2019-05-30 00:00:00",
+        "#http--httpcomponents-client--panchenko": "2018-12-19 00:00:00",
+        "#http--httpcomponents-client--jborgland": "2018-12-12 00:00:00",
+        "#http--httpcomponents-client--sullis": "2018-10-07 00:00:00",
+        "#http--httpcomponents-client--don-vip": "2018-09-10 00:00:00",
+        "#http--httpcomponents-client--izeye": "2018-09-04 00:00:00",
+        "#http--httpcomponents-client--mmielke-ciena": "2018-08-08 00:00:00",
+        "#http--httpcomponents-client--xiaohu-zhang": "2018-07-11 00:00:00",
+        "#http--httpcomponents-client--hapeka72": "2018-02-09 00:00:00",
+        "#http--httpcomponents-client--catchsudheera": "2018-01-15 00:00:00",
+        "#http--httpcomponents-client--DaddyWri": "2017-11-18 00:00:00",
+        "#http--httpcomponents-client--sermojohn": "2017-09-29 00:00:00",
+        "#http--httpcomponents-client--andyklimczak": "2017-09-06 00:00:00",
+        "#http--httpcomponents-client--sebbASF": "2017-06-30 00:00:00",
+        "#http--httpcomponents-client--pavolloffay": "2017-05-09 00:00:00",
+        "#http--httpcomponents-client--jsedding": "2016-10-04 00:00:00",
+        "#http--httpcomponents-client--simonetripodi": "2016-07-26 00:00:00",
+        "#http--httpcomponents-client--fxbonnet": "2014-11-10 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#http--httpcomponents-client--tsaarni": 0,
+        "#http--httpcomponents-client--j3graham": 0,
+        "#http--httpcomponents-client--yinwoods": 0,
+        "#http--httpcomponents-client--nathannaveen": 0,
+        "#http--httpcomponents-client--ajbaldocchi": 0,
+        "#http--httpcomponents-client--reta": 0,
+        "#http--httpcomponents-client--schlosna": 0,
+        "#http--httpcomponents-client--cda007": 0,
+        "#http--httpcomponents-client--JasonMathison": 0,
+        "#http--httpcomponents-client--pcoelho-coveo": 0,
+        "#http--httpcomponents-client--jaikiran": 0,
+        "#http--httpcomponents-client--YunLemon": 0,
+        "#http--httpcomponents-client--peterdettman": 0,
+        "#http--httpcomponents-client--rrodewald": 0,
+        "#http--httpcomponents-client--donggyu04": 0,
+        "#http--httpcomponents-client--careylam": 0,
+        "#http--httpcomponents-client--imbyungjun": 0,
+        "#http--httpcomponents-client--robtimus": 0,
+        "#http--httpcomponents-client--kojilin": 0,
+        "#http--httpcomponents-client--martin-g": 0,
+        "#http--httpcomponents-client--sivapalan": 0,
+        "#http--httpcomponents-client--dirkhenselin": 0,
+        "#http--httpcomponents-client--smashtakov": 0,
+        "#http--httpcomponents-client--vonahok": 0,
+        "#http--httpcomponents-client--heejeongkim": 0,
+        "#http--httpcomponents-client--ralphgee": 0,
+        "#http--httpcomponents-client--scottgifford": 0,
+        "#http--httpcomponents-client--chang-chao": 0,
+        "#http--httpcomponents-client--oloflarsson": 0,
+        "#http--httpcomponents-client--s1monw": 0,
+        "#http--httpcomponents-client--itonyli": 0,
+        "#http--httpcomponents-client--coxlinton": 0,
+        "#http--httpcomponents-client--kirill-usov": 0,
+        "#http--httpcomponents-client--jeromedemangel": 0,
+        "#http--httpcomponents-client--neonailol": 0,
+        "#http--httpcomponents-client--serkanturgut": 0,
+        "#http--httpcomponents-client--adamretter": 0,
+        "#http--httpcomponents-client--dowy": 0,
+        "#http--httpcomponents-client--panchenko": 0,
+        "#http--httpcomponents-client--jborgland": 0,
+        "#http--httpcomponents-client--sullis": 0,
+        "#http--httpcomponents-client--don-vip": 0,
+        "#http--httpcomponents-client--izeye": 0,
+        "#http--httpcomponents-client--mmielke-ciena": 0,
+        "#http--httpcomponents-client--xiaohu-zhang": 0,
+        "#http--httpcomponents-client--hapeka72": 0,
+        "#http--httpcomponents-client--andyklimczak": 0,
+        "#http--httpcomponents-client--pavolloffay": 0,
+        "#http--httpcomponents-client--simonetripodi": 0,
+        "#http--httpcomponents-client--AndreiSVasilev": 1,
+        "#http--httpcomponents-client--sermojohn": 1,
+        "#http--httpcomponents-client--naveensrinivasan": 3,
+        "#http--httpcomponents-client--niranjanghule": 4,
+        "#http--httpcomponents-client--catchsudheera": 4,
+        "#http--httpcomponents-client--jsedding": 4,
+        "#http--httpcomponents-client--hboutemy": 20,
+        "#http--httpcomponents-client--slisaasquatch": 120,
+        "#http--httpcomponents-client--dependabot[bot]": 133,
+        "#http--httpcomponents-client--DaddyWri": 149,
+        "#http--httpcomponents-client--nielsbasjes": 221,
+        "#http--httpcomponents-client--Marcono1234": 262,
+        "#http--httpcomponents-client--arturobernalg": 551,
+        "#http--httpcomponents-client--artem-smotrakov": 604,
+        "#http--httpcomponents-client--fxbonnet": 637,
+        "#http--httpcomponents-client--carterkozak": 734,
+        "#http--httpcomponents-client--rhernandez35": 959,
+        "#http--httpcomponents-client--rschmitt": 1300,
+        "#http--httpcomponents-client--michael-o": 2556,
+        "#http--httpcomponents-client--sebbASF": 3438,
+        "#http--httpcomponents-client--garydgregory": 3705,
+        "#http--httpcomponents-client--": 5779,
+        "#http--httpcomponents-client--ok2c": 6150
+    },
+    "commiter_contribute_time1": {
+        "#http--httpcomponents-client--fxbonnet": {
+            "start": "2013-02-11 00:00:00",
+            "end": "2014-11-07 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#http--httpcomponents-client--rschmitt": {
+            "start": "2018-08-30 00:00:00",
+            "end": "2019-12-06 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 1.0
+        },
+        "#http--httpcomponents-client--michael-o": {
+            "start": "2014-11-14 00:00:00",
+            "end": "2019-12-15 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.5333333333333333
+        },
+        "#http--httpcomponents-client--sebbASF": {
+            "start": "2008-01-31 00:00:00",
+            "end": "2012-11-07 00:00:00",
+            "bug_num_per_commit": 0.05660377358490566,
+            "bug_commit_num_rate": 0.5188679245283019
+        },
+        "#http--httpcomponents-client--ok2c": {
+            "start": "2005-12-21 00:00:00",
+            "end": "2015-05-24 00:00:00",
+            "bug_num_per_commit": 0.05078125,
+            "bug_commit_num_rate": 1.0
+        }
+    },
+    "commiter_contribute_time2": {
+        "#http--httpcomponents-client--fxbonnet": {
+            "start": "2013-12-27 00:00:00",
+            "end": "2013-02-27 00:00:00",
+            "bug_num_per_commit": 0.6666666666666666,
+            "bug_commit_num_rate": 0.6666666666666666
+        },
+        "#http--httpcomponents-client--rschmitt": {
+            "start": "2020-01-06 00:00:00",
+            "end": "2019-10-03 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.0
+        },
+        "#http--httpcomponents-client--michael-o": {
+            "start": "2020-01-06 00:00:00",
+            "end": "2019-12-15 00:00:00",
+            "bug_num_per_commit": 0.06666666666666667,
+            "bug_commit_num_rate": 0.0
+        },
+        "#http--httpcomponents-client--sebbASF": {
+            "start": "2012-11-07 00:00:00",
+            "end": "2010-12-13 00:00:00",
+            "bug_num_per_commit": 0.11320754716981132,
+            "bug_commit_num_rate": 0.0
+        },
+        "#http--httpcomponents-client--ok2c": {
+            "start": "2015-05-24 00:00:00",
+            "end": "2012-11-28 00:00:00",
+            "bug_num_per_commit": 0.095703125,
+            "bug_commit_num_rate": 0.025390625
+        }
+    },
+    "commiter_contribute_time3": {
+        "#http--httpcomponents-client--fxbonnet": {
+            "start": "2013-02-27 00:00:00",
+            "end": "2013-02-19 00:00:00",
+            "bug_num_per_commit": 0.6666666666666666,
+            "bug_commit_num_rate": 0.0
+        },
+        "#http--httpcomponents-client--rschmitt": {
+            "start": "2019-09-26 00:00:00",
+            "end": "2018-11-30 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.0
+        },
+        "#http--httpcomponents-client--michael-o": {
+            "start": "2019-12-15 00:00:00",
+            "end": "2015-08-19 00:00:00",
+            "bug_num_per_commit": 0.26666666666666666,
+            "bug_commit_num_rate": 0.0
+        },
+        "#http--httpcomponents-client--sebbASF": {
+            "start": "2010-12-13 00:00:00",
+            "end": "2009-09-09 00:00:00",
+            "bug_num_per_commit": 0.018867924528301886,
+            "bug_commit_num_rate": 0.0
+        },
+        "#http--httpcomponents-client--ok2c": {
+            "start": "2012-11-28 00:00:00",
+            "end": "2009-09-26 00:00:00",
+            "bug_num_per_commit": 0.1328125,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#http--httpcomponents-client--fxbonnet": {
+            "start": "2013-02-13 00:00:00",
+            "end": "2013-02-11 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#http--httpcomponents-client--rschmitt": {
+            "start": "2018-11-13 00:00:00",
+            "end": "2018-08-30 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.0
+        },
+        "#http--httpcomponents-client--michael-o": {
+            "start": "2015-08-11 00:00:00",
+            "end": "2014-11-14 00:00:00",
+            "bug_num_per_commit": 0.058823529411764705,
+            "bug_commit_num_rate": 0.0
+        },
+        "#http--httpcomponents-client--sebbASF": {
+            "start": "2009-09-09 00:00:00",
+            "end": "2008-01-31 00:00:00",
+            "bug_num_per_commit": 0.10377358490566038,
+            "bug_commit_num_rate": 0.0
+        },
+        "#http--httpcomponents-client--ok2c": {
+            "start": "2009-09-26 00:00:00",
+            "end": "2005-12-21 00:00:00",
+            "bug_num_per_commit": 0.14619883040935672,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#http--httpcomponents-client--fxbonnet": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.6666666666666666,
+                "time3": 0.6666666666666666,
+                "time4": 0.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.6666666666666666,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#http--httpcomponents-client--rschmitt": {
+            "bug_num_per_commit": {
+                "time1": 0.25,
+                "time2": 0.25,
+                "time3": 0.25,
+                "time4": 0.3333333333333333
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#http--httpcomponents-client--michael-o": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.06666666666666667,
+                "time3": 0.26666666666666666,
+                "time4": 0.058823529411764705
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.5333333333333333,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#http--httpcomponents-client--sebbASF": {
+            "bug_num_per_commit": {
+                "time1": 0.05660377358490566,
+                "time2": 0.11320754716981132,
+                "time3": 0.018867924528301886,
+                "time4": 0.10377358490566038
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.5188679245283019,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#http--httpcomponents-client--ok2c": {
+            "bug_num_per_commit": {
+                "time1": 0.05078125,
+                "time2": 0.095703125,
+                "time3": 0.1328125,
+                "time4": 0.14619883040935672
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.025390625,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#http--httpcomponents-client--fxbonnet",
+        "#http--httpcomponents-client--rschmitt",
+        "#http--httpcomponents-client--michael-o",
+        "#http--httpcomponents-client--sebbASF",
+        "#http--httpcomponents-client--ok2c"
+    ],
+    "number_daily_long_time_error_prone_developer": 5,
+    "improved_daily_long_time_error_prone_developer": [
+        "#http--httpcomponents-client--rschmitt",
+        "#http--httpcomponents-client--ok2c"
+    ],
+    "number_improved_daily_long_time_error_prone_developer": 2
+}

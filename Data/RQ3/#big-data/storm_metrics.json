@@ -1,0 +1,35 @@
+{
+    "all_file_num": 7220,
+    "error_developer_file_rate": {
+        "#big-data--storm--moesol": 0.00013850415512465375,
+        "#big-data--storm--vivekmittal": 0.0002770083102493075,
+        "#big-data--storm--jiangzhileaf": 0.0002770083102493075,
+        "#big-data--storm--VipinRathor": 0.0002770083102493075,
+        "#big-data--storm--pasalkarsachin1": 0.0002770083102493075,
+        "#big-data--storm--pershyn": 0.0002770083102493075,
+        "#big-data--storm--omerhadari": 0.0004155124653739612,
+        "#big-data--storm--manuzhang": 0.0004155124653739612,
+        "#big-data--storm--Zhiqiang-He": 0.000554016620498615,
+        "#big-data--storm--viktortnk": 0.000554016620498615,
+        "#big-data--storm--Lazyshot": 0.000554016620498615,
+        "#big-data--storm--lukess": 0.0006925207756232687,
+        "#big-data--storm--reiabreu": 0.0006925207756232687,
+        "#big-data--storm--jfenc91": 0.0006925207756232687,
+        "#big-data--storm--askprasanna": 0.0006925207756232687,
+        "#big-data--storm--diogopmonteiro": 0.0006925207756232687,
+        "#big-data--storm--adityasharad": 0.0009695290858725762,
+        "#big-data--storm--eshioji": 0.00110803324099723,
+        "#big-data--storm--kamleshbhatt": 0.0019390581717451524,
+        "#big-data--storm--brndnmtthws": 0.002770083102493075,
+        "#big-data--storm--sumitchawla": 0.0029085872576177286,
+        "#big-data--storm--omkreddy": 0.007202216066481994,
+        "#big-data--storm--hmcl": 0.025207756232686982
+    },
+    "daily_error_prone_developer": [
+        "#big-data--storm--kamleshbhatt",
+        "#big-data--storm--sumitchawla",
+        "#big-data--storm--omkreddy",
+        "#big-data--storm--hmcl"
+    ],
+    "number_daily_error_prone_developer": 4
+}

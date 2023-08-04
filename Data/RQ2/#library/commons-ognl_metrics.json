@@ -1,0 +1,18 @@
+{
+    "cate": "#library",
+    "#library-cate_aver_bug_rate": 0.2318840579710145,
+    "#library-cate_aver_bug_commit_rate": 0.2,
+    "high_bug_rate_error_prone_developer_number": 2,
+    "high_bug_commit_rate_error_prone_developer_number": 1,
+    "high_bug_rate_error_prone_developer": {
+        "#library--commons-ognl--olamy": 0.24324324324324326,
+        "#library--commons-ognl--grobmeier": 0.23809523809523808
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#library--commons-ognl--mcucchiara": 0.23786407766990292
+    },
+    "error_prone_developer_num": 0,
+    "error_prone_developer": [],
+    "error_prone_developer_team_rate": 0.0,
+    "team_developer_num": 13
+}

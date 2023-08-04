@@ -1,0 +1,43 @@
+{
+    "developer": {
+        "#web-framework--nutch--balashashanka": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "nutch"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "balashashanka",
+                "createdAt": "2016-08-30T12:39:54Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 0,
+                    "nodes": []
+                }
+            }
+        },
+        "#web-framework--nutch--sigram": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "nutch"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "sigram",
+                "createdAt": "2010-06-28T11:15:22Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 0,
+                    "nodes": []
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 0,
+    "deveper_mul_apache_item_error": {
+        "#web-framework--nutch--balashashanka": [
+            "nutch"
+        ],
+        "#web-framework--nutch--sigram": [
+            "nutch"
+        ]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#library--commons-proxy--garydgregory": "2011-03-31 00:00:00",
+        "#library--commons-proxy--sebbASF": "2009-05-28 00:00:00",
+        "#library--commons-proxy--chtompki": "2017-06-03 00:00:00",
+        "#library--commons-proxy--mbenson": "2010-07-14 00:00:00",
+        "#library--commons-proxy--netomi": "2013-11-02 00:00:00",
+        "#library--commons-proxy--jwcarman": "2005-08-21 00:00:00",
+        "#library--commons-proxy--olamy": "2013-02-26 00:00:00",
+        "#library--commons-proxy--": "2005-09-01 00:00:00",
+        "#library--commons-proxy--dennisl": "2006-08-05 00:00:00",
+        "#library--commons-proxy--rahu1": "2007-07-31 00:00:00"
+    },
+    "commiter_end_time": {
+        "#library--commons-proxy--garydgregory": "2022-10-19 00:00:00",
+        "#library--commons-proxy--sebbASF": "2020-08-10 00:00:00",
+        "#library--commons-proxy--chtompki": "2017-06-03 00:00:00",
+        "#library--commons-proxy--mbenson": "2014-04-07 00:00:00",
+        "#library--commons-proxy--netomi": "2013-11-02 00:00:00",
+        "#library--commons-proxy--jwcarman": "2013-08-03 00:00:00",
+        "#library--commons-proxy--olamy": "2013-02-26 00:00:00",
+        "#library--commons-proxy--": "2010-10-06 00:00:00",
+        "#library--commons-proxy--dennisl": "2007-10-05 00:00:00",
+        "#library--commons-proxy--rahu1": "2007-07-31 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#library--commons-proxy--chtompki": 0,
+        "#library--commons-proxy--netomi": 0,
+        "#library--commons-proxy--olamy": 0,
+        "#library--commons-proxy--rahu1": 0,
+        "#library--commons-proxy--dennisl": 426,
+        "#library--commons-proxy--mbenson": 1363,
+        "#library--commons-proxy--": 1861,
+        "#library--commons-proxy--jwcarman": 2904,
+        "#library--commons-proxy--sebbASF": 4092,
+        "#library--commons-proxy--garydgregory": 4220
+    },
+    "commiter_contribute_time1": {},
+    "commiter_contribute_time2": {},
+    "commiter_contribute_time3": {},
+    "commiter_contribute_time4": {},
+    "commiter_time_trend": {},
+    "daily_long_time_error_prone_developer": [],
+    "number_daily_long_time_error_prone_developer": 0,
+    "improved_daily_long_time_error_prone_developer": [],
+    "number_improved_daily_long_time_error_prone_developer": 0
+}

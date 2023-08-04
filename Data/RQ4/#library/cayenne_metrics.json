@@ -1,0 +1,264 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#library--cayenne--stariy95": "2016-11-01 00:00:00",
+        "#library--cayenne--Ivan-nikitko": "2021-12-10 00:00:00",
+        "#library--cayenne--aperaverzeu": "2022-10-10 00:00:00",
+        "#library--cayenne--dependabot[bot]": "2022-05-25 00:00:00",
+        "#library--cayenne--johnthuss": "2012-05-14 00:00:00",
+        "#library--cayenne--steaked": "2022-01-27 00:00:00",
+        "#library--cayenne--OlegKhodokevich": "2021-12-06 00:00:00",
+        "#library--cayenne--dmitars": "2021-05-12 00:00:00",
+        "#library--cayenne--aarrsseni": "2017-09-27 00:00:00",
+        "#library--cayenne--KeyrisXdSnow": "2021-05-18 00:00:00",
+        "#library--cayenne--KravchenkoAS": "2020-05-20 00:00:00",
+        "#library--cayenne--andrus": "2007-01-21 00:00:00",
+        "#library--cayenne--faizel": "2020-05-04 00:00:00",
+        "#library--cayenne--HappyFacade": "2020-04-06 00:00:00",
+        "#library--cayenne--lbane": "2020-04-04 00:00:00",
+        "#library--cayenne--": "2007-02-06 00:00:00",
+        "#library--cayenne--ari": "2007-03-06 00:00:00",
+        "#library--cayenne--hugithordarson": "2016-11-10 00:00:00",
+        "#library--cayenne--const1993": "2018-03-27 00:00:00",
+        "#library--cayenne--jalligator": "2018-08-17 00:00:00",
+        "#library--cayenne--PRIESt512": "2018-03-04 00:00:00",
+        "#library--cayenne--MegaPapa": "2017-04-04 00:00:00",
+        "#library--cayenne--emecas": "2017-12-01 00:00:00",
+        "#library--cayenne--lonvarscsak": "2016-04-04 00:00:00",
+        "#library--cayenne--nismooooooo": "2017-04-04 00:00:00",
+        "#library--cayenne--sarvaratchagan": "2016-09-07 00:00:00",
+        "#library--cayenne--thinline72": "2014-08-20 00:00:00",
+        "#library--cayenne--jbuddha": "2016-12-22 00:00:00",
+        "#library--cayenne--IRus": "2016-11-29 00:00:00",
+        "#library--cayenne--atomashpolskiy": "2016-08-18 00:00:00",
+        "#library--cayenne--dzmitryk": "2011-06-28 00:00:00",
+        "#library--cayenne--ollybondareva": "2016-01-21 00:00:00",
+        "#library--cayenne--seelmann": "2016-09-13 00:00:00",
+        "#library--cayenne--maiksd": "2016-08-05 00:00:00",
+        "#library--cayenne--AlexandrShestak": "2015-11-24 00:00:00",
+        "#library--cayenne--vintikjeny": "2015-12-03 00:00:00",
+        "#library--cayenne--AlexKolonitsky": "2014-08-18 00:00:00",
+        "#library--cayenne--halset": "2015-09-07 00:00:00",
+        "#library--cayenne--aplgithub": "2014-08-01 00:00:00",
+        "#library--cayenne--laakhbeenor": "2015-02-19 00:00:00",
+        "#library--cayenne--mrg": "2014-09-02 00:00:00"
+    },
+    "commiter_end_time": {
+        "#library--cayenne--stariy95": "2022-10-24 00:00:00",
+        "#library--cayenne--Ivan-nikitko": "2022-10-11 00:00:00",
+        "#library--cayenne--aperaverzeu": "2022-10-10 00:00:00",
+        "#library--cayenne--dependabot[bot]": "2022-09-01 00:00:00",
+        "#library--cayenne--johnthuss": "2022-08-01 00:00:00",
+        "#library--cayenne--steaked": "2022-01-27 00:00:00",
+        "#library--cayenne--OlegKhodokevich": "2021-12-08 00:00:00",
+        "#library--cayenne--dmitars": "2021-08-11 00:00:00",
+        "#library--cayenne--aarrsseni": "2021-06-29 00:00:00",
+        "#library--cayenne--KeyrisXdSnow": "2021-05-18 00:00:00",
+        "#library--cayenne--KravchenkoAS": "2021-02-10 00:00:00",
+        "#library--cayenne--andrus": "2020-10-08 00:00:00",
+        "#library--cayenne--faizel": "2020-05-11 00:00:00",
+        "#library--cayenne--HappyFacade": "2020-04-06 00:00:00",
+        "#library--cayenne--lbane": "2020-04-04 00:00:00",
+        "#library--cayenne--": "2020-03-11 00:00:00",
+        "#library--cayenne--ari": "2019-05-21 00:00:00",
+        "#library--cayenne--hugithordarson": "2019-03-20 00:00:00",
+        "#library--cayenne--const1993": "2018-11-15 00:00:00",
+        "#library--cayenne--jalligator": "2018-08-17 00:00:00",
+        "#library--cayenne--PRIESt512": "2018-04-15 00:00:00",
+        "#library--cayenne--MegaPapa": "2018-03-30 00:00:00",
+        "#library--cayenne--emecas": "2017-12-01 00:00:00",
+        "#library--cayenne--lonvarscsak": "2017-08-01 00:00:00",
+        "#library--cayenne--nismooooooo": "2017-06-23 00:00:00",
+        "#library--cayenne--sarvaratchagan": "2017-04-12 00:00:00",
+        "#library--cayenne--thinline72": "2017-01-21 00:00:00",
+        "#library--cayenne--jbuddha": "2016-12-22 00:00:00",
+        "#library--cayenne--IRus": "2016-12-06 00:00:00",
+        "#library--cayenne--atomashpolskiy": "2016-11-15 00:00:00",
+        "#library--cayenne--dzmitryk": "2016-11-12 00:00:00",
+        "#library--cayenne--ollybondareva": "2016-10-19 00:00:00",
+        "#library--cayenne--seelmann": "2016-09-13 00:00:00",
+        "#library--cayenne--maiksd": "2016-08-05 00:00:00",
+        "#library--cayenne--AlexandrShestak": "2015-12-15 00:00:00",
+        "#library--cayenne--vintikjeny": "2015-12-03 00:00:00",
+        "#library--cayenne--AlexKolonitsky": "2015-10-13 00:00:00",
+        "#library--cayenne--halset": "2015-09-07 00:00:00",
+        "#library--cayenne--aplgithub": "2015-06-23 00:00:00",
+        "#library--cayenne--laakhbeenor": "2015-02-19 00:00:00",
+        "#library--cayenne--mrg": "2014-09-02 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#library--cayenne--aperaverzeu": 0,
+        "#library--cayenne--steaked": 0,
+        "#library--cayenne--KeyrisXdSnow": 0,
+        "#library--cayenne--HappyFacade": 0,
+        "#library--cayenne--lbane": 0,
+        "#library--cayenne--jalligator": 0,
+        "#library--cayenne--emecas": 0,
+        "#library--cayenne--jbuddha": 0,
+        "#library--cayenne--seelmann": 0,
+        "#library--cayenne--maiksd": 0,
+        "#library--cayenne--vintikjeny": 0,
+        "#library--cayenne--halset": 0,
+        "#library--cayenne--laakhbeenor": 0,
+        "#library--cayenne--mrg": 0,
+        "#library--cayenne--OlegKhodokevich": 2,
+        "#library--cayenne--faizel": 7,
+        "#library--cayenne--IRus": 7,
+        "#library--cayenne--AlexandrShestak": 21,
+        "#library--cayenne--PRIESt512": 42,
+        "#library--cayenne--nismooooooo": 80,
+        "#library--cayenne--atomashpolskiy": 89,
+        "#library--cayenne--dmitars": 91,
+        "#library--cayenne--dependabot[bot]": 99,
+        "#library--cayenne--sarvaratchagan": 217,
+        "#library--cayenne--const1993": 233,
+        "#library--cayenne--KravchenkoAS": 266,
+        "#library--cayenne--ollybondareva": 272,
+        "#library--cayenne--Ivan-nikitko": 305,
+        "#library--cayenne--aplgithub": 326,
+        "#library--cayenne--MegaPapa": 360,
+        "#library--cayenne--AlexKolonitsky": 421,
+        "#library--cayenne--lonvarscsak": 484,
+        "#library--cayenne--hugithordarson": 860,
+        "#library--cayenne--thinline72": 885,
+        "#library--cayenne--aarrsseni": 1371,
+        "#library--cayenne--dzmitryk": 1964,
+        "#library--cayenne--stariy95": 2183,
+        "#library--cayenne--johnthuss": 3731,
+        "#library--cayenne--ari": 4459,
+        "#library--cayenne--": 4782,
+        "#library--cayenne--andrus": 5009
+    },
+    "commiter_contribute_time1": {
+        "#library--cayenne--ollybondareva": {
+            "start": "2016-01-21 00:00:00",
+            "end": "2016-04-07 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--cayenne--const1993": {
+            "start": "2018-03-27 00:00:00",
+            "end": "2018-11-05 00:00:00",
+            "bug_num_per_commit": 0.36363636363636365,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--cayenne--AlexKolonitsky": {
+            "start": "2014-08-18 00:00:00",
+            "end": "2015-02-24 00:00:00",
+            "bug_num_per_commit": 0.07142857142857142,
+            "bug_commit_num_rate": 0.8571428571428571
+        }
+    },
+    "commiter_contribute_time2": {
+        "#library--cayenne--ollybondareva": {
+            "start": "2016-04-14 00:00:00",
+            "end": "2016-04-14 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--cayenne--const1993": {
+            "start": "2018-11-02 00:00:00",
+            "end": "2018-10-15 00:00:00",
+            "bug_num_per_commit": 0.18181818181818182,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--cayenne--AlexKolonitsky": {
+            "start": "2015-02-24 00:00:00",
+            "end": "2015-02-10 00:00:00",
+            "bug_num_per_commit": 0.2857142857142857,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time3": {
+        "#library--cayenne--ollybondareva": {
+            "start": "2016-04-06 00:00:00",
+            "end": "2016-03-31 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--cayenne--const1993": {
+            "start": "2018-10-10 00:00:00",
+            "end": "2018-08-08 00:00:00",
+            "bug_num_per_commit": 0.18181818181818182,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--cayenne--AlexKolonitsky": {
+            "start": "2015-02-09 00:00:00",
+            "end": "2014-12-10 00:00:00",
+            "bug_num_per_commit": 0.14285714285714285,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#library--cayenne--ollybondareva": {
+            "start": "2016-02-27 00:00:00",
+            "end": "2016-01-21 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--cayenne--const1993": {
+            "start": "2018-08-07 00:00:00",
+            "end": "2018-03-27 00:00:00",
+            "bug_num_per_commit": 0.18181818181818182,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--cayenne--AlexKolonitsky": {
+            "start": "2014-12-10 00:00:00",
+            "end": "2014-08-18 00:00:00",
+            "bug_num_per_commit": 0.14285714285714285,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#library--cayenne--ollybondareva": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 0.0,
+                "time3": 1.0,
+                "time4": 0.3333333333333333
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--cayenne--const1993": {
+            "bug_num_per_commit": {
+                "time1": 0.36363636363636365,
+                "time2": 0.18181818181818182,
+                "time3": 0.18181818181818182,
+                "time4": 0.18181818181818182
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--cayenne--AlexKolonitsky": {
+            "bug_num_per_commit": {
+                "time1": 0.07142857142857142,
+                "time2": 0.2857142857142857,
+                "time3": 0.14285714285714285,
+                "time4": 0.14285714285714285
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.8571428571428571,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#library--cayenne--ollybondareva",
+        "#library--cayenne--const1993",
+        "#library--cayenne--AlexKolonitsky"
+    ],
+    "number_daily_long_time_error_prone_developer": 3,
+    "improved_daily_long_time_error_prone_developer": [],
+    "number_improved_daily_long_time_error_prone_developer": 0
+}

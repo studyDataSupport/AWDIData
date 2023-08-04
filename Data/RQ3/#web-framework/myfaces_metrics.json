@@ -1,0 +1,13 @@
+{
+    "all_file_num": 6492,
+    "error_developer_file_rate": {
+        "#web-framework--myfaces--cnsgithub": 0.00030807147258163895,
+        "#web-framework--myfaces--struberg": 0.13739987677141097,
+        "#web-framework--myfaces--": 0.6512630930375847
+    },
+    "daily_error_prone_developer": [
+        "#web-framework--myfaces--struberg",
+        "#web-framework--myfaces--"
+    ],
+    "number_daily_error_prone_developer": 2
+}

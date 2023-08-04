@@ -1,0 +1,15 @@
+{
+    "all_file_num": 5474,
+    "error_developer_file_rate": {
+        "#big-data--knox--apiloqbc": 0.00018268176835951772,
+        "#big-data--knox--harshiljhaveri": 0.0005480453050785532,
+        "#big-data--knox--nixonrodrigues": 0.0010960906101571063,
+        "#big-data--knox--ZacBlanco": 0.0010960906101571063,
+        "#big-data--knox--nxverma": 0.0012787723785166241,
+        "#big-data--knox--rlevas": 0.021921812203142127
+    },
+    "daily_error_prone_developer": [
+        "#big-data--knox--rlevas"
+    ],
+    "number_daily_error_prone_developer": 1
+}

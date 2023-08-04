@@ -1,0 +1,994 @@
+[
+    {
+        "fix_commit_hash": "f1bb865b6f4959a56d89f6eb7a13cee5ac909fb6",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "e556a29067b8deabbe86bbf6681ef18b6b2b61ac",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "e6d658cf0e9ed285dd81981e1dac85eb07c69182",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "a3c77ef69d4449881a55f43d600e40029a2ee6fd",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "fb864e2ad20ca495b33baf5b7f98ce7bc7f58a0b",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "b313afc611c16936e8c69c6bc533864014b70f4d",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "8629781127259e1c337ac9079f825eaaa6ba6601",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "1e4bd7b4640c1250e0f7bdceee5fc9d47e30b4b2",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "dcfa0f2974abd7cbf50be745f3197f0b977a7e07",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "399fd2ccdc2ab95fef7a58930e5912c24180f6e6",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "32620d1005fead628fe728c7e8e6a69930a1b6ac",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "9b131eb6b1c32184605d69a6573a5b721d216dc0",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "b4e29c715344ed09af4725cfbf4e36879258f022",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "69133eb372906334f9dad2b86f2748d0c0acb941",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "4c9fbd27bac88ee64e3ad3e64b8f3b3e4a5d6621",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "f7e876bbb9ca165918e5826aa8bbba0f8b6d2268",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "ae3953384791eb7dcfd6dd98fd388881a2ee5abf",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "e67a509e3533d4b993f066ec97b5777f963e7d08",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "46a06524e14c280bb3be13f26e34add91fd82e3a",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "24bdc33de85864ed1458d4993fc882c1885b421a",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "c5903208a32bb6fa0f0c580072b7ea1393e1cf46",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "784878de35003c414a620f27538614558d0398a4",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "41ff6a8f1f4d20e1233fdc3df543f921f41d856e",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "6c8998a6881f6190703682ae6fab3480e337adb4",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "425e5b4feeb4549889dbd3dc0d8e2fffdafc110d",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "36c0edcfe105756d0f030a68b1bb3f6d571157d5",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "a9ab16c4fe4681b592ccd7faefabf50e0b1651ba",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "614e219d62fb4341738f0d04ac635bf9cc560280",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "0e45302462ecc66df738a294eee298b950e40ccc",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "5d7d11bf87e8445cdb3a00562e2d7df7d6364544",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "b10bd3061fca534322d041fa8a5e4e2ed91eeda5",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "116bf0c4df0d290edb51dd2795599e8faadc1469",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "44cab548cb4e15d56235aa12eaf0898d028351d0",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "22d5d41080d10e63304fcb6bc94c5c218fc1de6c",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "0cb51672f7316b8b4423a78bec4cab5cea4e0059",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "547655dfcb618da138cdaffe337a7126715dc4a2",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "5c4f310850d595e3cb588c891ccb0d011e42c59f",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "57ec4b7bc774d5c1a2c2c418444a70a31e5c9582",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "68a1d783314de5e53291f3f7361125089d6044e6",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "1e9d57e176b142ed05f48928e36c04149c1f9385",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "8696fc66757f1112a602e223b3f89096304054fc",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "6e81a9e3250368dcc6f125bc5864495659a749b1",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "9a1b26e06e35220fb349de2e8c4197c1ac87dcf9",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "5b525196a430c1b935a5c2c8f7b10903e67dad6e",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "ca4dce3bdb65b53681b94c1ddfa8e607a05bf425",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "7068d0c3750cd54a136df7fadb1dbbac9cd3e201",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "b75845c7ec4f8d51cda0a0de55e86c329e387846",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "b8c80d1f139a335aa311b83cefc23d96e00f9c39",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "c93ea4082a08a130da0afe36e0d5bfae030a21a9",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "029fdfe9b9c7f5147d57244984613857174b9f2a",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "ff286af1d30f4121a36a433fdc793ec22a61154e",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "1d95e4038cfa3735e231de93a8038f44ea1b4fe3",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "a80085ab1e534fe158e2597c99a36f63d1fe6f9d",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "b275fd2bb24905e0ebf61368788fc0f4aa565045",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "1a10681f41e35f4660e71c9e8058089613af427c",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "74753eb5d8c9e6aded21fe5a9a8c872447ef0e6b",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "654d4a6cbae56cc73abe124ed6a38f29fb5fa8cf",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "458d7c628eaf8371c53ba906316ac3077235e40c",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "286ec375d8799d6b212a3a4c2d37d378c55b19ee",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "5739fb646dd5634eb36b736683c9118c40a49b0f",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "6e22c52f689597741503ce2a85881b249f4728f4",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "09d65b9b3e4aefe9c36b1a5ee6b8d6944e411302",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "61a85181b1e043b36180545d7ea3f2eac3e25422",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "c0815154c785054f4a66f6f2876ffa465891519c",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "29ca009b876d16525fdb70cc2e854ff8daf39ef7",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "dec1d4c66100f02d3f9dc6ceddb464c004cfeed0",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "c93020cbb56dccd39bb4557c53aaedd99473c0b5",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "5e331f5aeb3d8aaf472fce51851a6badb8a9a9f7",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "9c7152da6b832ef7112d0cc6c490dcdb8d6060d1",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "9c7e2b3fdd790def5deeda1f12eae987527b2011",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "2b95f256f97dcfa8ec95bb3e5a96182224094c02",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "5ff0b332487c68c50eb1af910427fd5a81f3af72",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "9eaa2e4ee7bc6c5df482b8e6c96457fd18f1a0c6",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "3480f034c051c33f55c099fbf28b19d5506cfb7d",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "92f2375c07e81c06178ff02d872d4792fc800675",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "45c77307fc0b4c1f9b5cb5f11460910e215d9745",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "94aa6822ea2fafc3324438282a0800f8ef3749d5",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "a03b1ecaf714a199f8123db8e14b70dac376c170",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "76c3a90e12350edc149fbe8b92d575cf47236a5f",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "eaa2451026bbdb5976b190fc32bfd554328b7449",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "7f6dc0fdbe1b84e43b78e86229917881f0e2252a",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "ff74e62160d73052bd034db6bcb5259bbb9625a7",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "96f1bf3d1de570bf08c7383746126562d01ea179",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "45458d449e6209c22f03482f02f374e3a858ebda",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "d0058639719021eaf1289ef2edcde085b6dbceb1",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "025e299b6490bed1709ec8e9df95e5b2bb00d4f6",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "28cc2ed08299bfc8092fbbbfdced342fd37d16cf",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "500599af40e521774071c7ee6360ff58c57c010a",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "c8806bfb9afaf91eca5351fc2dddd258af091025",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "918a4dbcb9fbf7c525aefc2fd2df6ee09a858db2",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "c20958e88ac44a0ce34f4288fd22fd13ac537bbc",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "cdee8c0a5b25a5babb4a6a1e71fa161e34a23a19",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "9fb8c4984baba1faa6fe9e85caad5f321acf3bc0",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "3830a3b1aa10a8ed18520184692faf09114d45be",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "1c264ba5dda731621dd6cd4f2a7b791b5baf92a0",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "005a9d129379ef2110ce0ca5ef9b6bc100b69064",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "536c177add6af3e901b1945b0a1b463a033c1018",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "8ad38d6ae31ad0854abd92ec5ed20ee3b344c877",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "836d174f32886ae3da10416b2e3977f5d0824157",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "5b3016852580b7f95c07f49a7a9d19a7b81f5111",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "1bf6882dafaeeb700092b772f2002e26a7fef542",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "0828706ce7194ab1207aa404637a8c9d635ffb18",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "454a916e891112c69a85d5601748abbe4475288c",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "f9b2a923b63193c4e4584b524ac5fad40c0d1852",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "133bae52d575d0bde2d915397069ed75681c9c58",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "08d13e7e83fdb73103ab7c4f5b376a75672d3e01",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "c02c9178c1def74e88e464f3296ddfdef15047f3",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "0e4ad5bf8b51491ef3b68ab57f26e1a17bb20dd6",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "24035d130ca1946b11d194dc8f36530702daa24a",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "eedc926d47dc4e51b324f8ce63c8ebf51273ab5a",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "06e1ae1cd194f3e3e78117a787c378c10f1f07b1",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "c745ce54ee9708ecae0ebda758fb2535f80d3c50",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "c634076138057c16d4c322e0374ff8c48717407d",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "37d28ba804adb89212f027f570ff6f8c19ecbfb7",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "282601f5f542ba3fc65369de01904f6ca570652b",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "0a6cc7b4ad5103b026aa65bcd53a1029828db156",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "f05b204cbbdb3de17c71b7189352a9dc1111b189",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "199b199f666140855cc812700d0d07e063e06b6f",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "d0ba921e79018085b261e7fc0aa93319b4795226",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "ae13bc48e208870f48be8897846e2795973ef283",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "3674f6d8e056df67dbf510857841acbae9aaf8be",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "0fdb8f0a2ce73a777e5f4d507dbdc4d230fe5698",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "dd00a9e6acf714dc7379a4173bace6abe81a06ca",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "53d05d032131689b4794ce4c4ed1987511f12790",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "91d9855ed26bd4ea72871ca3a2a3c484b13d606e",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "67d36ffa6b7b1d46a54dd4468e4ae97672208bda",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "c8baae0e5d17445cb04c226184ea381c2c56ee56",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "60303bb2322f034843952e208b58bd174ce61745",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "55755775d6b1f1d4130dc83743fb7ce137c06cd0",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "50029260b075cf5cd49ee1c528f7b44543ca0967",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "57b88d2645012423b51c416b5c4f3e6e54dca627",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "a81d026c21646918fd14896791aa9ab829d02617",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "2907c71c98948b7402efa18d0be7e952e8690e09",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "adfb09d10674b5fe60118ca892e4c28ab707b532",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "1a9e79bf3ed15ea8920c82061940eac3a0591ae3",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "97a226e08e9064fec517c5e0d348ce3a2ca56f17",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "f95fe6c9601713cdce1b947c6d572006b7a9b8e9",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "49247d208bde47f652812493e1d3576e136b8eb8",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "cc4b23b2df1ecc7b1097c795ba31d7ef7f3ca157",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "a9989b22cefee6cd9beebbd5c8158070befabc30",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "8536d5bbda6a0079338f98a3789e8d6fc1b9fd0d",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "a82c75e61047d995b949bd3af7be2839e59ee105",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "fe03c65b0ebb6017172823e7ff73565a28f4df55",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "eb3040f45b654de8c07027ec57e9c998ef81c395",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "7f5ba5e7e62ae1c492b858e994b098a5ecb1ff50",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "70183fd6f8835e6878502d0e0a6d0535809ddee4",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "af51b751ca439a420c4d9f40ddc19781a5a470f6",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "e0d832c13bc34e847ccdf78525e03d38a04abbfd",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "dfc63f8093b7681319662de738a5e2b0c54e8be8",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "838d4ff71a5838d5f8c594a5a922920762731af5",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "cadcda1ddeff70329191de82ef6e498dcd342244",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "ec57be834eb4be793dfc9672b941a64856905642",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "5051d4455d96ddadd86dd544943904ead239001e",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "96a75e8a944adefada7a0f365540db4a9bdfa3e7",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "1ca92f229e25e745bd8b7d3ed54e12ddd9b724a2",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "1e20ba006fd84af19fd7ca9cd58f0d3f5cbe6808",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "c760d03b06aeda053ac338851c20a4aa2490b850",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "4d1384d7d2eae7533cff1aef6e1b822c6e4125e1",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "81401f887a11946f3ee3d3e198620a41cada964e",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "30c2b1251da8c3315f591415090eeeb43c4d62eb",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "7b97ccb47190b43f2e54463e8885f220cb11f83a",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "b9c03f28a2198bb5fe77290f26f0286d366167bc",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "957e5fc2089706ea92d46ef695819a9a8c6f2ab7",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "f6ace156e10069c2045daa602378c63df7556624",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "87da8451bab5177eb6bf544a8044c1df7cac4f69",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "05194404972ea7dadcf23785c0db9c4d3c1eba45",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "701c024f69b0e7352f516afa9f01615973d91b6a",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "3481060a960e10e92624ebbd0eb60d688ceb9dd5",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "e6b7127f695eb4d4321921a36709256f72e8e0f2",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "ca751ae081352a48715fc9a00b11cda5ffe1ca6a",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "242ed4707075e3e86cf0394fa2870b1e289f6043",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "a282431fe7031626c63c5dd85a37fd671dc54be3",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "2f485ed2f63148bf4be5df891506177bd3be6f2a",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "b06c497e3746833daab26b3e6695e610e7547336",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "1c2ae894d2007e33ba9b1a9a91bfcc86c62b6572",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "ecae462ef1ea6b03ba0ae3e4c1e80cf963e982fe",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "240bdffbab893db9ae19e35ccb740b304ab7bbc8",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "3802d87f304f2965397ef79ba4f7283f90478988",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "9a75fc09268edfe1dfb507f7aadc750b46139422",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "cb8e5d28466af959beda869fc60ad6895a833619",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "6817ab4a5f7e0a37d98aca26ade691362232b382",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "42a879d89ba04b4295ffb2cdaf850e702d361fd0",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "68e7d5d8311b5921646027b64dfbd4ad6d0dcd1d",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "b95e0feec913c3232a7beac2310ec59caa92ed0d",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "81dcb6762a2c4ceb5cde64b88b59aa39a7e790bb",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "607cc8a2e2827878f06ab26e05b8f8cdab4b4ac5",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "1b79a43f51663bcbe99b1b1ab242ad669d885161",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "b01ab18a9e6745c580f82d9558e32053936ad24e",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "4a44b9678d8544c4b7c8d02dbabdc3b3f9b1ee31",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "384289bdf9c2249d0ab261c73508ddc36ef5d0e4",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "14948bd5cdcac592576c21bb28b0a532034c426a",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "fc93cb34367e4e14f348fc96e612c946c4b53e8e",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "9e7c2048559c333b178ad52da07796290bf6e1e8",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "dcdc8eaff69a3fe75dc3f1ef10fbf66a70eb3273",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "2a5072fa6ab654ee58b129a0b8ce32cf1380b836",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "ebff9b20297007450fb659416fb8fca30b1ff3cf",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "61d042e788d7d0c6e2cc913f1454e96fb7932e07",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "f47f64d11bdf3342572a3f1558759a46b2c0dbc9",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "e059d751b2e4047d0bcf2b14f2782ea171302ebb",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "3e452b0a3f8a5680471044ca0182005164d5f3ca",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "d585f08a48f76953604567b706e5e3c29f1f56b1",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "4ac8710bca53628e7c3297c6a2835db810c5ca8e",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "11944e4075432e535d7fd68547503e955fd49362",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "3a7fd09047fa3408568d4a0fdd62a11ab3c43b51",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "0dc88dceedb97116a6ec9a13600a55fc40525d7b",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "a70e7abec9b1a8af9727d40b782a4a7d7282bf6f",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "dcc07d86d537aac18f210a5535d7226eba5496e0",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "1ac10a89c175176c2e93bd3d9ffbb417583fe196",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "0e69865dd7bf51b1f5b8a7459005dd49bb2df083",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "040b4963c69da6b722622877032917024f55d6dd",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "dc354a70a839dc3e0781d2e2a5eb158408ff8031",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "da62aa1b7bfda2f92f36e3cc6882c68921c15b16",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "bc20b829b44714d22da26609490642156ab96eb7",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "210dd9a6734cbd7210c85cdf6c79508e616fd353",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "4876a2964c52239b99426a118019142a7eb8eb75",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "92ce429afb33e6983a85a0d43ceb94ccc491a487",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "14dc8d27a13e315b139321e20fdfd5532672c403",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "f3bc526833f1b290f5ef90015b12969208732733",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "9d9e1291190bb31873230948e7a0de9ec5f3e214",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "32a2c8c5cadb47e238af72ea43a0bc2147ce6fbc",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "ef22fce270a2cffce3bcc25e31ad613b9124bf60",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "91b73a9433148b8024a941596098a31ee79d49e0",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "47b58748a2d96382ddf89df594a433d815a19cb1",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "1affb4896c83d2f8dfb527901b531ca7871aa186",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "37502bd3e05e7ae1797d3a8709ecb1e0cc516554",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "5466eb4df6bc4f89d0a8cdd22b790209b35a5d31",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "f4d7c061dd2eb3ec42f812164a25f715d493fdb6",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "4fec187c8ea98136c0d76a2c87b464d1901e8427",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "b549709a41031ca810d5fcab335824639404e656",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "8929daf0b90c19b640936862ea31877ab1b83942",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "f433f784d404ecddaa53437e3f51fbc77bffacd0",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "1d7d46424771faadeb0492e44a84eb6c2c153990",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "5b717c1ade5dbaec68c75cbbd1dd182411c6ebcb",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "2f6f79a8ccc352e7d96c4c90ea9778897f7ffb90",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "3720eff9995852008ce67382646ba838eb8e1818",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "fd7ff76e2a172e803518154a911094513a97bc7b",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "7c9394abe466fd96e4ba18ecc38a8be1c1639014",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "2ddf4ec890d77eceede338e80fe0eb25fb8b2e35",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "7042fe049858c9f683d81a4873bf887f67e482f3",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "328c8c481bb1cc72b78fd39e0c68c57c918354ca",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "11faaefb56be826192c014146b596b578dadd1e1",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "2e7f979bfe2b569a6798149734958465e1015222",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "27b51d4a63a9eb37b6f3e6b01a63853e21f8c5b7",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "5a7634af3c8304d44a4d3ceb9f7490655e76ce1d",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "b33512440c7b6c3dcb2777eff5ea28eae957278a",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "044d932f3b12ac8fefe61732a2ec5f003c15d7fa",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "90c02901481cef3490876b73157d174d2926415e",
+        "repo_name": "apache/httpcomponents-core"
+    },
+    {
+        "fix_commit_hash": "6304ae2cfc44c4ee43c196a5bb9cbc72ac4d4314",
+        "repo_name": "apache/httpcomponents-core"
+    }
+]

@@ -1,0 +1,1736 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#java--iotdb--JackieTien97": "2019-09-27 00:00:00",
+        "#java--iotdb--suchenglong": "2022-09-02 00:00:00",
+        "#java--iotdb--MrQuansy": "2021-07-29 00:00:00",
+        "#java--iotdb--Cpaulyz": "2021-07-29 00:00:00",
+        "#java--iotdb--THUMarkLau": "2021-03-06 00:00:00",
+        "#java--iotdb--Wei-hao-Li": "2022-06-14 00:00:00",
+        "#java--iotdb--LyndonYang1024": "2022-10-27 00:00:00",
+        "#java--iotdb--liuminghui233": "2021-07-13 00:00:00",
+        "#java--iotdb--SpriCoder": "2021-08-11 00:00:00",
+        "#java--iotdb--MarcosZyk": "2021-07-13 00:00:00",
+        "#java--iotdb--Beyyes": "2017-05-20 00:00:00",
+        "#java--iotdb--lancelly": "2022-07-02 00:00:00",
+        "#java--iotdb--SzyWilliam": "2021-12-20 00:00:00",
+        "#java--iotdb--CRZbulabula": "2020-10-19 00:00:00",
+        "#java--iotdb--ericpai": "2021-03-09 00:00:00",
+        "#java--iotdb--HTHou": "2019-10-16 00:00:00",
+        "#java--iotdb--lizhizhou": "2022-10-12 00:00:00",
+        "#java--iotdb--MiniSho": "2022-06-29 00:00:00",
+        "#java--iotdb--xiaoyekanren": "2019-04-20 00:00:00",
+        "#java--iotdb--yschengzi": "2021-07-27 00:00:00",
+        "#java--iotdb--dependabot[bot]": "2019-10-30 00:00:00",
+        "#java--iotdb--irvine0109": "2021-01-15 00:00:00",
+        "#java--iotdb--CloudWise-Lukemiao": "2021-04-27 00:00:00",
+        "#java--iotdb--jixuan1989": "2017-12-01 00:00:00",
+        "#java--iotdb--HeimingZ": "2020-12-18 00:00:00",
+        "#java--iotdb--Caideyipi": "2022-09-26 00:00:00",
+        "#java--iotdb--RYH61": "2022-02-08 00:00:00",
+        "#java--iotdb--wanghui42": "2022-05-26 00:00:00",
+        "#java--iotdb--lxxawfl": "2022-10-15 00:00:00",
+        "#java--iotdb--cornmonster": "2021-09-13 00:00:00",
+        "#java--iotdb--choubenson": "2021-10-11 00:00:00",
+        "#java--iotdb--xingtanzjr": "2020-05-29 00:00:00",
+        "#java--iotdb--LittleHealth": "2022-09-08 00:00:00",
+        "#java--iotdb--lyssom": "2021-03-23 00:00:00",
+        "#java--iotdb--qiaojialin": "2017-05-15 00:00:00",
+        "#java--iotdb--krystal-xiao": "2021-06-16 00:00:00",
+        "#java--iotdb--cserwen": "2022-09-27 00:00:00",
+        "#java--iotdb--yifuzhou": "2021-03-10 00:00:00",
+        "#java--iotdb--xuanronaldo": "2021-09-22 00:00:00",
+        "#java--iotdb--jamber001": "2021-03-31 00:00:00",
+        "#java--iotdb--BanDuWuZi": "2022-04-07 00:00:00",
+        "#java--iotdb--bigreybear": "2017-05-19 00:00:00",
+        "#java--iotdb--chengyang14": "2022-09-01 00:00:00",
+        "#java--iotdb--ZhanGHanG9991": "2021-10-26 00:00:00",
+        "#java--iotdb--KeeProMise": "2022-08-02 00:00:00",
+        "#java--iotdb--2b3c511": "2022-08-12 00:00:00",
+        "#java--iotdb--caozj1011": "2022-08-26 00:00:00",
+        "#java--iotdb--wangchao316": "2021-01-15 00:00:00",
+        "#java--iotdb--23931017wu": "2022-06-07 00:00:00",
+        "#java--iotdb--cmlmakahts": "2021-07-20 00:00:00",
+        "#java--iotdb--trin1t": "2022-01-01 00:00:00",
+        "#java--iotdb--flashzxi": "2022-02-28 00:00:00",
+        "#java--iotdb--wjr4hy": "2022-08-19 00:00:00",
+        "#java--iotdb--CalvinKirs": "2022-08-17 00:00:00",
+        "#java--iotdb--liruizhi19": "2022-07-18 00:00:00",
+        "#java--iotdb--Husaimawx": "2022-08-11 00:00:00",
+        "#java--iotdb--zh0122": "2022-08-03 00:00:00",
+        "#java--iotdb--imquanke": "2022-07-02 00:00:00",
+        "#java--iotdb--jun0315": "2021-09-15 00:00:00",
+        "#java--iotdb--jakemcf22": "2022-07-25 00:00:00",
+        "#java--iotdb--yuxianye": "2022-07-21 00:00:00",
+        "#java--iotdb--FangJL9495": "2022-07-02 00:00:00",
+        "#java--iotdb--yunchan86": "2022-07-09 00:00:00",
+        "#java--iotdb--selectbook": "2022-07-12 00:00:00",
+        "#java--iotdb--fuwei3140": "2021-11-19 00:00:00",
+        "#java--iotdb--xinzhongtianxia": "2021-08-16 00:00:00",
+        "#java--iotdb--hejiarui2015": "2022-07-01 00:00:00",
+        "#java--iotdb--yuyuankang": "2019-02-18 00:00:00",
+        "#java--iotdb--Plutooooooo": "2021-12-13 00:00:00",
+        "#java--iotdb--Coding-Deng": "2022-06-13 00:00:00",
+        "#java--iotdb--tisonkun": "2022-06-26 00:00:00",
+        "#java--iotdb--Alima777": "2020-01-02 00:00:00",
+        "#java--iotdb--OneSizeFitsQuorum": "2020-03-06 00:00:00",
+        "#java--iotdb--SteveYurongSu": "2020-10-21 00:00:00",
+        "#java--iotdb--leety1228": "2022-06-22 00:00:00",
+        "#java--iotdb--leonardodalinky": "2022-06-21 00:00:00",
+        "#java--iotdb--LIU-WEI-git": "2021-10-14 00:00:00",
+        "#java--iotdb--noorall": "2021-11-16 00:00:00",
+        "#java--iotdb--wayblink": "2022-06-14 00:00:00",
+        "#java--iotdb--dafei1288": "2022-06-10 00:00:00",
+        "#java--iotdb--wallezhang": "2022-06-01 00:00:00",
+        "#java--iotdb--mychaow": "2020-04-30 00:00:00",
+        "#java--iotdb--chuchaofan": "2022-05-26 00:00:00",
+        "#java--iotdb--": "2017-05-07 00:00:00",
+        "#java--iotdb--greenhandatsjtu": "2022-05-28 00:00:00",
+        "#java--iotdb--tsunghanjacktsai": "2019-06-21 00:00:00",
+        "#java--iotdb--cigarl": "2021-08-31 00:00:00",
+        "#java--iotdb--ljn55966005": "2022-05-17 00:00:00",
+        "#java--iotdb--swpulk": "2022-05-12 00:00:00",
+        "#java--iotdb--JerryZhangZZY": "2022-02-08 00:00:00",
+        "#java--iotdb--zjx1230": "2022-03-08 00:00:00",
+        "#java--iotdb--iskytek": "2022-04-19 00:00:00",
+        "#java--iotdb--chengjianyun": "2021-08-19 00:00:00",
+        "#java--iotdb--ChengShengHan": "2022-04-18 00:00:00",
+        "#java--iotdb--ChenSiHou": "2022-04-14 00:00:00",
+        "#java--iotdb--huzk8": "2022-04-10 00:00:00",
+        "#java--iotdb--FrankHWD": "2022-03-22 00:00:00",
+        "#java--iotdb--ChuShaoHuan": "2022-04-07 00:00:00",
+        "#java--iotdb--cchen1115": "2022-04-07 00:00:00",
+        "#java--iotdb--huanhuanerer": "2022-04-06 00:00:00",
+        "#java--iotdb--MinaQin": "2022-04-06 00:00:00",
+        "#java--iotdb--jiazhiren": "2022-04-02 00:00:00",
+        "#java--iotdb--543202718": "2021-02-22 00:00:00",
+        "#java--iotdb--SilverNarcissus": "2019-07-25 00:00:00",
+        "#java--iotdb--samperson1997": "2019-07-09 00:00:00",
+        "#java--iotdb--yyt86": "2021-07-12 00:00:00",
+        "#java--iotdb--holtenko": "2022-02-27 00:00:00",
+        "#java--iotdb--LeiRui": "2018-03-29 00:00:00",
+        "#java--iotdb--ahuazhu": "2022-02-11 00:00:00",
+        "#java--iotdb--czllgzmzl": "2022-01-27 00:00:00",
+        "#java--iotdb--WilliamSong112": "2021-02-26 00:00:00",
+        "#java--iotdb--SiasDoming": "2021-06-10 00:00:00",
+        "#java--iotdb--Alibaba-HZY": "2022-01-12 00:00:00",
+        "#java--iotdb--jt2594838": "2017-12-21 00:00:00",
+        "#java--iotdb--Shoothzj": "2022-01-10 00:00:00",
+        "#java--iotdb--GOptimistic": "2022-01-01 00:00:00",
+        "#java--iotdb--neuyilan": "2020-04-10 00:00:00",
+        "#java--iotdb--icloudsong": "2021-12-17 00:00:00",
+        "#java--iotdb--wang-lucy": "2021-12-06 00:00:00",
+        "#java--iotdb--shunfan-shao": "2021-11-24 00:00:00",
+        "#java--iotdb--dcoliversun": "2021-10-08 00:00:00",
+        "#java--iotdb--jenna25": "2021-11-12 00:00:00",
+        "#java--iotdb--choleraehyq": "2021-11-02 00:00:00",
+        "#java--iotdb--ruanwenjun": "2021-09-27 00:00:00",
+        "#java--iotdb--JulianFeinauer": "2019-02-27 00:00:00",
+        "#java--iotdb--Ltttttt2000": "2021-09-25 00:00:00",
+        "#java--iotdb--slawr": "2021-09-25 00:00:00",
+        "#java--iotdb--FastAtlas": "2021-09-18 00:00:00",
+        "#java--iotdb--ijihang": "2021-06-03 00:00:00",
+        "#java--iotdb--ShuanglinWu": "2021-07-29 00:00:00",
+        "#java--iotdb--Superainbower": "2021-04-26 00:00:00",
+        "#java--iotdb--liutaohua": "2019-11-04 00:00:00",
+        "#java--iotdb--kr11": "2017-09-01 00:00:00",
+        "#java--iotdb--QuakeWang": "2021-08-03 00:00:00",
+        "#java--iotdb--zhengjp31": "2021-06-10 00:00:00",
+        "#java--iotdb--yanhongwangg": "2020-09-01 00:00:00",
+        "#java--iotdb--liujiajun": "2021-05-28 00:00:00",
+        "#java--iotdb--limeng32": "2021-07-16 00:00:00",
+        "#java--iotdb--Eights-Li": "2021-07-09 00:00:00",
+        "#java--iotdb--caszhou": "2021-06-07 00:00:00",
+        "#java--iotdb--mzp0514": "2021-04-28 00:00:00",
+        "#java--iotdb--haimeiguo": "2020-08-07 00:00:00",
+        "#java--iotdb--fanhualta": "2019-01-24 00:00:00",
+        "#java--iotdb--wangjunyou": "2021-06-24 00:00:00",
+        "#java--iotdb--zhanglingzhe0820": "2020-03-14 00:00:00",
+        "#java--iotdb--dongzl": "2020-11-25 00:00:00",
+        "#java--iotdb--xuesyn": "2021-04-27 00:00:00",
+        "#java--iotdb--sunjincheng121": "2019-12-12 00:00:00",
+        "#java--iotdb--kydxh": "2021-05-07 00:00:00",
+        "#java--iotdb--NiklasMerz": "2021-05-01 00:00:00",
+        "#java--iotdb--tieredblocks": "2021-01-22 00:00:00",
+        "#java--iotdb--EJTTianYu": "2019-02-20 00:00:00",
+        "#java--iotdb--wshao08": "2020-03-03 00:00:00",
+        "#java--iotdb--liu-hai": "2021-04-02 00:00:00",
+        "#java--iotdb--jxlgzwh": "2021-02-19 00:00:00",
+        "#java--iotdb--Sunny-Island": "2021-03-23 00:00:00",
+        "#java--iotdb--HelKim": "2021-03-19 00:00:00",
+        "#java--iotdb--rhmangmang": "2020-11-22 00:00:00",
+        "#java--iotdb--GLBB": "2021-02-22 00:00:00",
+        "#java--iotdb--chenjun40": "2021-02-26 00:00:00",
+        "#java--iotdb--wuzhaojie": "2021-02-20 00:00:00",
+        "#java--iotdb--yuqi1129": "2020-09-27 00:00:00",
+        "#java--iotdb--asdf2014": "2020-11-05 00:00:00",
+        "#java--iotdb--Genius-pig": "2019-07-03 00:00:00",
+        "#java--iotdb--kezhenxu94": "2020-12-03 00:00:00",
+        "#java--iotdb--dynamicDr": "2020-02-15 00:00:00",
+        "#java--iotdb--flesher0813": "2020-12-10 00:00:00",
+        "#java--iotdb--cuibo01": "2020-12-05 00:00:00",
+        "#java--iotdb--w169q169": "2020-11-28 00:00:00",
+        "#java--iotdb--JesseZhou-1": "2020-10-27 00:00:00",
+        "#java--iotdb--liushangkun": "2020-10-25 00:00:00",
+        "#java--iotdb--DidierDrogba1": "2020-10-14 00:00:00",
+        "#java--iotdb--YZD1805010208": "2020-09-27 00:00:00",
+        "#java--iotdb--chrisdutz": "2018-12-14 00:00:00",
+        "#java--iotdb--SimonSimCity": "2020-09-10 00:00:00",
+        "#java--iotdb--zzchun": "2020-08-16 00:00:00",
+        "#java--iotdb--dddddai": "2020-08-03 00:00:00",
+        "#java--iotdb--noneedname": "2020-06-12 00:00:00",
+        "#java--iotdb--mzcshen": "2020-07-09 00:00:00",
+        "#java--iotdb--yx-zhang": "2019-08-14 00:00:00",
+        "#java--iotdb--SailVR": "2020-03-09 00:00:00",
+        "#java--iotdb--vesense": "2020-02-15 00:00:00",
+        "#java--iotdb--MarcusSorealheis": "2020-06-20 00:00:00",
+        "#java--iotdb--WeiZhong94": "2020-04-21 00:00:00",
+        "#java--iotdb--iiint": "2020-05-02 00:00:00",
+        "#java--iotdb--sulthan309": "2020-04-25 00:00:00",
+        "#java--iotdb--iwasjoker": "2020-04-17 00:00:00",
+        "#java--iotdb--etiennerobinet": "2020-04-04 00:00:00",
+        "#java--iotdb--VenkatDatta": "2020-03-17 00:00:00",
+        "#java--iotdb--zzy9424": "2020-03-11 00:00:00",
+        "#java--iotdb--SolomonAnn": "2019-02-16 00:00:00",
+        "#java--iotdb--duhenglucky": "2020-02-17 00:00:00",
+        "#java--iotdb--linliu03": "2020-01-03 00:00:00",
+        "#java--iotdb--nlosilva1": "2019-09-12 00:00:00",
+        "#java--iotdb--mdf369": "2018-01-15 00:00:00",
+        "#java--iotdb--liuruiyiyang": "2018-02-01 00:00:00",
+        "#java--iotdb--francis-du": "2019-11-07 00:00:00",
+        "#java--iotdb--little-emotion": "2018-05-25 00:00:00",
+        "#java--iotdb--xijunmu": "2019-10-19 00:00:00",
+        "#java--iotdb--mikip65": "2019-07-08 00:00:00",
+        "#java--iotdb--wangyh-thss": "2019-05-30 00:00:00",
+        "#java--iotdb--stefaniexin": "2017-11-09 00:00:00",
+        "#java--iotdb--MyXOF": "2017-05-07 00:00:00",
+        "#java--iotdb--1160300922": "2019-07-19 00:00:00",
+        "#java--iotdb--y-wan": "2019-06-23 00:00:00",
+        "#java--iotdb--sontallive": "2019-04-02 00:00:00",
+        "#java--iotdb--gimpong": "2019-05-07 00:00:00",
+        "#java--iotdb--wujysh": "2017-07-17 00:00:00",
+        "#java--iotdb--FLOW4215": "2019-04-03 00:00:00",
+        "#java--iotdb--ycheng9": "2019-02-21 00:00:00",
+        "#java--iotdb--liukun4515": "2017-05-07 00:00:00",
+        "#java--iotdb--blingbling11": "2018-07-28 00:00:00",
+        "#java--iotdb--MansteinLiliang": "2017-12-30 00:00:00",
+        "#java--iotdb--nelbdss": "2017-12-01 00:00:00",
+        "#java--iotdb--Feynmannnn": "2017-07-22 00:00:00",
+        "#java--iotdb--Carlin-Cheung": "2017-07-16 00:00:00",
+        "#java--iotdb--carpinmingsanlang": "2017-07-18 00:00:00",
+        "#java--iotdb--vivid-kr": "2017-07-05 00:00:00"
+    },
+    "commiter_end_time": {
+        "#java--iotdb--JackieTien97": "2022-10-27 00:00:00",
+        "#java--iotdb--suchenglong": "2022-10-27 00:00:00",
+        "#java--iotdb--MrQuansy": "2022-10-27 00:00:00",
+        "#java--iotdb--Cpaulyz": "2022-10-27 00:00:00",
+        "#java--iotdb--THUMarkLau": "2022-10-27 00:00:00",
+        "#java--iotdb--Wei-hao-Li": "2022-10-27 00:00:00",
+        "#java--iotdb--LyndonYang1024": "2022-10-27 00:00:00",
+        "#java--iotdb--liuminghui233": "2022-10-27 00:00:00",
+        "#java--iotdb--SpriCoder": "2022-10-26 00:00:00",
+        "#java--iotdb--MarcosZyk": "2022-10-26 00:00:00",
+        "#java--iotdb--Beyyes": "2022-10-26 00:00:00",
+        "#java--iotdb--lancelly": "2022-10-26 00:00:00",
+        "#java--iotdb--SzyWilliam": "2022-10-26 00:00:00",
+        "#java--iotdb--CRZbulabula": "2022-10-26 00:00:00",
+        "#java--iotdb--ericpai": "2022-10-26 00:00:00",
+        "#java--iotdb--HTHou": "2022-10-25 00:00:00",
+        "#java--iotdb--lizhizhou": "2022-10-25 00:00:00",
+        "#java--iotdb--MiniSho": "2022-10-25 00:00:00",
+        "#java--iotdb--xiaoyekanren": "2022-10-24 00:00:00",
+        "#java--iotdb--yschengzi": "2022-10-24 00:00:00",
+        "#java--iotdb--dependabot[bot]": "2022-10-23 00:00:00",
+        "#java--iotdb--irvine0109": "2022-10-21 00:00:00",
+        "#java--iotdb--CloudWise-Lukemiao": "2022-10-21 00:00:00",
+        "#java--iotdb--jixuan1989": "2022-10-20 00:00:00",
+        "#java--iotdb--HeimingZ": "2022-10-20 00:00:00",
+        "#java--iotdb--Caideyipi": "2022-10-19 00:00:00",
+        "#java--iotdb--RYH61": "2022-10-19 00:00:00",
+        "#java--iotdb--wanghui42": "2022-10-17 00:00:00",
+        "#java--iotdb--lxxawfl": "2022-10-15 00:00:00",
+        "#java--iotdb--cornmonster": "2022-10-12 00:00:00",
+        "#java--iotdb--choubenson": "2022-10-12 00:00:00",
+        "#java--iotdb--xingtanzjr": "2022-10-08 00:00:00",
+        "#java--iotdb--LittleHealth": "2022-10-06 00:00:00",
+        "#java--iotdb--lyssom": "2022-10-05 00:00:00",
+        "#java--iotdb--qiaojialin": "2022-09-30 00:00:00",
+        "#java--iotdb--krystal-xiao": "2022-09-28 00:00:00",
+        "#java--iotdb--cserwen": "2022-09-27 00:00:00",
+        "#java--iotdb--yifuzhou": "2022-09-24 00:00:00",
+        "#java--iotdb--xuanronaldo": "2022-09-23 00:00:00",
+        "#java--iotdb--jamber001": "2022-09-23 00:00:00",
+        "#java--iotdb--BanDuWuZi": "2022-09-20 00:00:00",
+        "#java--iotdb--bigreybear": "2022-09-20 00:00:00",
+        "#java--iotdb--chengyang14": "2022-09-20 00:00:00",
+        "#java--iotdb--ZhanGHanG9991": "2022-09-20 00:00:00",
+        "#java--iotdb--KeeProMise": "2022-09-10 00:00:00",
+        "#java--iotdb--2b3c511": "2022-09-08 00:00:00",
+        "#java--iotdb--caozj1011": "2022-09-08 00:00:00",
+        "#java--iotdb--wangchao316": "2022-09-01 00:00:00",
+        "#java--iotdb--23931017wu": "2022-09-01 00:00:00",
+        "#java--iotdb--cmlmakahts": "2022-08-31 00:00:00",
+        "#java--iotdb--trin1t": "2022-08-25 00:00:00",
+        "#java--iotdb--flashzxi": "2022-08-25 00:00:00",
+        "#java--iotdb--wjr4hy": "2022-08-24 00:00:00",
+        "#java--iotdb--CalvinKirs": "2022-08-17 00:00:00",
+        "#java--iotdb--liruizhi19": "2022-08-15 00:00:00",
+        "#java--iotdb--Husaimawx": "2022-08-11 00:00:00",
+        "#java--iotdb--zh0122": "2022-08-03 00:00:00",
+        "#java--iotdb--imquanke": "2022-07-28 00:00:00",
+        "#java--iotdb--jun0315": "2022-07-27 00:00:00",
+        "#java--iotdb--jakemcf22": "2022-07-25 00:00:00",
+        "#java--iotdb--yuxianye": "2022-07-21 00:00:00",
+        "#java--iotdb--FangJL9495": "2022-07-20 00:00:00",
+        "#java--iotdb--yunchan86": "2022-07-13 00:00:00",
+        "#java--iotdb--selectbook": "2022-07-12 00:00:00",
+        "#java--iotdb--fuwei3140": "2022-07-11 00:00:00",
+        "#java--iotdb--xinzhongtianxia": "2022-07-06 00:00:00",
+        "#java--iotdb--hejiarui2015": "2022-07-01 00:00:00",
+        "#java--iotdb--yuyuankang": "2022-06-28 00:00:00",
+        "#java--iotdb--Plutooooooo": "2022-06-28 00:00:00",
+        "#java--iotdb--Coding-Deng": "2022-06-27 00:00:00",
+        "#java--iotdb--tisonkun": "2022-06-26 00:00:00",
+        "#java--iotdb--Alima777": "2022-06-25 00:00:00",
+        "#java--iotdb--OneSizeFitsQuorum": "2022-06-25 00:00:00",
+        "#java--iotdb--SteveYurongSu": "2022-06-22 00:00:00",
+        "#java--iotdb--leety1228": "2022-06-22 00:00:00",
+        "#java--iotdb--leonardodalinky": "2022-06-21 00:00:00",
+        "#java--iotdb--LIU-WEI-git": "2022-06-18 00:00:00",
+        "#java--iotdb--noorall": "2022-06-17 00:00:00",
+        "#java--iotdb--wayblink": "2022-06-14 00:00:00",
+        "#java--iotdb--dafei1288": "2022-06-10 00:00:00",
+        "#java--iotdb--wallezhang": "2022-06-02 00:00:00",
+        "#java--iotdb--mychaow": "2022-06-02 00:00:00",
+        "#java--iotdb--chuchaofan": "2022-06-02 00:00:00",
+        "#java--iotdb--": "2022-06-02 00:00:00",
+        "#java--iotdb--greenhandatsjtu": "2022-05-28 00:00:00",
+        "#java--iotdb--tsunghanjacktsai": "2022-05-26 00:00:00",
+        "#java--iotdb--cigarl": "2022-05-19 00:00:00",
+        "#java--iotdb--ljn55966005": "2022-05-17 00:00:00",
+        "#java--iotdb--swpulk": "2022-05-12 00:00:00",
+        "#java--iotdb--JerryZhangZZY": "2022-05-10 00:00:00",
+        "#java--iotdb--zjx1230": "2022-05-02 00:00:00",
+        "#java--iotdb--iskytek": "2022-05-02 00:00:00",
+        "#java--iotdb--chengjianyun": "2022-04-26 00:00:00",
+        "#java--iotdb--ChengShengHan": "2022-04-18 00:00:00",
+        "#java--iotdb--ChenSiHou": "2022-04-14 00:00:00",
+        "#java--iotdb--huzk8": "2022-04-10 00:00:00",
+        "#java--iotdb--FrankHWD": "2022-04-08 00:00:00",
+        "#java--iotdb--ChuShaoHuan": "2022-04-07 00:00:00",
+        "#java--iotdb--cchen1115": "2022-04-07 00:00:00",
+        "#java--iotdb--huanhuanerer": "2022-04-06 00:00:00",
+        "#java--iotdb--MinaQin": "2022-04-06 00:00:00",
+        "#java--iotdb--jiazhiren": "2022-04-02 00:00:00",
+        "#java--iotdb--543202718": "2022-03-24 00:00:00",
+        "#java--iotdb--SilverNarcissus": "2022-03-23 00:00:00",
+        "#java--iotdb--samperson1997": "2022-03-22 00:00:00",
+        "#java--iotdb--yyt86": "2022-03-12 00:00:00",
+        "#java--iotdb--holtenko": "2022-02-27 00:00:00",
+        "#java--iotdb--LeiRui": "2022-02-14 00:00:00",
+        "#java--iotdb--ahuazhu": "2022-02-12 00:00:00",
+        "#java--iotdb--czllgzmzl": "2022-01-27 00:00:00",
+        "#java--iotdb--WilliamSong112": "2022-01-19 00:00:00",
+        "#java--iotdb--SiasDoming": "2022-01-18 00:00:00",
+        "#java--iotdb--Alibaba-HZY": "2022-01-17 00:00:00",
+        "#java--iotdb--jt2594838": "2022-01-15 00:00:00",
+        "#java--iotdb--Shoothzj": "2022-01-10 00:00:00",
+        "#java--iotdb--GOptimistic": "2022-01-01 00:00:00",
+        "#java--iotdb--neuyilan": "2021-12-27 00:00:00",
+        "#java--iotdb--icloudsong": "2021-12-17 00:00:00",
+        "#java--iotdb--wang-lucy": "2021-12-06 00:00:00",
+        "#java--iotdb--shunfan-shao": "2021-11-24 00:00:00",
+        "#java--iotdb--dcoliversun": "2021-11-21 00:00:00",
+        "#java--iotdb--jenna25": "2021-11-12 00:00:00",
+        "#java--iotdb--choleraehyq": "2021-11-02 00:00:00",
+        "#java--iotdb--ruanwenjun": "2021-10-14 00:00:00",
+        "#java--iotdb--JulianFeinauer": "2021-10-08 00:00:00",
+        "#java--iotdb--Ltttttt2000": "2021-09-25 00:00:00",
+        "#java--iotdb--slawr": "2021-09-25 00:00:00",
+        "#java--iotdb--FastAtlas": "2021-09-18 00:00:00",
+        "#java--iotdb--ijihang": "2021-09-14 00:00:00",
+        "#java--iotdb--ShuanglinWu": "2021-09-05 00:00:00",
+        "#java--iotdb--Superainbower": "2021-08-26 00:00:00",
+        "#java--iotdb--liutaohua": "2021-08-19 00:00:00",
+        "#java--iotdb--kr11": "2021-08-12 00:00:00",
+        "#java--iotdb--QuakeWang": "2021-08-03 00:00:00",
+        "#java--iotdb--zhengjp31": "2021-07-23 00:00:00",
+        "#java--iotdb--yanhongwangg": "2021-07-23 00:00:00",
+        "#java--iotdb--liujiajun": "2021-07-20 00:00:00",
+        "#java--iotdb--limeng32": "2021-07-16 00:00:00",
+        "#java--iotdb--Eights-Li": "2021-07-09 00:00:00",
+        "#java--iotdb--caszhou": "2021-07-02 00:00:00",
+        "#java--iotdb--mzp0514": "2021-06-28 00:00:00",
+        "#java--iotdb--haimeiguo": "2021-06-28 00:00:00",
+        "#java--iotdb--fanhualta": "2021-06-27 00:00:00",
+        "#java--iotdb--wangjunyou": "2021-06-24 00:00:00",
+        "#java--iotdb--zhanglingzhe0820": "2021-06-23 00:00:00",
+        "#java--iotdb--dongzl": "2021-05-18 00:00:00",
+        "#java--iotdb--xuesyn": "2021-05-10 00:00:00",
+        "#java--iotdb--sunjincheng121": "2021-05-07 00:00:00",
+        "#java--iotdb--kydxh": "2021-05-07 00:00:00",
+        "#java--iotdb--NiklasMerz": "2021-05-01 00:00:00",
+        "#java--iotdb--tieredblocks": "2021-04-29 00:00:00",
+        "#java--iotdb--EJTTianYu": "2021-04-27 00:00:00",
+        "#java--iotdb--wshao08": "2021-04-05 00:00:00",
+        "#java--iotdb--liu-hai": "2021-04-02 00:00:00",
+        "#java--iotdb--jxlgzwh": "2021-03-26 00:00:00",
+        "#java--iotdb--Sunny-Island": "2021-03-23 00:00:00",
+        "#java--iotdb--HelKim": "2021-03-19 00:00:00",
+        "#java--iotdb--rhmangmang": "2021-03-15 00:00:00",
+        "#java--iotdb--GLBB": "2021-03-01 00:00:00",
+        "#java--iotdb--chenjun40": "2021-02-26 00:00:00",
+        "#java--iotdb--wuzhaojie": "2021-02-20 00:00:00",
+        "#java--iotdb--yuqi1129": "2021-02-09 00:00:00",
+        "#java--iotdb--asdf2014": "2021-02-02 00:00:00",
+        "#java--iotdb--Genius-pig": "2021-01-15 00:00:00",
+        "#java--iotdb--kezhenxu94": "2021-01-11 00:00:00",
+        "#java--iotdb--dynamicDr": "2020-12-13 00:00:00",
+        "#java--iotdb--flesher0813": "2020-12-10 00:00:00",
+        "#java--iotdb--cuibo01": "2020-12-05 00:00:00",
+        "#java--iotdb--w169q169": "2020-11-28 00:00:00",
+        "#java--iotdb--JesseZhou-1": "2020-11-11 00:00:00",
+        "#java--iotdb--liushangkun": "2020-10-25 00:00:00",
+        "#java--iotdb--DidierDrogba1": "2020-10-14 00:00:00",
+        "#java--iotdb--YZD1805010208": "2020-09-27 00:00:00",
+        "#java--iotdb--chrisdutz": "2020-09-25 00:00:00",
+        "#java--iotdb--SimonSimCity": "2020-09-10 00:00:00",
+        "#java--iotdb--zzchun": "2020-08-16 00:00:00",
+        "#java--iotdb--dddddai": "2020-08-03 00:00:00",
+        "#java--iotdb--noneedname": "2020-07-22 00:00:00",
+        "#java--iotdb--mzcshen": "2020-07-14 00:00:00",
+        "#java--iotdb--yx-zhang": "2020-07-11 00:00:00",
+        "#java--iotdb--SailVR": "2020-07-08 00:00:00",
+        "#java--iotdb--vesense": "2020-07-02 00:00:00",
+        "#java--iotdb--MarcusSorealheis": "2020-06-20 00:00:00",
+        "#java--iotdb--WeiZhong94": "2020-05-04 00:00:00",
+        "#java--iotdb--iiint": "2020-05-02 00:00:00",
+        "#java--iotdb--sulthan309": "2020-04-28 00:00:00",
+        "#java--iotdb--iwasjoker": "2020-04-17 00:00:00",
+        "#java--iotdb--etiennerobinet": "2020-04-04 00:00:00",
+        "#java--iotdb--VenkatDatta": "2020-03-17 00:00:00",
+        "#java--iotdb--zzy9424": "2020-03-11 00:00:00",
+        "#java--iotdb--SolomonAnn": "2020-02-27 00:00:00",
+        "#java--iotdb--duhenglucky": "2020-02-17 00:00:00",
+        "#java--iotdb--linliu03": "2020-01-03 00:00:00",
+        "#java--iotdb--nlosilva1": "2019-11-29 00:00:00",
+        "#java--iotdb--mdf369": "2019-11-22 00:00:00",
+        "#java--iotdb--liuruiyiyang": "2019-11-21 00:00:00",
+        "#java--iotdb--francis-du": "2019-11-07 00:00:00",
+        "#java--iotdb--little-emotion": "2019-10-25 00:00:00",
+        "#java--iotdb--xijunmu": "2019-10-19 00:00:00",
+        "#java--iotdb--mikip65": "2019-10-15 00:00:00",
+        "#java--iotdb--wangyh-thss": "2019-06-03 00:00:00",
+        "#java--iotdb--stefaniexin": "2019-06-02 00:00:00",
+        "#java--iotdb--MyXOF": "2019-05-30 00:00:00",
+        "#java--iotdb--1160300922": "2019-07-23 00:00:00",
+        "#java--iotdb--y-wan": "2019-07-17 00:00:00",
+        "#java--iotdb--sontallive": "2019-06-11 00:00:00",
+        "#java--iotdb--gimpong": "2019-05-07 00:00:00",
+        "#java--iotdb--wujysh": "2019-04-03 00:00:00",
+        "#java--iotdb--FLOW4215": "2019-04-03 00:00:00",
+        "#java--iotdb--ycheng9": "2019-02-21 00:00:00",
+        "#java--iotdb--liukun4515": "2019-01-24 00:00:00",
+        "#java--iotdb--blingbling11": "2018-07-28 00:00:00",
+        "#java--iotdb--MansteinLiliang": "2018-01-17 00:00:00",
+        "#java--iotdb--nelbdss": "2017-12-01 00:00:00",
+        "#java--iotdb--Feynmannnn": "2017-07-22 00:00:00",
+        "#java--iotdb--Carlin-Cheung": "2017-07-20 00:00:00",
+        "#java--iotdb--carpinmingsanlang": "2017-07-19 00:00:00",
+        "#java--iotdb--vivid-kr": "2017-07-05 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#java--iotdb--LyndonYang1024": 0,
+        "#java--iotdb--lxxawfl": 0,
+        "#java--iotdb--cserwen": 0,
+        "#java--iotdb--CalvinKirs": 0,
+        "#java--iotdb--Husaimawx": 0,
+        "#java--iotdb--zh0122": 0,
+        "#java--iotdb--jakemcf22": 0,
+        "#java--iotdb--yuxianye": 0,
+        "#java--iotdb--selectbook": 0,
+        "#java--iotdb--hejiarui2015": 0,
+        "#java--iotdb--tisonkun": 0,
+        "#java--iotdb--leety1228": 0,
+        "#java--iotdb--leonardodalinky": 0,
+        "#java--iotdb--wayblink": 0,
+        "#java--iotdb--dafei1288": 0,
+        "#java--iotdb--greenhandatsjtu": 0,
+        "#java--iotdb--ljn55966005": 0,
+        "#java--iotdb--swpulk": 0,
+        "#java--iotdb--ChengShengHan": 0,
+        "#java--iotdb--ChenSiHou": 0,
+        "#java--iotdb--huzk8": 0,
+        "#java--iotdb--ChuShaoHuan": 0,
+        "#java--iotdb--cchen1115": 0,
+        "#java--iotdb--huanhuanerer": 0,
+        "#java--iotdb--MinaQin": 0,
+        "#java--iotdb--jiazhiren": 0,
+        "#java--iotdb--holtenko": 0,
+        "#java--iotdb--czllgzmzl": 0,
+        "#java--iotdb--Shoothzj": 0,
+        "#java--iotdb--GOptimistic": 0,
+        "#java--iotdb--icloudsong": 0,
+        "#java--iotdb--wang-lucy": 0,
+        "#java--iotdb--shunfan-shao": 0,
+        "#java--iotdb--jenna25": 0,
+        "#java--iotdb--choleraehyq": 0,
+        "#java--iotdb--Ltttttt2000": 0,
+        "#java--iotdb--slawr": 0,
+        "#java--iotdb--FastAtlas": 0,
+        "#java--iotdb--QuakeWang": 0,
+        "#java--iotdb--limeng32": 0,
+        "#java--iotdb--Eights-Li": 0,
+        "#java--iotdb--wangjunyou": 0,
+        "#java--iotdb--kydxh": 0,
+        "#java--iotdb--NiklasMerz": 0,
+        "#java--iotdb--liu-hai": 0,
+        "#java--iotdb--Sunny-Island": 0,
+        "#java--iotdb--HelKim": 0,
+        "#java--iotdb--chenjun40": 0,
+        "#java--iotdb--wuzhaojie": 0,
+        "#java--iotdb--flesher0813": 0,
+        "#java--iotdb--cuibo01": 0,
+        "#java--iotdb--w169q169": 0,
+        "#java--iotdb--liushangkun": 0,
+        "#java--iotdb--DidierDrogba1": 0,
+        "#java--iotdb--YZD1805010208": 0,
+        "#java--iotdb--SimonSimCity": 0,
+        "#java--iotdb--zzchun": 0,
+        "#java--iotdb--dddddai": 0,
+        "#java--iotdb--MarcusSorealheis": 0,
+        "#java--iotdb--iiint": 0,
+        "#java--iotdb--iwasjoker": 0,
+        "#java--iotdb--etiennerobinet": 0,
+        "#java--iotdb--VenkatDatta": 0,
+        "#java--iotdb--zzy9424": 0,
+        "#java--iotdb--duhenglucky": 0,
+        "#java--iotdb--linliu03": 0,
+        "#java--iotdb--francis-du": 0,
+        "#java--iotdb--xijunmu": 0,
+        "#java--iotdb--gimpong": 0,
+        "#java--iotdb--FLOW4215": 0,
+        "#java--iotdb--ycheng9": 0,
+        "#java--iotdb--blingbling11": 0,
+        "#java--iotdb--nelbdss": 0,
+        "#java--iotdb--Feynmannnn": 0,
+        "#java--iotdb--vivid-kr": 0,
+        "#java--iotdb--wallezhang": 1,
+        "#java--iotdb--ahuazhu": 1,
+        "#java--iotdb--carpinmingsanlang": 1,
+        "#java--iotdb--sulthan309": 3,
+        "#java--iotdb--yunchan86": 4,
+        "#java--iotdb--wangyh-thss": 4,
+        "#java--iotdb--1160300922": 4,
+        "#java--iotdb--Carlin-Cheung": 4,
+        "#java--iotdb--wjr4hy": 5,
+        "#java--iotdb--Alibaba-HZY": 5,
+        "#java--iotdb--mzcshen": 5,
+        "#java--iotdb--chuchaofan": 7,
+        "#java--iotdb--GLBB": 7,
+        "#java--iotdb--lizhizhou": 13,
+        "#java--iotdb--caozj1011": 13,
+        "#java--iotdb--iskytek": 13,
+        "#java--iotdb--xuesyn": 13,
+        "#java--iotdb--WeiZhong94": 13,
+        "#java--iotdb--Coding-Deng": 14,
+        "#java--iotdb--JesseZhou-1": 15,
+        "#java--iotdb--FrankHWD": 17,
+        "#java--iotdb--ruanwenjun": 17,
+        "#java--iotdb--FangJL9495": 18,
+        "#java--iotdb--MansteinLiliang": 18,
+        "#java--iotdb--chengyang14": 19,
+        "#java--iotdb--Caideyipi": 23,
+        "#java--iotdb--y-wan": 24,
+        "#java--iotdb--caszhou": 25,
+        "#java--iotdb--imquanke": 26,
+        "#java--iotdb--2b3c511": 27,
+        "#java--iotdb--LittleHealth": 28,
+        "#java--iotdb--liruizhi19": 28,
+        "#java--iotdb--jxlgzwh": 35,
+        "#java--iotdb--ShuanglinWu": 38,
+        "#java--iotdb--KeeProMise": 39,
+        "#java--iotdb--kezhenxu94": 39,
+        "#java--iotdb--noneedname": 40,
+        "#java--iotdb--zhengjp31": 43,
+        "#java--iotdb--dcoliversun": 44,
+        "#java--iotdb--liujiajun": 53,
+        "#java--iotdb--suchenglong": 55,
+        "#java--iotdb--zjx1230": 55,
+        "#java--iotdb--mzp0514": 61,
+        "#java--iotdb--sontallive": 70,
+        "#java--iotdb--nlosilva1": 78,
+        "#java--iotdb--23931017wu": 86,
+        "#java--iotdb--asdf2014": 89,
+        "#java--iotdb--JerryZhangZZY": 91,
+        "#java--iotdb--tieredblocks": 97,
+        "#java--iotdb--mikip65": 99,
+        "#java--iotdb--ijihang": 103,
+        "#java--iotdb--rhmangmang": 113,
+        "#java--iotdb--lancelly": 116,
+        "#java--iotdb--MiniSho": 118,
+        "#java--iotdb--SailVR": 121,
+        "#java--iotdb--Superainbower": 122,
+        "#java--iotdb--Wei-hao-Li": 135,
+        "#java--iotdb--yuqi1129": 135,
+        "#java--iotdb--vesense": 138,
+        "#java--iotdb--wanghui42": 144,
+        "#java--iotdb--BanDuWuZi": 166,
+        "#java--iotdb--dongzl": 174,
+        "#java--iotdb--flashzxi": 178,
+        "#java--iotdb--Plutooooooo": 197,
+        "#java--iotdb--noorall": 213,
+        "#java--iotdb--SiasDoming": 222,
+        "#java--iotdb--fuwei3140": 234,
+        "#java--iotdb--trin1t": 236,
+        "#java--iotdb--yyt86": 243,
+        "#java--iotdb--LIU-WEI-git": 247,
+        "#java--iotdb--chengjianyun": 250,
+        "#java--iotdb--RYH61": 253,
+        "#java--iotdb--cigarl": 261,
+        "#java--iotdb--dynamicDr": 302,
+        "#java--iotdb--SzyWilliam": 310,
+        "#java--iotdb--jun0315": 315,
+        "#java--iotdb--xinzhongtianxia": 324,
+        "#java--iotdb--yanhongwangg": 325,
+        "#java--iotdb--haimeiguo": 325,
+        "#java--iotdb--WilliamSong112": 327,
+        "#java--iotdb--ZhanGHanG9991": 329,
+        "#java--iotdb--yx-zhang": 332,
+        "#java--iotdb--choubenson": 366,
+        "#java--iotdb--xuanronaldo": 366,
+        "#java--iotdb--SolomonAnn": 376,
+        "#java--iotdb--cornmonster": 394,
+        "#java--iotdb--543202718": 395,
+        "#java--iotdb--wshao08": 398,
+        "#java--iotdb--cmlmakahts": 407,
+        "#java--iotdb--SpriCoder": 441,
+        "#java--iotdb--yschengzi": 454,
+        "#java--iotdb--MrQuansy": 455,
+        "#java--iotdb--Cpaulyz": 455,
+        "#java--iotdb--zhanglingzhe0820": 466,
+        "#java--iotdb--krystal-xiao": 469,
+        "#java--iotdb--MarcosZyk": 470,
+        "#java--iotdb--liuminghui233": 471,
+        "#java--iotdb--sunjincheng121": 512,
+        "#java--iotdb--little-emotion": 518,
+        "#java--iotdb--jamber001": 541,
+        "#java--iotdb--CloudWise-Lukemiao": 542,
+        "#java--iotdb--lyssom": 561,
+        "#java--iotdb--Genius-pig": 562,
+        "#java--iotdb--yifuzhou": 563,
+        "#java--iotdb--stefaniexin": 570,
+        "#java--iotdb--wangchao316": 594,
+        "#java--iotdb--ericpai": 596,
+        "#java--iotdb--THUMarkLau": 600,
+        "#java--iotdb--SteveYurongSu": 609,
+        "#java--iotdb--wujysh": 625,
+        "#java--iotdb--neuyilan": 626,
+        "#java--iotdb--liukun4515": 627,
+        "#java--iotdb--irvine0109": 644,
+        "#java--iotdb--chrisdutz": 651,
+        "#java--iotdb--liutaohua": 654,
+        "#java--iotdb--liuruiyiyang": 658,
+        "#java--iotdb--HeimingZ": 671,
+        "#java--iotdb--mdf369": 676,
+        "#java--iotdb--CRZbulabula": 737,
+        "#java--iotdb--MyXOF": 753,
+        "#java--iotdb--mychaow": 763,
+        "#java--iotdb--EJTTianYu": 797,
+        "#java--iotdb--OneSizeFitsQuorum": 841,
+        "#java--iotdb--xingtanzjr": 862,
+        "#java--iotdb--fanhualta": 885,
+        "#java--iotdb--Alima777": 905,
+        "#java--iotdb--JulianFeinauer": 954,
+        "#java--iotdb--SilverNarcissus": 972,
+        "#java--iotdb--samperson1997": 987,
+        "#java--iotdb--tsunghanjacktsai": 1070,
+        "#java--iotdb--dependabot[bot]": 1089,
+        "#java--iotdb--HTHou": 1105,
+        "#java--iotdb--JackieTien97": 1126,
+        "#java--iotdb--yuyuankang": 1226,
+        "#java--iotdb--xiaoyekanren": 1283,
+        "#java--iotdb--LeiRui": 1418,
+        "#java--iotdb--kr11": 1441,
+        "#java--iotdb--jt2594838": 1486,
+        "#java--iotdb--jixuan1989": 1784,
+        "#java--iotdb--": 1852,
+        "#java--iotdb--bigreybear": 1950,
+        "#java--iotdb--qiaojialin": 1964,
+        "#java--iotdb--Beyyes": 1985
+    },
+    "commiter_contribute_time1": {
+        "#java--iotdb--rhmangmang": {
+            "start": "2020-11-22 00:00:00",
+            "end": "2021-02-24 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--yuqi1129": {
+            "start": "2020-09-27 00:00:00",
+            "end": "2021-01-22 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--yanhongwangg": {
+            "start": "2020-09-01 00:00:00",
+            "end": "2021-05-24 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--yx-zhang": {
+            "start": "2019-08-14 00:00:00",
+            "end": "2020-02-28 00:00:00",
+            "bug_num_per_commit": 0.6666666666666666,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--lyssom": {
+            "start": "2021-03-23 00:00:00",
+            "end": "2022-08-16 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--LIU-WEI-git": {
+            "start": "2021-10-14 00:00:00",
+            "end": "2022-06-17 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--xuanronaldo": {
+            "start": "2021-09-22 00:00:00",
+            "end": "2022-03-18 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--cigarl": {
+            "start": "2021-08-31 00:00:00",
+            "end": "2022-05-09 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--haimeiguo": {
+            "start": "2020-08-07 00:00:00",
+            "end": "2021-02-25 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--zhanglingzhe0820": {
+            "start": "2020-03-14 00:00:00",
+            "end": "2021-03-01 00:00:00",
+            "bug_num_per_commit": 0.23529411764705882,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--jun0315": {
+            "start": "2021-09-15 00:00:00",
+            "end": "2022-03-03 00:00:00",
+            "bug_num_per_commit": 0.125,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--cornmonster": {
+            "start": "2021-09-13 00:00:00",
+            "end": "2022-04-19 00:00:00",
+            "bug_num_per_commit": 0.375,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--yschengzi": {
+            "start": "2021-07-27 00:00:00",
+            "end": "2022-09-29 00:00:00",
+            "bug_num_per_commit": 0.1111111111111111,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--RYH61": {
+            "start": "2022-02-08 00:00:00",
+            "end": "2022-08-03 00:00:00",
+            "bug_num_per_commit": 0.16666666666666666,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--MrQuansy": {
+            "start": "2021-07-29 00:00:00",
+            "end": "2022-07-16 00:00:00",
+            "bug_num_per_commit": 0.07142857142857142,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--little-emotion": {
+            "start": "2018-05-25 00:00:00",
+            "end": "2019-09-11 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--wshao08": {
+            "start": "2020-03-03 00:00:00",
+            "end": "2020-12-11 00:00:00",
+            "bug_num_per_commit": 0.26666666666666666,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--liuruiyiyang": {
+            "start": "2018-02-01 00:00:00",
+            "end": "2019-11-14 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--LeiRui": {
+            "start": "2018-03-29 00:00:00",
+            "end": "2019-10-11 00:00:00",
+            "bug_num_per_commit": 0.19047619047619047,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--SilverNarcissus": {
+            "start": "2019-07-25 00:00:00",
+            "end": "2020-11-19 00:00:00",
+            "bug_num_per_commit": 0.32,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--fanhualta": {
+            "start": "2019-01-24 00:00:00",
+            "end": "2019-12-11 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--THUMarkLau": {
+            "start": "2021-03-06 00:00:00",
+            "end": "2022-08-12 00:00:00",
+            "bug_num_per_commit": 0.047619047619047616,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--Genius-pig": {
+            "start": "2019-07-03 00:00:00",
+            "end": "2020-07-23 00:00:00",
+            "bug_num_per_commit": 0.22727272727272727,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--SpriCoder": {
+            "start": "2021-08-11 00:00:00",
+            "end": "2022-08-13 00:00:00",
+            "bug_num_per_commit": 0.03333333333333333,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--samperson1997": {
+            "start": "2019-07-09 00:00:00",
+            "end": "2020-10-29 00:00:00",
+            "bug_num_per_commit": 0.13953488372093023,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--jt2594838": {
+            "start": "2017-12-21 00:00:00",
+            "end": "2019-11-04 00:00:00",
+            "bug_num_per_commit": 0.23333333333333334,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--JackieTien97": {
+            "start": "2019-09-27 00:00:00",
+            "end": "2022-05-26 00:00:00",
+            "bug_num_per_commit": 0.0898876404494382,
+            "bug_commit_num_rate": 1.0
+        }
+    },
+    "commiter_contribute_time2": {
+        "#java--iotdb--rhmangmang": {
+            "start": "2021-02-20 00:00:00",
+            "end": "2021-01-13 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--yuqi1129": {
+            "start": "2021-01-22 00:00:00",
+            "end": "2020-12-14 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.5
+        },
+        "#java--iotdb--yanhongwangg": {
+            "start": "2021-04-01 00:00:00",
+            "end": "2020-10-21 00:00:00",
+            "bug_num_per_commit": 0.16666666666666666,
+            "bug_commit_num_rate": 0.16666666666666666
+        },
+        "#java--iotdb--yx-zhang": {
+            "start": "2020-02-25 00:00:00",
+            "end": "2019-11-18 00:00:00",
+            "bug_num_per_commit": 0.6666666666666666,
+            "bug_commit_num_rate": 1.0
+        },
+        "#java--iotdb--lyssom": {
+            "start": "2022-07-29 00:00:00",
+            "end": "2022-07-21 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.5
+        },
+        "#java--iotdb--LIU-WEI-git": {
+            "start": "2022-06-01 00:00:00",
+            "end": "2022-05-29 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.5
+        },
+        "#java--iotdb--xuanronaldo": {
+            "start": "2022-02-25 00:00:00",
+            "end": "2022-01-20 00:00:00",
+            "bug_num_per_commit": 0.2,
+            "bug_commit_num_rate": 0.8
+        },
+        "#java--iotdb--cigarl": {
+            "start": "2022-05-09 00:00:00",
+            "end": "2022-04-21 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.25
+        },
+        "#java--iotdb--haimeiguo": {
+            "start": "2021-02-24 00:00:00",
+            "end": "2021-01-19 00:00:00",
+            "bug_num_per_commit": 0.2222222222222222,
+            "bug_commit_num_rate": 0.4444444444444444
+        },
+        "#java--iotdb--zhanglingzhe0820": {
+            "start": "2021-03-01 00:00:00",
+            "end": "2020-11-18 00:00:00",
+            "bug_num_per_commit": 0.4117647058823529,
+            "bug_commit_num_rate": 0.9411764705882353
+        },
+        "#java--iotdb--jun0315": {
+            "start": "2022-01-22 00:00:00",
+            "end": "2021-12-17 00:00:00",
+            "bug_num_per_commit": 0.375,
+            "bug_commit_num_rate": 0.125
+        },
+        "#java--iotdb--cornmonster": {
+            "start": "2022-04-14 00:00:00",
+            "end": "2022-01-16 00:00:00",
+            "bug_num_per_commit": 0.125,
+            "bug_commit_num_rate": 0.25
+        },
+        "#java--iotdb--yschengzi": {
+            "start": "2022-09-26 00:00:00",
+            "end": "2022-07-19 00:00:00",
+            "bug_num_per_commit": 0.2222222222222222,
+            "bug_commit_num_rate": 0.2222222222222222
+        },
+        "#java--iotdb--RYH61": {
+            "start": "2022-08-03 00:00:00",
+            "end": "2022-07-04 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.8333333333333334
+        },
+        "#java--iotdb--MrQuansy": {
+            "start": "2022-07-12 00:00:00",
+            "end": "2022-05-16 00:00:00",
+            "bug_num_per_commit": 0.35714285714285715,
+            "bug_commit_num_rate": 0.35714285714285715
+        },
+        "#java--iotdb--little-emotion": {
+            "start": "2019-08-16 00:00:00",
+            "end": "2019-04-04 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.8333333333333334
+        },
+        "#java--iotdb--wshao08": {
+            "start": "2020-12-10 00:00:00",
+            "end": "2020-10-28 00:00:00",
+            "bug_num_per_commit": 0.13333333333333333,
+            "bug_commit_num_rate": 0.2
+        },
+        "#java--iotdb--liuruiyiyang": {
+            "start": "2019-11-13 00:00:00",
+            "end": "2019-02-25 00:00:00",
+            "bug_num_per_commit": 0.2222222222222222,
+            "bug_commit_num_rate": 0.4444444444444444
+        },
+        "#java--iotdb--LeiRui": {
+            "start": "2019-09-19 00:00:00",
+            "end": "2019-08-19 00:00:00",
+            "bug_num_per_commit": 0.2857142857142857,
+            "bug_commit_num_rate": 0.2857142857142857
+        },
+        "#java--iotdb--SilverNarcissus": {
+            "start": "2020-11-05 00:00:00",
+            "end": "2020-02-07 00:00:00",
+            "bug_num_per_commit": 0.36,
+            "bug_commit_num_rate": 0.12
+        },
+        "#java--iotdb--fanhualta": {
+            "start": "2019-12-11 00:00:00",
+            "end": "2019-10-22 00:00:00",
+            "bug_num_per_commit": 0.4583333333333333,
+            "bug_commit_num_rate": 0.7916666666666666
+        },
+        "#java--iotdb--THUMarkLau": {
+            "start": "2022-07-12 00:00:00",
+            "end": "2022-05-08 00:00:00",
+            "bug_num_per_commit": 0.14285714285714285,
+            "bug_commit_num_rate": 0.19047619047619047
+        },
+        "#java--iotdb--Genius-pig": {
+            "start": "2020-06-29 00:00:00",
+            "end": "2020-01-16 00:00:00",
+            "bug_num_per_commit": 0.45454545454545453,
+            "bug_commit_num_rate": 0.09090909090909091
+        },
+        "#java--iotdb--SpriCoder": {
+            "start": "2022-08-12 00:00:00",
+            "end": "2022-06-01 00:00:00",
+            "bug_num_per_commit": 0.26666666666666666,
+            "bug_commit_num_rate": 0.23333333333333334
+        },
+        "#java--iotdb--samperson1997": {
+            "start": "2020-10-26 00:00:00",
+            "end": "2020-05-09 00:00:00",
+            "bug_num_per_commit": 0.2558139534883721,
+            "bug_commit_num_rate": 0.18604651162790697
+        },
+        "#java--iotdb--jt2594838": {
+            "start": "2019-10-31 00:00:00",
+            "end": "2019-05-30 00:00:00",
+            "bug_num_per_commit": 0.11666666666666667,
+            "bug_commit_num_rate": 0.36666666666666664
+        },
+        "#java--iotdb--JackieTien97": {
+            "start": "2022-05-25 00:00:00",
+            "end": "2021-02-04 00:00:00",
+            "bug_num_per_commit": 0.2247191011235955,
+            "bug_commit_num_rate": 0.19101123595505617
+        }
+    },
+    "commiter_contribute_time3": {
+        "#java--iotdb--rhmangmang": {
+            "start": "2021-01-11 00:00:00",
+            "end": "2021-01-07 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--yuqi1129": {
+            "start": "2020-12-14 00:00:00",
+            "end": "2020-10-19 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--yanhongwangg": {
+            "start": "2020-10-20 00:00:00",
+            "end": "2020-09-15 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--yx-zhang": {
+            "start": "2019-11-05 00:00:00",
+            "end": "2019-08-25 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.3333333333333333
+        },
+        "#java--iotdb--lyssom": {
+            "start": "2022-06-29 00:00:00",
+            "end": "2022-06-24 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--LIU-WEI-git": {
+            "start": "2022-05-10 00:00:00",
+            "end": "2022-05-04 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--xuanronaldo": {
+            "start": "2022-01-12 00:00:00",
+            "end": "2021-12-06 00:00:00",
+            "bug_num_per_commit": 0.6,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--cigarl": {
+            "start": "2022-04-21 00:00:00",
+            "end": "2021-12-20 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--haimeiguo": {
+            "start": "2021-01-12 00:00:00",
+            "end": "2020-09-27 00:00:00",
+            "bug_num_per_commit": 0.1111111111111111,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--zhanglingzhe0820": {
+            "start": "2020-11-17 00:00:00",
+            "end": "2020-09-20 00:00:00",
+            "bug_num_per_commit": 0.17647058823529413,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--jun0315": {
+            "start": "2021-12-14 00:00:00",
+            "end": "2021-11-11 00:00:00",
+            "bug_num_per_commit": 0.375,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--cornmonster": {
+            "start": "2021-12-29 00:00:00",
+            "end": "2021-11-26 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--yschengzi": {
+            "start": "2022-07-08 00:00:00",
+            "end": "2022-01-20 00:00:00",
+            "bug_num_per_commit": 0.2222222222222222,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--RYH61": {
+            "start": "2022-07-01 00:00:00",
+            "end": "2022-05-25 00:00:00",
+            "bug_num_per_commit": 0.4166666666666667,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--MrQuansy": {
+            "start": "2022-05-14 00:00:00",
+            "end": "2022-04-12 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--little-emotion": {
+            "start": "2019-03-21 00:00:00",
+            "end": "2018-09-07 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--wshao08": {
+            "start": "2020-10-26 00:00:00",
+            "end": "2020-06-01 00:00:00",
+            "bug_num_per_commit": 0.06666666666666667,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--liuruiyiyang": {
+            "start": "2019-02-21 00:00:00",
+            "end": "2019-01-21 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--LeiRui": {
+            "start": "2019-07-29 00:00:00",
+            "end": "2019-07-18 00:00:00",
+            "bug_num_per_commit": 0.09523809523809523,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--SilverNarcissus": {
+            "start": "2020-02-06 00:00:00",
+            "end": "2019-09-26 00:00:00",
+            "bug_num_per_commit": 0.28,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--fanhualta": {
+            "start": "2019-09-17 00:00:00",
+            "end": "2019-05-07 00:00:00",
+            "bug_num_per_commit": 0.20833333333333334,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--THUMarkLau": {
+            "start": "2022-05-04 00:00:00",
+            "end": "2022-02-09 00:00:00",
+            "bug_num_per_commit": 0.09523809523809523,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--Genius-pig": {
+            "start": "2020-01-16 00:00:00",
+            "end": "2019-10-22 00:00:00",
+            "bug_num_per_commit": 0.13636363636363635,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--SpriCoder": {
+            "start": "2022-06-01 00:00:00",
+            "end": "2022-04-25 00:00:00",
+            "bug_num_per_commit": 0.36666666666666664,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--samperson1997": {
+            "start": "2020-05-06 00:00:00",
+            "end": "2020-01-16 00:00:00",
+            "bug_num_per_commit": 0.11627906976744186,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--jt2594838": {
+            "start": "2019-05-30 00:00:00",
+            "end": "2019-07-12 00:00:00",
+            "bug_num_per_commit": 0.23333333333333334,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--JackieTien97": {
+            "start": "2021-01-31 00:00:00",
+            "end": "2020-05-09 00:00:00",
+            "bug_num_per_commit": 0.29213483146067415,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#java--iotdb--rhmangmang": {
+            "start": "2021-01-06 00:00:00",
+            "end": "2020-11-22 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--yuqi1129": {
+            "start": "2020-10-07 00:00:00",
+            "end": "2020-09-27 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--yanhongwangg": {
+            "start": "2020-09-10 00:00:00",
+            "end": "2020-09-01 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--yx-zhang": {
+            "start": "2019-08-25 00:00:00",
+            "end": "2019-08-14 00:00:00",
+            "bug_num_per_commit": 0.2,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--lyssom": {
+            "start": "2021-06-03 00:00:00",
+            "end": "2021-03-23 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--LIU-WEI-git": {
+            "start": "2022-04-14 00:00:00",
+            "end": "2021-10-14 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--xuanronaldo": {
+            "start": "2021-11-16 00:00:00",
+            "end": "2021-09-22 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--cigarl": {
+            "start": "2021-12-18 00:00:00",
+            "end": "2021-08-31 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--haimeiguo": {
+            "start": "2020-09-27 00:00:00",
+            "end": "2020-08-07 00:00:00",
+            "bug_num_per_commit": 0.625,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--zhanglingzhe0820": {
+            "start": "2020-09-16 00:00:00",
+            "end": "2020-03-14 00:00:00",
+            "bug_num_per_commit": 0.35294117647058826,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--jun0315": {
+            "start": "2021-10-28 00:00:00",
+            "end": "2021-09-15 00:00:00",
+            "bug_num_per_commit": 0.125,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--cornmonster": {
+            "start": "2021-11-26 00:00:00",
+            "end": "2021-09-13 00:00:00",
+            "bug_num_per_commit": 0.375,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--yschengzi": {
+            "start": "2022-01-14 00:00:00",
+            "end": "2021-07-27 00:00:00",
+            "bug_num_per_commit": 0.625,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--RYH61": {
+            "start": "2022-05-13 00:00:00",
+            "end": "2022-02-08 00:00:00",
+            "bug_num_per_commit": 0.6363636363636364,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--MrQuansy": {
+            "start": "2022-04-11 00:00:00",
+            "end": "2021-07-29 00:00:00",
+            "bug_num_per_commit": 0.21428571428571427,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--little-emotion": {
+            "start": "2018-09-06 00:00:00",
+            "end": "2018-05-25 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--wshao08": {
+            "start": "2020-05-23 00:00:00",
+            "end": "2020-03-03 00:00:00",
+            "bug_num_per_commit": 0.4666666666666667,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--liuruiyiyang": {
+            "start": "2019-01-20 00:00:00",
+            "end": "2018-02-01 00:00:00",
+            "bug_num_per_commit": 0.3,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--LeiRui": {
+            "start": "2019-07-17 00:00:00",
+            "end": "2018-03-29 00:00:00",
+            "bug_num_per_commit": 0.2727272727272727,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--SilverNarcissus": {
+            "start": "2019-09-26 00:00:00",
+            "end": "2019-07-25 00:00:00",
+            "bug_num_per_commit": 0.125,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--fanhualta": {
+            "start": "2019-04-17 00:00:00",
+            "end": "2019-01-24 00:00:00",
+            "bug_num_per_commit": 0.4782608695652174,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--THUMarkLau": {
+            "start": "2022-01-31 00:00:00",
+            "end": "2021-03-06 00:00:00",
+            "bug_num_per_commit": 0.4782608695652174,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--Genius-pig": {
+            "start": "2019-10-21 00:00:00",
+            "end": "2019-07-03 00:00:00",
+            "bug_num_per_commit": 0.14285714285714285,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--SpriCoder": {
+            "start": "2022-04-23 00:00:00",
+            "end": "2021-08-11 00:00:00",
+            "bug_num_per_commit": 0.23333333333333334,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--samperson1997": {
+            "start": "2020-01-16 00:00:00",
+            "end": "2019-07-09 00:00:00",
+            "bug_num_per_commit": 0.24444444444444444,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--jt2594838": {
+            "start": "2019-07-12 00:00:00",
+            "end": "2017-12-21 00:00:00",
+            "bug_num_per_commit": 0.2833333333333333,
+            "bug_commit_num_rate": 0.0
+        },
+        "#java--iotdb--JackieTien97": {
+            "start": "2020-05-09 00:00:00",
+            "end": "2019-09-27 00:00:00",
+            "bug_num_per_commit": 0.27472527472527475,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#java--iotdb--rhmangmang": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 0.0,
+                "time3": 1.0,
+                "time4": 0.3333333333333333
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--yuqi1129": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 0.5,
+                "time3": 0.25,
+                "time4": 0.25
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.5,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--yanhongwangg": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.16666666666666666,
+                "time3": 0.3333333333333333,
+                "time4": 0.5
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.16666666666666666,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--yx-zhang": {
+            "bug_num_per_commit": {
+                "time1": 0.6666666666666666,
+                "time2": 0.6666666666666666,
+                "time3": 0.3333333333333333,
+                "time4": 0.2
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.3333333333333333,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--lyssom": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.0,
+                "time3": 0.5,
+                "time4": 0.5
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.5,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--LIU-WEI-git": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 0.0,
+                "time3": 0.5,
+                "time4": 1.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.5,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--xuanronaldo": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.2,
+                "time3": 0.6,
+                "time4": 0.25
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.8,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--cigarl": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 0.25,
+                "time3": 0.5,
+                "time4": 0.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.25,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--haimeiguo": {
+            "bug_num_per_commit": {
+                "time1": 0.3333333333333333,
+                "time2": 0.2222222222222222,
+                "time3": 0.1111111111111111,
+                "time4": 0.625
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.4444444444444444,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--zhanglingzhe0820": {
+            "bug_num_per_commit": {
+                "time1": 0.23529411764705882,
+                "time2": 0.4117647058823529,
+                "time3": 0.17647058823529413,
+                "time4": 0.35294117647058826
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.9411764705882353,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--jun0315": {
+            "bug_num_per_commit": {
+                "time1": 0.125,
+                "time2": 0.375,
+                "time3": 0.375,
+                "time4": 0.125
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.125,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--cornmonster": {
+            "bug_num_per_commit": {
+                "time1": 0.375,
+                "time2": 0.125,
+                "time3": 0.25,
+                "time4": 0.375
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.25,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--yschengzi": {
+            "bug_num_per_commit": {
+                "time1": 0.1111111111111111,
+                "time2": 0.2222222222222222,
+                "time3": 0.2222222222222222,
+                "time4": 0.625
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.2222222222222222,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--RYH61": {
+            "bug_num_per_commit": {
+                "time1": 0.16666666666666666,
+                "time2": 0.25,
+                "time3": 0.4166666666666667,
+                "time4": 0.6363636363636364
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.8333333333333334,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--MrQuansy": {
+            "bug_num_per_commit": {
+                "time1": 0.07142857142857142,
+                "time2": 0.35714285714285715,
+                "time3": 0.5,
+                "time4": 0.21428571428571427
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.35714285714285715,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--little-emotion": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 0.5,
+                "time3": 0.5,
+                "time4": 0.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.8333333333333334,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--wshao08": {
+            "bug_num_per_commit": {
+                "time1": 0.26666666666666666,
+                "time2": 0.13333333333333333,
+                "time3": 0.06666666666666667,
+                "time4": 0.4666666666666667
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.2,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--liuruiyiyang": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.2222222222222222,
+                "time3": 0.3333333333333333,
+                "time4": 0.3
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.4444444444444444,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--LeiRui": {
+            "bug_num_per_commit": {
+                "time1": 0.19047619047619047,
+                "time2": 0.2857142857142857,
+                "time3": 0.09523809523809523,
+                "time4": 0.2727272727272727
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.2857142857142857,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--SilverNarcissus": {
+            "bug_num_per_commit": {
+                "time1": 0.32,
+                "time2": 0.36,
+                "time3": 0.28,
+                "time4": 0.125
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.12,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--fanhualta": {
+            "bug_num_per_commit": {
+                "time1": 0.3333333333333333,
+                "time2": 0.4583333333333333,
+                "time3": 0.20833333333333334,
+                "time4": 0.4782608695652174
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.7916666666666666,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--THUMarkLau": {
+            "bug_num_per_commit": {
+                "time1": 0.047619047619047616,
+                "time2": 0.14285714285714285,
+                "time3": 0.09523809523809523,
+                "time4": 0.4782608695652174
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.19047619047619047,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--Genius-pig": {
+            "bug_num_per_commit": {
+                "time1": 0.22727272727272727,
+                "time2": 0.45454545454545453,
+                "time3": 0.13636363636363635,
+                "time4": 0.14285714285714285
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.09090909090909091,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--SpriCoder": {
+            "bug_num_per_commit": {
+                "time1": 0.03333333333333333,
+                "time2": 0.26666666666666666,
+                "time3": 0.36666666666666664,
+                "time4": 0.23333333333333334
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.23333333333333334,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--samperson1997": {
+            "bug_num_per_commit": {
+                "time1": 0.13953488372093023,
+                "time2": 0.2558139534883721,
+                "time3": 0.11627906976744186,
+                "time4": 0.24444444444444444
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.18604651162790697,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--jt2594838": {
+            "bug_num_per_commit": {
+                "time1": 0.23333333333333334,
+                "time2": 0.11666666666666667,
+                "time3": 0.23333333333333334,
+                "time4": 0.2833333333333333
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.36666666666666664,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#java--iotdb--JackieTien97": {
+            "bug_num_per_commit": {
+                "time1": 0.0898876404494382,
+                "time2": 0.2247191011235955,
+                "time3": 0.29213483146067415,
+                "time4": 0.27472527472527475
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.19101123595505617,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#java--iotdb--rhmangmang",
+        "#java--iotdb--yuqi1129",
+        "#java--iotdb--yanhongwangg",
+        "#java--iotdb--yx-zhang",
+        "#java--iotdb--lyssom",
+        "#java--iotdb--LIU-WEI-git",
+        "#java--iotdb--xuanronaldo",
+        "#java--iotdb--cigarl",
+        "#java--iotdb--haimeiguo",
+        "#java--iotdb--zhanglingzhe0820",
+        "#java--iotdb--jun0315",
+        "#java--iotdb--cornmonster",
+        "#java--iotdb--yschengzi",
+        "#java--iotdb--RYH61",
+        "#java--iotdb--MrQuansy",
+        "#java--iotdb--little-emotion",
+        "#java--iotdb--wshao08",
+        "#java--iotdb--liuruiyiyang",
+        "#java--iotdb--LeiRui",
+        "#java--iotdb--SilverNarcissus",
+        "#java--iotdb--fanhualta",
+        "#java--iotdb--THUMarkLau",
+        "#java--iotdb--Genius-pig",
+        "#java--iotdb--SpriCoder",
+        "#java--iotdb--samperson1997",
+        "#java--iotdb--jt2594838",
+        "#java--iotdb--JackieTien97"
+    ],
+    "number_daily_long_time_error_prone_developer": 27,
+    "improved_daily_long_time_error_prone_developer": [
+        "#java--iotdb--yanhongwangg",
+        "#java--iotdb--lyssom",
+        "#java--iotdb--yschengzi",
+        "#java--iotdb--RYH61"
+    ],
+    "number_improved_daily_long_time_error_prone_developer": 4
+}

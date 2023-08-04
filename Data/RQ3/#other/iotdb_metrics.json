@@ -1,0 +1,39 @@
+{
+    "all_file_num": 12043,
+    "error_developer_file_rate": {
+        "#other--iotdb--wjr4hy": 0.0001660715768496222,
+        "#other--iotdb--tieredblocks": 0.0001660715768496222,
+        "#other--iotdb--limeng32": 0.0001660715768496222,
+        "#other--iotdb--flesher0813": 0.0002491073652744333,
+        "#other--iotdb--chenjun40": 0.0002491073652744333,
+        "#other--iotdb--GLBB": 0.0003321431536992444,
+        "#other--iotdb--leonardodalinky": 0.0004982147305488666,
+        "#other--iotdb--wangyh-thss": 0.0005812505189736777,
+        "#other--iotdb--ljn55966005": 0.0006642863073984888,
+        "#other--iotdb--ShuanglinWu": 0.0006642863073984888,
+        "#other--iotdb--dynamicDr": 0.0011625010379473554,
+        "#other--iotdb--leety1228": 0.0015776799800714108,
+        "#other--iotdb--Superainbower": 0.001743751556921033,
+        "#other--iotdb--rhmangmang": 0.0021589304990450886,
+        "#other--iotdb--imquanke": 0.002657145229593955,
+        "#other--iotdb--SolomonAnn": 0.0030723241717180104,
+        "#other--iotdb--WilliamSong112": 0.0030723241717180104,
+        "#other--iotdb--yyt86": 0.0031553599601428215,
+        "#other--iotdb--yx-zhang": 0.004899111517063855,
+        "#other--iotdb--xuanronaldo": 0.00606161255501121,
+        "#other--iotdb--zhanglingzhe0820": 0.015444656647014863,
+        "#other--iotdb--RYH61": 0.02574109441169144,
+        "#other--iotdb--little-emotion": 0.02806609648758615,
+        "#other--iotdb--fanhualta": 0.05123308145810845
+    },
+    "daily_error_prone_developer": [
+        "#other--iotdb--rhmangmang",
+        "#other--iotdb--yx-zhang",
+        "#other--iotdb--xuanronaldo",
+        "#other--iotdb--zhanglingzhe0820",
+        "#other--iotdb--RYH61",
+        "#other--iotdb--little-emotion",
+        "#other--iotdb--fanhualta"
+    ],
+    "number_daily_error_prone_developer": 7
+}

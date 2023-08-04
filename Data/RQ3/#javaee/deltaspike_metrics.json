@@ -1,0 +1,23 @@
+{
+    "all_file_num": 3141,
+    "error_developer_file_rate": {
+        "#javaee--deltaspike--hiddewie": 0.0003183699458771092,
+        "#javaee--deltaspike--pedroigor": 0.0003183699458771092,
+        "#javaee--deltaspike--DennisRippinger": 0.0009551098376313276,
+        "#javaee--deltaspike--tremes": 0.001591849729385546,
+        "#javaee--deltaspike--lincolnthree": 0.003183699458771092,
+        "#javaee--deltaspike--ArneLimburg": 0.005093919134033747,
+        "#javaee--deltaspike--kenfinnigan": 0.0057306590257879654,
+        "#javaee--deltaspike--danielsoro": 0.017828716969118114,
+        "#javaee--deltaspike--chkal": 0.026106335561922954,
+        "#javaee--deltaspike--rmannibucau": 0.034383954154727794,
+        "#javaee--deltaspike--": 0.16523400191021967
+    },
+    "daily_error_prone_developer": [
+        "#javaee--deltaspike--danielsoro",
+        "#javaee--deltaspike--chkal",
+        "#javaee--deltaspike--rmannibucau",
+        "#javaee--deltaspike--"
+    ],
+    "number_daily_error_prone_developer": 4
+}

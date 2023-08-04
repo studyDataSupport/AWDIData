@@ -1,0 +1,19 @@
+{
+    "all_file_num": 3114,
+    "error_developer_file_rate": {
+        "#web-framework--nutch--HansBrende": 0.0009633911368015414,
+        "#web-framework--nutch--stevegy": 0.0012845215157353885,
+        "#web-framework--nutch--erikhatcher": 0.00802825947334618,
+        "#web-framework--nutch--naegelejd": 0.008670520231213872,
+        "#web-framework--nutch--balashashanka": 0.017662170841361593,
+        "#web-framework--nutch--sigram": 0.28580603725112397,
+        "#web-framework--nutch--": 0.4932562620423892
+    },
+    "daily_error_prone_developer": [
+        "#web-framework--nutch--erikhatcher",
+        "#web-framework--nutch--balashashanka",
+        "#web-framework--nutch--sigram",
+        "#web-framework--nutch--"
+    ],
+    "number_daily_error_prone_developer": 4
+}

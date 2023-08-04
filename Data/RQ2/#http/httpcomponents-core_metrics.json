@@ -1,0 +1,27 @@
+{
+    "cate": "#http",
+    "#http-cate_aver_bug_rate": 0.08166666666666667,
+    "#http-cate_aver_bug_commit_rate": 0.07947368421052631,
+    "high_bug_rate_error_prone_developer_number": 3,
+    "high_bug_commit_rate_error_prone_developer_number": 5,
+    "high_bug_rate_error_prone_developer": {
+        "#http--httpcomponents-core--pfrank13": 1.0,
+        "#http--httpcomponents-core--rferreira": 1.0,
+        "#http--httpcomponents-core--coxlinton": 0.14285714285714285
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#http--httpcomponents-core--pfrank13": 1.0,
+        "#http--httpcomponents-core--rferreira": 1.0,
+        "#http--httpcomponents-core--coxlinton": 0.2857142857142857,
+        "#http--httpcomponents-core--ok2c": 0.1150965707528577,
+        "#http--httpcomponents-core--rschmitt": 0.08
+    },
+    "error_prone_developer_num": 3,
+    "error_prone_developer": [
+        "#http--httpcomponents-core--pfrank13",
+        "#http--httpcomponents-core--rferreira",
+        "#http--httpcomponents-core--coxlinton"
+    ],
+    "error_prone_developer_team_rate": 0.04838709677419355,
+    "team_developer_num": 62
+}

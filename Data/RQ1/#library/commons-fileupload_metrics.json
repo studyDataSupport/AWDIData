@@ -1,0 +1,30 @@
+{
+    "item_start_time": "",
+    "commiter_files": {
+        "#library--commons-fileupload--dependabot[bot]": [
+            "'.github/workflows/scorecards-analysis.yml'",
+            "'.github/workflows/coverage.yml'",
+            "'.github/workflows/maven.yml'"
+        ],
+        "#library--commons-fileupload--garydgregory": [
+            "'.github/workflows/scorecards-analysis.yml'",
+            "'.checkstyle'",
+            "'src/changes/changes.xml'"
+        ]
+    },
+    "number_of_introduce_bugs_per_commit": {
+        "#library--commons-fileupload--dependabot[bot]": 0,
+        "#library--commons-fileupload--garydgregory": 0
+    },
+    "bug_introducing_commit_rate": {
+        "#library--commons-fileupload--dependabot[bot]": 0,
+        "#library--commons-fileupload--garydgregory": 0
+    },
+    "commiter_bug_number": {},
+    "number_inducing_commit": {},
+    "commiter_commit_number": {
+        "#library--commons-fileupload--dependabot[bot]": 3,
+        "#library--commons-fileupload--garydgregory": 3
+    },
+    "team_developer_num": 2
+}

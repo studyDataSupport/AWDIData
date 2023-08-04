@@ -1,0 +1,24 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#library--aries--jbonofre": "2022-10-08 00:00:00",
+        "#library--aries--gnodet": "2022-04-26 00:00:00"
+    },
+    "commiter_end_time": {
+        "#library--aries--jbonofre": "2022-10-08 00:00:00",
+        "#library--aries--gnodet": "2022-04-26 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#library--aries--jbonofre": 0,
+        "#library--aries--gnodet": 0
+    },
+    "commiter_contribute_time1": {},
+    "commiter_contribute_time2": {},
+    "commiter_contribute_time3": {},
+    "commiter_contribute_time4": {},
+    "commiter_time_trend": {},
+    "daily_long_time_error_prone_developer": [],
+    "number_daily_long_time_error_prone_developer": 0,
+    "improved_daily_long_time_error_prone_developer": [],
+    "number_improved_daily_long_time_error_prone_developer": 0
+}

@@ -1,0 +1,34 @@
+{
+    "all_file_num": 9546,
+    "error_developer_file_rate": {
+        "#big-data--carbondata--highmoutain": 0.00010475591870940707,
+        "#big-data--carbondata--harmeetsingh0013": 0.00010475591870940707,
+        "#big-data--carbondata--kapilreja": 0.00020951183741881415,
+        "#big-data--carbondata--ranmx": 0.00031426775612822125,
+        "#big-data--carbondata--zuowang": 0.0004190236748376283,
+        "#big-data--carbondata--Sephiroth-Lin": 0.0004190236748376283,
+        "#big-data--carbondata--Beyyes": 0.0005237795935470355,
+        "#big-data--carbondata--Karan-c980": 0.0006285355122564425,
+        "#big-data--carbondata--xiaohui0318": 0.0008380473496752566,
+        "#big-data--carbondata--deepakmehra10": 0.0013618269432222922,
+        "#big-data--carbondata--sv71294": 0.0019903624554787345,
+        "#big-data--carbondata--SteNicholas": 0.002095118374188142,
+        "#big-data--carbondata--shardul-cr7": 0.0027236538864445843,
+        "#big-data--carbondata--shenjiayu17": 0.0035617012361198407,
+        "#big-data--carbondata--ffpeng90": 0.003771213073538655,
+        "#big-data--carbondata--bhavya411": 0.0070186465535302745,
+        "#big-data--carbondata--ravikiran23": 0.028179342132830507,
+        "#big-data--carbondata--sujith71955": 0.030588728263146868,
+        "#big-data--carbondata--gvramana": 0.03687408338571129,
+        "#big-data--carbondata--manishgupta88": 0.06861512675466164
+    },
+    "daily_error_prone_developer": [
+        "#big-data--carbondata--shardul-cr7",
+        "#big-data--carbondata--bhavya411",
+        "#big-data--carbondata--ravikiran23",
+        "#big-data--carbondata--sujith71955",
+        "#big-data--carbondata--gvramana",
+        "#big-data--carbondata--manishgupta88"
+    ],
+    "number_daily_error_prone_developer": 6
+}

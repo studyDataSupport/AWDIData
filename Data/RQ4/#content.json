@@ -1,0 +1,529 @@
+{
+    "commiter_start_time": {
+        "#content--any23--dependabot[bot]": "2019-11-13 00:00:00",
+        "#content--any23--lewismc": "2013-04-24 00:00:00",
+        "#content--any23--hboutemy": "2022-01-10 00:00:00",
+        "#content--any23--brnnnfx": "2022-01-20 00:00:00",
+        "#content--any23--NcIgor": "2021-10-23 00:00:00",
+        "#content--any23--tjroamer": "2021-05-12 00:00:00",
+        "#content--any23--kamaci": "2021-04-20 00:00:00",
+        "#content--any23--HansBrende": "2018-01-18 00:00:00",
+        "#content--any23--JLLeitschuh": "2020-02-10 00:00:00",
+        "#content--any23--coheigea": "2019-11-19 00:00:00",
+        "#content--any23--panthony": "2019-08-27 00:00:00",
+        "#content--any23--davidcockbill": "2019-01-31 00:00:00",
+        "#content--any23--afs": "2019-01-30 00:00:00",
+        "#content--any23--jgrzebyta": "2017-01-03 00:00:00",
+        "#content--any23--larsgsvensson": "2018-08-20 00:00:00",
+        "#content--any23--JulioCCBUcuenca": "2018-04-30 00:00:00",
+        "#content--any23--frankier": "2018-01-08 00:00:00",
+        "#content--any23--": "2008-12-18 00:00:00",
+        "#content--any23--The-Alchemist": "2017-10-26 00:00:00",
+        "#content--any23--band": "2016-06-21 00:00:00",
+        "#content--any23--ansell": "2012-08-08 00:00:00",
+        "#content--any23--jonathansantilli": "2017-03-21 00:00:00",
+        "#content--any23--nisalanirmana": "2015-06-22 00:00:00",
+        "#content--any23--michelemostarda": "2012-01-10 00:00:00",
+        "#content--any23--Timpy": "2014-09-08 00:00:00",
+        "#content--any23--scor": "2014-05-11 00:00:00",
+        "#content--any23--jdevelop": "2013-12-22 00:00:00",
+        "#content--any23--levkhomich": "2014-03-01 00:00:00",
+        "#content--any23--simonetripodi": "2012-01-12 00:00:00",
+        "#content--any23--olamy": "2012-07-05 00:00:00",
+        "#content--incubator-freemarker--chrisrueger": "2016-12-27 00:00:00",
+        "#content--incubator-freemarker--ddekany": "2010-06-29 00:00:00",
+        "#content--incubator-freemarker--": "2015-07-01 00:00:00",
+        "#content--incubator-freemarker--powercomstar": "2021-11-09 00:00:00",
+        "#content--incubator-freemarker--theHacker": "2021-09-12 00:00:00",
+        "#content--incubator-freemarker--ILyaCyclone": "2019-02-05 00:00:00",
+        "#content--incubator-freemarker--agriffis": "2021-02-20 00:00:00",
+        "#content--incubator-freemarker--martin-g": "2020-11-13 00:00:00",
+        "#content--incubator-freemarker--TrackerSB": "2020-10-08 00:00:00",
+        "#content--incubator-freemarker--mbooth101": "2020-07-21 00:00:00",
+        "#content--incubator-freemarker--aschi": "2019-12-19 00:00:00",
+        "#content--incubator-freemarker--quaff": "2017-11-10 00:00:00",
+        "#content--incubator-freemarker--woonsan": "2015-10-12 00:00:00",
+        "#content--incubator-freemarker--vocatan": "2019-07-10 00:00:00",
+        "#content--incubator-freemarker--robin850": "2019-06-26 00:00:00",
+        "#content--incubator-freemarker--ajbanck": "2019-03-29 00:00:00",
+        "#content--incubator-freemarker--ninjyni": "2018-09-04 00:00:00",
+        "#content--incubator-freemarker--chaquotay": "2011-10-09 00:00:00",
+        "#content--incubator-freemarker--fvanderwielen": "2018-01-24 00:00:00",
+        "#content--incubator-freemarker--jyjz2008": "2018-01-24 00:00:00",
+        "#content--incubator-freemarker--pitgrap": "2017-11-09 00:00:00",
+        "#content--incubator-freemarker--woonsanko": "2014-08-13 00:00:00",
+        "#content--incubator-freemarker--SimonLammer": "2017-08-03 00:00:00",
+        "#content--incubator-freemarker--pradeepmurugesan": "2017-04-12 00:00:00",
+        "#content--incubator-freemarker--pyxide": "2017-04-04 00:00:00",
+        "#content--incubator-freemarker--jacopoc": "2017-01-04 00:00:00",
+        "#content--incubator-freemarker--ratherblue": "2016-07-25 00:00:00",
+        "#content--incubator-freemarker--nanlei": "2016-01-25 00:00:00",
+        "#content--incubator-freemarker--mkleine": "2015-09-09 00:00:00",
+        "#content--incubator-freemarker--gamerson": "2013-06-06 00:00:00",
+        "#content--incubator-freemarker--szegedi": "2010-03-14 00:00:00",
+        "#content--manifoldcf--": "2011-05-20 00:00:00",
+        "#content--manifoldcf--kwrightapache": "2010-02-13 00:00:00",
+        "#content--manifoldcf--schuch": "2016-12-13 00:00:00",
+        "#content--manifoldcf--OpenPj": "2011-08-24 00:00:00",
+        "#content--manifoldcf--kishorejangid": "2015-05-03 00:00:00",
+        "#content--manifoldcf--rafaharo": "2015-02-09 00:00:00",
+        "#content--manifoldcf--sabe1": "2011-06-21 00:00:00",
+        "#content--manifoldcf--maoo": "2014-10-19 00:00:00",
+        "#content--manifoldcf--danielshahaf": "2012-06-13 00:00:00",
+        "#content--manifoldcf--tteofili": "2011-05-24 00:00:00",
+        "#content--manifoldcf--gsingers": "2010-01-11 00:00:00",
+        "#content--manifoldcf--rmuir": "2010-02-23 00:00:00",
+        "#content--manifoldcf--markrmiller": "2010-06-09 00:00:00",
+        "#content--ofbiz--dixitdeepak": "2017-02-12 00:00:00",
+        "#content--ofbiz--pythys": "2016-12-20 00:00:00",
+        "#content--ofbiz--JacquesLeRoux": "2016-12-18 00:00:00",
+        "#content--ofbiz--nmalin": "2017-01-28 00:00:00",
+        "#content--ofbiz--mbrohl": "2016-12-17 00:00:00",
+        "#content--ofbiz--jacopoc": "2016-12-23 00:00:00",
+        "#content--ofbiz--shijh": "2017-01-02 00:00:00",
+        "#content--ofbiz--": "2017-01-18 00:00:00",
+        "#content--ofbiz--hansbak": "2016-12-18 00:00:00",
+        "#content--pdfbox--THausherr": "2014-02-06 00:00:00",
+        "#content--pdfbox--lehmi": "2009-01-05 00:00:00",
+        "#content--pdfbox--": "2008-08-15 00:00:00",
+        "#content--pdfbox--tballison": "2016-09-19 00:00:00",
+        "#content--pdfbox--jahewson": "2014-02-13 00:00:00",
+        "#content--pdfbox--jmaerki": "2008-08-08 00:00:00",
+        "#content--pdfbox--jukka": "2008-02-10 00:00:00"
+    },
+    "commiter_end_time": {
+        "#content--any23--dependabot[bot]": "2022-06-03 00:00:00",
+        "#content--any23--lewismc": "2022-04-12 00:00:00",
+        "#content--any23--hboutemy": "2022-03-23 00:00:00",
+        "#content--any23--brnnnfx": "2022-01-20 00:00:00",
+        "#content--any23--NcIgor": "2021-10-23 00:00:00",
+        "#content--any23--tjroamer": "2021-05-12 00:00:00",
+        "#content--any23--kamaci": "2021-04-20 00:00:00",
+        "#content--any23--HansBrende": "2020-03-29 00:00:00",
+        "#content--any23--JLLeitschuh": "2020-02-10 00:00:00",
+        "#content--any23--coheigea": "2019-11-19 00:00:00",
+        "#content--any23--panthony": "2019-08-27 00:00:00",
+        "#content--any23--davidcockbill": "2019-01-31 00:00:00",
+        "#content--any23--afs": "2019-01-30 00:00:00",
+        "#content--any23--jgrzebyta": "2018-08-23 00:00:00",
+        "#content--any23--larsgsvensson": "2018-08-20 00:00:00",
+        "#content--any23--JulioCCBUcuenca": "2018-07-02 00:00:00",
+        "#content--any23--frankier": "2018-01-08 00:00:00",
+        "#content--any23--": "2017-11-08 00:00:00",
+        "#content--any23--The-Alchemist": "2017-10-26 00:00:00",
+        "#content--any23--band": "2017-06-29 00:00:00",
+        "#content--any23--ansell": "2017-07-13 00:00:00",
+        "#content--any23--jonathansantilli": "2017-03-21 00:00:00",
+        "#content--any23--nisalanirmana": "2015-08-27 00:00:00",
+        "#content--any23--michelemostarda": "2015-03-02 00:00:00",
+        "#content--any23--Timpy": "2014-09-08 00:00:00",
+        "#content--any23--scor": "2014-07-31 00:00:00",
+        "#content--any23--jdevelop": "2013-12-25 00:00:00",
+        "#content--any23--levkhomich": "2014-03-03 00:00:00",
+        "#content--any23--simonetripodi": "2012-12-30 00:00:00",
+        "#content--any23--olamy": "2012-07-05 00:00:00",
+        "#content--incubator-freemarker--chrisrueger": "2022-10-08 00:00:00",
+        "#content--incubator-freemarker--ddekany": "2022-06-15 00:00:00",
+        "#content--incubator-freemarker--": "2022-06-13 00:00:00",
+        "#content--incubator-freemarker--powercomstar": "2021-11-11 00:00:00",
+        "#content--incubator-freemarker--theHacker": "2021-09-12 00:00:00",
+        "#content--incubator-freemarker--ILyaCyclone": "2021-04-27 00:00:00",
+        "#content--incubator-freemarker--agriffis": "2021-02-20 00:00:00",
+        "#content--incubator-freemarker--martin-g": "2020-12-07 00:00:00",
+        "#content--incubator-freemarker--TrackerSB": "2020-10-08 00:00:00",
+        "#content--incubator-freemarker--mbooth101": "2020-07-21 00:00:00",
+        "#content--incubator-freemarker--aschi": "2019-12-19 00:00:00",
+        "#content--incubator-freemarker--quaff": "2019-12-03 00:00:00",
+        "#content--incubator-freemarker--woonsan": "2019-08-04 00:00:00",
+        "#content--incubator-freemarker--vocatan": "2019-07-10 00:00:00",
+        "#content--incubator-freemarker--robin850": "2019-06-26 00:00:00",
+        "#content--incubator-freemarker--ajbanck": "2019-03-29 00:00:00",
+        "#content--incubator-freemarker--ninjyni": "2018-09-04 00:00:00",
+        "#content--incubator-freemarker--chaquotay": "2018-06-10 00:00:00",
+        "#content--incubator-freemarker--fvanderwielen": "2018-01-24 00:00:00",
+        "#content--incubator-freemarker--jyjz2008": "2018-01-24 00:00:00",
+        "#content--incubator-freemarker--pitgrap": "2017-11-09 00:00:00",
+        "#content--incubator-freemarker--woonsanko": "2017-10-03 00:00:00",
+        "#content--incubator-freemarker--SimonLammer": "2017-08-03 00:00:00",
+        "#content--incubator-freemarker--pradeepmurugesan": "2017-04-17 00:00:00",
+        "#content--incubator-freemarker--pyxide": "2017-04-04 00:00:00",
+        "#content--incubator-freemarker--jacopoc": "2017-01-04 00:00:00",
+        "#content--incubator-freemarker--ratherblue": "2016-07-25 00:00:00",
+        "#content--incubator-freemarker--nanlei": "2016-01-25 00:00:00",
+        "#content--incubator-freemarker--mkleine": "2015-09-10 00:00:00",
+        "#content--incubator-freemarker--gamerson": "2013-06-06 00:00:00",
+        "#content--incubator-freemarker--szegedi": "2011-11-15 00:00:00",
+        "#content--manifoldcf--": "2022-12-08 00:00:00",
+        "#content--manifoldcf--kwrightapache": "2022-11-29 00:00:00",
+        "#content--manifoldcf--schuch": "2022-11-29 00:00:00",
+        "#content--manifoldcf--OpenPj": "2022-04-27 00:00:00",
+        "#content--manifoldcf--kishorejangid": "2019-03-28 00:00:00",
+        "#content--manifoldcf--rafaharo": "2018-04-05 00:00:00",
+        "#content--manifoldcf--sabe1": "2016-11-10 00:00:00",
+        "#content--manifoldcf--maoo": "2015-12-11 00:00:00",
+        "#content--manifoldcf--danielshahaf": "2012-06-13 00:00:00",
+        "#content--manifoldcf--tteofili": "2011-05-24 00:00:00",
+        "#content--manifoldcf--gsingers": "2010-12-03 00:00:00",
+        "#content--manifoldcf--rmuir": "2010-10-18 00:00:00",
+        "#content--manifoldcf--markrmiller": "2010-06-09 00:00:00",
+        "#content--ofbiz--dixitdeepak": "2017-02-12 00:00:00",
+        "#content--ofbiz--pythys": "2017-02-11 00:00:00",
+        "#content--ofbiz--JacquesLeRoux": "2017-02-11 00:00:00",
+        "#content--ofbiz--nmalin": "2017-02-07 00:00:00",
+        "#content--ofbiz--mbrohl": "2017-02-07 00:00:00",
+        "#content--ofbiz--jacopoc": "2017-01-31 00:00:00",
+        "#content--ofbiz--shijh": "2017-01-25 00:00:00",
+        "#content--ofbiz--": "2017-01-18 00:00:00",
+        "#content--ofbiz--hansbak": "2016-12-18 00:00:00",
+        "#content--pdfbox--THausherr": "2023-01-04 00:00:00",
+        "#content--pdfbox--lehmi": "2023-01-01 00:00:00",
+        "#content--pdfbox--": "2022-02-26 00:00:00",
+        "#content--pdfbox--tballison": "2019-12-17 00:00:00",
+        "#content--pdfbox--jahewson": "2018-05-10 00:00:00",
+        "#content--pdfbox--jmaerki": "2014-06-01 00:00:00",
+        "#content--pdfbox--jukka": "2012-05-22 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#content--any23--brnnnfx": 0,
+        "#content--any23--NcIgor": 0,
+        "#content--any23--tjroamer": 0,
+        "#content--any23--kamaci": 0,
+        "#content--any23--JLLeitschuh": 0,
+        "#content--any23--coheigea": 0,
+        "#content--any23--panthony": 0,
+        "#content--any23--davidcockbill": 0,
+        "#content--any23--afs": 0,
+        "#content--any23--larsgsvensson": 0,
+        "#content--any23--frankier": 0,
+        "#content--any23--The-Alchemist": 0,
+        "#content--any23--jonathansantilli": 0,
+        "#content--any23--Timpy": 0,
+        "#content--any23--olamy": 0,
+        "#content--any23--levkhomich": 2,
+        "#content--any23--jdevelop": 3,
+        "#content--any23--JulioCCBUcuenca": 63,
+        "#content--any23--nisalanirmana": 66,
+        "#content--any23--hboutemy": 72,
+        "#content--any23--scor": 81,
+        "#content--any23--simonetripodi": 353,
+        "#content--any23--band": 373,
+        "#content--any23--jgrzebyta": 597,
+        "#content--any23--HansBrende": 801,
+        "#content--any23--dependabot[bot]": 933,
+        "#content--any23--michelemostarda": 1147,
+        "#content--any23--ansell": 1800,
+        "#content--any23--": 3247,
+        "#content--any23--lewismc": 3275,
+        "#content--incubator-freemarker--theHacker": 0,
+        "#content--incubator-freemarker--agriffis": 0,
+        "#content--incubator-freemarker--TrackerSB": 0,
+        "#content--incubator-freemarker--mbooth101": 0,
+        "#content--incubator-freemarker--aschi": 0,
+        "#content--incubator-freemarker--vocatan": 0,
+        "#content--incubator-freemarker--robin850": 0,
+        "#content--incubator-freemarker--ajbanck": 0,
+        "#content--incubator-freemarker--ninjyni": 0,
+        "#content--incubator-freemarker--fvanderwielen": 0,
+        "#content--incubator-freemarker--jyjz2008": 0,
+        "#content--incubator-freemarker--pitgrap": 0,
+        "#content--incubator-freemarker--SimonLammer": 0,
+        "#content--incubator-freemarker--pyxide": 0,
+        "#content--incubator-freemarker--jacopoc": 0,
+        "#content--incubator-freemarker--ratherblue": 0,
+        "#content--incubator-freemarker--nanlei": 0,
+        "#content--incubator-freemarker--gamerson": 0,
+        "#content--incubator-freemarker--mkleine": 1,
+        "#content--incubator-freemarker--powercomstar": 2,
+        "#content--incubator-freemarker--pradeepmurugesan": 5,
+        "#content--incubator-freemarker--martin-g": 24,
+        "#content--incubator-freemarker--szegedi": 611,
+        "#content--incubator-freemarker--quaff": 753,
+        "#content--incubator-freemarker--ILyaCyclone": 812,
+        "#content--incubator-freemarker--woonsanko": 1147,
+        "#content--incubator-freemarker--woonsan": 1392,
+        "#content--incubator-freemarker--chrisrueger": 2111,
+        "#content--incubator-freemarker--chaquotay": 2436,
+        "#content--incubator-freemarker--": 2539,
+        "#content--incubator-freemarker--ddekany": 4369,
+        "#content--manifoldcf--danielshahaf": 0,
+        "#content--manifoldcf--tteofili": 0,
+        "#content--manifoldcf--markrmiller": 0,
+        "#content--manifoldcf--rmuir": 237,
+        "#content--manifoldcf--gsingers": 326,
+        "#content--manifoldcf--maoo": 418,
+        "#content--manifoldcf--rafaharo": 1151,
+        "#content--manifoldcf--kishorejangid": 1425,
+        "#content--manifoldcf--sabe1": 1969,
+        "#content--manifoldcf--schuch": 2177,
+        "#content--manifoldcf--OpenPj": 3899,
+        "#content--manifoldcf--": 4220,
+        "#content--manifoldcf--kwrightapache": 4672,
+        "#content--ofbiz--dixitdeepak": 0,
+        "#content--ofbiz--": 0,
+        "#content--ofbiz--hansbak": 0,
+        "#content--ofbiz--nmalin": 10,
+        "#content--ofbiz--shijh": 23,
+        "#content--ofbiz--jacopoc": 39,
+        "#content--ofbiz--mbrohl": 52,
+        "#content--ofbiz--pythys": 53,
+        "#content--ofbiz--JacquesLeRoux": 55,
+        "#content--pdfbox--tballison": 1184,
+        "#content--pdfbox--jahewson": 1547,
+        "#content--pdfbox--jukka": 1563,
+        "#content--pdfbox--jmaerki": 2123,
+        "#content--pdfbox--THausherr": 3254,
+        "#content--pdfbox--": 4943,
+        "#content--pdfbox--lehmi": 5109
+    },
+    "commiter_contribute_time1": {
+        "#content--manifoldcf--rafaharo": {
+            "start": "2015-02-09 00:00:00",
+            "end": "2017-04-14 00:00:00",
+            "bug_num_per_commit": 0.16666666666666666,
+            "bug_commit_num_rate": 0.6666666666666666
+        },
+        "#content--pdfbox--jmaerki": {
+            "start": "2008-08-08 00:00:00",
+            "end": "2011-08-10 00:00:00",
+            "bug_num_per_commit": 0.4444444444444444,
+            "bug_commit_num_rate": 1.0
+        },
+        "#content--pdfbox--jahewson": {
+            "start": "2014-02-13 00:00:00",
+            "end": "2015-05-14 00:00:00",
+            "bug_num_per_commit": 0.2894736842105263,
+            "bug_commit_num_rate": 1.0
+        },
+        "#content--pdfbox--THausherr": {
+            "start": "2014-02-06 00:00:00",
+            "end": "2019-12-08 00:00:00",
+            "bug_num_per_commit": 0.05260011954572624,
+            "bug_commit_num_rate": 0.6192468619246861
+        },
+        "#content--pdfbox--jukka": {
+            "start": "2008-02-10 00:00:00",
+            "end": "2010-06-24 00:00:00",
+            "bug_num_per_commit": 0.2542372881355932,
+            "bug_commit_num_rate": 1.0
+        },
+        "#content--pdfbox--lehmi": {
+            "start": "2009-01-05 00:00:00",
+            "end": "2020-09-05 00:00:00",
+            "bug_num_per_commit": 0.10204081632653061,
+            "bug_commit_num_rate": 1.0
+        }
+    },
+    "commiter_contribute_time2": {
+        "#content--manifoldcf--rafaharo": {
+            "start": "2017-04-14 00:00:00",
+            "end": "2016-01-26 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#content--pdfbox--jmaerki": {
+            "start": "2011-08-10 00:00:00",
+            "end": "2010-09-21 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.4444444444444444
+        },
+        "#content--pdfbox--jahewson": {
+            "start": "2015-05-14 00:00:00",
+            "end": "2014-10-31 00:00:00",
+            "bug_num_per_commit": 0.29473684210526313,
+            "bug_commit_num_rate": 0.6789473684210526
+        },
+        "#content--pdfbox--THausherr": {
+            "start": "2019-12-08 00:00:00",
+            "end": "2018-01-16 00:00:00",
+            "bug_num_per_commit": 0.08248655110579797,
+            "bug_commit_num_rate": 0.0
+        },
+        "#content--pdfbox--jukka": {
+            "start": "2010-06-24 00:00:00",
+            "end": "2010-02-10 00:00:00",
+            "bug_num_per_commit": 0.23728813559322035,
+            "bug_commit_num_rate": 0.01694915254237288
+        },
+        "#content--pdfbox--lehmi": {
+            "start": "2020-09-05 00:00:00",
+            "end": "2015-03-08 00:00:00",
+            "bug_num_per_commit": 0.20037105751391465,
+            "bug_commit_num_rate": 0.43042671614100186
+        }
+    },
+    "commiter_contribute_time3": {
+        "#content--manifoldcf--rafaharo": {
+            "start": "2015-08-27 00:00:00",
+            "end": "2015-03-21 00:00:00",
+            "bug_num_per_commit": 0.16666666666666666,
+            "bug_commit_num_rate": 0.0
+        },
+        "#content--pdfbox--jmaerki": {
+            "start": "2009-10-24 00:00:00",
+            "end": "2009-01-04 00:00:00",
+            "bug_num_per_commit": 0.4444444444444444,
+            "bug_commit_num_rate": 0.0
+        },
+        "#content--pdfbox--jahewson": {
+            "start": "2014-10-31 00:00:00",
+            "end": "2014-07-02 00:00:00",
+            "bug_num_per_commit": 0.3736842105263158,
+            "bug_commit_num_rate": 0.0
+        },
+        "#content--pdfbox--THausherr": {
+            "start": "2018-01-16 00:00:00",
+            "end": "2015-08-26 00:00:00",
+            "bug_num_per_commit": 0.13030484160191272,
+            "bug_commit_num_rate": 0.0
+        },
+        "#content--pdfbox--jukka": {
+            "start": "2010-02-10 00:00:00",
+            "end": "2008-12-31 00:00:00",
+            "bug_num_per_commit": 0.23728813559322035,
+            "bug_commit_num_rate": 0.0
+        },
+        "#content--pdfbox--lehmi": {
+            "start": "2015-03-08 00:00:00",
+            "end": "2012-05-26 00:00:00",
+            "bug_num_per_commit": 0.3302411873840445,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#content--manifoldcf--rafaharo": {
+            "start": "2015-03-20 00:00:00",
+            "end": "2015-02-09 00:00:00",
+            "bug_num_per_commit": 0.14285714285714285,
+            "bug_commit_num_rate": 0.0
+        },
+        "#content--pdfbox--jmaerki": {
+            "start": "2008-11-08 00:00:00",
+            "end": "2008-08-08 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.0
+        },
+        "#content--pdfbox--jahewson": {
+            "start": "2014-07-02 00:00:00",
+            "end": "2014-02-13 00:00:00",
+            "bug_num_per_commit": 0.3507853403141361,
+            "bug_commit_num_rate": 0.0
+        },
+        "#content--pdfbox--THausherr": {
+            "start": "2015-08-25 00:00:00",
+            "end": "2014-02-06 00:00:00",
+            "bug_num_per_commit": 0.14567164179104478,
+            "bug_commit_num_rate": 0.0
+        },
+        "#content--pdfbox--jukka": {
+            "start": "2008-12-30 00:00:00",
+            "end": "2008-02-10 00:00:00",
+            "bug_num_per_commit": 0.1724137931034483,
+            "bug_commit_num_rate": 0.0
+        },
+        "#content--pdfbox--lehmi": {
+            "start": "2012-05-25 00:00:00",
+            "end": "2009-01-05 00:00:00",
+            "bug_num_per_commit": 0.3271375464684015,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#content--manifoldcf--rafaharo": {
+            "bug_num_per_commit": {
+                "time1": 0.16666666666666666,
+                "time2": 0.0,
+                "time3": 0.16666666666666666,
+                "time4": 0.14285714285714285
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.6666666666666666,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#content--pdfbox--jmaerki": {
+            "bug_num_per_commit": {
+                "time1": 0.4444444444444444,
+                "time2": 0.3333333333333333,
+                "time3": 0.4444444444444444,
+                "time4": 0.25
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.4444444444444444,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#content--pdfbox--jahewson": {
+            "bug_num_per_commit": {
+                "time1": 0.2894736842105263,
+                "time2": 0.29473684210526313,
+                "time3": 0.3736842105263158,
+                "time4": 0.3507853403141361
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.6789473684210526,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#content--pdfbox--THausherr": {
+            "bug_num_per_commit": {
+                "time1": 0.05260011954572624,
+                "time2": 0.08248655110579797,
+                "time3": 0.13030484160191272,
+                "time4": 0.14567164179104478
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.6192468619246861,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#content--pdfbox--jukka": {
+            "bug_num_per_commit": {
+                "time1": 0.2542372881355932,
+                "time2": 0.23728813559322035,
+                "time3": 0.23728813559322035,
+                "time4": 0.1724137931034483
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.01694915254237288,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#content--pdfbox--lehmi": {
+            "bug_num_per_commit": {
+                "time1": 0.10204081632653061,
+                "time2": 0.20037105751391465,
+                "time3": 0.3302411873840445,
+                "time4": 0.3271375464684015
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.43042671614100186,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#content--manifoldcf--rafaharo",
+        "#content--pdfbox--jmaerki",
+        "#content--pdfbox--jahewson",
+        "#content--pdfbox--THausherr",
+        "#content--pdfbox--jukka",
+        "#content--pdfbox--lehmi"
+    ],
+    "improved_daily_long_time_error_prone_developer": [
+        "#content--pdfbox--THausherr"
+    ],
+    "number_improved_daily_long_time_error_prone_developer": 1,
+    "number_daily_long_time_error_prone_developer": 6
+}

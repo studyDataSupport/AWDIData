@@ -1,0 +1,45 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#http--ofbiz--dixitdeepak": "2017-02-12 00:00:00",
+        "#http--ofbiz--pythys": "2016-12-20 00:00:00",
+        "#http--ofbiz--JacquesLeRoux": "2016-12-18 00:00:00",
+        "#http--ofbiz--nmalin": "2017-01-28 00:00:00",
+        "#http--ofbiz--mbrohl": "2016-12-17 00:00:00",
+        "#http--ofbiz--jacopoc": "2016-12-23 00:00:00",
+        "#http--ofbiz--shijh": "2017-01-02 00:00:00",
+        "#http--ofbiz--": "2017-01-18 00:00:00",
+        "#http--ofbiz--hansbak": "2016-12-18 00:00:00"
+    },
+    "commiter_end_time": {
+        "#http--ofbiz--dixitdeepak": "2017-02-12 00:00:00",
+        "#http--ofbiz--pythys": "2017-02-11 00:00:00",
+        "#http--ofbiz--JacquesLeRoux": "2017-02-11 00:00:00",
+        "#http--ofbiz--nmalin": "2017-02-07 00:00:00",
+        "#http--ofbiz--mbrohl": "2017-02-07 00:00:00",
+        "#http--ofbiz--jacopoc": "2017-01-31 00:00:00",
+        "#http--ofbiz--shijh": "2017-01-25 00:00:00",
+        "#http--ofbiz--": "2017-01-18 00:00:00",
+        "#http--ofbiz--hansbak": "2016-12-18 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#http--ofbiz--dixitdeepak": 0,
+        "#http--ofbiz--": 0,
+        "#http--ofbiz--hansbak": 0,
+        "#http--ofbiz--nmalin": 10,
+        "#http--ofbiz--shijh": 23,
+        "#http--ofbiz--jacopoc": 39,
+        "#http--ofbiz--mbrohl": 52,
+        "#http--ofbiz--pythys": 53,
+        "#http--ofbiz--JacquesLeRoux": 55
+    },
+    "commiter_contribute_time1": {},
+    "commiter_contribute_time2": {},
+    "commiter_contribute_time3": {},
+    "commiter_contribute_time4": {},
+    "commiter_time_trend": {},
+    "daily_long_time_error_prone_developer": [],
+    "number_daily_long_time_error_prone_developer": 0,
+    "improved_daily_long_time_error_prone_developer": [],
+    "number_improved_daily_long_time_error_prone_developer": 0
+}

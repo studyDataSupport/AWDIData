@@ -1,0 +1,1488 @@
+{
+    "developer": {
+        "#web-framework--wicket--michaelmosmann": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "wicket"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "michaelmosmann",
+                "createdAt": "2010-07-05T13:36:44Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 28,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "michaelmosmann/embedmongo.flapdoodle.de",
+                            "isFork": false,
+                            "url": "https://github.com/michaelmosmann/embedmongo.flapdoodle.de",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 31,
+                            "watchers": {
+                                "totalCount": 5
+                            },
+                            "forkCount": 170
+                        },
+                        {
+                            "nameWithOwner": "flapdoodle-oss/de.flapdoodle.embed.mongo",
+                            "isFork": true,
+                            "url": "https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 859,
+                            "watchers": {
+                                "totalCount": 37
+                            },
+                            "forkCount": 155
+                        },
+                        {
+                            "nameWithOwner": "flapdoodle-oss/de.flapdoodle.embed.process",
+                            "isFork": false,
+                            "url": "https://github.com/flapdoodle-oss/de.flapdoodle.embed.process",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 217,
+                            "watchers": {
+                                "totalCount": 24
+                            },
+                            "forkCount": 88
+                        },
+                        {
+                            "nameWithOwner": "flapdoodle-oss/de.flapdoodle.embed.nodejs",
+                            "isFork": false,
+                            "url": "https://github.com/flapdoodle-oss/de.flapdoodle.embed.nodejs",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 6,
+                            "watchers": {
+                                "totalCount": 12
+                            },
+                            "forkCount": 1
+                        },
+                        {
+                            "nameWithOwner": "grails/grails-embedded-mongodb",
+                            "isFork": false,
+                            "url": "https://github.com/grails/grails-embedded-mongodb",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Groovy"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2,
+                            "watchers": {
+                                "totalCount": 4
+                            },
+                            "forkCount": 3
+                        },
+                        {
+                            "nameWithOwner": "flapdoodle-oss/de.flapdoodle.graph",
+                            "isFork": false,
+                            "url": "https://github.com/flapdoodle-oss/de.flapdoodle.graph",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 1
+                        },
+                        {
+                            "nameWithOwner": "flapdoodle-oss/de.flapdoodle.reverse",
+                            "isFork": false,
+                            "url": "https://github.com/flapdoodle-oss/de.flapdoodle.reverse",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 3,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 1
+                        },
+                        {
+                            "nameWithOwner": "flapdoodle-oss/de.flapdoodle.testdoc",
+                            "isFork": false,
+                            "url": "https://github.com/flapdoodle-oss/de.flapdoodle.testdoc",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 1
+                        },
+                        {
+                            "nameWithOwner": "flapdoodle-oss/de.flapdoodle.java8",
+                            "isFork": false,
+                            "url": "https://github.com/flapdoodle-oss/de.flapdoodle.java8",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 1,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 1
+                        },
+                        {
+                            "nameWithOwner": "flapdoodle-oss/de.flapdoodle.solid",
+                            "isFork": false,
+                            "url": "https://github.com/flapdoodle-oss/de.flapdoodle.solid",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Mustache"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 1,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 1
+                        },
+                        {
+                            "nameWithOwner": "flapdoodle-oss/dev-setup",
+                            "isFork": false,
+                            "url": "https://github.com/flapdoodle-oss/dev-setup",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 1
+                        },
+                        {
+                            "nameWithOwner": "flapdoodle-oss/bugs",
+                            "isFork": false,
+                            "url": "https://github.com/flapdoodle-oss/bugs",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "SCSS"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 1
+                        },
+                        {
+                            "nameWithOwner": "quarkusio/quarkus",
+                            "isFork": false,
+                            "url": "https://github.com/quarkusio/quarkus",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Groovy"
+                                    },
+                                    {
+                                        "name": "FreeMarker"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Kotlin"
+                                    },
+                                    {
+                                        "name": "Scala"
+                                    },
+                                    {
+                                        "name": "ANTLR"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Mustache"
+                                    },
+                                    {
+                                        "name": "PLpgSQL"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 12025,
+                            "watchers": {
+                                "totalCount": 267
+                            },
+                            "forkCount": 2283
+                        },
+                        {
+                            "nameWithOwner": "flapdoodle-oss/de.flapdoodle.openpdf-extensions",
+                            "isFork": false,
+                            "url": "https://github.com/flapdoodle-oss/de.flapdoodle.openpdf-extensions",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Kotlin"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 1
+                        },
+                        {
+                            "nameWithOwner": "flapdoodle-oss/photosync",
+                            "isFork": false,
+                            "url": "https://github.com/flapdoodle-oss/photosync",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Kotlin"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 2
+                        },
+                        {
+                            "nameWithOwner": "flapdoodle-oss/tab",
+                            "isFork": false,
+                            "url": "https://github.com/flapdoodle-oss/tab",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Kotlin"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 1
+                        },
+                        {
+                            "nameWithOwner": "jomjol/AI-on-the-edge-device",
+                            "isFork": false,
+                            "url": "https://github.com/jomjol/AI-on-the-edge-device",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CMake"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Pascal"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 3773,
+                            "watchers": {
+                                "totalCount": 101
+                            },
+                            "forkCount": 489
+                        },
+                        {
+                            "nameWithOwner": "flapdoodle-oss/de.flapdoodle.os",
+                            "isFork": false,
+                            "url": "https://github.com/flapdoodle-oss/de.flapdoodle.os",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 3,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 6
+                        },
+                        {
+                            "nameWithOwner": "flapdoodle-oss/de.flapdoodle.kfx",
+                            "isFork": false,
+                            "url": "https://github.com/flapdoodle-oss/de.flapdoodle.kfx",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Kotlin"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 1
+                        },
+                        {
+                            "nameWithOwner": "flapdoodle-oss/de.flapdoodle.embed.mongo.packageresolver",
+                            "isFork": false,
+                            "url": "https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo.packageresolver",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 4,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 4
+                        },
+                        {
+                            "nameWithOwner": "flapdoodle-oss/de.flapdoodle.embed.mongo.canary",
+                            "isFork": false,
+                            "url": "https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo.canary",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 3
+                        },
+                        {
+                            "nameWithOwner": "flapdoodle-oss/de.flapdoodle.embed.mongo.spring",
+                            "isFork": false,
+                            "url": "https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo.spring",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 16,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 5
+                        },
+                        {
+                            "nameWithOwner": "flapdoodle-oss/tab2",
+                            "isFork": false,
+                            "url": "https://github.com/flapdoodle-oss/tab2",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Dart"
+                                    },
+                                    {
+                                        "name": "CMake"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Swift"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "flapdoodle-oss/de.flapdoodle.formula",
+                            "isFork": false,
+                            "url": "https://github.com/flapdoodle-oss/de.flapdoodle.formula",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "haiderali22/mongodb-transaction-test",
+                            "isFork": false,
+                            "url": "https://github.com/haiderali22/mongodb-transaction-test",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 1
+                        },
+                        {
+                            "nameWithOwner": "Heatmanofurioso/sample-spring-mongo-repo",
+                            "isFork": false,
+                            "url": "https://github.com/Heatmanofurioso/sample-spring-mongo-repo",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 1,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 2
+                        },
+                        {
+                            "nameWithOwner": "flapdoodle-oss/de.flapdoodle.os-api",
+                            "isFork": false,
+                            "url": "https://github.com/flapdoodle-oss/de.flapdoodle.os-api",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "flapdoodle-oss/de.flapdoodle.eval",
+                            "isFork": false,
+                            "url": "https://github.com/flapdoodle-oss/de.flapdoodle.eval",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "#web-framework--wicket--duesenklipper": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "wicket"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "duesenklipper",
+                "createdAt": "2009-07-16T11:53:32Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 1,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "RupertBenWiser/Web-Environment-Integrity",
+                            "isFork": false,
+                            "url": "https://github.com/RupertBenWiser/Web-Environment-Integrity",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 449,
+                            "watchers": {
+                                "totalCount": 87
+                            },
+                            "forkCount": 108
+                        }
+                    ]
+                }
+            }
+        },
+        "#web-framework--wicket--ivaynberg": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "wicket"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "ivaynberg",
+                "createdAt": "2009-11-07T06:26:25Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 0,
+                    "nodes": []
+                }
+            }
+        },
+        "#web-framework--wicket--pedrosans": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "wicket"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "pedrosans",
+                "createdAt": "2010-12-04T21:44:06Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 1,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "pedrosans/ls-ext",
+                            "isFork": false,
+                            "url": "https://github.com/pedrosans/ls-ext",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Vim Script"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "#web-framework--wicket--jesselong": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "wicket"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "jesselong",
+                "createdAt": "2011-04-09T14:00:55Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 0,
+                    "nodes": []
+                }
+            }
+        },
+        "#web-framework--wicket--svenmeier": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "wicket"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "svenmeier",
+                "createdAt": "2011-01-01T11:05:55Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 3,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "cast-org/cast-wicket-modules",
+                            "isFork": false,
+                            "url": "https://github.com/cast-org/cast-wicket-modules",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 3,
+                            "watchers": {
+                                "totalCount": 5
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "OpenAPITools/openapi-generator",
+                            "isFork": false,
+                            "url": "https://github.com/OpenAPITools/openapi-generator",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Scala"
+                                    },
+                                    {
+                                        "name": "Apex"
+                                    },
+                                    {
+                                        "name": "PHP"
+                                    },
+                                    {
+                                        "name": "Ruby"
+                                    },
+                                    {
+                                        "name": "Rust"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "TypeScript"
+                                    },
+                                    {
+                                        "name": "Kotlin"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Dart"
+                                    },
+                                    {
+                                        "name": "SCSS"
+                                    },
+                                    {
+                                        "name": "Blade"
+                                    },
+                                    {
+                                        "name": "Handlebars"
+                                    },
+                                    {
+                                        "name": "Groovy"
+                                    },
+                                    {
+                                        "name": "Haskell"
+                                    },
+                                    {
+                                        "name": "Emacs Lisp"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Elixir"
+                                    },
+                                    {
+                                        "name": "CMake"
+                                    },
+                                    {
+                                        "name": "Nix"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 17176,
+                            "watchers": {
+                                "totalCount": 215
+                            },
+                            "forkCount": 5478
+                        },
+                        {
+                            "nameWithOwner": "svenmeier/jorgan",
+                            "isFork": false,
+                            "url": "https://github.com/svenmeier/jorgan",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Inno Setup"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 12,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 6
+                        }
+                    ]
+                }
+            }
+        },
+        "#web-framework--wicket--papegaaij": {
+            "attribute_apache_item_count": 2,
+            "attribute_apache_item_list": [
+                "wicket",
+                "wicket"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "papegaaij",
+                "createdAt": "2010-01-28T13:09:01Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 20,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "apache/wicket",
+                            "isFork": false,
+                            "url": "https://github.com/apache/wicket",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Logos"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Less"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 699,
+                            "watchers": {
+                                "totalCount": 65
+                            },
+                            "forkCount": 377
+                        },
+                        {
+                            "nameWithOwner": "smallrye/jandex",
+                            "isFork": false,
+                            "url": "https://github.com/smallrye/jandex",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Groovy"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 354,
+                            "watchers": {
+                                "totalCount": 21
+                            },
+                            "forkCount": 89
+                        },
+                        {
+                            "nameWithOwner": "hibernate/hibernate-orm",
+                            "isFork": false,
+                            "url": "https://github.com/hibernate/hibernate-orm",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Groovy"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "ANTLR"
+                                    },
+                                    {
+                                        "name": "Kotlin"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 5501,
+                            "watchers": {
+                                "totalCount": 306
+                            },
+                            "forkCount": 3318
+                        },
+                        {
+                            "nameWithOwner": "swagger-api/swagger-core",
+                            "isFork": false,
+                            "url": "https://github.com/swagger-api/swagger-core",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 7240,
+                            "watchers": {
+                                "totalCount": 313
+                            },
+                            "forkCount": 2148
+                        },
+                        {
+                            "nameWithOwner": "liquibase/liquibase-hibernate",
+                            "isFork": false,
+                            "url": "https://github.com/liquibase/liquibase-hibernate",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Groovy"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 256,
+                            "watchers": {
+                                "totalCount": 37
+                            },
+                            "forkCount": 148
+                        },
+                        {
+                            "nameWithOwner": "pac4j/pac4j",
+                            "isFork": false,
+                            "url": "https://github.com/pac4j/pac4j",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2303,
+                            "watchers": {
+                                "totalCount": 117
+                            },
+                            "forkCount": 663
+                        },
+                        {
+                            "nameWithOwner": "bcgit/bc-java",
+                            "isFork": false,
+                            "url": "https://github.com/bcgit/bc-java",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 1991,
+                            "watchers": {
+                                "totalCount": 131
+                            },
+                            "forkCount": 1062
+                        },
+                        {
+                            "nameWithOwner": "topicusonderwijs/cachebuster-maven-plugin",
+                            "isFork": false,
+                            "url": "https://github.com/topicusonderwijs/cachebuster-maven-plugin",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 1,
+                            "watchers": {
+                                "totalCount": 18
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "topicusonderwijs/enforcer-require-managed-dependencies",
+                            "isFork": false,
+                            "url": "https://github.com/topicusonderwijs/enforcer-require-managed-dependencies",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "topicusonderwijs/vakkentabel-maven-plugin",
+                            "isFork": false,
+                            "url": "https://github.com/topicusonderwijs/vakkentabel-maven-plugin",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 40
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "nielsbasjes/yauaa",
+                            "isFork": false,
+                            "url": "https://github.com/nielsbasjes/yauaa",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "ANTLR"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Kotlin"
+                                    },
+                                    {
+                                        "name": "Scala"
+                                    },
+                                    {
+                                        "name": "NASL"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 673,
+                            "watchers": {
+                                "totalCount": 35
+                            },
+                            "forkCount": 121
+                        },
+                        {
+                            "nameWithOwner": "topicusonderwijs/naming-kubernetes",
+                            "isFork": false,
+                            "url": "https://github.com/topicusonderwijs/naming-kubernetes",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2,
+                            "watchers": {
+                                "totalCount": 26
+                            },
+                            "forkCount": 1
+                        },
+                        {
+                            "nameWithOwner": "topicuskeyhub/go-keyhub",
+                            "isFork": false,
+                            "url": "https://github.com/topicuskeyhub/go-keyhub",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "topicuskeyhub/jenkins2-plugin",
+                            "isFork": false,
+                            "url": "https://github.com/topicuskeyhub/jenkins2-plugin",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "microsoft/kiota",
+                            "isFork": false,
+                            "url": "https://github.com/microsoft/kiota",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "C#"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Ruby"
+                                    },
+                                    {
+                                        "name": "Swift"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "TypeScript"
+                                    },
+                                    {
+                                        "name": "PowerShell"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "PHP"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 762,
+                            "watchers": {
+                                "totalCount": 31
+                            },
+                            "forkCount": 87
+                        },
+                        {
+                            "nameWithOwner": "topicuskeyhub/terraform-provider-keyhub",
+                            "isFork": false,
+                            "url": "https://github.com/topicuskeyhub/terraform-provider-keyhub",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "HCL"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 3,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 1
+                        },
+                        {
+                            "nameWithOwner": "topicusonderwijs/enforcer-ban-class-usage",
+                            "isFork": false,
+                            "url": "https://github.com/topicusonderwijs/enforcer-ban-class-usage",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 14
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "papegaaij/kiota",
+                            "isFork": true,
+                            "url": "https://github.com/papegaaij/kiota",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Ruby"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "PHP"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "C#"
+                                    },
+                                    {
+                                        "name": "PowerShell"
+                                    },
+                                    {
+                                        "name": "TypeScript"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Swift"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "topicuskeyhub/sdk-go",
+                            "isFork": false,
+                            "url": "https://github.com/topicuskeyhub/sdk-go",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "topicuskeyhub/terraform-provider-keyhub-preview",
+                            "isFork": false,
+                            "url": "https://github.com/topicuskeyhub/terraform-provider-keyhub-preview",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "HCL"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 0,
+    "deveper_mul_apache_item_error": {
+        "#web-framework--wicket--michaelmosmann": [
+            "wicket"
+        ],
+        "#web-framework--wicket--duesenklipper": [
+            "wicket"
+        ],
+        "#web-framework--wicket--ivaynberg": [
+            "wicket"
+        ],
+        "#web-framework--wicket--pedrosans": [
+            "wicket"
+        ],
+        "#web-framework--wicket--jesselong": [
+            "wicket"
+        ],
+        "#web-framework--wicket--svenmeier": [
+            "wicket"
+        ],
+        "#web-framework--wicket--papegaaij": [
+            "wicket"
+        ]
+    }
+}

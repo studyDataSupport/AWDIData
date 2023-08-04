@@ -1,0 +1,183 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#database--pig--": "2007-10-29 00:00:00",
+        "#database--pig--r0hini": "2012-11-01 00:00:00",
+        "#database--pig--szlta": "2017-05-22 00:00:00",
+        "#database--pig--nandorKollar": "2019-05-21 00:00:00",
+        "#database--pig--zjffdu": "2010-01-19 00:00:00",
+        "#database--pig--julienledem": "2011-02-23 00:00:00",
+        "#database--pig--gdfm": "2011-09-12 00:00:00",
+        "#database--pig--ashutoshc": "2010-01-28 00:00:00",
+        "#database--pig--rangadi": "2009-09-01 00:00:00",
+        "#database--pig--gkesavan": "2009-04-27 00:00:00",
+        "#database--pig--breed": "2007-11-12 00:00:00",
+        "#database--pig--omalley": "2008-10-27 00:00:00",
+        "#database--pig--cutting": "2007-10-29 00:00:00"
+    },
+    "commiter_end_time": {
+        "#database--pig--": "2022-10-16 00:00:00",
+        "#database--pig--r0hini": "2022-08-18 00:00:00",
+        "#database--pig--szlta": "2020-04-23 00:00:00",
+        "#database--pig--nandorKollar": "2019-06-26 00:00:00",
+        "#database--pig--zjffdu": "2017-02-13 00:00:00",
+        "#database--pig--julienledem": "2013-05-18 00:00:00",
+        "#database--pig--gdfm": "2012-10-25 00:00:00",
+        "#database--pig--ashutoshc": "2011-11-22 00:00:00",
+        "#database--pig--rangadi": "2009-10-12 00:00:00",
+        "#database--pig--gkesavan": "2009-09-15 00:00:00",
+        "#database--pig--breed": "2009-08-21 00:00:00",
+        "#database--pig--omalley": "2008-10-27 00:00:00",
+        "#database--pig--cutting": "2007-10-29 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#database--pig--omalley": 0,
+        "#database--pig--cutting": 0,
+        "#database--pig--nandorKollar": 36,
+        "#database--pig--rangadi": 41,
+        "#database--pig--gkesavan": 141,
+        "#database--pig--gdfm": 409,
+        "#database--pig--breed": 648,
+        "#database--pig--ashutoshc": 663,
+        "#database--pig--julienledem": 815,
+        "#database--pig--szlta": 1067,
+        "#database--pig--zjffdu": 2582,
+        "#database--pig--r0hini": 3577,
+        "#database--pig--": 5466
+    },
+    "commiter_contribute_time1": {
+        "#database--pig--ashutoshc": {
+            "start": "2010-01-28 00:00:00",
+            "end": "2011-05-05 00:00:00",
+            "bug_num_per_commit": 0.14285714285714285,
+            "bug_commit_num_rate": 1.0
+        },
+        "#database--pig--julienledem": {
+            "start": "2011-02-23 00:00:00",
+            "end": "2012-10-25 00:00:00",
+            "bug_num_per_commit": 0.1111111111111111,
+            "bug_commit_num_rate": 1.0
+        },
+        "#database--pig--r0hini": {
+            "start": "2012-11-01 00:00:00",
+            "end": "2016-07-26 00:00:00",
+            "bug_num_per_commit": 0.05952380952380952,
+            "bug_commit_num_rate": 0.9880952380952381
+        }
+    },
+    "commiter_contribute_time2": {
+        "#database--pig--ashutoshc": {
+            "start": "2010-10-29 00:00:00",
+            "end": "2010-03-16 00:00:00",
+            "bug_num_per_commit": 0.5714285714285714,
+            "bug_commit_num_rate": 1.0
+        },
+        "#database--pig--julienledem": {
+            "start": "2012-09-12 00:00:00",
+            "end": "2012-07-17 00:00:00",
+            "bug_num_per_commit": 0.2222222222222222,
+            "bug_commit_num_rate": 0.5555555555555556
+        },
+        "#database--pig--r0hini": {
+            "start": "2016-07-26 00:00:00",
+            "end": "2015-09-21 00:00:00",
+            "bug_num_per_commit": 0.15476190476190477,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time3": {
+        "#database--pig--ashutoshc": {
+            "start": "2010-02-26 00:00:00",
+            "end": "2010-02-10 00:00:00",
+            "bug_num_per_commit": 0.42857142857142855,
+            "bug_commit_num_rate": 0.14285714285714285
+        },
+        "#database--pig--julienledem": {
+            "start": "2012-07-16 00:00:00",
+            "end": "2012-05-18 00:00:00",
+            "bug_num_per_commit": 0.2222222222222222,
+            "bug_commit_num_rate": 0.0
+        },
+        "#database--pig--r0hini": {
+            "start": "2015-09-02 00:00:00",
+            "end": "2014-08-06 00:00:00",
+            "bug_num_per_commit": 0.17857142857142858,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#database--pig--ashutoshc": {
+            "start": "2010-02-08 00:00:00",
+            "end": "2010-01-28 00:00:00",
+            "bug_num_per_commit": 0.6666666666666666,
+            "bug_commit_num_rate": 0.0
+        },
+        "#database--pig--julienledem": {
+            "start": "2012-05-16 00:00:00",
+            "end": "2011-02-23 00:00:00",
+            "bug_num_per_commit": 0.7777777777777778,
+            "bug_commit_num_rate": 0.0
+        },
+        "#database--pig--r0hini": {
+            "start": "2014-07-29 00:00:00",
+            "end": "2012-11-01 00:00:00",
+            "bug_num_per_commit": 0.3373493975903614,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#database--pig--ashutoshc": {
+            "bug_num_per_commit": {
+                "time1": 0.14285714285714285,
+                "time2": 0.5714285714285714,
+                "time3": 0.42857142857142855,
+                "time4": 0.6666666666666666
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.14285714285714285,
+                "time4": 0.0
+            }
+        },
+        "#database--pig--julienledem": {
+            "bug_num_per_commit": {
+                "time1": 0.1111111111111111,
+                "time2": 0.2222222222222222,
+                "time3": 0.2222222222222222,
+                "time4": 0.7777777777777778
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.5555555555555556,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#database--pig--r0hini": {
+            "bug_num_per_commit": {
+                "time1": 0.05952380952380952,
+                "time2": 0.15476190476190477,
+                "time3": 0.17857142857142858,
+                "time4": 0.3373493975903614
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.9880952380952381,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#database--pig--ashutoshc",
+        "#database--pig--julienledem",
+        "#database--pig--r0hini"
+    ],
+    "number_daily_long_time_error_prone_developer": 3,
+    "improved_daily_long_time_error_prone_developer": [
+        "#database--pig--julienledem",
+        "#database--pig--r0hini"
+    ],
+    "number_improved_daily_long_time_error_prone_developer": 2
+}

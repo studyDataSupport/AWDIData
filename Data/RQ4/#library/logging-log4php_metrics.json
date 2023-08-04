@@ -1,0 +1,48 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#library--logging-log4php--rgoers": "2020-12-18 00:00:00",
+        "#library--logging-log4php--Falseclock": "2019-12-25 00:00:00",
+        "#library--logging-log4php--": "2004-01-23 00:00:00",
+        "#library--logging-log4php--0xbad0c0d3": "2018-11-15 00:00:00",
+        "#library--logging-log4php--alexiskulash": "2016-07-08 00:00:00",
+        "#library--logging-log4php--vlajos": "2014-02-28 00:00:00",
+        "#library--logging-log4php--grobmeier": "2009-04-27 00:00:00",
+        "#library--logging-log4php--ihabunek": "2010-07-25 00:00:00",
+        "#library--logging-log4php--gmcdonald": "2009-07-16 00:00:00",
+        "#library--logging-log4php--jimjag": "2007-11-01 00:00:00"
+    },
+    "commiter_end_time": {
+        "#library--logging-log4php--rgoers": "2020-12-18 00:00:00",
+        "#library--logging-log4php--Falseclock": "2020-11-02 00:00:00",
+        "#library--logging-log4php--": "2019-09-11 00:00:00",
+        "#library--logging-log4php--0xbad0c0d3": "2018-11-15 00:00:00",
+        "#library--logging-log4php--alexiskulash": "2016-07-08 00:00:00",
+        "#library--logging-log4php--vlajos": "2014-02-28 00:00:00",
+        "#library--logging-log4php--grobmeier": "2013-06-07 00:00:00",
+        "#library--logging-log4php--ihabunek": "2013-03-13 00:00:00",
+        "#library--logging-log4php--gmcdonald": "2010-03-22 00:00:00",
+        "#library--logging-log4php--jimjag": "2009-02-11 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#library--logging-log4php--rgoers": 0,
+        "#library--logging-log4php--0xbad0c0d3": 0,
+        "#library--logging-log4php--alexiskulash": 0,
+        "#library--logging-log4php--vlajos": 0,
+        "#library--logging-log4php--gmcdonald": 249,
+        "#library--logging-log4php--Falseclock": 313,
+        "#library--logging-log4php--jimjag": 468,
+        "#library--logging-log4php--ihabunek": 962,
+        "#library--logging-log4php--grobmeier": 1502,
+        "#library--logging-log4php--": 5710
+    },
+    "commiter_contribute_time1": {},
+    "commiter_contribute_time2": {},
+    "commiter_contribute_time3": {},
+    "commiter_contribute_time4": {},
+    "commiter_time_trend": {},
+    "daily_long_time_error_prone_developer": [],
+    "number_daily_long_time_error_prone_developer": 0,
+    "improved_daily_long_time_error_prone_developer": [],
+    "number_improved_daily_long_time_error_prone_developer": 0
+}

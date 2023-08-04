@@ -1,0 +1,38 @@
+[
+    {
+        "fix_commit_hash": "9f04231cdd7c7cedc8d466f02ad79c3644042b7b",
+        "repo_name": "apache/mina-ftpserver"
+    },
+    {
+        "fix_commit_hash": "eab8b03c9ccdf4e6d5c39437c9b764532282fc46",
+        "repo_name": "apache/mina-ftpserver"
+    },
+    {
+        "fix_commit_hash": "053531cc0a8595e1fc063d515db7a0f74ca16e65",
+        "repo_name": "apache/mina-ftpserver"
+    },
+    {
+        "fix_commit_hash": "0594caaec7937dea13eba53494a2513a0ca69ef8",
+        "repo_name": "apache/mina-ftpserver"
+    },
+    {
+        "fix_commit_hash": "4ecf9da0d861e37772d77edda2698f8ad49933cc",
+        "repo_name": "apache/mina-ftpserver"
+    },
+    {
+        "fix_commit_hash": "271a3aa93dc070e534f50a5aeacc19985f7e72c7",
+        "repo_name": "apache/mina-ftpserver"
+    },
+    {
+        "fix_commit_hash": "c1813fc52bd476b3125131045f52eb96f50d838d",
+        "repo_name": "apache/mina-ftpserver"
+    },
+    {
+        "fix_commit_hash": "dfcb8f0a1655eb2916c01ecf89515f0392565e38",
+        "repo_name": "apache/mina-ftpserver"
+    },
+    {
+        "fix_commit_hash": "e056f3512b6333fa031d23262c3f3f960bb88838",
+        "repo_name": "apache/mina-ftpserver"
+    }
+]

@@ -1,0 +1,406 @@
+[
+    {
+        "fix_commit_hash": "69aa686187379af315bec1ca067f1b558f06ccf6",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "550309e3278bdcea0ee6467b95f1f1487746f1d8",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "a61afc16184742836f6aa3e00b2948725601f789",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "b7a9d4084e1c0225886de8e3dbee58178e0639b0",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "c158188597aeea34ef279788e6a539fd725bab98",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "2bd221704b704cc0fa55fb40cf2b526c69571516",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "4fdfc59b1cb668cb110b074742a1e760819f719b",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "aa96fd8a3d6d326285fbdce021258297a3319e09",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "c15a06eee95e227fbe5c61849dd12b7bf126016a",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "e3b29ca47cda539e0a3182054d8a04258a87aec3",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "32d59ce9b4a0bcb824ba36e6fdd2df2052e8e6ff",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "1e5c7c3181906f2377793763be69dd37a9eba15f",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "d7b1574483c91c9e7337e330fcb5a2b5fca74fde",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "a4c6037d0ccfc5b7176d6c522fcc0ab38b9bdd28",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "a4237345a1de8c9ada81a73fe1b8e44d0174dcf7",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "93a9affacf54011487d26b453b7f1ad18990f61c",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "a6ca4165a8f8d156f0fbfe33627bac1509e7ae9c",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "83ad213fdb7987e16c036c1c5d8883d60c498cf1",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "238486dd77d4ac51f25ec34c4def822f9a3c53bb",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "679ccc595170ffe37843f6c4f775ee98387b543a",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "ad11cd14d0e407e351d7de71018cbc25ccb4352f",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "bc2419915d5619317c833372d9b7f9af036c7f53",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "3eac15fc8d5a1da80119e7389f78b9795e8aa4db",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "96b8485176fab410d6ff829e7e9b6b5f817671ab",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "2b51aa7d80b86cbc2c17a36a266cfb4970b2ae00",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "b7fea5546b563f520261e2ab6f981fe87f9ae82c",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "66c34da258f068046536d84e712a90a5f7f6e2a0",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "8d6772a3209b124af7e2430f69cdf6a7c765fd44",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "e3eca25d1329a202db4e63fb623117b63c74aa71",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "07101a99bc7d1445f97f4fd21fed59a210f79bf0",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "d047f83c283757e4848cd38332d822c378bb9774",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "53be2154bf5488f2860c425d8a445f4338679e66",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "059649167c5045dfd40ebf0f97def33a9235c3d1",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "4829ec961eb9db365b01428740b65ebf77e0803d",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "6aa17567501c94e2ed65dc0c2f2ff3c01e534bd5",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "a23b784c1c81c625fed587149e0c460366206fa4",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "7754cd4c84299e72043067501d2965f55e7ff769",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "f7c2ca216608457071ab45d05223952a69f76d58",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "bc64fb569cfba9f8d289d526e879f985fb8b3cf4",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "8b6cfb21bba2d74ecfc160348ed7ff8c506fa1ab",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "42b9fdb099a438886842795d8b0b325952d9f3e9",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "dd5de3807215e1a38a2819027559e074c9e63d5a",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "c683594f59030e5515b95ff7d8d0b9fa66eaac42",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "605bc0154f080e7a98c70256830a7d1d620e1358",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "d6e494b44d85540923b39eb4956a704ecee295b1",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "480b90febb39d7a3dd6f55d6082434ef09eb0b5f",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "0ab2b0818afe1ca083afcb08c20a3937b98bb786",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "3c5d7e07e02e769043d084bf906bbc4c6932ab1c",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "60b1c8e5c1b9f3a248d8d13240cf151a13f5953d",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "3ddfb40c4f6a3a7e5f73858c6cafac3e64b1f3ad",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "f368f64fa7f9acdcc01084f676e8b9c2b86f946e",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "83cd8088a63db894a0358e3ad5abbecc83964f3a",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "8b3de71fd99d0fa07cb6a3a35b583bbb170aab66",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "b4a084ed4839f297ab3f88c48d48f5081f229c96",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "3c0a73b30f1969136987f25227383ae9d233e4c1",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "7e471527915cb0c73316c598fd02b71a56f2cf43",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "2305e0e80c9ceaba6736bea4dbf07c0979279280",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "48068091e40864e6a351f3aa13e87b8d9cb8a4aa",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "9ae4b56c2af4ee65fa935d99b298c98b7cc4bc63",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "977824491d8d65b9952005573f2ebffe6ced671d",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "95bc1807be762e646c884affb0b4863a67f1fae5",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "5f14d16a66f31e11253e3daab61113cdacf33587",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "190390bf5dd83d6137ca3045902fcecbeafa3227",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "dd2cd54ff71059884058c2fd2ba4a0bb15811579",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "2465f5e8f627d13d61a9b3cfa9feac845850691b",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "82b6d2e7b4f8114747e4758d3e4e61eaf276ff54",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "8861157a564e494b49d06fb599ed9c3b276b15b4",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "f8b80e83417c3c7eeed1282118f64fa0e85c4787",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "5206b2a244e21070d149ee1e1f1efac8f2584d6e",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "224d30746c2b28921e495f0c824eb0cf92416409",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "65883aa4d9478161d7c526c1f6e1d5f2806da93b",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "ea5b3e0ba6e1cbdcf4a483e87edab5dceef73021",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "807ddd164bf0802116afbac1774831da1d8eacd5",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "c81ad0328eefb438cc875b9c9f081be93f9fdcc2",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "7d8821225ed64f73e327a2b990a4931dac6d799f",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "b67524da7fd146634c7112b23e95d1d45c398b82",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "99c3819bec33a0999b743b6827e6b48fcdd9c8ad",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "f9871c5d359f61c04ba567df58af206b676ad9f3",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "5a9436d462a45a44501c31a328c9926fb3cc4b86",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "35d101c2adecd51730f88e43941d85d16034886f",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "ce4e72701b1ad4caabc3bd668bd058fff082f2b6",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "9f03b06a1ec8cb2cb64aec6068d2a6c1f663fbc9",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "73cc5246cf789db8f459e2f539831b6e91bedd26",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "22601f647f2ce9a05fa4ce20ea356492c670940c",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "71c69df6dda034e9aa18ad07782ba88643423f58",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "2c6120826245f89fedf2f936ab4a0c3edd8717f3",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "75b9a4ba4ed34eed0afe0a6c3b8a79979685a379",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "a0d975933d6fe9eb5f359088de43508c1d3109bf",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "8f436552ae8ee5713c1b5c78c58d4387edcccb31",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "933a950c88c402752b189fe3890cd8aef1536fd1",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "720b341bf02eb85515f4ca40a5e53e362100dcc3",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "e94085595f372cd27900ee462c93be0a43d63a22",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "8a683f009d10150c3bcff6c92455cadd7f7f0a88",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "de1838ea067f3fbc4c7c21b9eeae077c739ecb73",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "0833f45bffd40f44ba6f294d84e9bac8a9ba0a37",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "38741a48c692ae2fc13cd2445e77ace6ecea1156",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "5063b16c7a6d806a0a229fdf4ff2a16d74f287b5",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "9ebd0d94254b468765f6c558bb10ca018a418444",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "9fb2b4f2b100c8d5a769532ee26973832c2a61c0",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "c9dedff12e98a34ab4225bc65f810c0954207f11",
+        "repo_name": "apache/commons-csv"
+    },
+    {
+        "fix_commit_hash": "f7220c40b18193ffa4b02fb6645b1e14db38cc44",
+        "repo_name": "apache/commons-csv"
+    }
+]

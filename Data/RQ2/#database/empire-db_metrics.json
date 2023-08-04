@@ -1,0 +1,19 @@
+{
+    "cate": "#database",
+    "#database-cate_aver_bug_rate": 0.25,
+    "#database-cate_aver_bug_commit_rate": 0.2182410423452769,
+    "high_bug_rate_error_prone_developer_number": 1,
+    "high_bug_commit_rate_error_prone_developer_number": 1,
+    "high_bug_rate_error_prone_developer": {
+        "#database--empire-db--rdoebele": 0.5
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#database--empire-db--rdoebele": 0.5
+    },
+    "error_prone_developer_num": 1,
+    "error_prone_developer": [
+        "#database--empire-db--rdoebele"
+    ],
+    "error_prone_developer_team_rate": 0.14285714285714285,
+    "team_developer_num": 7
+}

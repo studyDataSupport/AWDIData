@@ -1,0 +1,1962 @@
+[
+    {
+        "fix_commit_hash": "8988e3e7ced71000e2f1e5c9bd1e282cb766419a",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "7981fabdf8b5633452af5db206d16805abc7f0d4",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "6505a08671b4c564f9fb5b237c856c52c126307d",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "9f3c27718c687ac0ba80f15dabf890cf3f260bd9",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "4621dd45bbae666d42a39d2f638fca0f26d2a127",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "b213a62361ed8b797d3a7de26ccc0c1c1e9774a5",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "9c455fc91e0dd3cf9b0ab7c79571536128347999",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "67baf993b50cdfb90ece06c76e4c70ab04ab6ad8",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a0a24987fd28b2bcd2a2628c949b01745851c634",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "4dd4398384124f9affe74b18433e10f3de4fdf23",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "249dd85494a430d95fd69d89f42b02fd950cda51",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "2ce0af1b84e516a07a471d3926fb163524af90ea",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "7178208abf876c5cd2ab5733c53a73462ecc015e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "84385782dce8b8a9742bc46775845cf6ea368062",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a7d562806f0512683d9f32b3c3f95300d4c62fbe",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "f4b5c9cd400aef7373315cd8f776fb092db1772a",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "ddcf3e88cfa4f035a9c99bda25ace64d1a6b07ab",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e6c8f59f7deed62a0215b2c89cdd6bcc6c22a2ef",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "818be2527e2f1ea2c9849ff89d78101ff8448c91",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "1f226dc1663e22408b6bce2086b86549975ff006",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "eef00c5232c0285dec72a78b53e1bc33560549f1",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "7929409c8495cc3f2c8444fa7ed5497fd57650e1",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "f5be57e71e766ffdc8714e8b4e45d359a9182a52",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "6157b421e744f0b69c2550b54a30722be84760c1",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "0e6a77b492c0ae6f754bdf652ade84d80cfd227a",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "eeb85de0474b75c2a8c1e027e48845d5790208b0",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "4cf6ae6f16a307f242216b1c669c2d9213b82712",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "677f43cec6314f516cd539c105cadfc1720489f3",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "f043526b3d27e16680f551e4c1238a7fefaa6dc9",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "451840e48440b134baf616977ceb851e26c2b889",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "326c35842570e44d11175af8e11bd00380bda12d",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "6b3dd94269f2aa6b3fc42f18cedfbf72c48425c8",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "6854cd0056449baf4425146a8fbf319b328f077a",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e66f71c2f75488c447a00dd7beb00afe7ff6ee9c",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "fac10641b24c0a93e5818faf1811600c0424af81",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "97920a24af8a1fcbc16b3a5e6f6c3c4f17f9ad76",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "ac104bf2c412a82a7138159c339d9ee82eb84da3",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "225b78bfcb79450740d7cb0d0fd401404279b31e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "d6776be8f280914982c4f0d6ad979607e91fb89a",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "79133b30458726c2eee214b2d7c661dfefb7cd1d",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "57deba91592bb9cdcce57a1aeba17cb596b5ccaa",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e56ffb8e398cae62c19544dc2336f87ca3f7a905",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "8d6920870b7f57c21a2176bdfbd4b382e53d7f61",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "54fbf8b427d98bab4e4970ce4556a1400003168c",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "11871f03ed4b46f4d8274c6a416a3c8ae4a3cdee",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "0cfe871730a843f71f13b5751933aea31ba9f511",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "bd31c3fe8251128dc288b8c2ff069b53d6d096d8",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "d74d48c96844197c8a1632d3de789f3cba4b7566",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "304c44357920b35e391f23059ad499fb38df11ae",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "1574b0e6ca38e59127c2c1f674d3877261aaf0e0",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "7c7f35d79fa9eb7cc59fb29e113ce6451a92a8ce",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e5eb442894b32f4b2c412c2389f775014f51c5c6",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "4146d145d25bf6429071bb1caad22c1718596f49",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "5d5584253aa2f1111a69e5546c430f08038f6871",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "5bc1c7dd73ea09b7f692f874b519ca642ee8c4ad",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "be9bdcff7ac8678b6a4acf2c74b1abb2cb7ce647",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "232b298667bde3253d8d3a9507faaf6e3909a939",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e0c2f06fa6bc5c61cc72c3c60cdbafdddc05d2a2",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "6eb6a376b91cd449b04802a27d40c54e67d40993",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "8f7e528c30e24e2c3871e78bf7f52e37d8bded1e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "ab925ede5bde13f7cf18c456521a7e43542a4192",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "50c6eaa0ecd624eb51ebc7aac84002c014b32eba",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "c63a8c5d9f9a75a83042a0dec7d5822596d360ed",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "9a9e492d319e8bdfc96769dfff7e8258a99649fc",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "45aff32e10ef3d1f1d04b6a2051ce05542be9e56",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "ffda0968464a352a97a22ceb1373aa5e3d589f59",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "d178ac833abcdac488ad7d969bbafa41815e7c2d",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "557a7ac9231a069a505fb578658e3447582d1e39",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e2cc09250606d04662daf68a3290dfaf3efedbba",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "d6e2fdcc95616daf67545b543c040c989357bc83",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "fc47f3c90c1bb12363d05d0c53826ee2a40984b6",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "24f5fe82d64ac2027809538dce00f768aa230ff7",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "7aef3a0c127d8e9c806533ccd329a1fef0331a92",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "859d5962a0d8c75cdc505eca866a2e5556f4a21a",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "ac61acbb314c55d762f3a445a08df32b1c0c9736",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "9d109097483dbbe3d3ccfb11a8882afae132e27e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "bedb6e93b1585d5344d78d03ce7b3f023f20f9c2",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "98180f856e9bace4bd3e1eddd665c9f3848cf58e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a9c0beb9bdbd9d11d3ea51b4d634036f56996cc1",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a10ce9781a1ec239a2abcb398615800654aab9ec",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "ea15cd384c801bc7b9026391076370723c0fd4f4",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "08f3f1179e612434731e240a6410411217af5c06",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a4de98f3359b167947ae71f3feb658a964b94cd6",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "c28503ae736a7f061c8c3db7c69156fb2730ba1c",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "2d3059fd398b63651ed94d15772bc4105120c288",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a522f99209a63fedc852b31d133b2b30918fc3ed",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "bcac56b44035c3198f536fa3cd6e7968d2413ed6",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "ee5bb78f7018972edb1c69fe8bf44ff1716231eb",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "33ca357ea075fabf74d50b2a2c8420ae39a8b453",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a4b45075280215f9ccc054581871acc7ec09f172",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "1b5b37a44c921ba1995a06d72271bfdb0f81ab8b",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "b400f4b1ef09c0b92e0b96aa0ff732d817d4d615",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "592ffe9ddfa03127106bbe7beebc446201cd0ca6",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "dc3d662688b2ef2acecd02ba29262009ab3fba32",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "844a20f53aad3281eda13189b593fd9a8401ea01",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a7363e224a96d289007fb9866d7f3d308b513366",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "c3ba3825e331da999e710271132a3ccf83ffb05e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "33dd2867ace8b0a7f6f79d26adfa5d879d4aa974",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "6724fc9d0fde10fc1944f9dc186cb2b859de1b21",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "7c888679e2f3722f0ef057f5e915e8b9666e8022",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "62fc07cc10d437bf858e98b6eb183c687f574c76",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a19cec5928aee756fd06cfcaae8e0dd8834e7845",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "77f33f832dc8045d9debfdd97dc27f032bf2ff42",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "7ffdd50e269212aaf1d9ae2d60924258751bf8d1",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "2a64fb6e3716d94495dad12a35c2961c1ba0030e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "d8534d2e7cce94f4aad781c95755c98051337f2e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "7db6242e781a6c23955fe2f143a27d96603a8e7c",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "879e334b3f97355d8d68f2c1c422c9e13f4f802b",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a966e8a8589d4c0bed1b53d4491f57f3e6e0ae54",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "67ead33def15fc222f0550683158a5ddcb536d38",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "1a8a98e175dbbd21a53cf04f636655dbd74031f6",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "617ef7ffa1fab468c8399210a0355410eb160058",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "7c56f0bee2206dbc0c56eaeabcf4f369bb39265d",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "0319bfa7f64048efeff954e4c5da055711b28ce4",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "9eeab649dbef85c0de65c3a350989ac70c097466",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "5ba5950529b17f1a635de7f1be498c7eda53acb0",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "9baeeaff4c307cdda8b05ecea01781f808de5143",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "0f40cce5c5df049fe1d0ef2b836fbae3f8270625",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e8fcf52fb2407236f924ad49e3786038f1f04d99",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "1b1adf9c06bec24d3fa83db890af40487aa80048",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "efe5223f89b0138d296db6c57a739b8874763b3a",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a4b406c815b234a0781dc2e3c8645ef7723bef27",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "6faf2c3c05e112ddd80a40e7ea564e0afff8146b",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "f431489bc471fa0e46d34549c91fc8b6f659e78b",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "9df7a221df9a4682b8ca992bb5157ce13ecca42a",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "8a7944a17f4f35a818a71be321bab7ec9bd0879d",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "b559678d532d00196c800c3b05e41bca7c41e81c",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "69435d32eb566b4cc6917bd1d63e144de96b9f6d",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "c6c9eb48cca7ee2ec3cfe5011d9a6ad728297b22",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "1f6bf7e11963849f44e65ed32eb8e2fea35e2065",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "bc221449da37e2e4b51fd42072233a394d219919",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "06c8291be392c8099f13289d3913c751ba3b13f2",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "2184ab6f191b41ecb1d8279da8d98e0dcd09d55d",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "88bd87ad501f7bbe5022988a054a72789885365d",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "8a65a82d1c508250a7f58675cc659b7cd68c996c",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "fe021b15b3f80deae6dfa795c5034f2786845c4a",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "ecf28ab70656f1ad264f3bee164274ee9f17af5f",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e81a9592ec185ab512f6fff6aec48571eecd1bb8",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "9e9851e0d7ed858568bfd0ae26145fdb320770e6",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "833bba2c15240bfc44f7560014899c134706ad8f",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a57a6f1bc6e98ec9d5f96bb9c6ba50b7f3a4fab6",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e673315b03ca6c74680d88914d6552bb73e5e038",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "1000dcb989eb0bc0389b88c2e9930a0f736f155e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "b3ebfbdf56b47e025e41119276dd81915190bb88",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "d5a11e4133c727ed642bdb966e5516b6e11a35ae",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "58ff07b31246074c1ab1bb057aab3b7efec0e74d",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "b750761bb03ce1413964ef47456b4485016d7044",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "357ffd05f8673a66d296869dfa673033e8a58e82",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "0da6a089db85f53d8291dfa4c69efa43c8b7a72f",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "d79eea5f8ef1ff5b5e9ffd20b50d036daa90f879",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a50a1ec4bc2cb321e0690c4904f2a5fefb34ac92",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "bf83a96bf032caed64142ba5cf878e842c13d8f1",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "0a989d3de88f93e469a93584e1d284b106e60f74",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "91e014fba77d6d560119bb68bfce2056fcdb1ca6",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "5dbe1c0a3f77e3905d8d17572a0d50d9e9c33cce",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "00b29ad45825702dc1eae36196cf5904a041696b",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "366e59ab34d36a453f5199fbe3650a68dd4e6692",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "46d57eec57f19cb00103302bfa401f1afc261039",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "6d2fabbcc155d32884b8da03cc330bc3c1ccde1a",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "94d83b7ae721ff1eed569ed54fc51bf6ef48b603",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "958e8bd5eeec5015d3f8a69d08fbec2cf3e76737",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "4c4e055b8babb73424c8ab5f0a4c4729ed7600eb",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "ae2a560c00302acca6182c59f75ce45d5bf19f8b",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "4c13e45b5b21b1633d25508af2e158aaf93a9fe0",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "6c743d59a93f0a4452c31e467679586d42c4b7ae",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "7ab41324ef8c436f3bbbe6bb4bfbac39e84be0e3",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "5c8ab1a8184226ebf5efeaa9268a9f38da245e3b",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "549bf0691ecae70c224518046da890a2b97c208e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "c2ae4540f0ead9191dd48caaf26f5e67ce4122a2",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "46cd0fcd4cb60e062fe816e1437cf7e28e70ac60",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a99f72a6f131148d35cfbe6125a96ab3e63ea524",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "aebd39f94c500af8388135db2016f2ca065fdec3",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "008ae20a832c45e7adb1b70b018b682a5ab17214",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "4be74efa8321f4f480dbe01ea8944cb674a7cb7f",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "22667342a918caeadb3e720251aaebc721125c17",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "5d1a5978abf8e0cf5a409f9b7de98f06d1dd2bd9",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "1c3930c4a48b414bb3d2635bb4bfe5afd673e874",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "c2e6c53bf470629f956f36eee12c0bce1fd9a4db",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "8a0e61051aa6f470cb8e1857e6f0c86f44d643cc",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "d513c5fd7f65672a7e52667f0c1fc60860bbd7d3",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "6026701042d64462bfb699bd959bd0124ab2db6f",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "3447b599aa835c417428d7ee0f3ecc5a30152cd5",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "612486be3663b94f9f5afbceccb66fc5c0de5675",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "7c3290034d559d17c0288461f88df3efd1d60560",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "7f0dc52c48c30bdd1ae80fafb5635aa56b5a2837",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "b8dc6e8df48131fa9f58a28a89f1606c7948d114",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a30235ea4eb750226b02864f548fd9619375d515",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "2e89e0a753cdea4a1ac86a52d27f40bf67790a65",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "ca7e07184ac8402d3ad97b8b82bbcca50ba1521a",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "f0fa7554e590b625a7f21ff5870fea4f8a56a4f5",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "0685344e95996dad5fa57f97de9603e0fe7b91b8",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "71a5f44e88ca51c75b2cd29b6df669911b7b4ba8",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a510aa5c87023dffe61f7b51197c817e09954f26",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "55e2a8055234303287eb3cb936b47e9104a9dc70",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "8aed0a5d67f3e8ef1daf6dba0775e4a2f1e72ac2",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "245a6ba9f2478a5cdb56d09833a920874d147e1d",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "3f374f6bda5ab8ba91ca19f18a79e72b3265ff56",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "47b10a038a19c23451a74903f876645a043f6d05",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "5165f2a1c75d09f3c3aa03e798c24cdc8f72174d",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "9b327ce477eaf26f2b6e32f76de366d1b5f256b1",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "c1de62081adcf534d564042d9b10e74db5e879f6",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "349afd68834a74db580a27cd7cbad6b859df4a75",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "fed759b08dfa9532db36b2e3debaa3820daa1603",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "b559f9d377627b20749a1d0dd38fd3839faed25f",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "2374f44d21176d82242df4a65055c617fd67ad63",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "c78378c9b92675bd37d8b0b40b2e2568cd9bc4db",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "cc7c230441f4423bfafea43cd66b86e166f82f97",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "47181de1b72467ba101e5681c4396ebd3189f0e8",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "4a4fa28464c7afface7653eecc9e934ce4014d10",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "b407432bc647a8469ced8f2346e71dbfa62a54bb",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "9ce7d91fd0685e502524c45df58ba088d4001ffd",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "0ece395bed9ac6f8c461c6c15b457f938b4d805b",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "8df749a9cf02e57b76c2e7487cf0adb015c856a0",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "106c95f4e23a368721589c6373a3ef7763c5e1da",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "b279aa7922fe8cbdc3ab2da524e1d6a9ed3913bb",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "9e1368f322e305007ce85bc17c8b844590d436d2",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "ca39d3b065a0b419f6d47c7396db1f91e7c35c1f",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "f89b6bef54d391bb4495609059c8c72c9859825a",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "3b5f1b7e4a1fbe80550c89b165d095fa7d989846",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "237be7b26da0f4b8b08ca867386e16fb35cd5c51",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "ddf5d3c8602a5c7e2765a4786b77e23e1f41fd1e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "c7dad6b12a162668ce97ad32e84a4fd7991debf2",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "2a8652be2409f8dbe5424e97da81c4a4dab8480e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "b93e6fae350d9c94e75e9c2c0241337067ad8d52",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "618ab4d5fec606c1d7b4a66f9d272ab22a1c5c8e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "1bb4cabced0914985ec6f4ea7fed723e70641a72",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "68b4f95c0c269671bcee8c12bc090b7b5a3cc0b6",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "c20f1d1767d07df2d21e65cff01b89c0020166c4",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "67304d344c8f33f446f3eba66a952ba7024dcdf6",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "aab9a2d6f3c191f9f97984f1680e14037bf5fd9b",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "25abf309ec0fe2f3457243c9441b08da4b99e82b",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "01b7c3c42b7f6c3e982fe6cc0adea0a7140975e5",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a3c7ffb05bd4ae6889512a83f4a9ebecb8538910",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "51ee4e6533f5a5b696ba31e435ed94eb6606c50c",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "3ad2bd81d1e47edb8650d36afea7b79e5e7e8938",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "b0ce6ef3180c1bec3e76a056f0339c6f4f66e621",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "fda7e5f805feb50d94a031c349cacc9c426b5e36",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "20fcf96f805741c27bf6bb0f1c96aa005f4cf003",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "64902ea02a2c39355b4725cc72b4f510f1cbfe37",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "bf8fa7a1b8e08b91e85b51ab26e684f6bd8d63b4",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "9d0c1c4658a37360699f17239a9a6b0b4f2a9685",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "353ce7b1e5f670ed6fe0628c04a726a61dc44cd7",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "877641044b1cc2b7e6f2fa8c38babb05136a523f",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "655412e379b0d2b62adae087806f3eabc47a8c57",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e02f8b00d9450903f7021dea602e313881ae8599",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "fb3d8bbed90db623185455ddb1b8c423cbd91aee",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "5145e292332b18c0f075a30686bf3a77ec51b0c6",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "3b73fef3235f88c8116d0762a1fdd758543388d9",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "af42f89efd5e483e7c233ef7a17baf3bcf64e68c",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "947b0558b0e52597445535409d37aa72edaac6fe",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "370f4c452ba34a8912fa3723d0339ca0bdd2eb4b",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e64ce9d32e3489baa2608215bea7cac1f598ec0c",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "7ed372ab14436825258fc1e1fa7f80224d822ce1",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "2ef349209b6054106ac91e5d32aab2dc9902e011",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a3505a7902713a723359d819c1df6d03b9b38b83",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "bb693e12e9a8f40b6bc35bde5b11b52aa143926a",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "ecb5908dadf8160630630946ce5d2fe01ef64a39",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "35254bfc8d956046510eca6711be2ac8e6b31e06",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e147dd8238f29bd4ea0d275f58e6df21b9471b92",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "54fb5b6add32e9a78e1f8098d381e16da993c448",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "95a129eb8f0da5f85a2137ac9c56efb13c20eddf",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "20eebc490ec1cdb5b6024558703e075e34feb9a2",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "92e7434223e8f6b494cefc1537f320b1a3006aeb",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "7b622574733ac1d3670ae4818707679f1a6d4eb4",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "f35a159b8e4f362bbbc032a04261da461d003c10",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "cb688fb972c76de8ab1840e8a4cf4314e798b321",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "1c68879d21ca7df9de278f136d3190abb498179c",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "fd1cfd16288698582e0b6a1a1d9febe5feae0a84",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "edc2ec9149dc92c0d8f21dea753c573c587cf9e8",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "ae05e2a5a373a1b7dc185bcd673e7a7289cc3c8b",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "fc2c66c35d2b35844f1a6a2847128fef8bf1e1cb",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "ab86cca79a8a833faf6d43d80e0b9d7bf2302344",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a85249cb4b252f6f2c62dec402c35680ebca036b",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "9fea29296ad85a3872022fc407537ecca7a346a2",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "05dd00c11974edd14971aefb0d96fa85e53d2561",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a425a1efd7ffbe4538ec36ee50c69bf3df16b734",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "bc978b11c442dc311c42d536467eb0c7969b7587",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "60b6c2927c1d83851caa28f6f76a4caa14c8452b",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "ac40f83fcbfedcd6d308ab478d855a5518bfd8a1",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "8808b2ad0d71fcc8d1b769d4743a77f3d3f3b655",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "6b7f166c0b0429f702d6bbb38746dd57514b9bc8",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "241cd2e8c310b597a83e2c0138b6198cb1651017",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e3dc0cfc0d490ede8c24ed82c632a06ef38af4a1",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "213f4ca54acffff87da4e7ce066bf842a4123a4f",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "54e07b32b7ab4f696d66085e63e3871976225508",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "26847149f01ab1f53f6f05c95830f73d9aa56d58",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "db301c2c48bb6d86b2b29ab2c021d8550e382db2",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "5a6cac33a2c46a4e28e5d7a665905121aaad867b",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "6f7eb35dbb9a60da1288f456c366a0892327f5c2",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "00d0e8dca99a04f172a4cadf9399b0a060ac9c28",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "7d28d41ac579834b916c14ca6fcc0f5140480895",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "b3d3ccdc6f6f01914081e70c4da5d73d5893ad4a",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "d25d5696f1fc49d2cc890c9264998bf8ab321c19",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "4a248a2a8a206347edc87184f0777c52d345964b",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "2e3c9723f4218d757e885762c9b552df545b7162",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "226d87a90b807859a3e3fefccb12db984615a216",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "da4e38f286c8800c011454ee45520cceeb82ea04",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "c251c2bc95ee959ce2ba5793bccff88d9dadbb63",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "bbabe3b43a0d8eed09d53c9bf7b1812104994930",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "26ceff812fa7789135d8bccb204ddfbf94eb3210",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "d13ac7b7feee684b0607af49e5fea2744df6e48a",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e9d256228437064c2e2c19a7a45a4d1b10306cab",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "5aa328b920ba57f2171ac1ea5c20f9a8b7f4e33f",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e8bb19514c5750073d273303031d7c9e48ad9efa",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "384966fb50396cfb91ebf2f663f0c4358b5fcbe3",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "c1f9b1f239a59a4b4bb16c0725138513067bbc97",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "5c014c7a295fa655b23896b96c100687d696827b",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e808e5e3f3bc482d8b54af23ef9b396a4ecc15b3",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "0ce10daf0abffe32c082704cfa405d23ba664cae",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "6353983797b9addf49081b56cc145092ce1a0a80",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "6658c6f10e303e98b029856103f4e48a226fafa8",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "c3792f806c291ab0415bd00279490abab5a660b3",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "b82abd85f79b9867228b12c343494dd3ebc16505",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "9f0e7c8cd0c6e81b08ba94f9f8b5b9f8896bde2d",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "96279eafba7406a39395fa299e30f3482a9e612e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "8ac418a75175944eb97cec7b295d0789af5e3229",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "4319a56bc87fd784956a97fd5e3be269e368509b",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "5d5c405feeefb34f54b6b9712601edef0b610164",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "6da22d13f851e257fe60feee6caa39e8c192ff6a",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "20303fbf09f4164b45aa809a28fffb8468d30190",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "88661a797c7269b0f655e86a9976d2fdc50308cd",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "7d98b88ac6f3b217dc3c34fd67a5b22264d608d6",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "d17082e4db05f75da7b0f5cdc888a7f6fd0bb8cd",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e74351a231203380795747a09668f004d5077ddb",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e745e58fe63c4ebe1c241acd0ce2b0d2bb50c63f",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "0ae5f0e72c82af0de17617771cca1c37d4612645",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "447cc40cfa80f6fb890c12a2a4f4fc6e29a97f4e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "dac38d75e114813b694ce0c540e57f84d72a2b30",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "4c318769987a14eda647e19d96c3181e29d81d1e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "19cf0f17caa750f1050bdf4acc7c1373eccf8fb9",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e2f6baeac8611ebd6dd5ad87d6a4c10c6f26bf0e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "dddbe5719b8a77f34fb37d400425a966ab8a58c2",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "801baae11bc5d71c71265036fb839af1e9312140",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "4647ce36d5990537af2298c4e7a7f76dc26caabf",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "f3cbc13dd79ff6f3e8b95706e9445ad9cc3ffb3e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "dde980a5b1a90dd2e1377f71952a564b34b41bb4",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "0d9b09ee1742e0a5074bcfa2353e024958e86823",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a7b13f7bd386d4945ca3144df0e05ffc29e92f83",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "40f3be26b471143fa254ffc2837338f23e7410aa",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "dcda3cecc4bbfe2f0b2e326df9dcb2448a4b8288",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "fa7d55cddcf545f9b755686e5ce92798988a3e67",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a0660283a469adc74fb606e91aca4e5bcf21c01b",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "7fb235725e5c9ea310d9785f27014c955f48c716",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "947fa9c3022a78f1aeb8bd6dc718bef1bd1d8700",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "148c54664ba782848a9e9761313267a4a4f2e54a",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a5cf3cace340def1cb5806639320e3fdd8ab2d47",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e8a2da35524a0512acb7364e4ed67aca8ac216b5",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "be55393cf19b4fe3830115e667027256912227c0",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "c11133561017b74cc94483a3881e0510397a44a3",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "94b98b89c47c4dc98c9c76b248277a41003c4d30",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "ca5bc5e3a29e6df2c9ae2a97763552a39ca7f3a1",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "fd7504d2fe26ed1c8656059435bad354fbb869a3",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "1b4e030ff99b056b005c2f4bac201cbebb02052a",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "7bde5158232e8e7482da5cd3de64a1bbe09db8f8",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "66fb5228afc7c6208e65bc046007dd3045dbb235",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a1ec6905fb1ef37a76447d717168e0afb4b6f4fb",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "bce9ddcc84274b065a4c1e018b4c372285b156f2",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "ba748778905868aa8af0c9df44049d59f44dac89",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "0b7f0abbdf5f136c87046142da26a58a4dac5e42",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "88c69f26df754439c682284ad2cb7b4db5dcb830",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "61bf7bcd4e81ffc066ae42f57eeee9b2ac8e99c0",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "1a6accad59250258c4d53649a3e41ee00d72d5a4",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "92b66c0a9f4965b75d8fab69922bcc02b1aca4e1",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "d33026e34d4de3714c7446c82eb645364a19d21d",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "1388ea57cdc4b31122963969e042eca8ef41a909",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "f73ba4d2aacc52b05b0918076bd750c6dbc50607",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "6e76fc2435ce7ad304b121751e80ba3067cd74d3",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "4885da44149b14de92a8ec7705139857dfb68e39",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "df1e8a8cca70a35d4cb57c0986476592389a1175",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "307370e5c9d9cb6bcf574a5bbd24341d6314d2d9",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "04bc46c164d9cbfdff135de75fc1b70ffce35f0d",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a8421dc48c2a16403687b4be050fe86a2b4d926e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "44e2611dd226bbcc26dc28effa3e5fcfebe1d603",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "196ebfbde79d8a3740fdf69685ef6c9c5c5228bf",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "293a498dbab92779602e12f44771fab786ee9e9a",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "075a59dbce995ce078f76428efec918156bf0402",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "c39262d8d3b4ed529bc5b54f4d22518b6ceb5987",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "381616e96e7736726f6ec63fcf3f6d5a511cd061",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "1b6f84454f73cb519983845fba05491c02e39002",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "76b03d69b66e5f947ddd6d30099f4966f74a9ffb",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "77f555d817d336b7f70c42c2a5c813da78206583",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "154b3f042908e140ba6d1b902c3f0ddcdc44fe7c",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "c8f77e320e5b37bd13674a68c3bbf6171ce554d1",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "907b8c0d9c60f383cce0f1eb97d66e5cf0595918",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "b9fbb7a334d36e9da4ff2016718f104f9e6c546e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "25da40c89cd200721386dd17eac3567d458748d6",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "34d50b740a6bf66fac42e8d2e2d45a07e7a96297",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "76ceadd4750825bb3a8454969bd7032b58a772bc",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "406efbabd7a161b05ceba70f8645b63f12118dc6",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "dfebe8f382bc0d212a4375469e4cfb70e0f40110",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "83e210d72ac7a005dcdb36187156d3e7091208f6",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "b32edfd554f64af63d4277874988ebe12bdb01f6",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "6f8562b50d760c6187151c3704943f632e3fe3de",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "c5f2fcd1a9d5345c2fe4c20d6cdeeb9a6d4e6175",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "08fa49510dcb237fad6a6267c942187e563b0430",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "2c90e8a023a9c26350bcdecad0228b5285cafd3e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "61ebbad3dac93c0460abcaf8bfd68795a299b976",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "ae4cc7e50069bdc3d8257be0a1536df4fc259f91",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "5011abc33bce7c6c4cddf7a3599019c37c25fcbe",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "088de41dd60df8ef15952c6b49b71957aa45ce65",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "0b292783694c33b8502e03d1772ab4ddb90e5725",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "5b62163363b5ae92286addca0c2313edc91fbaa6",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "3354dabdb1fe6d101e631c6b529dfe8653740ee5",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "81bdcf4991a8f556c8e614b20c4848c581582c44",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e207c321e44f974a7f90a95947708fb56f93b5b3",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "2833191f5c4ef605795dee32f366a21925bc7bf9",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "bf4ae8b32bbd067b724e324132bc05ce54f3a288",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "834aa766e033c3e2d1181e2836b94706f69fb512",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "d0d45e8d37484b36992a5ca49fab5dc7d7a59e2f",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a81c0998d7b037331a719c7cacb52b67d01a6b4b",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "9dca32018644ba756e5d814be58c2272c95a78bc",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a161d10b680630d5f40f3d23cdc4994be1c084d6",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "3b22638924ac6087baffa501d13a91973fa3b3b0",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "c6b16c62bde88cb1a350e9034e9f2ec54fa20e16",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e195661d11a3789f499d7933cc7f45fa4d549ec1",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "1ae1ce0d8d758896bb988532c8dd715cfd2d1e12",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "fe5ebc82e544a7032403626169f4f0dbb0259050",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "4bf2878bf60e53eb4e573630b48764a4ec68ce4e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "4de12b3cbb9e37e392266ee295ab0454ba308222",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "fe4c7077ba1d444809bef06346185fa9e39e0c57",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "048a08fe902b9be6c86df9a7e211497fd9d06cfa",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "84ecc85b6c92370b8387f99718f02c6b5c84d937",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "284ac8b04a0af57e425aaa81d635cf34c0d232a6",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "da25f76745937cf1364365c2cc4062581c699189",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "a9f4b455c224b4f46cc3673ac70abd67776d664f",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "79aacbe9d5aa33f46bc5d363b7a4e738c947312c",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e02576dfd69d84d94057713dd95a544c0a7f6b75",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "ed9f548655ab2a61aba92014609c6b0ac0f1e8bb",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "fb4d33ff71df553fb580cf4b67b00b06badf5dee",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "38cbc2a8c3b511bea0886e5a16e0dd82039e2f82",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "20b743f5d5345d5f2a6b71b133baa644593717e5",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "38554e52477bbbbc348db526c474dc941f226e6b",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "477b02476b41bf597499498b30f12d4830ab99ce",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "9c88c17706ea157269d4ac58812a2c5783c8f6bb",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "878d27432d82152fe4ccb6e13aa014d1206adc4e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "f92c7c569e9bb4746e7c9bd189bf91c42030bad5",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "9f098701b7e011037779bee70612faf0932b426e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "f3fd0466ec5cb7b202aebb070ae2429f51cf1c20",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "fe6dbd45ff8a9955e5447617c630fad511315d59",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "cab9fa35cd5aa4650688661aa5bb0e9d1fa1f091",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "30ec7f9758b4858e57ba6f2856a9b820d597b2be",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "3bb091fa573db5c98b8718fbc7404c8da82f7fa4",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "ab9e56dfbd51cbd81e161ee877269e6f1f72e031",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "7839912fd9a550dbec2f524254b4dfe290ee1fc6",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "16c7d77d2d5874d4b6eec255c1211dc16c507a35",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e0bbb54b1efdd3f066eaafb98734bb568171ccb7",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "92b2b33b4915f6df41fd37d639a3f2a243494716",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "8727e85e607a5cf6939d64dbb4e5743a46751953",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "17abe0dee4bdb8833380be7df44ed09d9043edb6",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "3a6c0b814525c6b2764f27fdf8d8546c4de70f99",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "c94fb86dc3f3b6f37120e9ef973b4036c56eff3e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "cb5f6171aa86bf22ea7581c688d70f23ea5b6317",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "755c5290f497052d607c653c598fc811098556fc",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "74951a3b8548e5072797d4b1c9bbb8ed6c87e94b",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "609bdc9ed3952fa24b2c13df5e7535291b58b41e",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "b5439f3be610431ce476ea3d54ff96cc7e2678a5",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e9c25682e0ce8963b501154b3c83a4ace8107667",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "c697bcda40461c33b0ff2411307823be05a63204",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "13abad6c0307d3cea33212e98bc79aa1196d5cbf",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "156b01ea394758de5e91b9881d072a5b915f1a76",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "f227ededaab7aa7daa3ebf1908a3596cfd0d2bc9",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "53f418bc4f3846b223363f65ef17a50150d95ec8",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "010bf70319aa857ab0bdf60fb52403b1d47c3d23",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "59a9947e921ae6761a78c24bb276d94ac9b0ffb9",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "19efc91b961523e404837bce0c30778edd7e0752",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "3180dbf2362921a558ccd1e9e429c380fb9c3ba7",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "22b94477fffe73963476b1200c0640295ce4b8f8",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "2d1fb95082f24a2b61c9ea912b4289f5db278b94",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "fb0a4b7ade7081287d9ad0e0a64c5a9232f8821a",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "e9664d6dd131d0856d7215fd074386441cbbc4f6",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "99351f41d710c6dd11235239ee2de5c4a68c0587",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "874383f65ca9874fb0e3f5dea49287a615d0847d",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "2419f91aec68c9d048e99bdd8e85ace8044243cf",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "bbf706dd702a105d52853cd5e183ce8fcac7bcb5",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "9b616ed7668ac2c06fbe869dac4f303f8d3edf85",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "db296e5ccc20b9699deef9af7e175f0f78df0d4a",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "1ae73f9105f28713f4750da7c028183fe54b1934",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "84a7b2448a16b27ed321997c0cc718236cde1791",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "009c08f808b39999f7378b2e38d293ca48af8466",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "00e1839d318706b3b7c744cbaf61b7071efb9fe8",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "8aae88bba6c71e2578a476eff008d029548ee3d3",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "850854cbb4d3c2cea9bc34ea0847ca17f90aa457",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "f2fb86cb166ff2afe52a13fe48890516ee8dd63d",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "ca9618b46855a362ec38ea517353d2d0a27bda44",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "f57a2936660e73a9d1534ae95e3db28797aeb157",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "479c7f29c71626a1ea77ab3299776d4088d53de7",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "afc75c91657c99e207d13c3dbe66e933ff0e82ae",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "f2b9ddbf8fcae43805a23578e5f54bb130af982d",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "d9c66fc6cd615de37cbd8ca204af467b4c8da612",
+        "repo_name": "apache/logging-log4cxx"
+    },
+    {
+        "fix_commit_hash": "ce3be1695e49529d22873907f447c0878fa7edf0",
+        "repo_name": "apache/logging-log4cxx"
+    }
+]

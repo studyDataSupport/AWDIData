@@ -1,0 +1,39 @@
+{
+    "developer": {
+        "#library--avro--cutting": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "avro"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "cutting",
+                "createdAt": "2010-05-07T19:46:32Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 1,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "cutting/cutting",
+                            "isFork": false,
+                            "url": "https://github.com/cutting/cutting",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 0,
+    "deveper_mul_apache_item_error": {
+        "#library--avro--cutting": [
+            "avro"
+        ]
+    }
+}

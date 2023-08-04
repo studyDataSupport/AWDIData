@@ -1,0 +1,450 @@
+{
+    "developer": {
+        "#library--commons-crypto--winningsix": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "commons-crypto"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "winningsix",
+                "createdAt": "2012-09-04T14:26:24Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 8,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "Intel-bigdata/IntelCodecLibrary",
+                            "isFork": false,
+                            "url": "https://github.com/Intel-bigdata/IntelCodecLibrary",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Scala"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 5,
+                            "watchers": {
+                                "totalCount": 11
+                            },
+                            "forkCount": 8
+                        },
+                        {
+                            "nameWithOwner": "facebookincubator/velox",
+                            "isFork": false,
+                            "url": "https://github.com/facebookincubator/velox",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "CMake"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "LLVM"
+                                    },
+                                    {
+                                        "name": "Yacc"
+                                    },
+                                    {
+                                        "name": "Thrift"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Cuda"
+                                    },
+                                    {
+                                        "name": "MDX"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2561,
+                            "watchers": {
+                                "totalCount": 101
+                            },
+                            "forkCount": 697
+                        },
+                        {
+                            "nameWithOwner": "oap-project/gluten",
+                            "isFork": false,
+                            "url": "https://github.com/oap-project/gluten",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Scala"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "CMake"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 598,
+                            "watchers": {
+                                "totalCount": 25
+                            },
+                            "forkCount": 202
+                        },
+                        {
+                            "nameWithOwner": "oap-project/velox",
+                            "isFork": true,
+                            "url": "https://github.com/oap-project/velox",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "CMake"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "LLVM"
+                                    },
+                                    {
+                                        "name": "Yacc"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Thrift"
+                                    },
+                                    {
+                                        "name": "Cuda"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 9,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 28
+                        },
+                        {
+                            "nameWithOwner": "Intel-bigdata/velox",
+                            "isFork": true,
+                            "url": "https://github.com/Intel-bigdata/velox",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "CMake"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "LLVM"
+                                    },
+                                    {
+                                        "name": "Yacc"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 5
+                        },
+                        {
+                            "nameWithOwner": "intel/BDTK",
+                            "isFork": false,
+                            "url": "https://github.com/intel/BDTK",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "CMake"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "C"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 54,
+                            "watchers": {
+                                "totalCount": 10
+                            },
+                            "forkCount": 25
+                        },
+                        {
+                            "nameWithOwner": "Intel-bigdata/presto",
+                            "isFork": true,
+                            "url": "https://github.com/Intel-bigdata/presto",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "ANTLR"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Thrift"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CMake"
+                                    },
+                                    {
+                                        "name": "PLSQL"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Roff"
+                                    },
+                                    {
+                                        "name": "NASL"
+                                    },
+                                    {
+                                        "name": "Mustache"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 5
+                        },
+                        {
+                            "nameWithOwner": "winningsix/BDTK",
+                            "isFork": true,
+                            "url": "https://github.com/winningsix/BDTK",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "CMake"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "#library--commons-crypto--sundapeng": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "commons-crypto"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "sundapeng",
+                "createdAt": "2013-03-09T15:53:04Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 3,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "sundapeng/FinalSpeed",
+                            "isFork": false,
+                            "url": "https://github.com/sundapeng/FinalSpeed",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 35,
+                            "watchers": {
+                                "totalCount": 10
+                            },
+                            "forkCount": 46
+                        },
+                        {
+                            "nameWithOwner": "aliyun/alibabacloud-jindodata",
+                            "isFork": false,
+                            "url": "https://github.com/aliyun/alibabacloud-jindodata",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 152,
+                            "watchers": {
+                                "totalCount": 19
+                            },
+                            "forkCount": 43
+                        },
+                        {
+                            "nameWithOwner": "sundapeng/hdfs-go-client",
+                            "isFork": true,
+                            "url": "https://github.com/sundapeng/hdfs-go-client",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 0,
+    "deveper_mul_apache_item_error": {
+        "#library--commons-crypto--winningsix": [
+            "commons-crypto"
+        ],
+        "#library--commons-crypto--sundapeng": [
+            "commons-crypto"
+        ]
+    }
+}

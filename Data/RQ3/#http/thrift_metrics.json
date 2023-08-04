@@ -1,0 +1,21 @@
+{
+    "all_file_num": 4849,
+    "error_developer_file_rate": {
+        "#http--thrift--punwinger": 0.00020622808826562179,
+        "#http--thrift--vihangk1": 0.00020622808826562179,
+        "#http--thrift--roshan": 0.0008249123530624871,
+        "#http--thrift--thomaslee": 0.0014435966178593523,
+        "#http--thrift--dmvolod": 0.002680965147453083,
+        "#http--thrift--bgould": 0.004743246030109301,
+        "#http--thrift--qinghui-xu": 0.009898948236749845,
+        "#http--thrift--belugabehr": 0.013198597648999794,
+        "#http--thrift--toddlipcon": 0.015467106619921633
+    },
+    "daily_error_prone_developer": [
+        "#http--thrift--bgould",
+        "#http--thrift--qinghui-xu",
+        "#http--thrift--belugabehr",
+        "#http--thrift--toddlipcon"
+    ],
+    "number_daily_error_prone_developer": 4
+}

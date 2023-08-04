@@ -1,0 +1,1010 @@
+hash,authors,committer,changes_FileNum,changed_files,message,bug_id
+3f276d51e233005ae8ea19d11528ff65cbd3e0c3,dixitdeepak,dixitdeepak,300,"['plugins/assetmaint/README.md', 'plugins/assetmaint/config/AssetMaintUiLabels.xml', 'plugins/assetmaint/config/IsMgrUiLabels.xml', 'plugins/assetmaint/data/AssetMaintSecurityGroupDemoData.xml', 'plugins/assetmaint/data/AssetMaintSecurityPermissionSeedData.xml', 'plugins/assetmaint/data/AssetMaintSeedData.xml', 'plugins/assetmaint/entitydef/entitymodel.xml', 'plugins/assetmaint/groovyScripts/assetmaint/EditMaint.groovy', 'plugins/assetmaint/groovyScripts/assetmaint/PrintFixedAssetMaint.groovy', 'plugins/assetmaint/groovyScripts/workeffort/EditWorkEfforts.groovy', 'plugins/assetmaint/minilang/FixedAssetMaintServices.xml', 'plugins/assetmaint/minilang/test/FixedAssetMaintTests.xml', 'plugins/assetmaint/ofbiz-component.xml', 'plugins/assetmaint/servicedef/secas.xml', 'plugins/assetmaint/servicedef/services.xml', 'plugins/assetmaint/src/main/java/org/apache/ofbiz/assetmaint/FixedAssetMaintServices.java', 'plugins/assetmaint/template/PrintFixedAssetMaint.fo.ftl', 'plugins/assetmaint/testdef/assetmainttests.xml', 'plugins/assetmaint/webapp/assetmaint/WEB-INF/controller.xml', 'plugins/assetmaint/webapp/assetmaint/WEB-INF/web.xml', 'plugins/assetmaint/webapp/assetmaint/error/error.jsp', 'plugins/assetmaint/webapp/assetmaint/error/error403.jsp', 'plugins/assetmaint/webapp/assetmaint/error/error404.jsp', 'plugins/assetmaint/webapp/assetmaint/index.jsp', 'plugins/assetmaint/webapp/ismgr/WEB-INF/controller.xml', 'plugins/assetmaint/webapp/ismgr/WEB-INF/web.xml', 'plugins/assetmaint/webapp/ismgr/error/error.jsp', 'plugins/assetmaint/webapp/ismgr/error/error403.jsp', 'plugins/assetmaint/webapp/ismgr/error/error404.jsp', 'plugins/assetmaint/webapp/ismgr/index.jsp', 'plugins/assetmaint/widget/AssetmaintMenus.xml', 'plugins/assetmaint/widget/AssetmaintScreens.xml', 'plugins/assetmaint/widget/CommonScreens.xml', 'plugins/assetmaint/widget/FacilityScreens.xml', 'plugins/assetmaint/widget/LookupScreens.xml', 'plugins/assetmaint/widget/ProductScreens.xml', 'plugins/assetmaint/widget/forms/FixedAssetForms.xml', 'plugins/assetmaint/widget/forms/LookupForms.xml', 'plugins/assetmaint/widget/forms/ProductForms.xml', 'plugins/assetmaint/widget/forms/WorkEffortForms.xml', 'plugins/assetmaint/widget/ismgr/CommonScreens.xml', 'plugins/assetmaint/widget/ismgr/FieldLookupForms.xml', 'plugins/assetmaint/widget/ismgr/FixedAssetForms.xml', 'plugins/assetmaint/widget/ismgr/FixedAssetScreens.xml', 'plugins/assetmaint/widget/ismgr/LookupScreens.xml', 'plugins/assetmaint/widget/ismgr/Menus.xml', 'plugins/bi/config/BiUiLabels.xml', 'plugins/bi/config/bi.properties', 'plugins/bi/data/BiSecurityGroupDemoData.xml', 'plugins/bi/data/BiSecurityPermissionSeedData.xml', 'plugins/bi/data/BiSystemPropertyData.xml', 'plugins/bi/data/BiTypeData.xml', 'plugins/bi/entitydef/entitygroup.xml', 'plugins/bi/entitydef/entitymodel.xml', 'plugins/bi/groovyScripts/GetStarSchemaFields.groovy', 'plugins/bi/groovyScripts/GetStarSchemas.groovy', 'plugins/bi/groovyScripts/RunStarSchemaQuery.groovy', 'plugins/bi/minilang/DimensionServices.xml', 'plugins/bi/minilang/FactServices.xml', 'plugins/bi/ofbiz-component.xml', 'plugins/bi/servicedef/secas.xml', 'plugins/bi/servicedef/services.xml', 'plugins/bi/src/main/java/org/apache/ofbiz/bi/util/DimensionServices.java', 'plugins/bi/template/Main.ftl', 'plugins/bi/template/reportbuilder/RenderStarSchemaReport.ftl', 'plugins/bi/template/reportbuilder/SelectStarSchemaFields.ftl', 'plugins/bi/webapp/bi/WEB-INF/controller.xml', 'plugins/bi/webapp/bi/WEB-INF/web.xml', 'plugins/bi/webapp/bi/index.jsp', 'plugins/bi/widget/BiForms.xml', 'plugins/bi/widget/BiMenus.xml', 'plugins/bi/widget/BiScreens.xml', 'plugins/birt/README.md', 'plugins/birt/build.gradle', 'plugins/birt/config/BirtErrorUiLabels.xml', 'plugins/birt/config/BirtUiLabels.xml', 'plugins/birt/data/BirtHelpData.xml', 'plugins/birt/data/BirtMasterData.xml', 'plugins/birt/data/BirtSecurityGroupDemoData.xml', 'plugins/birt/data/BirtTypeData.xml', 'plugins/birt/data/OrderPortletData.xml', 'plugins/birt/data/helpdata/HELP_BIRT.xml', 'plugins/birt/documents/Birt.xml', 'plugins/birt/groovyScripts/accounting/AcctgTransEntriesSearchResultsParameters.groovy', 'plugins/birt/groovyScripts/accounting/BalanceSheetParameters.groovy', 'plugins/birt/groovyScripts/accounting/IncomeStatementParameters.groovy', 'plugins/birt/groovyScripts/accounting/InvoiceAcctgTransEntryParameters.groovy', 'plugins/birt/groovyScripts/accounting/PaymentAcctgTransEntryParameters.groovy', 'plugins/birt/groovyScripts/accounting/PaymentReport.groovy', 'plugins/birt/groovyScripts/accounting/TrialBalanceParameters.groovy', 'plugins/birt/groovyScripts/facility/InventoryItemReport.groovy', 'plugins/birt/groovyScripts/order/CheckReportBy.groovy', 'plugins/birt/groovyScripts/order/NetBeforeOverheadReport.groovy', 'plugins/birt/groovyScripts/order/OrderByChannel.groovy', 'plugins/birt/groovyScripts/order/ProductDemandReport.groovy', 'plugins/birt/groovyScripts/order/SalesReport.groovy', 'plugins/birt/groovyScripts/report/PrepareBirtCall.groovy', 'plugins/birt/minilang/BirtPermissionServices.xml', 'plugins/birt/ofbiz-component.xml', 'plugins/birt/servicedef/services.xml', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/BirtFactory.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/BirtWorker.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/container/BirtContainer.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/email/BirtEmailServices.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/flexible/BirtMasterReportServices.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/flexible/BirtServices.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/flexible/BirtUtil.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/flexible/ReportDesignGenerator.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/report/servlet/BirtEngineServlet.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/report/servlet/BirtViewerServlet.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/report/servlet/ViewerServletRequest.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/webapp/view/BirtViewHandler.java', 'plugins/birt/template/ChartReport.ftl', 'plugins/birt/template/Report.ftl', 'plugins/birt/webapp/accounting/WEB-INF/controller.xml', 'plugins/birt/webapp/accounting/WEB-INF/web.xml', 'plugins/birt/webapp/accounting/index.jsp', 'plugins/birt/webapp/accounting/reports/AcctgTransEntriesSearchResultsInvoiceAndPayment.rptdesign', 'plugins/birt/webapp/accounting/reports/BalanceSheet.rptdesign', 'plugins/birt/webapp/accounting/reports/IncomeStatement.rptdesign', 'plugins/birt/webapp/accounting/reports/InvoiceAcctgTransEntry.rptdesign', 'plugins/birt/webapp/accounting/reports/PaymentAcctgTransEntry.rptdesign', 'plugins/birt/webapp/accounting/reports/PaymentReport.rptdesign', 'plugins/birt/webapp/accounting/reports/TrialBalance.rptdesign', 'plugins/birt/webapp/birt/WEB-INF/attachments/README', 'plugins/birt/webapp/birt/WEB-INF/birt.tld', 'plugins/birt/webapp/birt/WEB-INF/controller.xml', 'plugins/birt/webapp/birt/WEB-INF/server-config.wsdd', 'plugins/birt/webapp/birt/WEB-INF/web.xml', 'plugins/birt/webapp/birt/error/error.jsp', 'plugins/birt/webapp/birt/index.jsp', 'plugins/birt/webapp/birt/report/chart.rptdesign', 'plugins/birt/webapp/birt/report/example.rptdesign', 'plugins/birt/webapp/birt/webcontent/birt/ajax/core/BirtCommunicationManager.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/core/BirtDndManager.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/core/BirtEvent.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/core/BirtEventDispatcher.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/core/BirtSoapRequest.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/core/BirtSoapResponse.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/core/Mask.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/lib/prototype.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/mh/BirtBaseResponseHandler.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/mh/BirtGetUpdatedObjectsResponseHandler.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/taglib/CascadingParameter.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/taglib/ParameterDefinition.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/taglib/ParameterGroup.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/taglib/ProgressBar.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/taglib/SoapResponseHelper.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/app/AbstractBaseToc.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/app/AbstractBaseToolbar.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/app/AbstractUIComponent.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/app/BirtNavigationBar.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/app/BirtProgressBar.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/app/BirtToc.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/app/BirtToolbar.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/dialog/AbstractBaseDialog.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/dialog/AbstractExceptionDialog.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/dialog/AbstractParameterDialog.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/dialog/BirtConfirmationDialog.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/dialog/BirtExceptionDialog.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/dialog/BirtExportReportDialog.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/dialog/BirtParameterDialog.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/dialog/BirtPrintReportDialog.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/dialog/BirtPrintReportServerDialog.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/dialog/BirtSimpleExportDataDialog.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/dialog/BirtTabedDialogBase.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/report/AbstractBaseReportDocument.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/report/AbstractReportComponent.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/report/BirtReportDocument.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/report/ReportComponentIdRegistry.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/utility/BirtPosition.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/utility/BirtUtility.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/utility/BrowserUtility.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/utility/Constants.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/utility/Debug.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/utility/Printer.js', 'plugins/birt/webapp/birt/webcontent/birt/images/Add.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/AddAll.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/AddAll_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/AddAll_disabled_rtl.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/AddAll_rtl.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/AddFilter.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Add_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Add_disabled_rtl.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Add_rtl.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Close.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Collapse.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/DeleteFilter.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Down.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Down_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/EclipseBannerPic.jpg', 'plugins/birt/webapp/birt/webcontent/birt/images/Error.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Expand.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Export.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/ExportReport.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/FirstPage.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/FirstPage_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Go.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Go_rtl.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Idea.jpg', 'plugins/birt/webapp/birt/webcontent/birt/images/Interactive_viewer.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/LastPage.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/LastPage_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Leaf.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Loading.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Loading_rtl.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/NextPage.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/NextPage_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/PreviousPage.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/PreviousPage_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Print.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/PrintServer.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Remove.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/RemoveAll.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/RemoveAll_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/RemoveAll_disabled_rtl.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/RemoveAll_rtl.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Remove_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Remove_disabled_rtl.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Remove_rtl.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Report_Parameters_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Report_parameters.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Toc.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Up.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Up_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/childicon.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/dialog/common/close.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/dialog/common/ok-cancel-button-center.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/dialog/common/ok-cancel-button-center_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/dialog/common/ok-cancel-button-left.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/dialog/common/ok-cancel-button-left_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/dialog/common/ok-cancel-button-right.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/dialog/common/ok-cancel-button-right_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/gradient.jpg', 'plugins/birt/webapp/birt/webcontent/birt/images/parameter.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/parameter_group.gif', 'plugins/birt/webapp/birt/webcontent/birt/pages/common/Attributes.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/common/Error.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/common/Locale.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/common/blank.html', 'plugins/birt/webapp/birt/webcontent/birt/pages/common/processing.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/control/NavigationbarFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/control/ProgressBarFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/control/TocFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/control/ToolbarFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/dialog/ConfirmationDialogFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/dialog/DialogContainerFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/dialog/ExceptionDialogFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/dialog/ExportDataDialogFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/dialog/ExportReportDialogFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/dialog/ParameterDialogFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/dialog/PrintReportDialogFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/dialog/PrintReportServerDialogFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/dialog/SimpleExportDataDialogFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/layout/DocumentFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/layout/FramesetFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/layout/ParameterFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/layout/ReportContentFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/layout/ReportDialogFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/layout/ReportFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/layout/RequesterFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/layout/RunFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/layout/SidebarFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/parameter/CheckboxParameterFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/parameter/ComboBoxParameterFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/parameter/HiddenParameterFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/parameter/ParameterGroupFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/parameter/RadioButtonParameterFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/parameter/TextBoxParameterFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/styles/dialogbase.css', 'plugins/birt/webapp/birt/webcontent/birt/styles/dialogbase_rtl.css', 'plugins/birt/webapp/birt/webcontent/birt/styles/index.css', 'plugins/birt/webapp/birt/webcontent/birt/styles/style.css', 'plugins/birt/webapp/facility/WEB-INF/controller.xml', 'plugins/birt/webapp/facility/WEB-INF/web.xml', 'plugins/birt/webapp/facility/index.jsp', 'plugins/birt/webapp/facility/inventory/report/InventoryReport.rptdesign', 'plugins/birt/webapp/ordermgr/WEB-INF/controller.xml', 'plugins/birt/webapp/ordermgr/WEB-INF/web.xml', 'plugins/birt/webapp/ordermgr/index.jsp', 'plugins/birt/webapp/ordermgr/reports/CouponSalesReport.rptdesign', 'plugins/birt/webapp/ordermgr/reports/Last3MonthsSalesReport.rptdesign', 'plugins/birt/webapp/ordermgr/reports/OrderDiscountCodeReport.rptdesign', 'plugins/birt/webapp/ordermgr/reports/OrdersByChannel.rptdesign', 'plugins/birt/webapp/ordermgr/reports/ProductDemandReport.rptdesign', 'plugins/birt/webapp/ordermgr/reports/SalesReport.rptdesign', 'plugins/birt/webapp/ordermgr/reports/SalesReportMonth.rptdesign', 'plugins/birt/webapp/ordermgr/reports/SalesReportWeek.rptdesign', 'plugins/birt/widget/accounting/AccountingForms.xml', 'plugins/birt/widget/accounting/AccountingScreens.xml', 'plugins/birt/widget/birt/BirtForms.xml', 'plugins/birt/widget/birt/BirtMasterForms.xml', 'plugins/birt/widget/birt/BirtMenus.xml', 'plugins/birt/widget/birt/BirtScreens.xml', 'plugins/birt/widget/facility/FacilityForms.xml', 'plugins/birt/widget/facility/FacilityScreens.xml', 'plugins/birt/widget/order/OrderForms.xml', 'plugins/birt/widget/order/OrderScreens.xml', 'plugins/cmssite/data/CmsMultiSiteDemoData.xml', 'plugins/cmssite/data/CmsSiteDemoData.xml']","Improved: Moves plugins and creates the new structure (OFBIZ-9182)
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1782651 13f79535-47bb-0310-9956-ffa450edef68",
+ed08f7400905d2fa9d58fea1158690032affba06,pythys,pythys,2,"['README.md', 'build.gradle']","Implemented: new gradle task pullPluginSource using a subversion gradle plugin
+(OFBIZ-9182)
+
+Added a new gradle task called pullPluginSource that fetches a plugin from
+the (yet to be created) plugins repository. Also updated the README.md file
+to reflect the changes that happened recently on the plugin management tasks
+
+This is the last commit required before restructuring the subversion repository
+as per the discussion thread mentioned in the above JIRA
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1782605 13f79535-47bb-0310-9956-ffa450edef68",
+08b3240e1723ac20f58b29931b1883365eac42bc,JacquesLeRoux,JacquesLeRoux,5,"['tools/security/dependency-check/NOTICE.txt', 'tools/security/dependency-check/README.md', 'tools/security/dependency-check/README.txt', 'tools/security/dependency-check/check.bat', 'tools/security/dependency-check/suppress.xml']","No functional change, updates and removes some now useless files
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1782604 13f79535-47bb-0310-9956-ffa450edef68",
+683f89001bc3b01f268c68bb6df0dad4decb8bc7,JacquesLeRoux,JacquesLeRoux,1,['tools/security/dependency-check/dependency-check-report.html'],"No functional change, last update with less Vulnerable Dependencies
+
+Only higher will be considered, not done yet...
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1782603 13f79535-47bb-0310-9956-ffa450edef68",
+4ff1482640ab5eb5770de7c07a2c68ee8aa8e684,JacquesLeRoux,JacquesLeRoux,1,['plugins/component-load.xml'],"Implemented: Load demo data shows error loading xml files
+Fixed:
+(OFBIZ-9211)
+
+""gradlew cleanAll loadDefault"" generates a data loading error
+
+It's logically due to the removing of plugins/component-load.xml in OFBIZ-9182
+A temporary solution is to put it in again. 
+A definitive solution is to remove data dependencies. 
+We have also this problem with ecommerce data which create dependencies 
+from applications
+
+jleroux: I don't close this issue yet because we need to work together on this.
+I simply remove the regression by putting back plugins/component-load.xml
+
+Thanks: Wai for report
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1782577 13f79535-47bb-0310-9956-ffa450edef68",
+fe8b3d4f4d76211d534c7105260a2f2e6eb110c8,JacquesLeRoux,JacquesLeRoux,2,"['applications/accounting/widget/AgreementForms.xml', 'applications/accounting/widget/AgreementScreens.xml']","Improved: refactor list related forms in Agreeement widgets
+(OFBIZ-9186)
+
+Refactoring various list forms into grids
+Refactoring various list form references in screens
+
+Thanks: Pierre Smits
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1782562 13f79535-47bb-0310-9956-ffa450edef68",
+fbbd4e5acbd42a13913681169c21e3e683ad040f,JacquesLeRoux,JacquesLeRoux,1,['framework/base/src/main/java/org/apache/ofbiz/base/util/UtilURL.java'],"Fixed: Reinstate url cache in UtilURL.fromResource
+(OFBIZ-9208)
+
+Adrian created the following commit to cache URL objects 
+
+
+Revision: 1649979
+Author: adrianc
+Date: 07 January 2015 00:24:28
+Message:
+Some optimizations for URL lookups.
+----
+Modified : /ofbiz/trunk/framework/base/src/org/ofbiz/base/util/UtilProperties.java
+Modified : /ofbiz/trunk/framework/base/src/org/ofbiz/base/util/UtilURL.java
+
+and was later reverted in this commit
+
+Revision: 1650347
+Author: adrianc
+Date: 08 January 2015 17:53:59
+Message:
+Some small fixups for some of my previous commits.
+----
+Modified : /ofbiz/trunk/framework/entity/src/org/ofbiz/entity/util/EntityClassLoader.java
+Modified : /ofbiz/trunk/framework/base/src/org/ofbiz/base/util/UtilURL.java
+
+We have found in one of our production servers that line 98 in UtilURL.java
+
+url = loader.getResource(resourceName);
+
+has caused locking and looking at the stack trace (from jstack). There are 
+numerous threads waiting on locks from within this method
+
+I propose the cache gets added back (we have done this as a patch on our systems
+ with no ill effect)
+
+FYI - The commits are in reference to the EntityClassLoader which is not used 
+and does not work see OFBIZ-6210
+
+Thanks: Gareth Carter for report and suggestion
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1782520 13f79535-47bb-0310-9956-ffa450edef68",
+b63b25c196650250665a00e0620b974cd591f9a9,JacquesLeRoux,JacquesLeRoux,1,['framework/minilang/src/main/java/org/apache/ofbiz/minilang/method/entityops/FindByAnd.java'],"Fixed: SimpleMethod: FindByAnd never using EntityListIterator
+(OFBIZ-9152)
+
+Since the introduction of EntityQuery there was no distinction between a simple 
+method tags 
+<find-by-and use-iterator=""true""> and <find-by-and use-iterator=""false""> 
+(except cache handling).
+There is a condition ""if (useIterator)"" but with entityQueries did use 
+""[...].queryList()"".
+
+Thanks: Mirko Vogelsmeier
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1782498 13f79535-47bb-0310-9956-ffa450edef68",
+cecb0bfb0e711ea23f7c4feba21c1be72bb1c495,nmalin,nmalin,2,"['plugins/birt/src/main/java/org/apache/ofbiz/birt/BirtWorker.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/container/BirtContainer.java']","Fixed: Birt logging unlogical high (OFBIZ-9201)
+Currently the class BirtContainer call the birt engine with hard coded log level ALL that generated huge log file.
+We can't implement easily log4j on the birt engine so with this commit I create a quick fix to have matching between the java.util.Logger and org.apache.log4j.Logger level.
+You can select the log level from debug.properties to populate the ReportEngine log file.
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1782070 13f79535-47bb-0310-9956-ffa450edef68",
+471d8c427374fef2aa20dc8728fb9bdd359bf004,mbrohl,mbrohl,1,['applications/order/groovyScripts/order/OrderView.groovy'],"Fixed: Cancelled OrderItems are still included in orderGrandTotal.
+(OFBIZ-9204)
+
+Thanks: Maurice for reporting and providing the patch, Deepak and Jacques for their suggestions.
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1781979 13f79535-47bb-0310-9956-ffa450edef68",
+92f3593c0172127442cab1c50cf3d4a460c12eb8,JacquesLeRoux,JacquesLeRoux,7,"['gradlew.bat', 'tools/cleanBuild.bat', 'tools/mergefromtrunk.bat', 'tools/revert.bat', 'tools/security/dependency-check/check.bat', 'tools/startofbiz.bat', 'tools/test.bat']","No functional changes
+
+Completes r1781731 by putting svn:eol-style=native to *.sh;*.bat file types 
+
+There are also changes in files with have mixed EOLs because this is no sense
+when using native which automatically resolves this issue
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1781735 13f79535-47bb-0310-9956-ffa450edef68",
+628dc8abb1f70825f5d28351ae86577c64beb4a0,JacquesLeRoux,JacquesLeRoux,176,"['applications/content/config/forum.properties', 'applications/party/webapp/partymgr/static/partymgr.css', 'applications/product/template/imagemanagement/ShowPeopleApprove.ftl', 'framework/base/config/freemarkerImports.properties', 'framework/base/dtd/ofbiz-properties.xsd', 'framework/common/template/JsLanguageFilesMapping.ftl', 'framework/images/webapp/images/jquery/plugins/Readmore.js-master/README.md', 'framework/images/webapp/images/jquery/plugins/validate/localization/messages_ca.js', 'framework/images/webapp/images/jquery/plugins/validate/localization/messages_en.js', 'framework/images/webapp/images/jquery/plugins/validate/localization/messages_si.js', 'framework/images/webapp/images/myportal.css', 'framework/images/webapp/images/myportal.js', 'framework/widget/dtd/widget-common.xsd', 'framework/widget/templates/HtmlMenuMacroLibrary.ftl', 'plugins/birt/webapp/birt/WEB-INF/birt.tld', 'plugins/birt/webapp/birt/error/error.jsp', 'plugins/birt/webapp/birt/index.jsp', 'plugins/pricat/README.md', 'plugins/pricat/config/pricat.properties', 'plugins/pricat/webapp/pricat/error/error.jsp', 'plugins/pricat/webapp/pricat/ftl/ExcelImportHistoryReport.ftl', 'plugins/pricat/webapp/pricat/ftl/viewExcelImportHistory.ftl', 'plugins/pricat/webapp/pricat/ftl/viewExcelImportLog.ftl', 'plugins/pricat/webapp/pricatdemo/error/error.jsp', 'plugins/projectmgr/webapp/projectmgr/error/error.jsp', 'plugins/solr/home/solrdefault/conf/admin-extra.html', 'plugins/solr/home/solrdefault/conf/admin-extra.menu-bottom.html', 'plugins/solr/home/solrdefault/conf/admin-extra.menu-top.html', 'plugins/solr/home/solrdefault/conf/lang/contractions_ca.txt', 'plugins/solr/home/solrdefault/conf/lang/contractions_fr.txt', 'plugins/solr/home/solrdefault/conf/lang/contractions_ga.txt', 'plugins/solr/home/solrdefault/conf/lang/contractions_it.txt', 'plugins/solr/home/solrdefault/conf/lang/hyphenations_ga.txt', 'plugins/solr/home/solrdefault/conf/lang/stemdict_nl.txt', 'plugins/solr/home/solrdefault/conf/lang/stoptags_ja.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_ar.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_bg.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_ca.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_ckb.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_cz.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_da.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_de.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_el.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_en.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_es.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_eu.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_fa.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_fi.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_fr.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_ga.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_gl.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_hi.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_hu.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_hy.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_id.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_it.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_ja.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_lv.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_nl.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_no.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_pt.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_ro.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_ru.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_sv.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_th.txt', 'plugins/solr/home/solrdefault/conf/lang/stopwords_tr.txt', 'plugins/solr/home/solrdefault/conf/lang/userdict_ja.txt', 'plugins/solr/home/solrdefault/conf/mapping-FoldToASCII.txt', 'plugins/solr/home/solrdefault/conf/mapping-ISOLatin1Accent.txt', 'plugins/solr/home/solrdefault/conf/protwords.txt', 'plugins/solr/home/solrdefault/conf/spellings.txt', 'plugins/solr/home/solrdefault/conf/stopwords.txt', 'plugins/solr/home/solrdefault/conf/synonyms.txt', 'plugins/solr/home/solrdefault/conf/update-script.js', 'plugins/solr/home/solrdefault/conf/velocity/README.txt', 'plugins/solr/home/solrdefault/conf/velocity/jquery.autocomplete.css', 'plugins/solr/home/solrdefault/conf/velocity/jquery.autocomplete.js', 'plugins/solr/home/solrdefault/conf/velocity/main.css', 'plugins/solr/home/solrdefault/conf/xslt/example.xsl', 'plugins/solr/home/solrdefault/conf/xslt/example_atom.xsl', 'plugins/solr/home/solrdefault/conf/xslt/example_rss.xsl', 'plugins/solr/home/solrdefault/conf/xslt/luke.xsl', 'plugins/solr/home/solrdefault/conf/xslt/updateXml.xsl', 'plugins/solr/home/solrdefault/core.properties', 'plugins/solr/webapp/solr/css/angular/analysis.css', 'plugins/solr/webapp/solr/css/angular/chosen.css', 'plugins/solr/webapp/solr/css/angular/cloud.css', 'plugins/solr/webapp/solr/css/angular/collections.css', 'plugins/solr/webapp/solr/css/angular/common.css', 'plugins/solr/webapp/solr/css/angular/cores.css', 'plugins/solr/webapp/solr/css/angular/dashboard.css', 'plugins/solr/webapp/solr/css/angular/dataimport.css', 'plugins/solr/webapp/solr/css/angular/documents.css', 'plugins/solr/webapp/solr/css/angular/files.css', 'plugins/solr/webapp/solr/css/angular/index.css', 'plugins/solr/webapp/solr/css/angular/logging.css', 'plugins/solr/webapp/solr/css/angular/menu.css', 'plugins/solr/webapp/solr/css/angular/plugins.css', 'plugins/solr/webapp/solr/css/angular/query.css', 'plugins/solr/webapp/solr/css/angular/replication.css', 'plugins/solr/webapp/solr/css/angular/schema-browser.css', 'plugins/solr/webapp/solr/css/angular/schema.css', 'plugins/solr/webapp/solr/css/angular/segments.css', 'plugins/solr/webapp/solr/css/angular/stream.css', 'plugins/solr/webapp/solr/css/angular/threads.css', 'plugins/solr/webapp/solr/css/styles/segments.css', 'plugins/solr/webapp/solr/js/angular/app.js', 'plugins/solr/webapp/solr/js/angular/controllers/analysis.js', 'plugins/solr/webapp/solr/js/angular/controllers/cloud.js', 'plugins/solr/webapp/solr/js/angular/controllers/collection-overview.js', 'plugins/solr/webapp/solr/js/angular/controllers/collections.js', 'plugins/solr/webapp/solr/js/angular/controllers/core-overview.js', 'plugins/solr/webapp/solr/js/angular/controllers/cores.js', 'plugins/solr/webapp/solr/js/angular/controllers/dataimport.js', 'plugins/solr/webapp/solr/js/angular/controllers/documents.js', 'plugins/solr/webapp/solr/js/angular/controllers/files.js', 'plugins/solr/webapp/solr/js/angular/controllers/index.js', 'plugins/solr/webapp/solr/js/angular/controllers/java-properties.js', 'plugins/solr/webapp/solr/js/angular/controllers/logging.js', 'plugins/solr/webapp/solr/js/angular/controllers/plugins.js', 'plugins/solr/webapp/solr/js/angular/controllers/query.js', 'plugins/solr/webapp/solr/js/angular/controllers/replication.js', 'plugins/solr/webapp/solr/js/angular/controllers/schema.js', 'plugins/solr/webapp/solr/js/angular/controllers/segments.js', 'plugins/solr/webapp/solr/js/angular/controllers/stream.js', 'plugins/solr/webapp/solr/js/angular/controllers/threads.js', 'plugins/solr/webapp/solr/js/angular/services.js', 'plugins/solr/webapp/solr/js/lib/jquery-1.7.2.min.js', 'plugins/solr/webapp/solr/js/lib/naturalSort.js', 'plugins/solr/webapp/solr/js/scripts/segments.js', 'plugins/solr/webapp/solr/libs/angular-chosen.js', 'plugins/solr/webapp/solr/libs/angular-cookies.js', 'plugins/solr/webapp/solr/libs/angular-cookies.min.js', 'plugins/solr/webapp/solr/libs/angular-resource.min.js', 'plugins/solr/webapp/solr/libs/angular-route.js', 'plugins/solr/webapp/solr/libs/angular-route.min.js', 'plugins/solr/webapp/solr/libs/angular-sanitize.js', 'plugins/solr/webapp/solr/libs/angular-sanitize.min.js', 'plugins/solr/webapp/solr/libs/angular.js', 'plugins/solr/webapp/solr/libs/angular.min.js', 'plugins/solr/webapp/solr/libs/chosen.jquery.js', 'plugins/solr/webapp/solr/libs/chosen.jquery.min.js', 'plugins/solr/webapp/solr/libs/d3.js', 'plugins/solr/webapp/solr/libs/highlight.js', 'plugins/solr/webapp/solr/libs/jquery-2.1.3.min.js', 'plugins/solr/webapp/solr/libs/jquery.jstree.js', 'plugins/solr/webapp/solr/libs/ngtimeago.js', 'plugins/solr/webapp/solr/partials/analysis.html', 'plugins/solr/webapp/solr/partials/cloud.html', 'plugins/solr/webapp/solr/partials/collection_overview.html', 'plugins/solr/webapp/solr/partials/collections.html', 'plugins/solr/webapp/solr/partials/core_overview.html', 'plugins/solr/webapp/solr/partials/cores.html', 'plugins/solr/webapp/solr/partials/dataimport.html', 'plugins/solr/webapp/solr/partials/documents.html', 'plugins/solr/webapp/solr/partials/files.html', 'plugins/solr/webapp/solr/partials/index.html', 'plugins/solr/webapp/solr/partials/java-properties.html', 'plugins/solr/webapp/solr/partials/logging-levels.html', 'plugins/solr/webapp/solr/partials/logging.html', 'plugins/solr/webapp/solr/partials/plugins.html', 'plugins/solr/webapp/solr/partials/query.html', 'plugins/solr/webapp/solr/partials/replication.html', 'plugins/solr/webapp/solr/partials/schema.html', 'plugins/solr/webapp/solr/partials/segments.html', 'plugins/solr/webapp/solr/partials/stream.html', 'plugins/solr/webapp/solr/partials/threads.html', 'plugins/solr/webapp/solr/tpl/segments.html', 'themes/bluelight/webapp/bluelight/docbook.css', 'themes/bluelight/webapp/bluelight/help.css', 'themes/bluelight/webapp/bluelight/style.css', 'themes/rainbowstone/webapp/rainbowstone/rainbowstone-amber.less', 'themes/rainbowstone/webapp/rainbowstone/rainbowstone-emerald.less', 'themes/rainbowstone/webapp/rainbowstone/rainbowstone-ruby.less', 'themes/rainbowstone/webapp/rainbowstone/rainbowstone-saphir.less', 'tools/security/dependency-check/README.md']","No functional changes
+
+completes r1781219 by putting svn:eol-style=native to all file types declared 
+in [auto-props] section of the svn config files.css
+
+Actually this is only a 1st pass, it was too complicated to do it for  
+all file types at once only concerned here
+*.java;*.bsh;*.groovy;*.jsp;*.tld;*.ftl;*.js;*.sql;*.c;*.cpp;*.h;*.txt;*.sgml;
+*.properties;*.xml;.classpath;.project;*.sld;*.gml;*.xsl;*.xsd
+*.html;*.htm;*.css;*.md;README;NOTICE;LICENSE;rc.ofbiz.*;*.less;*.dsp;*.dsw
+
+Most files should not be concerned by this change, but it's impossible to do
+it one by one.
+
+There are also changes in files with have mixed EOLs; because this has no sense
+when using native which automatically resolves this issue
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1781731 13f79535-47bb-0310-9956-ffa450edef68",
+443ee0a25b8c420cafb8f9331e09469a6c452037,JacquesLeRoux,JacquesLeRoux,2,"['plugins/ecommerce/webapp/ecommerce/WEB-INF/controller.xml', 'plugins/ecommerce/webapp/ecomseo/WEB-INF/controller.xml']","Fixed: Missing file results in error
+(OFBIZ-9198)
+
+When accessing a file/image in ecomseo (only seo version) that is physically 
+missing or the dataresource attribute isPublic==""N"" the request results 
+in a loop.
+
+jleroux: to break the loop in case or error, I simply decided to return a 
+response of type none. I also added the same for io-error which can be returned
+by the DataEvents class, also in ecommerce controller
+
+Thanks: Ingo Wolfmayr for report
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1781662 13f79535-47bb-0310-9956-ffa450edef68",
+bbb002967a671bba91f0668f991da39cf8514959,JacquesLeRoux,JacquesLeRoux,0,[],"No functional change. We no longer need the svn:auto-props at this level, it's
+now set at OFBiz svn repo root level
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1781446 13f79535-47bb-0310-9956-ffa450edef68",
+e4060e1bd9067521ad7ef934dcf82d0255e22698,JacquesLeRoux,JacquesLeRoux,0,[],"No functional change. Tries to set the svn:auto-props on OFBiz svn repo root
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1781441 13f79535-47bb-0310-9956-ffa450edef68",
+4cb97bb39cf5f2a8efb3fea37113281095037f39,JacquesLeRoux,JacquesLeRoux,1,['plugins/pricat/src/main/java/org/apache/ofbiz/pricat/PricatEvents.java'],"No functional change, removes useless return in Javadoc
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1781431 13f79535-47bb-0310-9956-ffa450edef68",
+549ff5935a5203a29b8251d85a23a26f01c7841a,JacquesLeRoux,JacquesLeRoux,14,"['applications/content/widget/compdoc/CompDocTemplateTree.xml', 'applications/content/widget/content/ContentForms.xml', 'applications/product/template/Main.ftl', 'applications/product/template/store/EditProductStoreWebSites.ftl', 'applications/product/webapp/catalog/WEB-INF/Owasp.CsrfGuard.js', 'applications/product/webapp/catalog/WEB-INF/Owasp.CsrfGuard.properties', 'applications/product/webapp/catalog/WEB-INF/controller - Copie.xml', 'applications/product/webapp/catalog/WEB-INF/web - Copie.xml', 'framework/base/src/main/java/org/apache/ofbiz/base/util/template/FreeMarkerWorker.java', 'framework/minilang/src/main/java/org/apache/ofbiz/minilang/method/entityops/EntityOne.java', 'framework/webapp/config/requestHandler - Copie.properties', 'framework/widget/dtd/widget-common.xsd', 'framework/widget/src/main/java/org/apache/ofbiz/widget/renderer/macro/MacroFormRenderer.java', 'themes/tomahawk/template/Header - Copie.ftl']","No functional change, reverts r1781366
+
+I did not even notice I committed this bunch of WIP stuff. I guess I clicked 
+somewhere while my machine was too buzy
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1781367 13f79535-47bb-0310-9956-ffa450edef68",
+e5b0e219f0344166b93f2d023ca24dad59469c5e,JacquesLeRoux,JacquesLeRoux,14,"['applications/content/widget/compdoc/CompDocTemplateTree.xml', 'applications/content/widget/content/ContentForms.xml', 'applications/product/template/Main.ftl', 'applications/product/template/store/EditProductStoreWebSites.ftl', 'applications/product/webapp/catalog/WEB-INF/Owasp.CsrfGuard.js', 'applications/product/webapp/catalog/WEB-INF/Owasp.CsrfGuard.properties', 'applications/product/webapp/catalog/WEB-INF/controller - Copie.xml', 'applications/product/webapp/catalog/WEB-INF/web - Copie.xml', 'framework/base/src/main/java/org/apache/ofbiz/base/util/template/FreeMarkerWorker.java', 'framework/minilang/src/main/java/org/apache/ofbiz/minilang/method/entityops/EntityOne.java', 'framework/webapp/config/requestHandler - Copie.properties', 'framework/widget/dtd/widget-common.xsd', 'framework/widget/src/main/java/org/apache/ofbiz/widget/renderer/macro/MacroFormRenderer.java', 'themes/tomahawk/template/Header - Copie.ftl']","No functional change, this was reverted in r1781367
+
+I did not even notice I committed this bunch of WIP stuff. I guess I clicked 
+somewhere while my machine was too buzy
+
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1781366 13f79535-47bb-0310-9956-ffa450edef68",
+59656f3581190687bbf2b16b9dc5dcaa719a8a3d,JacquesLeRoux,JacquesLeRoux,34,"['applications/humanres/documents/Humanres.xml', 'applications/party/groovyScripts/party/StatusCondition.groovy', 'applications/product/groovyScripts/facility/facility/FacilityLocationGeoLocation.groovy', 'applications/product/widget/catalog/ImageManagementScreens.xml', 'framework/common/groovyScripts/GeoLocation.groovy', 'framework/minilang/testdef/MinilangTests.xml', 'framework/webtools/widget/StatsForms.xml', 'plugins/birt/data/BirtMasterData.xml', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/flexible/BirtServices.java', 'plugins/birt/webapp/birt/WEB-INF/web.xml', 'plugins/birt/widget/birt/BirtForms.xml', 'plugins/birt/widget/birt/BirtScreens.xml', 'plugins/ebaystore/widget/EbayAccountScreens.xml', 'plugins/ebaystore/widget/EbaySellingManagerScreens.xml', 'plugins/ebaystore/widget/EbayStoreScreens.xml', 'plugins/ecommerce/groovyScripts/customer/ContactList.groovy', 'plugins/ecommerce/widget/blog/BlogScreens.xml', 'plugins/example/data/ExampleHelpData.xml', 'plugins/example/groovyScripts/PrepareLocalesForDropDown.groovy', 'plugins/pricat/groovyScripts/pricat/FindMyExcelImport.groovy', 'plugins/pricat/groovyScripts/pricat/FindMyExcelImportLog.groovy', 'plugins/pricat/widget/PriCatDemoMenus.xml', 'plugins/pricat/widget/PriCatMenus.xml', 'plugins/solr/home/solrdefault/conf/clustering/carrot2/kmeans-attributes.xml', 'plugins/solr/home/solrdefault/conf/clustering/carrot2/lingo-attributes.xml', 'plugins/solr/home/solrdefault/conf/clustering/carrot2/stc-attributes.xml', 'plugins/solr/home/solrdefault/conf/currency.xml', 'plugins/solr/home/solrdefault/conf/elevate.xml', 'plugins/solr/home/solrdefault/conf/schema.xml', 'plugins/solr/home/solrdefault/conf/solrconfig.xml', 'themes/multiflex/data/MultiflexThemeData.xml', 'themes/multiflex/ofbiz-component.xml', 'themes/multiflex/webapp/multiflex/WEB-INF/web.xml', 'themes/tomahawk/data/TomahawkThemeData.xml']","No functional changes
+
+At http://markmail.org/message/ffmyw773p65fndey I wrote:
+
+I'd like to follow the suggestion I made in the last message of the linked 
+thread.
+In other words, use
+http://subversion.apache.org/docs/release-notes/1.8.html#repos-dictated-config
+http://blogs.collab.net/subversion/the-road-to-repository-dictated-configuration-day-2-autoprops
+Then this problem would be over. No longer need to check from time to time that
+concerned files, have svn:eol-style=native property set
+This imply that all OFBiz users use svn > 1.7, but we can inform them, et voilà
+
+Then at markmail.org/message/h3q2yvj4db544ro7 I wrote:
+
+Actually, since we get new committers now and then and their are able to create
+new files I have a warning every 6 months which says ""Check Java 
+files, have all svn:eol-style=native"" (I totally forgot that because I assume
+the machine knows it and warns me ;))
+I could extend that to all files (at least the most prominent types), I'll
+see...
+
+This does what the last sentence said for Groovy, XML and few new Birt 
+Java files.
+
+I'll see if I can implement the svn 1.8 repos-dictated-config ASAP!
+
+
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1781219 13f79535-47bb-0310-9956-ffa450edef68",
+83e4945ce03740c179c84de272f3ad5add2d4f57,JacquesLeRoux,JacquesLeRoux,4,"['plugins/birt/config/BirtErrorUiLabels.xml', 'plugins/birt/groovyScripts/report/PrepareBirtCall.groovy', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/webapp/view/BirtViewHandler.java', 'plugins/birt/webapp/birt/WEB-INF/controller.xml']","Fixed: After creating a new Flexible Birt report, before visualising it you need
+ to do other actions
+(OFBIZ-9194)
+
+You need to add the data set fields with the Birt Report Designer 
+and publish the report. This will be documented with OFBIZ-9188
+
+I thought about graying the button but it was a delicate matter because it uses
+a <content element in screen and directly call a view handled from a Groovy 
+event.
+
+It was easier to fix the PrepareBirtCall Groovy event. But to be totally sure
+I also handled the possible NPE in the BirtViewHandler
+
+I also fixed viewLast error in controller 
+
+Because the files were not committed with the svn:eol-style native property
+you will see false changes in this commit. Some files have their svn:eol-style 
+native property set. I'll soon commit missing so in new Birt Java files.
+
+I'll also commit a lot of svn:eol-style native property changes for XML and 
+Groovy files which have been neglected so far. I'm sorry for that because 
+when we do so we loose the annotations history. I will then definitely put in 
+place what I suggested in http://markmail.org/message/ffmyw773p65fndey
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1781218 13f79535-47bb-0310-9956-ffa450edef68",
+f3208bd0eefd61d269b39d6997f73a52b7312834,JacquesLeRoux,JacquesLeRoux,4,"['plugins/birt/config/BirtUiLabels.xml', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/flexible/BirtServices.java', 'plugins/birt/widget/birt/BirtForms.xml', 'plugins/birt/widget/birt/BirtScreens.xml']","No functional changes
+
+Adds a missing BirtOverrideFilters label
+Fixes a typo in BirtServices.java and organise imports
+Change a button name in BirtForms.xml
+Uses the BirtOverrideFilters label in BirtScreens.xml
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1781215 13f79535-47bb-0310-9956-ffa450edef68",
+d1633665a67683ec2f7c8bd7fb1c67e258a0a193,JacquesLeRoux,JacquesLeRoux,1,['framework/webapp/src/main/java/org/apache/ofbiz/webapp/control/RequestHandler.java'],"No functional change, removes useless line
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1781209 13f79535-47bb-0310-9956-ffa450edef68",
+0693958c0be26ad0402b55591293ee9d5f76e3f1,JacquesLeRoux,JacquesLeRoux,1,['plugins/scrum/widget/OpenTestScreens.xml'],"No functional change, removes useless <fail-widgets/> element
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1781202 13f79535-47bb-0310-9956-ffa450edef68",
+c387449a706937d07dbc39d70169b6ceb4f4ea5e,JacquesLeRoux,JacquesLeRoux,1,['framework/widget/src/main/java/org/apache/ofbiz/widget/renderer/macro/MacroTreeRenderer.java'],"Fixed: Navigate Accounts tree does not work
+(OFBIZ-9191)
+
+This is due to a change in (at least) Tomcat 8.0.39
+
+Here is a simple fix. I tried other ways but none worked and I prefer to keep
+this simple.
+I tried other ways but none worked and I prefer to keep this simple.
+* Using an encoder at this stage (just before calling the macro) is not an 
+option. Or maybe by using the encoder on the linkurl variable alone. 
+But then linkurl  must be transformed in a String and  back to a 
+StringBuilder or more refactoring is needed. It does not worth it IMO.
+* Also using encode=""true"" for links in AccountingTrees.xml does not work.
+
+This also removes trailing blanks (by hand)
+
+Thanks: Moatasim Al Masri for report
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1781125 13f79535-47bb-0310-9956-ffa450edef68",
+e51c9f28f5f6a0adce36e0f66a18021296b02d6a,jacopoc,jacopoc,1,['applications/accounting/minilang/ledger/GeneralLedgerServices.xml'],"Fixed: reversed the debit and credit entries of the accounting transactions for 
+fixed asset depreciations.
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1781109 13f79535-47bb-0310-9956-ffa450edef68",
+16d133a903fa1a91f3eca97b80e3ec6fa3f4dc07,JacquesLeRoux,JacquesLeRoux,3,"['applications/content/config/ContentEntityLabels.xml', 'plugins/birt/data/BirtMasterData.xml', 'plugins/birt/webapp/birt/WEB-INF/controller.xml']","Improved: Implement and demonstrate few services in Birt Report Builder
+(OFBIZ-9192)
+
+The Birt Report Builder can also use services. for now only the ""rotation"" 
+report as been provided. We can provide more examples based on François' 
+work. 
+
+Here are trivial changes
+  fixes missing Lookup maps and view in controller for the ""rotation"" report 
+  new needed labels
+  typos fixed
+  
+
+
+Thanks:
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1781084 13f79535-47bb-0310-9956-ffa450edef68",
+28c0d6647cb8c1046d2701e91b5c3755ce6e1fa3,JacquesLeRoux,JacquesLeRoux,1,['plugins/example/webapp/example/WEB-INF/controller.xml'],"No functional change, updates Supported Content Types in example controller to
+be the same than in birt controller
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1781037 13f79535-47bb-0310-9956-ffa450edef68",
+23d47083d38e7c0b4c901cc311f1edaa880292a8,pythys,pythys,1,['build.gradle'],"Implemented: removed orphaned function no longer used due to previous commit
+(OFBIZ-9182)
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1780832 13f79535-47bb-0310-9956-ffa450edef68",
+df9a2d60760b196a16fe858f986494996904e4d0,pythys,pythys,1,['build.gradle'],"Implemented: removed the plugin activate/deactivate feature
+(OFBIZ-9182)
+
+In preparation for moving to a new svn, we removed the component-load.xml file
+which was the way in which components were activated / deactivated in
+/plugins. This is made redundant and hence removing unnecessary code.
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1780828 13f79535-47bb-0310-9956-ffa450edef68",
+72374b322b2922a3debc9413ce8a1cca4638f800,nmalin,nmalin,1,['plugins/birt/groovyScripts/report/PrepareBirtCall.groovy'],"Fixed: no functional change, remove ';' to respect coding groovy convention
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1780801 13f79535-47bb-0310-9956-ffa450edef68",
+f66f31fd15855f2ed9d20b53efeffdc32bf55820,nmalin,nmalin,4,"['plugins/birt/src/main/java/org/apache/ofbiz/birt/BirtWorker.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/flexible/BirtMasterReportServices.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/flexible/BirtServices.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/flexible/BirtUtil.java']","Fixed: Convert delegator.find to EntityQuery (OFBIZ-9189)
+The code came from a project under ofbiz 13.07 and is still using deprecated delegator.find calls, so I converted them to EntityQuery
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1780800 13f79535-47bb-0310-9956-ffa450edef68",
+8d8767464727704893406abe043d11603bf22179,pythys,pythys,3,"['common.gradle', 'plugins/component-load.xml', 'plugins/ebaystore/ofbiz-component.xml']","Improved: fully refactored the component loading logic in Gradle
+(OFBIZ-9182)
+
+This commit provides the following:
+- Fully refactor common.gradle so that it mirrors the component loading
+  logic found in ComponentContainer. This makes the loading very flexible
+  and changing the directory structure should have no impact on the build
+  scripts.
+- Gradle will now ignore a component if it exists but disabled in
+  ofbiz-component.xml (i.e. enabled=""false"")
+- Removes /plugins/component-load.xml
+- Disables the ebaystore component in ofbiz-component.xml
+
+The above is needed as a first step toward preparing the project for svn
+restructure
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1780790 13f79535-47bb-0310-9956-ffa450edef68",
+c69a046bf7fdd2d36b79595fd067033e43b76c79,nmalin,nmalin,14,"['applications/content/minilang/blog/BlogServices.xml', 'applications/content/minilang/content/ContentEvents.xml', 'applications/content/minilang/content/ContentPermissionEvents.xml', 'applications/content/minilang/content/ContentServices.xml', 'applications/content/minilang/data/DataServices.xml', 'applications/content/minilang/layout/LayoutEvents.xml', 'applications/content/minilang/website/WebSiteServices.xml', 'applications/party/minilang/communication/CommunicationEventEvents.xml', 'applications/party/minilang/party/PartyServices.xml', 'applications/product/minilang/product/cost/CostServices.xml', 'applications/product/minilang/product/inventory/InventoryServices.xml', 'applications/workeffort/minilang/permission/WorkEffortPermissionServices.xml', 'applications/workeffort/minilang/workeffort/WorkEffortSimpleServices.xml', 'framework/common/minilang/PortalPageMethods.xml']","Fixed: Changed log level always to info in minilang (OFBIZ-6206)
+Because the log level always is display as FATAL on log, this raise useless log and generate many noise for production site.
+Generally these logs are present for debugging historical reason
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1780691 13f79535-47bb-0310-9956-ffa450edef68",
+28e9a5eb57a8a3595a36a68a9d0289191dd72f9d,nmalin,nmalin,22,"['plugins/birt/config/BirtErrorUiLabels.xml', 'plugins/birt/config/BirtUiLabels.xml', 'plugins/birt/data/BirtMasterData.xml', 'plugins/birt/data/BirtSecurityGroupDemoData.xml', 'plugins/birt/data/BirtTypeData.xml', 'plugins/birt/groovyScripts/report/PrepareBirtCall.groovy', 'plugins/birt/minilang/BirtPermissionServices.xml', 'plugins/birt/ofbiz-component.xml', 'plugins/birt/servicedef/services.xml', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/BirtWorker.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/flexible/BirtMasterReportServices.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/flexible/BirtServices.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/flexible/BirtUtil.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/flexible/ReportDesignGenerator.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/report/servlet/BirtEngineServlet.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/report/servlet/BirtViewerServlet.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/webapp/view/BirtViewHandler.java', 'plugins/birt/webapp/birt/WEB-INF/controller.xml', 'plugins/birt/widget/birt/BirtForms.xml', 'plugins/birt/widget/birt/BirtMasterForms.xml', 'plugins/birt/widget/birt/BirtMenus.xml', 'plugins/birt/widget/birt/BirtScreens.xml']","Implemented: Birt Report Builder: an enhancement of the Birt component. Easier user possibility of report creation. (OFBIZ-6919)
+
+The concept, you define a report domain related to an entity or a service through a master content (master report) and a master search form.
+When a high level user create a report on a configured domain, OFBiz prepare an instantiation of the master content (flexible report) that permit
+to surcharge the search form (recorded dynamically on the content as ElectronicText) and prepare a rptDesign skeleton.
+The high level user can download the rptDesign to edit it trhough the birt editor, with all fields that ofbiz will be load as dataset and when is finish upload the result on the content instantiation.
+For the end user, he selected the instantiation report, OFBiz display the report search from the content instantiation and the submission call birt with the search parameters and the linked rptDesign.
+
+The rptDesign file is drive by OFBiz to build the data set by two methods :
+ * call the performFind if the domain is related to an entity
+ * call the a custom service if the domain is related to a service.
+For the last case we need two services, a first who prepare and list available fields for search and display. And a second who realize the search.
+By convention currently the first service as the same name that the second service suffixed by 'PrepareFields'
+
+This commit contains :
+ * useful UI to create a new content instance from a master content. List, edit, remove a content instance and a simple drop-down to list all instance published (ready to use by end user)
+ * all services (with the work flexibleReport) to manage a flexible report, prepare the rptDesign skeleton, reanalyze the rptDesign uploaded, prepare the search form
+ * Services interface to define you own search custom method
+ * Two examples, one on the entity Exemple and one with the service flexibleReportTurnOver. Warning ! there are raw example without a beautiful rptDesign so you need to update the rptDesign with the birt editor to display something.
+Thanks: François Wurmser for initialize this improvement, Jacques and Gil for their time to analyze, document and refactor the code
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1780683 13f79535-47bb-0310-9956-ffa450edef68",
+54ba438454e8d189781bcb30b63cf2d18b313e50,JacquesLeRoux,JacquesLeRoux,1,['framework/widget/src/main/java/org/apache/ofbiz/widget/test/WidgetMacroLibraryTests.java'],"No functional change, only this test is concerned, more a bug fix though.
+
+Despite missing the creation data in svn, I guess this file has been created 
+after I created the portoffset feature or I missed it then (unlikely since I
+changed all 8080 and 8443 ports in Java code). 
+
+Anyway, we now need this to be portoffset aware and this commit just does that
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1780659 13f79535-47bb-0310-9956-ffa450edef68",
+d12494de92185cfc2ccef145fe44f5dda8f9958d,JacquesLeRoux,JacquesLeRoux,1,['tools/demo-backup/branch12.4-demo.patch'],"No functional change, we no longer need this script
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1780493 13f79535-47bb-0310-9956-ffa450edef68",
+a299203689928c983bce06610790c2c7356884e9,shijh,shijh,2,"['plugins/lucene/src/main/java/org/apache/ofbiz/content/search/ProductDocument.java', 'plugins/solr/home/solrdefault/conf/solrconfig.xml']","Fixed: Update Apache Solr/Lucene to release 6.2.1
+(OFBIZ-8316)
+
+Change LongPoint and DoublePoint fields to String field to make solr work in trunk version, and I'll change them back when updating to new release of Solr.
+
+Thanks: Jacques Le Roux for reporting the point fields problem.
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1780133 13f79535-47bb-0310-9956-ffa450edef68",
+47684c4781de743f89c175e9cfa310648ec7284a,JacquesLeRoux,JacquesLeRoux,1,['applications/accounting/widget/ReportFinancialSummaryForms.xml'],"No functional change, I could be wrong but I see no reasons to have an empty
+action here
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1779934 13f79535-47bb-0310-9956-ffa450edef68",
+dc72e4025b6fee8c755a445c1d3e957315dfc281,JacquesLeRoux,JacquesLeRoux,1,['applications/order/servicedef/services_return.xml'],"Fixed: ""View Order"" throws exception in getReturnableQuantity
+(OFBIZ-9157)
+
+Steps to Reproduce:
+- Create a sales order
+- Add 1 orderitem with no unitPrice set (unitPrice = null) for the product
+- set the status of the order to completed
+- go to order-management and try to open the order for display like:
+https://localhost:8443/ordermgr/control/orderview?orderId=XXXXX
+
+Expected:
+- the order is displayed with status completed
+
+Actual:
+- A groovy exception is displayed.
+
+Analysis:
+The service ""getReturnableQuantity"" throws an exception because it returns the 
+returnablePrice = null, because the unitPrice of the orderItem was null.
+The OUT field returnablePrice is mandatory according to the service-definition. 
+The return parameter is set but the value is null, hence the exception.
+
+Solution: adjust the service-definition to allow for ""null"" value 
+of the returnablePrice OUT parameter.
+
+Thanks: Leonard Lin
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1779724 13f79535-47bb-0310-9956-ffa450edef68",
+4d68f770d95773604d692e919ec5dfa258ccdcbb,JacquesLeRoux,JacquesLeRoux,2,"['applications/content/src/main/java/org/apache/ofbiz/content/content/ContentWorker.java', 'framework/base/src/main/java/org/apache/ofbiz/base/util/UtilCodec.java']","Implemented: Birt Report Builder: an enhancement of the Birt component. 
+Easier user possibility of report creation.
+(OFBIZ-6919)
+
+Fixes a small issue: the REPORT contentId is now named FLEXIBLE_REPORT
+
+Note: the BIRT_REPORT_BUILDER_USAGE_POLICY still need to be completed. Hence 
+it's for now bypassed in ContentWorker.renderContentAsText(), based on the 
+FLEXIBLE_REPORT contentId
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1779701 13f79535-47bb-0310-9956-ffa450edef68",
+3784e27bed97cf20b6ef0f3fe8590fe9a269ed1f,JacquesLeRoux,JacquesLeRoux,2,"['framework/entityext/src/main/java/org/apache/ofbiz/entityext/eca/EntityEcaCondition.java', 'framework/entityext/src/main/java/org/apache/ofbiz/entityext/eca/EntityEcaRule.java']","No functional changes, trivial formatting issues
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1779677 13f79535-47bb-0310-9956-ffa450edef68",
+6114e50b3888842fc0684adc44d0c5387dcd5df4,JacquesLeRoux,JacquesLeRoux,2,"['applications/accounting/entitydef/entitymodel_reports.xml', 'framework/entity/dtd/entitymodel.xsd']","Fixed: In entitymodel.xsd entity-alias for condition-expr must be required
+(OFBIZ-9184)
+
+Currently in the entitymodel.xsd the line
+
+<xs:attribute name=""entity-alias"" type=""xs:string""/>
+
+is wrong, should be
+
+<xs:attribute name=""entity-alias"" type=""xs:string""  use=""required""/>
+
+Else in line
+
+this.entityAlias = entityAlias;
+
+in ModelViewEntity.ViewConditionExpr() 
+
+this.entityAlias 
+
+receives null.
+
+All supported branches are concerned
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1779625 13f79535-47bb-0310-9956-ffa450edef68",
+920ef384230014f356f26117c134ebd39cba876c,JacquesLeRoux,JacquesLeRoux,1,['framework/start/src/main/java/org/apache/ofbiz/base/start/StartupControlPanel.java'],"Fixed: JobPoller does not run and hence scheduled/async jobs are never run
+(OFBIZ-9155)
+
+Symptom:
+* services that are invoked with ""dispatcher.runAsync"" stay ""pending"" in the 
+job-list and never get executed
+* scheduled jobs don't get executed
+
+Steps to Reproduce
+* Login to /webtools
+* Schedule a Job to run in 5 mins, (for example service ""clearAllEntityCaches"")
+* Wait 7mins
+
+Expected:
+* the scheduled service ""clearAllEntityCaches"" is not ""pending"" anymore but 
+should have status ""finished""
+
+Actual:
+* scheduled service ""clearAllEntityCaches"" is still ""pending""
+
+Analysis:
+The problem can be reproduced with the OFBiz 16.11 branxh as well as 
+with the OFBiz 16.11.01 zip file version and the trunk
+
+JobPoller does get started on OFBiz start but does get stuck on line:
+org.apache.ofbiz.service.job.JobPoller.java: 213-215 
+
+The reason is that the ""Start.ServerState"" never reaches ""RUNNING""
+
+Doing a full-text scan through the whole source code shows, that there is no 
+code at all that sets the ServerState to ""RUNNING""
+
+Comparing it to the 15.11-branch. There used to be a line:
+serverState.compareAndSet(ServerState.STARTING, ServerState.RUNNING)
+
+no such line exists in 16.11 anymore.
+
+jleroux:  I confirm the behaviour in R16 branch as well as in trunk.
+
+Leonard's ""patch"" is a good solution and works for the R16 branch which is less 
+changed than the trunk when compared to R15. 
+
+The same applies to the trunk with the relative block of code which contains
+if (serverState.get() == ServerState.STOPPING) {
+
+The line Leonard propose to add was obviously missed during the recent 
+refactoring.
+
+Thanks: Leonard Lin
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1779596 13f79535-47bb-0310-9956-ffa450edef68",
+996f9f5516c778827fc60f5c7e435cff7a272df5,JacquesLeRoux,JacquesLeRoux,1,['build.gradle'],"Improved: Remove the cleanGradle and cleanAnt Gradles Task
+(OFBIZ-9183)
+
+We decided to remove the cleanGradle because since we upgraded to Gradle  3 
+it causes an issue on Windows.
+
+We also decided to remove the cleanAnt Gradles Task  because it's now in 
+the R16.11.01 and R11.1 branch which should be enough for users moving from Ant
+to Gradle
+
+BTW in case of need there is this wiki reference page 
+https://cwiki.apache.org/confluence/display/OFBIZ/From+Ant+to+Gradle
+
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1779439 13f79535-47bb-0310-9956-ffa450edef68",
+21737774bc14e02e9350168b7adce6e8ae5c7774,,,1,['README.md'],"Improved: Readability of README.md by adding some line breaks. 
+There was a need of huge horizontal scroll in the Security block.
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1779311 13f79535-47bb-0310-9956-ffa450edef68",
+720caa4625a6e4d3ab85ffc4ec58044f07583dc5,JacquesLeRoux,JacquesLeRoux,14,"['applications/order/groovyScripts/entry/CheckoutReview.groovy', 'applications/order/groovyScripts/entry/ShowCart.groovy', 'applications/order/src/main/java/org/apache/ofbiz/order/order/OrderServices.java', 'applications/order/src/main/java/org/apache/ofbiz/order/shoppingcart/ShoppingCart.java', 'applications/order/template/entry/SetItemShipGroups.ftl', 'applications/order/template/entry/SplitShip.ftl', 'applications/order/template/entry/cart/MiniCart.ftl', 'applications/order/template/entry/cart/ShowCartItems.ftl', 'plugins/ecommerce/groovyScripts/order/CheckoutReview.groovy', 'plugins/ecommerce/template/cart/ShowCart.ftl', 'plugins/ecommerce/template/cart/UpdateCart.ftl', 'plugins/ecommerce/template/order/SplitShip.ftl', 'plugins/webpos/template/cart/ShowCart.ftl', 'plugins/webpos/template/cart/ShowCartItemSelected.ftl']","Fixed: add item to order cause exception
+(OFBIZ-9167)
+
+-go to https://localhost:8443/ordermgr/control/orderentry
+-create order for DemoCustomer
+-add an item
+
+console output...
+java.lang.NullPointerException
+        at org.apache.ofbiz.content.content.ContentWorker.
+renderContentAsText(ContentWorker.java:368) ~[ofbiz.jar:?]
+[...]
+
+While at it I also found issues with cartLine.getName() in ftl files. It was
+also missing the dispatcher. 
+
+This was broken by OFBIZ-9164
+
+Thanks: Wai
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1778889 13f79535-47bb-0310-9956-ffa450edef68",
+a97a276bfb49ed43802b85709f545cc0f1281284,JacquesLeRoux,JacquesLeRoux,2,"['tools/demo-backup/pandoc.bat', 'tools/documentation/pandoc.bat']","No functional change, better content for pandoc.bat files
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1778888 13f79535-47bb-0310-9956-ffa450edef68",
+8f20b43fc91fe90ee77333c2d9f3591c06e45192,JacquesLeRoux,JacquesLeRoux,2,"['tools/demo-backup/README.md.html', 'tools/demo-backup/pandoc.bat']","No functional change, adds a new tools/demo-backup/README.md.html file and
+related helpful pandoc.bat
+
+The README.md.html is to be used at 
+https://cwiki.apache.org/confluence/display/OFBIZ/
+The+official+demos+and+how+to+maintain+them
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1778883 13f79535-47bb-0310-9956-ffa450edef68",
+c9b3a775e20ebdd5c5ec98e835d5e1996413a040,JacquesLeRoux,JacquesLeRoux,1,['tools/demo-backup/README.MD'],"No functional change, renames the 
+tools/demo-backup/README file to
+tools/demo-backup/README.MD
+With some edition
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1778882 13f79535-47bb-0310-9956-ffa450edef68",
+c6a094aa3d47aa7004f00eba496f3394f961dc92,JacquesLeRoux,JacquesLeRoux,2,"['applications/accounting/data/AccountingTypeData.xml', 'applications/accounting/data/helpdata/HELP_ACCOUNTING_FindGlobalGlAccount.xml']","Improved: Minor spelling mistakes
+(OFBIZ-9173)
+
+Depreciation is mis-spelled as depreciatiion
+Also, an additional space before brace would improve readability
+
+Assigned is mis-spelled as assinged
+Grammar of sentence could be updated for readability.
+
+
+Thanks: David McNeill
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1778881 13f79535-47bb-0310-9956-ffa450edef68",
+127c1c156b0013590ed1e08c02a75e9281ba531c,JacquesLeRoux,JacquesLeRoux,1,['framework/widget/src/main/java/org/apache/ofbiz/widget/renderer/macro/MacroScreenRenderer.java'],"No functional change, removes unused local delegator variables
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1778880 13f79535-47bb-0310-9956-ffa450edef68",
+cb1da17e6c61237991373cdca24a8f495a332d08,JacquesLeRoux,JacquesLeRoux,2,"['framework/common/data/GeoData_NZ.xml', 'framework/common/ofbiz-component.xml']","Improved: Add Geo id support for New Zealand
+(OFBIZ-9172)
+
+Currently no support for New Zealand regions in 
+framework/common/data/GeoData_*
+
+Thanks: David McNeill
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1778879 13f79535-47bb-0310-9956-ffa450edef68",
+829a1afd8ac7bf8e33c4ae3859c10c71958cca1a,JacquesLeRoux,JacquesLeRoux,1,['tools/demo-backup/README'],"No functional changes, it's time to update this file!
+
+I think I'll make it a README.MD and use the same pandoc mechanism than for 
+Gradle migration page, to create a dynamic page in wiki based on this file.
+
+I'll also update the releasing page in wiki to add all files which need an 
+update when releasing. 
+
+So far, if it misses, the doap_OFBiz.rdf in website and this one
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1778759 13f79535-47bb-0310-9956-ffa450edef68",
+3c37d02d39654e8b5c2b521e05a497fe8ecaadb0,JacquesLeRoux,JacquesLeRoux,2,"['tools/rc.ofbiz', 'tools/rc.ofbiz.for.debian']","Fixed: Clean the tools directory
+(OFBIZ-7795)
+
+In rc scripts, the calls to gradlew should be prefixed with ./
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1778576 13f79535-47bb-0310-9956-ffa450edef68",
+f1aa129bd94b04cef7a6239b97750a10285460f0,JacquesLeRoux,JacquesLeRoux,4,"['applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/RenderContentAndSubContent.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/RenderContentAsText.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/RenderContentTransform.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/RenderSubContentAsText.java']","No functional change, removes unused local delegator variables
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1778433 13f79535-47bb-0310-9956-ffa450edef68",
+03fe45904cc04e7c9ed1452be5f4c84d553edae8,JacquesLeRoux,JacquesLeRoux,1,['applications/content/src/main/java/org/apache/ofbiz/content/content/ContentServices.java'],"No functional change, removes unused local delegator variables
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1778431 13f79535-47bb-0310-9956-ffa450edef68",
+51abbf4dc68465a0699af3339bd3ec4978bd507d,JacquesLeRoux,JacquesLeRoux,1,['applications/order/src/main/java/org/apache/ofbiz/order/shoppingcart/ShoppingCartItem.java'],"Fixed: Refactor ContentWorkerInterface methods signatures
+(OFBIZ-9164)
+
+Fixes an issue in the ShowCartItems.ftl file reported by Deepak 
+
+Actually I was overzealous with this.
+Reverting a simple change were I changed a parameter in the signature 
+of the protected ShoppingCartItem() method from 
+ShoppingCart.ShoppingCartItemGroup to ShoppingCartItemGroup 
+should be enough
+
+Thanks: Deepak for report
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1778421 13f79535-47bb-0310-9956-ffa450edef68",
+c764e8005e2473b9fdf620edade8c6c98b1f10df,JacquesLeRoux,JacquesLeRoux,1,['tools/documentation/README.md.html'],"No functional change, just updates documentation in README.MD for wiki
+
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1778420 13f79535-47bb-0310-9956-ffa450edef68",
+22083aa9d8dde6ed199e6638654c7f9fa62a2ad6,JacquesLeRoux,JacquesLeRoux,1,['README.md'],"No functional change, just documentation in README.MD
+Adds a note for % progress indicator 
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1778415 13f79535-47bb-0310-9956-ffa450edef68",
+1bcaad0272d9c2537756cfe3b12515600ca0b6fc,JacquesLeRoux,JacquesLeRoux,1,['README.md'],"No functional change, just documentation in README.MD
+Adds a note for JDBC drivers
+Move the Security section below the Quick start section
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1778413 13f79535-47bb-0310-9956-ffa450edef68",
+f4aaf8705501f7e307fa766a6be9f21d21b2f77b,pythys,pythys,300,"['.gitignore', '.hgignore', 'LICENSE', 'README.md', 'applications/accounting/data/DemoPaymentsInvoices.xml', 'applications/commonext/data/EntityDiagramGroupData.xml', 'applications/content/data/DemoBlogEntryData.xml', 'applications/datamodel/README.md', 'build.gradle', 'common.gradle', 'framework/base/config/component-load.xml', 'framework/base/dtd/ofbiz-component.xsd', 'framework/base/src/main/java/org/apache/ofbiz/base/util/UtilProperties.java', 'framework/documents/SingleSignOn.xml', 'hot-deploy/README.txt', 'plugins/assetmaint/README.md', 'plugins/assetmaint/config/AssetMaintUiLabels.xml', 'plugins/assetmaint/config/IsMgrUiLabels.xml', 'plugins/assetmaint/data/AssetMaintSecurityGroupDemoData.xml', 'plugins/assetmaint/data/AssetMaintSecurityPermissionSeedData.xml', 'plugins/assetmaint/data/AssetMaintSeedData.xml', 'plugins/assetmaint/entitydef/entitymodel.xml', 'plugins/assetmaint/groovyScripts/assetmaint/EditMaint.groovy', 'plugins/assetmaint/groovyScripts/assetmaint/PrintFixedAssetMaint.groovy', 'plugins/assetmaint/groovyScripts/workeffort/EditWorkEfforts.groovy', 'plugins/assetmaint/minilang/FixedAssetMaintServices.xml', 'plugins/assetmaint/minilang/test/FixedAssetMaintTests.xml', 'plugins/assetmaint/ofbiz-component.xml', 'plugins/assetmaint/servicedef/secas.xml', 'plugins/assetmaint/servicedef/services.xml', 'plugins/assetmaint/src/main/java/org/apache/ofbiz/assetmaint/FixedAssetMaintServices.java', 'plugins/assetmaint/template/PrintFixedAssetMaint.fo.ftl', 'plugins/assetmaint/testdef/assetmainttests.xml', 'plugins/assetmaint/webapp/assetmaint/WEB-INF/controller.xml', 'plugins/assetmaint/webapp/assetmaint/WEB-INF/web.xml', 'plugins/assetmaint/webapp/assetmaint/error/error.jsp', 'plugins/assetmaint/webapp/assetmaint/error/error403.jsp', 'plugins/assetmaint/webapp/assetmaint/error/error404.jsp', 'plugins/assetmaint/webapp/assetmaint/index.jsp', 'plugins/assetmaint/webapp/ismgr/WEB-INF/controller.xml', 'plugins/assetmaint/webapp/ismgr/WEB-INF/web.xml', 'plugins/assetmaint/webapp/ismgr/error/error.jsp', 'plugins/assetmaint/webapp/ismgr/error/error403.jsp', 'plugins/assetmaint/webapp/ismgr/error/error404.jsp', 'plugins/assetmaint/webapp/ismgr/index.jsp', 'plugins/assetmaint/widget/AssetmaintMenus.xml', 'plugins/assetmaint/widget/AssetmaintScreens.xml', 'plugins/assetmaint/widget/CommonScreens.xml', 'plugins/assetmaint/widget/FacilityScreens.xml', 'plugins/assetmaint/widget/LookupScreens.xml', 'plugins/assetmaint/widget/ProductScreens.xml', 'plugins/assetmaint/widget/forms/FixedAssetForms.xml', 'plugins/assetmaint/widget/forms/LookupForms.xml', 'plugins/assetmaint/widget/forms/ProductForms.xml', 'plugins/assetmaint/widget/forms/WorkEffortForms.xml', 'plugins/assetmaint/widget/ismgr/CommonScreens.xml', 'plugins/assetmaint/widget/ismgr/FieldLookupForms.xml', 'plugins/assetmaint/widget/ismgr/FixedAssetForms.xml', 'plugins/assetmaint/widget/ismgr/FixedAssetScreens.xml', 'plugins/assetmaint/widget/ismgr/LookupScreens.xml', 'plugins/assetmaint/widget/ismgr/Menus.xml', 'plugins/bi/config/BiUiLabels.xml', 'plugins/bi/config/bi.properties', 'plugins/bi/data/BiSecurityGroupDemoData.xml', 'plugins/bi/data/BiSecurityPermissionSeedData.xml', 'plugins/bi/data/BiSystemPropertyData.xml', 'plugins/bi/data/BiTypeData.xml', 'plugins/bi/entitydef/entitygroup.xml', 'plugins/bi/entitydef/entitymodel.xml', 'plugins/bi/groovyScripts/GetStarSchemaFields.groovy', 'plugins/bi/groovyScripts/GetStarSchemas.groovy', 'plugins/bi/groovyScripts/RunStarSchemaQuery.groovy', 'plugins/bi/minilang/DimensionServices.xml', 'plugins/bi/minilang/FactServices.xml', 'plugins/bi/ofbiz-component.xml', 'plugins/bi/servicedef/secas.xml', 'plugins/bi/servicedef/services.xml', 'plugins/bi/src/main/java/org/apache/ofbiz/bi/util/DimensionServices.java', 'plugins/bi/template/Main.ftl', 'plugins/bi/template/reportbuilder/RenderStarSchemaReport.ftl', 'plugins/bi/template/reportbuilder/SelectStarSchemaFields.ftl', 'plugins/bi/webapp/bi/WEB-INF/controller.xml', 'plugins/bi/webapp/bi/WEB-INF/web.xml', 'plugins/bi/webapp/bi/index.jsp', 'plugins/bi/widget/BiForms.xml', 'plugins/bi/widget/BiMenus.xml', 'plugins/bi/widget/BiScreens.xml', 'plugins/birt/README.md', 'plugins/birt/build.gradle', 'plugins/birt/config/BirtUiLabels.xml', 'plugins/birt/data/BirtHelpData.xml', 'plugins/birt/data/OrderPortletData.xml', 'plugins/birt/data/helpdata/HELP_BIRT.xml', 'plugins/birt/documents/Birt.xml', 'plugins/birt/groovyScripts/accounting/AcctgTransEntriesSearchResultsParameters.groovy', 'plugins/birt/groovyScripts/accounting/BalanceSheetParameters.groovy', 'plugins/birt/groovyScripts/accounting/IncomeStatementParameters.groovy', 'plugins/birt/groovyScripts/accounting/InvoiceAcctgTransEntryParameters.groovy', 'plugins/birt/groovyScripts/accounting/PaymentAcctgTransEntryParameters.groovy', 'plugins/birt/groovyScripts/accounting/PaymentReport.groovy', 'plugins/birt/groovyScripts/accounting/TrialBalanceParameters.groovy', 'plugins/birt/groovyScripts/facility/InventoryItemReport.groovy', 'plugins/birt/groovyScripts/order/CheckReportBy.groovy', 'plugins/birt/groovyScripts/order/NetBeforeOverheadReport.groovy', 'plugins/birt/groovyScripts/order/OrderByChannel.groovy', 'plugins/birt/groovyScripts/order/ProductDemandReport.groovy', 'plugins/birt/groovyScripts/order/SalesReport.groovy', 'plugins/birt/ofbiz-component.xml', 'plugins/birt/servicedef/services.xml', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/BirtFactory.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/BirtWorker.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/container/BirtContainer.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/email/BirtEmailServices.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/report/servlet/BirtEngineServlet.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/report/servlet/BirtViewerServlet.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/report/servlet/ViewerServletRequest.java', 'plugins/birt/src/main/java/org/apache/ofbiz/birt/webapp/view/BirtViewHandler.java', 'plugins/birt/template/ChartReport.ftl', 'plugins/birt/template/Report.ftl', 'plugins/birt/webapp/accounting/WEB-INF/controller.xml', 'plugins/birt/webapp/accounting/WEB-INF/web.xml', 'plugins/birt/webapp/accounting/index.jsp', 'plugins/birt/webapp/accounting/reports/AcctgTransEntriesSearchResultsInvoiceAndPayment.rptdesign', 'plugins/birt/webapp/accounting/reports/BalanceSheet.rptdesign', 'plugins/birt/webapp/accounting/reports/IncomeStatement.rptdesign', 'plugins/birt/webapp/accounting/reports/InvoiceAcctgTransEntry.rptdesign', 'plugins/birt/webapp/accounting/reports/PaymentAcctgTransEntry.rptdesign', 'plugins/birt/webapp/accounting/reports/PaymentReport.rptdesign', 'plugins/birt/webapp/accounting/reports/TrialBalance.rptdesign', 'plugins/birt/webapp/birt/WEB-INF/attachments/README', 'plugins/birt/webapp/birt/WEB-INF/birt.tld', 'plugins/birt/webapp/birt/WEB-INF/controller.xml', 'plugins/birt/webapp/birt/WEB-INF/server-config.wsdd', 'plugins/birt/webapp/birt/WEB-INF/web.xml', 'plugins/birt/webapp/birt/error/error.jsp', 'plugins/birt/webapp/birt/index.jsp', 'plugins/birt/webapp/birt/report/chart.rptdesign', 'plugins/birt/webapp/birt/report/example.rptdesign', 'plugins/birt/webapp/birt/webcontent/birt/ajax/core/BirtCommunicationManager.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/core/BirtDndManager.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/core/BirtEvent.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/core/BirtEventDispatcher.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/core/BirtSoapRequest.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/core/BirtSoapResponse.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/core/Mask.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/lib/prototype.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/mh/BirtBaseResponseHandler.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/mh/BirtGetUpdatedObjectsResponseHandler.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/taglib/CascadingParameter.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/taglib/ParameterDefinition.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/taglib/ParameterGroup.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/taglib/ProgressBar.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/taglib/SoapResponseHelper.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/app/AbstractBaseToc.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/app/AbstractBaseToolbar.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/app/AbstractUIComponent.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/app/BirtNavigationBar.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/app/BirtProgressBar.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/app/BirtToc.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/app/BirtToolbar.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/dialog/AbstractBaseDialog.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/dialog/AbstractExceptionDialog.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/dialog/AbstractParameterDialog.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/dialog/BirtConfirmationDialog.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/dialog/BirtExceptionDialog.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/dialog/BirtExportReportDialog.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/dialog/BirtParameterDialog.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/dialog/BirtPrintReportDialog.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/dialog/BirtPrintReportServerDialog.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/dialog/BirtSimpleExportDataDialog.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/dialog/BirtTabedDialogBase.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/report/AbstractBaseReportDocument.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/report/AbstractReportComponent.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/report/BirtReportDocument.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/ui/report/ReportComponentIdRegistry.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/utility/BirtPosition.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/utility/BirtUtility.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/utility/BrowserUtility.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/utility/Constants.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/utility/Debug.js', 'plugins/birt/webapp/birt/webcontent/birt/ajax/utility/Printer.js', 'plugins/birt/webapp/birt/webcontent/birt/images/Add.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/AddAll.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/AddAll_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/AddAll_disabled_rtl.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/AddAll_rtl.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/AddFilter.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Add_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Add_disabled_rtl.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Add_rtl.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Close.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Collapse.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/DeleteFilter.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Down.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Down_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/EclipseBannerPic.jpg', 'plugins/birt/webapp/birt/webcontent/birt/images/Error.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Expand.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Export.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/ExportReport.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/FirstPage.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/FirstPage_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Go.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Go_rtl.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Idea.jpg', 'plugins/birt/webapp/birt/webcontent/birt/images/Interactive_viewer.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/LastPage.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/LastPage_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Leaf.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Loading.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Loading_rtl.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/NextPage.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/NextPage_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/PreviousPage.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/PreviousPage_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Print.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/PrintServer.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Remove.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/RemoveAll.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/RemoveAll_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/RemoveAll_disabled_rtl.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/RemoveAll_rtl.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Remove_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Remove_disabled_rtl.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Remove_rtl.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Report_Parameters_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Report_parameters.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Toc.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Up.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/Up_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/childicon.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/dialog/common/close.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/dialog/common/ok-cancel-button-center.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/dialog/common/ok-cancel-button-center_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/dialog/common/ok-cancel-button-left.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/dialog/common/ok-cancel-button-left_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/dialog/common/ok-cancel-button-right.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/dialog/common/ok-cancel-button-right_disabled.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/gradient.jpg', 'plugins/birt/webapp/birt/webcontent/birt/images/parameter.gif', 'plugins/birt/webapp/birt/webcontent/birt/images/parameter_group.gif', 'plugins/birt/webapp/birt/webcontent/birt/pages/common/Attributes.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/common/Error.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/common/Locale.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/common/blank.html', 'plugins/birt/webapp/birt/webcontent/birt/pages/common/processing.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/control/NavigationbarFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/control/ProgressBarFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/control/TocFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/control/ToolbarFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/dialog/ConfirmationDialogFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/dialog/DialogContainerFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/dialog/ExceptionDialogFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/dialog/ExportDataDialogFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/dialog/ExportReportDialogFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/dialog/ParameterDialogFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/dialog/PrintReportDialogFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/dialog/PrintReportServerDialogFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/dialog/SimpleExportDataDialogFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/layout/DocumentFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/layout/FramesetFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/layout/ParameterFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/layout/ReportContentFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/layout/ReportDialogFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/layout/ReportFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/layout/RequesterFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/layout/RunFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/layout/SidebarFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/parameter/CheckboxParameterFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/parameter/ComboBoxParameterFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/parameter/HiddenParameterFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/parameter/ParameterGroupFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/parameter/RadioButtonParameterFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/pages/parameter/TextBoxParameterFragment.jsp', 'plugins/birt/webapp/birt/webcontent/birt/styles/dialogbase.css', 'plugins/birt/webapp/birt/webcontent/birt/styles/dialogbase_rtl.css', 'plugins/birt/webapp/birt/webcontent/birt/styles/index.css', 'plugins/birt/webapp/birt/webcontent/birt/styles/style.css', 'plugins/birt/webapp/facility/WEB-INF/controller.xml', 'plugins/birt/webapp/facility/WEB-INF/web.xml', 'plugins/birt/webapp/facility/index.jsp', 'plugins/birt/webapp/facility/inventory/report/InventoryReport.rptdesign', 'plugins/birt/webapp/ordermgr/WEB-INF/controller.xml', 'plugins/birt/webapp/ordermgr/WEB-INF/web.xml', 'plugins/birt/webapp/ordermgr/index.jsp', 'plugins/birt/webapp/ordermgr/reports/CouponSalesReport.rptdesign', 'plugins/birt/webapp/ordermgr/reports/Last3MonthsSalesReport.rptdesign', 'plugins/birt/webapp/ordermgr/reports/OrderDiscountCodeReport.rptdesign', 'plugins/birt/webapp/ordermgr/reports/OrdersByChannel.rptdesign', 'plugins/birt/webapp/ordermgr/reports/ProductDemandReport.rptdesign', 'plugins/birt/webapp/ordermgr/reports/SalesReport.rptdesign', 'plugins/birt/webapp/ordermgr/reports/SalesReportMonth.rptdesign', 'plugins/birt/webapp/ordermgr/reports/SalesReportWeek.rptdesign', 'plugins/birt/widget/accounting/AccountingForms.xml', 'plugins/birt/widget/accounting/AccountingScreens.xml', 'plugins/birt/widget/birt/BirtForms.xml', 'plugins/birt/widget/birt/BirtMenus.xml', 'plugins/birt/widget/birt/BirtScreens.xml', 'plugins/birt/widget/facility/FacilityForms.xml', 'plugins/birt/widget/facility/FacilityScreens.xml']","Implemented: renamed the directory specialpurpose to plugins
+(OFBIZ-7972)
+
+In another step towards completing the plugin system for OFBiz, we renamed
+the /specialpurpose directory to /plugins and changed all occurences of the
+word ""specialpurpose"" to ""plugins"" in all files found in the system
+
+Reference discussion: http://markmail.org/message/hpyuxkmftiyn44w2
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1778271 13f79535-47bb-0310-9956-ffa450edef68",
+f3c431623791384c6b2bfdf1ba2b100bd66a933e,JacquesLeRoux,JacquesLeRoux,1,['framework/common/src/main/java/org/apache/ofbiz/common/CommonEvents.java'],"Improved: Make xssi prefix configurable
+(OFBIZ-9169)
+
+In OFBIZ-5409 a prefix was added for GET ajax requests.  
+It would be beneficial if the prefix could be configured instead of hard coded
+
+Pierre Smits suggested to make the feature multi-tenant aware. I made signature 
+and calls changes based on Chris Howe's patch.
+
+Thanks: Chris Howe and Pierre Smits 
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1777942 13f79535-47bb-0310-9956-ffa450edef68",
+7c914ee989e182faf5b81ae6759763fd7a81e7c1,JacquesLeRoux,JacquesLeRoux,5,"['applications/content/config/ContentEntityLabels.xml', 'applications/content/minilang/data/DataServices.xml', 'applications/content/servicedef/services_data.xml', 'applications/content/src/main/java/org/apache/ofbiz/content/data/DataResourceWorker.java', 'applications/datamodel/entitydef/content-entitymodel.xml']","Implemented: New implementation of Birt. Easier user possibility of 
+report creation
+(OFBIZ-6919)
+
+This are a non functional changes not yet used OOTB. 
+They are only intended to ease the sync between the svn trunk repo and 
+the github branch (using a fork)
+
+So still a WIP...
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1777586 13f79535-47bb-0310-9956-ffa450edef68",
+d76abb624f23f33d9e7ff36853a009104c92f862,JacquesLeRoux,JacquesLeRoux,9,"['applications/content/src/main/java/org/apache/ofbiz/content/content/ContentWorker.java', 'applications/order/src/main/java/org/apache/ofbiz/order/order/OrderContentWrapper.java', 'applications/party/src/main/java/org/apache/ofbiz/party/content/PartyContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/product/category/CategoryContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/product/config/ProductConfigItemContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/product/product/ProductContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/product/product/ProductPromoContentWrapper.java', 'applications/workeffort/src/main/java/org/apache/ofbiz/workeffort/content/WorkEffortContentWrapper.java', 'framework/base/src/main/java/org/apache/ofbiz/base/util/UtilCodec.java']","Implemented: Create and use an OWASP PolicyFactory for content sanitization 
+in ContentWorker for Birt Report Builder
+(OFBIZ-9166)
+
+This is still an incomplete feature because I did not find yet a way to complete
+the BIRT_REPORT_BUILDER_USAGE_POLICY and had to bypass the sanitization for this
+case, WIP...
+
+This commit has no effect on OFBiz yet.
+
+I need to commit this now to continue to work on the main task: OFBIZ-6919
+""New implementation of Birt. Easier user possibility of report creation"". 
+
+
+
+
+
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1777451 13f79535-47bb-0310-9956-ffa450edef68",
+8fdfe58ff9b466c492eaaf03ad30115efc01ea3e,JacquesLeRoux,JacquesLeRoux,9,"['applications/content/src/main/java/org/apache/ofbiz/content/content/ContentWorker.java', 'applications/content/src/main/java/org/apache/ofbiz/content/data/DataResourceWorker.java', 'applications/order/src/main/java/org/apache/ofbiz/order/order/OrderContentWrapper.java', 'applications/party/src/main/java/org/apache/ofbiz/party/content/PartyContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/product/category/CategoryContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/product/config/ProductConfigItemContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/product/product/ProductContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/product/product/ProductPromoContentWrapper.java', 'applications/workeffort/src/main/java/org/apache/ofbiz/workeffort/content/WorkEffortContentWrapper.java']","Reverts previous commit which contained unexpected changes which were not yet 
+ready to be committed. 
+
+Only remains a not functional change, only formatting and imports  cleaning of 
+FormRenderer.java 
+
+Sorry for the trouble
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1777448 13f79535-47bb-0310-9956-ffa450edef68",
+ff05a7ab16b101d5570d3de174b8fe09be3f0152,JacquesLeRoux,JacquesLeRoux,10,"['applications/content/src/main/java/org/apache/ofbiz/content/content/ContentWorker.java', 'applications/content/src/main/java/org/apache/ofbiz/content/data/DataResourceWorker.java', 'applications/order/src/main/java/org/apache/ofbiz/order/order/OrderContentWrapper.java', 'applications/party/src/main/java/org/apache/ofbiz/party/content/PartyContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/product/category/CategoryContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/product/config/ProductConfigItemContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/product/product/ProductContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/product/product/ProductPromoContentWrapper.java', 'applications/workeffort/src/main/java/org/apache/ofbiz/workeffort/content/WorkEffortContentWrapper.java', 'framework/widget/src/main/java/org/apache/ofbiz/widget/renderer/FormRenderer.java']","No functional change, only formatting and imports cleaning
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1777446 13f79535-47bb-0310-9956-ffa450edef68",
+c78a2a7836768f825bd0f87b249980fd5db8f33e,JacquesLeRoux,JacquesLeRoux,1,['applications/order/src/main/java/org/apache/ofbiz/order/shoppingcart/ShoppingCartItem.java'],"No functional change, simplifies method signature
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1777311 13f79535-47bb-0310-9956-ffa450edef68",
+9f8c1b298d84b46f5b6082415b7cf151721171db,JacquesLeRoux,JacquesLeRoux,1,['applications/order/src/main/java/org/apache/ofbiz/order/shoppingcart/ShoppingCartItem.java'],"No functional change, fixes a Javadoc issue
+
+I can't check here (Win7) because of:
+
+C:\projectsASF\ofbiz\framework\common\src\main\java\org\apache\ofbiz\common\
+UrlServletHelper.java:251: error: unmappable character for encoding Cp1252
+        str = str.replace(""´╝?"", ""-"");
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1777310 13f79535-47bb-0310-9956-ffa450edef68",
+2e27c637b8792044e88ec6255274b82378cb5daf,JacquesLeRoux,JacquesLeRoux,40,"['applications/content/src/main/java/org/apache/ofbiz/content/blog/BlogRssServices.java', 'applications/content/src/main/java/org/apache/ofbiz/content/cms/CmsEvents.java', 'applications/content/src/main/java/org/apache/ofbiz/content/content/ContentKeywordIndex.java', 'applications/content/src/main/java/org/apache/ofbiz/content/content/ContentMapFacade.java', 'applications/content/src/main/java/org/apache/ofbiz/content/content/ContentServices.java', 'applications/content/src/main/java/org/apache/ofbiz/content/content/ContentWorker.java', 'applications/content/src/main/java/org/apache/ofbiz/content/data/DataResourceWorker.java', 'applications/content/src/main/java/org/apache/ofbiz/content/data/DataServices.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/EditRenderSubContentCacheTransform.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/EditRenderSubContentTransform.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/LoopSubContentTransform.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/RenderContentAndSubContent.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/RenderContentAsText.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/RenderContentTransform.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/RenderSubContentAsText.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/RenderSubContentCacheTransform.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/RenderSubContentTransform.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/TraverseSubContentTransform.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/WrapSubContentCacheTransform.java', 'applications/order/groovyScripts/entry/cart/ShowPromotionDetails.groovy', 'applications/order/src/main/java/org/apache/ofbiz/order/order/OrderContentWrapper.java', 'applications/order/src/main/java/org/apache/ofbiz/order/order/OrderReturnServices.java', 'applications/order/src/main/java/org/apache/ofbiz/order/shoppingcart/ShoppingCart.java', 'applications/order/src/main/java/org/apache/ofbiz/order/shoppingcart/ShoppingCartHelper.java', 'applications/order/src/main/java/org/apache/ofbiz/order/shoppingcart/ShoppingCartItem.java', 'applications/order/src/main/java/org/apache/ofbiz/order/shoppingcart/product/ProductPromoWorker.java', 'applications/party/src/main/java/org/apache/ofbiz/party/content/PartyContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/product/category/CategoryContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/product/config/ProductConfigItemContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/product/product/KeywordIndex.java', 'applications/product/src/main/java/org/apache/ofbiz/product/product/ProductContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/product/product/ProductPromoContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/shipment/thirdparty/dhl/DhlServices.java', 'applications/workeffort/src/main/java/org/apache/ofbiz/workeffort/content/WorkEffortContentWrapper.java', 'applications/workeffort/src/main/java/org/apache/ofbiz/workeffort/workeffort/WorkEffortKeywordIndex.java', 'framework/widget/src/main/java/org/apache/ofbiz/widget/content/ContentWorkerInterface.java', 'framework/widget/src/main/java/org/apache/ofbiz/widget/content/DataResourceWorkerInterface.java', 'framework/widget/src/main/java/org/apache/ofbiz/widget/renderer/macro/MacroScreenRenderer.java', 'specialpurpose/lucene/src/main/java/org/apache/ofbiz/content/search/ContentDocument.java', 'specialpurpose/lucene/src/main/java/org/apache/ofbiz/content/search/ProductDocument.java']","Improved: Refactor ContentWorkerInterface methods signatures
+(OFBIZ-9164)
+
+While working on OFBIZ-6919 which was built on R13.07 I stumbled upon an issue 
+due to r1652852 where Adrian improved the cacheKey in 
+FormFactory.getFormFromLocation() by adding a delegator reference (Tenants). 
+
+Actually I'm not even sure it was done at r1652852 because Adrian did not 
+maintain the FormFactory svn history.
+
+Anyway, to make a long story short I had to introduce a DispatchContext 
+parameter when calling FormFactory.readFormDocument() when the code from 
+R13.07 only passed a null.
+
+This had an impact in the hierarchy tree because FormFactory.readFormDocument() 
+was called in DataResourceWorker class, where the new code was called 
+from renderDataResourceAsText(). 
+
+So I instead of only passing a Delegator I decided to pass only a 
+LocalDispatcher parameter in renderDataResourceAsText(), since we can get the 
+Delegator  from the LocalDispatcher. Doing so it had an impact on the 
+renderDataResourceAsText hierarchy tree ending in DataResourceWorkerInterface 
+and all related.
+
+I finally decided to apply the same ""Change Method Signature"" refactoring 
+pattern (http://refactoring.com/catalog/addParameter.html) to all cases 
+related to ContentWorkerInterface. No need to pass a delegator when you have 
+LocalDispatcher!
+
+Since last commit and revert I fixed 5 test failures and improved the code more,
+ mostly formatting, comments, etc.
+
+There are very ugly method signatures out there which still need refactoring,
+but it's so much work...
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1777297 13f79535-47bb-0310-9956-ffa450edef68",
+46f7ff84455dc4e1450090dab693054c3e8207bf,JacquesLeRoux,JacquesLeRoux,1,['applications/order/src/main/java/org/apache/ofbiz/order/shoppingcart/ShoppingCartItem.java'],"No functional changes, fixes methods ""JavaDoc""
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1777273 13f79535-47bb-0310-9956-ffa450edef68",
+12d62f70d1d0f35dc9750c256cca560d024fa9ae,jacopoc,jacopoc,1,['NOTICE'],"Implemented: updated end of year of the Copyright NOTICE
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1777159 13f79535-47bb-0310-9956-ffa450edef68",
+e5eac33117c88a874df35b0b5aa2406ac096d721,JacquesLeRoux,JacquesLeRoux,34,"['applications/content/src/main/java/org/apache/ofbiz/content/blog/BlogRssServices.java', 'applications/content/src/main/java/org/apache/ofbiz/content/cms/CmsEvents.java', 'applications/content/src/main/java/org/apache/ofbiz/content/content/ContentKeywordIndex.java', 'applications/content/src/main/java/org/apache/ofbiz/content/content/ContentMapFacade.java', 'applications/content/src/main/java/org/apache/ofbiz/content/content/ContentServices.java', 'applications/content/src/main/java/org/apache/ofbiz/content/content/ContentWorker.java', 'applications/content/src/main/java/org/apache/ofbiz/content/data/DataResourceWorker.java', 'applications/content/src/main/java/org/apache/ofbiz/content/data/DataServices.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/EditRenderSubContentCacheTransform.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/EditRenderSubContentTransform.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/LoopSubContentTransform.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/RenderContentAndSubContent.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/RenderContentAsText.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/RenderContentTransform.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/RenderSubContentAsText.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/RenderSubContentCacheTransform.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/RenderSubContentTransform.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/TraverseSubContentTransform.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/WrapSubContentCacheTransform.java', 'applications/order/src/main/java/org/apache/ofbiz/order/order/OrderContentWrapper.java', 'applications/party/src/main/java/org/apache/ofbiz/party/content/PartyContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/product/category/CategoryContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/product/config/ProductConfigItemContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/product/product/KeywordIndex.java', 'applications/product/src/main/java/org/apache/ofbiz/product/product/ProductContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/product/product/ProductPromoContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/shipment/thirdparty/dhl/DhlServices.java', 'applications/workeffort/src/main/java/org/apache/ofbiz/workeffort/content/WorkEffortContentWrapper.java', 'applications/workeffort/src/main/java/org/apache/ofbiz/workeffort/workeffort/WorkEffortKeywordIndex.java', 'framework/widget/src/main/java/org/apache/ofbiz/widget/content/ContentWorkerInterface.java', 'framework/widget/src/main/java/org/apache/ofbiz/widget/content/DataResourceWorkerInterface.java', 'framework/widget/src/main/java/org/apache/ofbiz/widget/renderer/macro/MacroScreenRenderer.java', 'specialpurpose/lucene/src/main/java/org/apache/ofbiz/content/search/ContentDocument.java', 'specialpurpose/lucene/src/main/java/org/apache/ofbiz/content/search/ProductDocument.java']","Reverted:Merged revision(s) 1777145 from ofbiz/trunk:
+Improved: Refactor ContentWorkerInterface methods signatures
+(OFBIZ-9164)
+
+While working on OFBIZ-6919 which was built on R13.07 I stumbled upon an issue 
+due to r1652852 where Adrian improved the cacheKey in 
+FormFactory.getFormFromLocation() by adding a delegator reference (Tenants). 
+
+Actually I'm not even sure it was done at r1652852 because Adrian did not 
+maintain the FormFactory svn history.
+
+Anyway, to make a long story short I had to introduce a DispatchContext 
+parameter when calling FormFactory.readFormDocument() when the code from 
+R13.07 only passed a null.
+
+This had an impact in the hierarchy tree because FormFactory.readFormDocument() 
+was called in DataResourceWorker class, where the new code was called 
+from renderDataResourceAsText(). 
+
+So I instead of only passing a Delegator I decided to pass only a 
+LocalDispatcher parameter in renderDataResourceAsText(), since we can get the 
+Delegator  from the LocalDispatcher. Doing so it had an impact on the 
+renderDataResourceAsText hierarchy tree ending in DataResourceWorkerInterface 
+and all related.
+
+I finally decided to apply the same ""Change Method Signature"" refactoring 
+pattern (http://refactoring.com/catalog/addParameter.html) to all cases 
+related to ContentWorkerInterface. No need to pass a delegator when you have 
+LocalDispatcher!
+
+I locally got 5 incomprehensible test failures. After checking as much as I can
+w/o committing I believe it's a Windows 7 issue only. Anyway if Buildbot reports
+the same I'll revert. I need this changes in to continue on another not yet 
+created subtask of OFBIZ-6919 
+........
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1777154 13f79535-47bb-0310-9956-ffa450edef68",
+b33e72748e4e5d7bb83981383cbf8ecca1f65d9d,JacquesLeRoux,JacquesLeRoux,34,"['applications/content/src/main/java/org/apache/ofbiz/content/blog/BlogRssServices.java', 'applications/content/src/main/java/org/apache/ofbiz/content/cms/CmsEvents.java', 'applications/content/src/main/java/org/apache/ofbiz/content/content/ContentKeywordIndex.java', 'applications/content/src/main/java/org/apache/ofbiz/content/content/ContentMapFacade.java', 'applications/content/src/main/java/org/apache/ofbiz/content/content/ContentServices.java', 'applications/content/src/main/java/org/apache/ofbiz/content/content/ContentWorker.java', 'applications/content/src/main/java/org/apache/ofbiz/content/data/DataResourceWorker.java', 'applications/content/src/main/java/org/apache/ofbiz/content/data/DataServices.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/EditRenderSubContentCacheTransform.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/EditRenderSubContentTransform.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/LoopSubContentTransform.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/RenderContentAndSubContent.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/RenderContentAsText.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/RenderContentTransform.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/RenderSubContentAsText.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/RenderSubContentCacheTransform.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/RenderSubContentTransform.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/TraverseSubContentTransform.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/WrapSubContentCacheTransform.java', 'applications/order/src/main/java/org/apache/ofbiz/order/order/OrderContentWrapper.java', 'applications/party/src/main/java/org/apache/ofbiz/party/content/PartyContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/product/category/CategoryContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/product/config/ProductConfigItemContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/product/product/KeywordIndex.java', 'applications/product/src/main/java/org/apache/ofbiz/product/product/ProductContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/product/product/ProductPromoContentWrapper.java', 'applications/product/src/main/java/org/apache/ofbiz/shipment/thirdparty/dhl/DhlServices.java', 'applications/workeffort/src/main/java/org/apache/ofbiz/workeffort/content/WorkEffortContentWrapper.java', 'applications/workeffort/src/main/java/org/apache/ofbiz/workeffort/workeffort/WorkEffortKeywordIndex.java', 'framework/widget/src/main/java/org/apache/ofbiz/widget/content/ContentWorkerInterface.java', 'framework/widget/src/main/java/org/apache/ofbiz/widget/content/DataResourceWorkerInterface.java', 'framework/widget/src/main/java/org/apache/ofbiz/widget/renderer/macro/MacroScreenRenderer.java', 'specialpurpose/lucene/src/main/java/org/apache/ofbiz/content/search/ContentDocument.java', 'specialpurpose/lucene/src/main/java/org/apache/ofbiz/content/search/ProductDocument.java']","Improved: Refactor ContentWorkerInterface methods signatures
+(OFBIZ-9164)
+
+While working on OFBIZ-6919 which was built on R13.07 I stumbled upon an issue 
+due to r1652852 where Adrian improved the cacheKey in 
+FormFactory.getFormFromLocation() by adding a delegator reference (Tenants). 
+
+Actually I'm not even sure it was done at r1652852 because Adrian did not 
+maintain the FormFactory svn history.
+
+Anyway, to make a long story short I had to introduce a DispatchContext 
+parameter when calling FormFactory.readFormDocument() when the code from 
+R13.07 only passed a null.
+
+This had an impact in the hierarchy tree because FormFactory.readFormDocument() 
+was called in DataResourceWorker class, where the new code was called 
+from renderDataResourceAsText(). 
+
+So I instead of only passing a Delegator I decided to pass only a 
+LocalDispatcher parameter in renderDataResourceAsText(), since we can get the 
+Delegator  from the LocalDispatcher. Doing so it had an impact on the 
+renderDataResourceAsText hierarchy tree ending in DataResourceWorkerInterface 
+and all related.
+
+I finally decided to apply the same ""Change Method Signature"" refactoring 
+pattern (http://refactoring.com/catalog/addParameter.html) to all cases 
+related to ContentWorkerInterface. No need to pass a delegator when you have 
+LocalDispatcher!
+
+I locally got 5 incomprehensible test failures. After checking as much as I can
+w/o committing I believe it's a Windows 7 issue only. Anyway if Buildbot reports
+the same I'll revert. I need this changes in to continue on another not yet 
+created subtask of OFBIZ-6919 
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1777145 13f79535-47bb-0310-9956-ffa450edef68",
+de91e927653c8aa3fe5aa397f19418e252363109,shijh,shijh,90,"['specialpurpose/lucene/build.gradle', 'specialpurpose/lucene/src/main/java/org/apache/ofbiz/content/search/ProductDocument.java', 'specialpurpose/lucene/src/main/java/org/apache/ofbiz/content/search/SearchWorker.java', 'specialpurpose/solr/build.gradle', 'specialpurpose/solr/src/main/java/org/apache/ofbiz/solr/webapp/OFBizSolrContextFilter.java', 'specialpurpose/solr/webapp/solr/WEB-INF/web.xml', 'specialpurpose/solr/webapp/solr/admin.html', 'specialpurpose/solr/webapp/solr/css/angular/cloud.css', 'specialpurpose/solr/webapp/solr/css/angular/collections.css', 'specialpurpose/solr/webapp/solr/css/angular/common.css', 'specialpurpose/solr/webapp/solr/css/angular/dashboard.css', 'specialpurpose/solr/webapp/solr/css/angular/index.css', 'specialpurpose/solr/webapp/solr/css/angular/menu.css', 'specialpurpose/solr/webapp/solr/css/angular/schema.css', 'specialpurpose/solr/webapp/solr/css/angular/segments.css', 'specialpurpose/solr/webapp/solr/css/angular/stream.css', 'specialpurpose/solr/webapp/solr/css/chosen.css', 'specialpurpose/solr/webapp/solr/css/styles/common.css', 'specialpurpose/solr/webapp/solr/css/styles/segments.css', 'specialpurpose/solr/webapp/solr/js/angular/app.js', 'specialpurpose/solr/webapp/solr/js/angular/controllers/analysis.js', 'specialpurpose/solr/webapp/solr/js/angular/controllers/cloud.js', 'specialpurpose/solr/webapp/solr/js/angular/controllers/collection-overview.js', 'specialpurpose/solr/webapp/solr/js/angular/controllers/collections.js', 'specialpurpose/solr/webapp/solr/js/angular/controllers/core-overview.js', 'specialpurpose/solr/webapp/solr/js/angular/controllers/cores.js', 'specialpurpose/solr/webapp/solr/js/angular/controllers/dataimport.js', 'specialpurpose/solr/webapp/solr/js/angular/controllers/documents.js', 'specialpurpose/solr/webapp/solr/js/angular/controllers/files.js', 'specialpurpose/solr/webapp/solr/js/angular/controllers/index.js', 'specialpurpose/solr/webapp/solr/js/angular/controllers/java-properties.js', 'specialpurpose/solr/webapp/solr/js/angular/controllers/logging.js', 'specialpurpose/solr/webapp/solr/js/angular/controllers/plugins.js', 'specialpurpose/solr/webapp/solr/js/angular/controllers/query.js', 'specialpurpose/solr/webapp/solr/js/angular/controllers/replication.js', 'specialpurpose/solr/webapp/solr/js/angular/controllers/schema.js', 'specialpurpose/solr/webapp/solr/js/angular/controllers/segments.js', 'specialpurpose/solr/webapp/solr/js/angular/controllers/stream.js', 'specialpurpose/solr/webapp/solr/js/angular/controllers/threads.js', 'specialpurpose/solr/webapp/solr/js/angular/services.js', 'specialpurpose/solr/webapp/solr/js/lib/ZeroClipboard.js', 'specialpurpose/solr/webapp/solr/js/lib/jquery-1.7.2.min.js', 'specialpurpose/solr/webapp/solr/js/lib/jquery.blockUI.js', 'specialpurpose/solr/webapp/solr/js/lib/jquery.form.js', 'specialpurpose/solr/webapp/solr/js/lib/jquery.jstree.js', 'specialpurpose/solr/webapp/solr/js/require.js', 'specialpurpose/solr/webapp/solr/js/scripts/app.js', 'specialpurpose/solr/webapp/solr/js/scripts/cloud.js', 'specialpurpose/solr/webapp/solr/js/scripts/cores.js', 'specialpurpose/solr/webapp/solr/js/scripts/files.js', 'specialpurpose/solr/webapp/solr/js/scripts/replication.js', 'specialpurpose/solr/webapp/solr/js/scripts/segments.js', 'specialpurpose/solr/webapp/solr/libs/angular-chosen.js', 'specialpurpose/solr/webapp/solr/libs/angular-cookies.js', 'specialpurpose/solr/webapp/solr/libs/angular-cookies.min.js', 'specialpurpose/solr/webapp/solr/libs/angular-resource.min.js', 'specialpurpose/solr/webapp/solr/libs/angular-route.js', 'specialpurpose/solr/webapp/solr/libs/angular-route.min.js', 'specialpurpose/solr/webapp/solr/libs/angular-sanitize.js', 'specialpurpose/solr/webapp/solr/libs/angular-sanitize.min.js', 'specialpurpose/solr/webapp/solr/libs/angular.js', 'specialpurpose/solr/webapp/solr/libs/angular.min.js', 'specialpurpose/solr/webapp/solr/libs/chosen.jquery.js', 'specialpurpose/solr/webapp/solr/libs/chosen.jquery.min.js', 'specialpurpose/solr/webapp/solr/libs/d3.js', 'specialpurpose/solr/webapp/solr/libs/highlight.js', 'specialpurpose/solr/webapp/solr/libs/jquery-2.1.3.min.js', 'specialpurpose/solr/webapp/solr/libs/jquery.jstree.js', 'specialpurpose/solr/webapp/solr/libs/ngtimeago.js', 'specialpurpose/solr/webapp/solr/partials/analysis.html', 'specialpurpose/solr/webapp/solr/partials/cloud.html', 'specialpurpose/solr/webapp/solr/partials/collection_overview.html', 'specialpurpose/solr/webapp/solr/partials/collections.html', 'specialpurpose/solr/webapp/solr/partials/core_overview.html', 'specialpurpose/solr/webapp/solr/partials/cores.html', 'specialpurpose/solr/webapp/solr/partials/dataimport.html', 'specialpurpose/solr/webapp/solr/partials/documents.html', 'specialpurpose/solr/webapp/solr/partials/files.html', 'specialpurpose/solr/webapp/solr/partials/index.html', 'specialpurpose/solr/webapp/solr/partials/java-properties.html', 'specialpurpose/solr/webapp/solr/partials/logging-levels.html', 'specialpurpose/solr/webapp/solr/partials/logging.html', 'specialpurpose/solr/webapp/solr/partials/plugins.html', 'specialpurpose/solr/webapp/solr/partials/query.html', 'specialpurpose/solr/webapp/solr/partials/replication.html', 'specialpurpose/solr/webapp/solr/partials/schema.html', 'specialpurpose/solr/webapp/solr/partials/segments.html', 'specialpurpose/solr/webapp/solr/partials/stream.html', 'specialpurpose/solr/webapp/solr/partials/threads.html', 'specialpurpose/solr/webapp/solr/tpl/segments.html']","Implemented: Update Apache Solr/Lucene to release 6.2.1
+(OFBIZ-8316)
+
+Upgraded Apache Solr/Lucene from 5.3.1 to 6.2.1.
+
+Thanks: Michael Brohl and Cao PengAn for the contribution.
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1776930 13f79535-47bb-0310-9956-ffa450edef68",
+d747f8d8b22f5059dcba4d4f03273efef4b5f249,pythys,pythys,1,['build.gradle'],"Implemented: replace leftshift operators with doLast clojures in build.gradle
+(OFBIZ-9160)
+
+Gradle 3+ has deprecated the leftshift operator ""<<"" in favor of using the
+doLast closure. Hence all instances of the leftshift operator are replaced
+with doLast in build.gradle.
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1776642 13f79535-47bb-0310-9956-ffa450edef68",
+291d1400d17f4713100e8f46f951a59681924fda,JacquesLeRoux,JacquesLeRoux,1,['framework/service/servicedef/services.xml'],"Implemented: Add the entity-auto CRUD services for RuntimeData
+(OFBIZ-9161)
+
+At OFBIZ-9159 I added the entity-auto CRUD services for JobSandbox but 
+w/o permission check. 
+
+While working on this issue I decided it's better to have them and decided to 
+also put them for JobSandbox CRUD services.
+
+So here are the entity-auto CRUD services for RuntimeData and permission check 
+for JobSandbox CRUD services
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1776558 13f79535-47bb-0310-9956-ffa450edef68",
+9ed523be590b75c59b17b2444ce83473e3ef6f08,pythys,pythys,4,"['gradle/wrapper/gradle-wrapper.jar', 'gradle/wrapper/gradle-wrapper.properties', 'gradlew', 'gradlew.bat']","Improved: upgrade gradle to version 3.2.1
+(OFBIZ-9160)
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1776532 13f79535-47bb-0310-9956-ffa450edef68",
+608b6cc9651325e25b79d0ab5ef63fcc798611e6,JacquesLeRoux,JacquesLeRoux,1,['framework/service/servicedef/services.xml'],"Implemented: Add the entity-auto CRUD services for JobSandbox
+(OFBIZ-9159)
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1776528 13f79535-47bb-0310-9956-ffa450edef68",
+25cf7598723af9e82e9138edacc9a522952eb197,pythys,pythys,1,['README.md'],"Fixed: provided an updated script for gradle bash-completion in README.md
+
+The old reference for gradle bash completion is broken. Hence using a newer
+fork that works correctly and in multiple environments
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1776453 13f79535-47bb-0310-9956-ffa450edef68",
+5937b9526479ab1a9df2b8dbd7b8175fc3bca0b2,JacquesLeRoux,JacquesLeRoux,1,['framework/service/src/main/java/org/apache/ofbiz/service/ModelService.java'],"Implemented: Add a isValid() method to the ModelService class
+(OFBIZ-9158)
+
+Improves after a discussion with Scott and Taher on dev ML
+
+Improved to be called only with IN params, the JavaDoc is also improved to 
+reflect the changes
+
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1776447 13f79535-47bb-0310-9956-ffa450edef68",
+9f39c4b83fcb4b3a068cb20df6763cf561c36bf7,JacquesLeRoux,JacquesLeRoux,1,['framework/service/src/main/java/org/apache/ofbiz/service/ModelService.java'],"Implemented: Add a isValid() method to the ModelService class
+(OFBIZ-9158)
+
+The idea is to use validate() to render a boolean result. I needed that in a 
+custom project, I think it's worth contributing.
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1776243 13f79535-47bb-0310-9956-ffa450edef68",
+8b8950c43b46be6ed899dcdbd7cdce376826136e,jacopoc,jacopoc,1,['framework/webapp/src/main/java/org/apache/ofbiz/webapp/control/ExternalLoginKeysManager.java'],"Improved: minor changes to make the method easier to test with unit tests.
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1776148 13f79535-47bb-0310-9956-ffa450edef68",
+08e38936f714a3ad23525d2d652919106d8f561b,jacopoc,jacopoc,3,"['framework/webapp/src/main/java/org/apache/ofbiz/webapp/control/ExternalLoginKeysManager.java', 'framework/webapp/src/test/java/org/apache/ofbiz/webapp/control/ExternalLoginKeysManagerTests.java', 'framework/widget/src/main/java/org/apache/ofbiz/widget/renderer/ScreenRenderer.java']","Implemented: a set of unit tests for the 
+ExternalLoginKeysManager.getExternalLoginKey(...) method.
+
+Minor refactoring of the getExternalLoginKey(...) method to make it more 
+friendly to unit tests.
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1776138 13f79535-47bb-0310-9956-ffa450edef68",
+51cc5c9cab02653048820a0fdcaa2c1dd62eab39,JacquesLeRoux,JacquesLeRoux,1,['specialpurpose/ecommerce/data/DemoConfigurator.xml'],"Improved: Demo data for serialized and non-serialised product
+(OFBIZ-7766)
+
+Currently, InventoryItemTypeId attribute is empty for all Product entity's demo 
+data. In real cases, there are products that are purely serialised 
+(like equipments) or purely non-serialised (like liquid). 
+
+Thanks: James Yong
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1775989 13f79535-47bb-0310-9956-ffa450edef68",
+0269a8ef75aa29d1d8123089f3dfb44ad37c802f,jacopoc,jacopoc,8,"['framework/common/webcommon/WEB-INF/common-controller.xml', 'framework/webapp/src/main/java/org/apache/ofbiz/webapp/control/ExternalLoginKeysManager.java', 'framework/webapp/src/main/java/org/apache/ofbiz/webapp/control/LoginEventListener.java', 'framework/webapp/src/main/java/org/apache/ofbiz/webapp/control/LoginWorker.java', 'framework/widget/src/main/java/org/apache/ofbiz/widget/renderer/ScreenRenderer.java', 'specialpurpose/ecommerce/webapp/ecommerce/WEB-INF/controller.xml', 'specialpurpose/solr/webapp/solr/WEB-INF/controller.xml', 'specialpurpose/webpos/webapp/webpos/WEB-INF/controller.xml']","Improved: moved the logic/implementation of OFBiz legacy authentication 
+tokens from the LoginWorker class to a new class named ExternalLoginKeysManager.
+
+Improved Javadocs in the new class.
+ 
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1775807 13f79535-47bb-0310-9956-ffa450edef68",
+e5a5a37ae02afd4b6c25f5e70f8cb78cffd4743c,pythys,pythys,1,['README.md'],"Improved: provided clearer documentation for the eclipse task in Gradle
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1775597 13f79535-47bb-0310-9956-ffa450edef68",
+8777f4360e048f8260051d1b5c37cb91db99910b,JacquesLeRoux,JacquesLeRoux,1,['framework/webapp/dtd/site-conf.xsd'],"No functional change, updates location of view handlers
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1775441 13f79535-47bb-0310-9956-ffa450edef68",
+68d8a6cb2d8bf07cc3a42d2831daf053a0410f12,pythys,pythys,1,['framework/start/src/main/java/org/apache/ofbiz/base/start/Config.java'],"Improved: Refactored Config.java to simplify fields initialization
+
+Improvements remove in total roughly 70 lines of code and includes:
+
+- moving all default values to the constructor to make it clear
+- refactor getProperty to use the Optional monad
+- remove FileInputStream from getPropertiesFile as it is not used
+- properly indent conditions in determineOfbizPropertiesFileName
+- simplify locale creation
+- remove dependency on base (StringUtil)
+- other minor renamings and formatting
+
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1775340 13f79535-47bb-0310-9956-ffa450edef68",
+c0dbc0290b5f3fb97be781eb8938b674362cba60,pythys,pythys,1,['framework/start/src/main/java/org/apache/ofbiz/base/start/Config.java'],"Improved: properly implement the Optional interface for retrieving portoffset
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1775238 13f79535-47bb-0310-9956-ffa450edef68",
+05526e070f6f70af49d509abeffbaf82383cc778,mbrohl,mbrohl,1,['build.gradle'],"Improved: Raise build error if Javadoc is not valid.
+
+This is part of the Javadoc refactoring issue as discussed in (OFBIZ-9144)
+
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1774933 13f79535-47bb-0310-9956-ffa450edef68",
+396a5d073482f62a6abf07feb4ebb0bf99d650bd,mbrohl,mbrohl,14,"['applications/accounting/src/main/java/org/apache/ofbiz/accounting/invoice/InvoiceWorker.java', 'applications/accounting/src/main/java/org/apache/ofbiz/accounting/payment/PaymentGatewayServices.java', 'applications/manufacturing/src/main/java/org/apache/ofbiz/manufacturing/jobshopmgt/ProductionRun.java', 'applications/manufacturing/src/main/java/org/apache/ofbiz/manufacturing/jobshopmgt/ProductionRunHelper.java', 'applications/manufacturing/src/main/java/org/apache/ofbiz/manufacturing/jobshopmgt/ProductionRunServices.java', 'applications/manufacturing/src/main/java/org/apache/ofbiz/manufacturing/techdata/TechDataServices.java', 'framework/entity/src/main/java/org/apache/ofbiz/entity/jdbc/SqlJdbcUtil.java', 'framework/minilang/src/main/java/org/apache/ofbiz/minilang/SimpleMethod.java', 'framework/service/src/main/java/org/apache/ofbiz/service/LocalDispatcher.java', 'framework/service/src/main/java/org/apache/ofbiz/service/engine/ScriptEngine.java', 'framework/webapp/src/main/java/org/apache/ofbiz/webapp/ftl/OfbizUrlTransform.java', 'framework/webtools/src/main/java/org/apache/ofbiz/webtools/WebToolsServices.java', 'specialpurpose/passport/src/main/java/org/apache/ofbiz/passport/user/GitHubAuthenticator.java', 'specialpurpose/passport/src/main/java/org/apache/ofbiz/passport/user/LinkedInAuthenticator.java']","Improved: refactor javadocs in OFBiz to be standards compliant
+(OFBIZ-9144)
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1774922 13f79535-47bb-0310-9956-ffa450edef68",
+ffe3abc72b60177d5debaa53d26216d4d53d1abc,JacquesLeRoux,JacquesLeRoux,5,"['specialpurpose/example/widget/example/ExampleAjaxScreens.xml', 'specialpurpose/example/widget/example/ExampleFeatureForms.xml', 'specialpurpose/example/widget/example/ExampleFeatureScreens.xml', 'specialpurpose/example/widget/example/ExampleForms.xml', 'specialpurpose/example/widget/example/ExampleScreens.xml']","Improved: Refactor forms in Example
+(OFBIZ-9146)
+
+Refactoring form definitions with type='single'
+Refactoring various lists forms into grids.
+Refactoring various list form references in screen widgets into grid references
+
+
+Thanks: Pierre Smits
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1774906 13f79535-47bb-0310-9956-ffa450edef68",
+aee1f46996d465d50235f177e180be4d5441b221,hansbak,hansbak,1,['applications/content/template/survey/EditSurveyResponse.ftl'],"missing </div> and reduce length of lines
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1774853 13f79535-47bb-0310-9956-ffa450edef68",
+0a9281a5e0c5a567fa1c5785c728209d21efd7e1,mbrohl,mbrohl,28,"['applications/content/src/main/java/org/apache/ofbiz/content/survey/PdfSurveyServices.java', 'applications/content/src/main/java/org/apache/ofbiz/content/webapp/ftl/RenderSubContentTransform.java', 'applications/order/src/main/java/org/apache/ofbiz/order/order/OrderReadHelper.java', 'applications/order/src/main/java/org/apache/ofbiz/order/order/OrderReturnServices.java', 'applications/order/src/main/java/org/apache/ofbiz/order/order/OrderServices.java', 'applications/order/src/main/java/org/apache/ofbiz/order/shoppingcart/ShoppingCartEvents.java', 'applications/product/src/main/java/org/apache/ofbiz/product/category/ftl/CatalogUrlSeoTransform.java', 'framework/base/src/main/java/org/apache/ofbiz/base/location/FlexibleLocation.java', 'framework/base/src/main/java/org/apache/ofbiz/base/util/string/UelFunctions.java', 'framework/base/src/main/java/org/apache/ofbiz/base/util/string/UelUtil.java', 'framework/common/src/main/java/org/apache/ofbiz/common/preferences/PreferenceWorker.java', 'framework/entity/src/main/java/org/apache/ofbiz/entity/Delegator.java', 'framework/entity/src/main/java/org/apache/ofbiz/entity/GenericEntity.java', 'framework/entity/src/main/java/org/apache/ofbiz/entity/GenericPK.java', 'framework/entity/src/main/java/org/apache/ofbiz/entity/GenericValue.java', 'framework/entity/src/main/java/org/apache/ofbiz/entity/condition/EntityCondition.java', 'framework/entity/src/main/java/org/apache/ofbiz/entity/condition/EntityConditionBase.java', 'framework/entity/src/main/java/org/apache/ofbiz/entity/condition/EntityConditionVisitor.java', 'framework/entity/src/main/java/org/apache/ofbiz/entity/util/EntityQuery.java', 'framework/webapp/src/main/java/org/apache/ofbiz/webapp/event/JSONRequestBodyMapHandler.java', 'framework/webapp/src/main/java/org/apache/ofbiz/webapp/event/RequestBodyMapHandler.java', 'framework/webapp/src/main/java/org/apache/ofbiz/webapp/event/ScriptEventHandler.java', 'specialpurpose/ldap/src/main/java/org/apache/ofbiz/ldap/commons/InterfaceOFBizAuthenticationHandler.java', 'specialpurpose/pricat/src/main/java/org/apache/ofbiz/htmlreport/util/ReportEncoder.java', 'specialpurpose/pricat/src/main/java/org/apache/ofbiz/pricat/PricatEvents.java', 'specialpurpose/pricat/src/main/java/org/apache/ofbiz/pricat/PricatParseExcelHtmlReport.java', 'specialpurpose/pricat/src/main/java/org/apache/ofbiz/pricat/sample/SamplePricatEvents.java', 'specialpurpose/pricat/src/main/java/org/apache/ofbiz/pricat/sample/SamplePricatParser.java']","Improved: refactor javadocs in OFBiz to be standards compliant
+(OFBIZ-9144)
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1774815 13f79535-47bb-0310-9956-ffa450edef68",
+9fc4b3fd478c7033522cee75b1b502ca4a8b8f19,mbrohl,mbrohl,1,['applications/party/widget/partymgr/PartyForms.xml'],"Improved: Client side validation required in Tax Infos (Add Party Tax Authority Info).
+(OFBIZ-7437)
+
+Thanks: Padmavati Rawat for reporting and providing the patch.
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1774806 13f79535-47bb-0310-9956-ffa450edef68",
+c17b08e68e2ef83219c1707833624c77d046dced,mbrohl,mbrohl,1,['specialpurpose/ebay/widget/EbayForms.xml'],"Improved: Client side validation is missing at Add Ebay Configuration form.
+(OFBIZ-7866)
+
+Thanks: Deepak Nigam for reporting and providing the patch.
+
+git-svn-id: https://svn.apache.org/repos/asf/ofbiz/trunk@1774805 13f79535-47bb-0310-9956-ffa450edef68",

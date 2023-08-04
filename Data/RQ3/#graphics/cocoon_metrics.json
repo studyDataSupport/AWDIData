@@ -1,0 +1,12 @@
+{
+    "all_file_num": 31076,
+    "error_developer_file_rate": {
+        "#graphics--cocoon--jashaj": 0.0008688376882481658,
+        "#graphics--cocoon--SimoneGianni": 0.0038615008366585145
+    },
+    "daily_error_prone_developer": [
+        "#graphics--cocoon--jashaj",
+        "#graphics--cocoon--SimoneGianni"
+    ],
+    "number_daily_error_prone_developer": 2
+}

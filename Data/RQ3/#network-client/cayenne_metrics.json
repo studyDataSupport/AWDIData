@@ -1,0 +1,28 @@
+{
+    "all_file_num": 14281,
+    "error_developer_file_rate": {
+        "#network-client--cayenne--emecas": 0.00042013864575309853,
+        "#network-client--cayenne--OlegKhodokevich": 0.0004901617533786149,
+        "#network-client--cayenne--faizel": 0.0006302079686296478,
+        "#network-client--cayenne--aplgithub": 0.0011203697220082628,
+        "#network-client--cayenne--AlexandrShestak": 0.002310762551642042,
+        "#network-client--cayenne--nismooooooo": 0.006092010363419929,
+        "#network-client--cayenne--ollybondareva": 0.008682865345564035,
+        "#network-client--cayenne--const1993": 0.00959316574469575,
+        "#network-client--cayenne--AlexKolonitsky": 0.018906239058889433,
+        "#network-client--cayenne--johnthuss": 0.019536447027519083,
+        "#network-client--cayenne--dzmitryk": 0.04418458091170086,
+        "#network-client--cayenne--": 0.11294727259995799
+    },
+    "daily_error_prone_developer": [
+        "#network-client--cayenne--AlexandrShestak",
+        "#network-client--cayenne--nismooooooo",
+        "#network-client--cayenne--ollybondareva",
+        "#network-client--cayenne--const1993",
+        "#network-client--cayenne--AlexKolonitsky",
+        "#network-client--cayenne--johnthuss",
+        "#network-client--cayenne--dzmitryk",
+        "#network-client--cayenne--"
+    ],
+    "number_daily_error_prone_developer": 8
+}

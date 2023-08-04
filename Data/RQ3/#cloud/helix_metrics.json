@@ -1,0 +1,11 @@
+{
+    "all_file_num": 5790,
+    "error_developer_file_rate": {
+        "#cloud--helix--atcurtis": 0.0012089810017271157,
+        "#cloud--helix--zzhang5": 0.11018998272884284
+    },
+    "daily_error_prone_developer": [
+        "#cloud--helix--zzhang5"
+    ],
+    "number_daily_error_prone_developer": 1
+}

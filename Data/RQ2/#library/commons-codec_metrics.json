@@ -1,0 +1,25 @@
+{
+    "cate": "#library",
+    "#library-cate_aver_bug_rate": 0.2318840579710145,
+    "#library-cate_aver_bug_commit_rate": 0.2,
+    "high_bug_rate_error_prone_developer_number": 3,
+    "high_bug_commit_rate_error_prone_developer_number": 3,
+    "high_bug_rate_error_prone_developer": {
+        "#library--commons-codec--melloware": 3.0,
+        "#library--commons-codec--jochenw": 3.0,
+        "#library--commons-codec--tmousaw-ptc": 2.0
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#library--commons-codec--melloware": 1.0,
+        "#library--commons-codec--tmousaw-ptc": 1.0,
+        "#library--commons-codec--jochenw": 0.5
+    },
+    "error_prone_developer_num": 3,
+    "error_prone_developer": [
+        "#library--commons-codec--melloware",
+        "#library--commons-codec--jochenw",
+        "#library--commons-codec--tmousaw-ptc"
+    ],
+    "error_prone_developer_team_rate": 0.075,
+    "team_developer_num": 40
+}

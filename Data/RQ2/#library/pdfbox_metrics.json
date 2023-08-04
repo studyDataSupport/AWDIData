@@ -1,0 +1,31 @@
+{
+    "cate": "#library",
+    "#library-cate_aver_bug_rate": 0.2318840579710145,
+    "#library-cate_aver_bug_commit_rate": 0.2,
+    "high_bug_rate_error_prone_developer_number": 5,
+    "high_bug_commit_rate_error_prone_developer_number": 5,
+    "high_bug_rate_error_prone_developer": {
+        "#library--pdfbox--jmaerki": 2.0,
+        "#library--pdfbox--jahewson": 0.7165354330708661,
+        "#library--pdfbox--jukka": 0.6779661016949152,
+        "#library--pdfbox--lehmi": 0.5106679035250464,
+        "#library--pdfbox--": 0.4459677419354839
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#library--pdfbox--jahewson": 0.41863517060367456,
+        "#library--pdfbox--jmaerki": 0.3611111111111111,
+        "#library--pdfbox--lehmi": 0.35760667903525045,
+        "#library--pdfbox--": 0.2814516129032258,
+        "#library--pdfbox--jukka": 0.2542372881355932
+    },
+    "error_prone_developer_num": 5,
+    "error_prone_developer": [
+        "#library--pdfbox--jmaerki",
+        "#library--pdfbox--jahewson",
+        "#library--pdfbox--jukka",
+        "#library--pdfbox--lehmi",
+        "#library--pdfbox--"
+    ],
+    "error_prone_developer_team_rate": 0.7142857142857143,
+    "team_developer_num": 7
+}

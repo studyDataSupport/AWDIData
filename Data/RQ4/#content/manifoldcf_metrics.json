@@ -1,0 +1,102 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#content--manifoldcf--": "2011-05-20 00:00:00",
+        "#content--manifoldcf--kwrightapache": "2010-02-13 00:00:00",
+        "#content--manifoldcf--schuch": "2016-12-13 00:00:00",
+        "#content--manifoldcf--OpenPj": "2011-08-24 00:00:00",
+        "#content--manifoldcf--kishorejangid": "2015-05-03 00:00:00",
+        "#content--manifoldcf--rafaharo": "2015-02-09 00:00:00",
+        "#content--manifoldcf--sabe1": "2011-06-21 00:00:00",
+        "#content--manifoldcf--maoo": "2014-10-19 00:00:00",
+        "#content--manifoldcf--danielshahaf": "2012-06-13 00:00:00",
+        "#content--manifoldcf--tteofili": "2011-05-24 00:00:00",
+        "#content--manifoldcf--gsingers": "2010-01-11 00:00:00",
+        "#content--manifoldcf--rmuir": "2010-02-23 00:00:00",
+        "#content--manifoldcf--markrmiller": "2010-06-09 00:00:00"
+    },
+    "commiter_end_time": {
+        "#content--manifoldcf--": "2022-12-08 00:00:00",
+        "#content--manifoldcf--kwrightapache": "2022-11-29 00:00:00",
+        "#content--manifoldcf--schuch": "2022-11-29 00:00:00",
+        "#content--manifoldcf--OpenPj": "2022-04-27 00:00:00",
+        "#content--manifoldcf--kishorejangid": "2019-03-28 00:00:00",
+        "#content--manifoldcf--rafaharo": "2018-04-05 00:00:00",
+        "#content--manifoldcf--sabe1": "2016-11-10 00:00:00",
+        "#content--manifoldcf--maoo": "2015-12-11 00:00:00",
+        "#content--manifoldcf--danielshahaf": "2012-06-13 00:00:00",
+        "#content--manifoldcf--tteofili": "2011-05-24 00:00:00",
+        "#content--manifoldcf--gsingers": "2010-12-03 00:00:00",
+        "#content--manifoldcf--rmuir": "2010-10-18 00:00:00",
+        "#content--manifoldcf--markrmiller": "2010-06-09 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#content--manifoldcf--danielshahaf": 0,
+        "#content--manifoldcf--tteofili": 0,
+        "#content--manifoldcf--markrmiller": 0,
+        "#content--manifoldcf--rmuir": 237,
+        "#content--manifoldcf--gsingers": 326,
+        "#content--manifoldcf--maoo": 418,
+        "#content--manifoldcf--rafaharo": 1151,
+        "#content--manifoldcf--kishorejangid": 1425,
+        "#content--manifoldcf--sabe1": 1969,
+        "#content--manifoldcf--schuch": 2177,
+        "#content--manifoldcf--OpenPj": 3899,
+        "#content--manifoldcf--": 4220,
+        "#content--manifoldcf--kwrightapache": 4672
+    },
+    "commiter_contribute_time1": {
+        "#content--manifoldcf--rafaharo": {
+            "start": "2015-02-09 00:00:00",
+            "end": "2017-04-14 00:00:00",
+            "bug_num_per_commit": 0.16666666666666666,
+            "bug_commit_num_rate": 0.6666666666666666
+        }
+    },
+    "commiter_contribute_time2": {
+        "#content--manifoldcf--rafaharo": {
+            "start": "2017-04-14 00:00:00",
+            "end": "2016-01-26 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time3": {
+        "#content--manifoldcf--rafaharo": {
+            "start": "2015-08-27 00:00:00",
+            "end": "2015-03-21 00:00:00",
+            "bug_num_per_commit": 0.16666666666666666,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#content--manifoldcf--rafaharo": {
+            "start": "2015-03-20 00:00:00",
+            "end": "2015-02-09 00:00:00",
+            "bug_num_per_commit": 0.14285714285714285,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#content--manifoldcf--rafaharo": {
+            "bug_num_per_commit": {
+                "time1": 0.16666666666666666,
+                "time2": 0.0,
+                "time3": 0.16666666666666666,
+                "time4": 0.14285714285714285
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.6666666666666666,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#content--manifoldcf--rafaharo"
+    ],
+    "number_daily_long_time_error_prone_developer": 1,
+    "improved_daily_long_time_error_prone_developer": [],
+    "number_improved_daily_long_time_error_prone_developer": 0
+}

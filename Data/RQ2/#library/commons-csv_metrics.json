@@ -1,0 +1,35 @@
+{
+    "cate": "#library",
+    "#library-cate_aver_bug_rate": 0.2318840579710145,
+    "#library-cate_aver_bug_commit_rate": 0.2,
+    "high_bug_rate_error_prone_developer_number": 6,
+    "high_bug_commit_rate_error_prone_developer_number": 8,
+    "high_bug_rate_error_prone_developer": {
+        "#library--commons-csv--mirasrael": 1.0,
+        "#library--commons-csv--davidmoten": 1.0,
+        "#library--commons-csv--alex270295": 1.0,
+        "#library--commons-csv--invalid-email-address": 1.0,
+        "#library--commons-csv--jacopoc": 0.375,
+        "#library--commons-csv--ebourg": 0.31343283582089554
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#library--commons-csv--mirasrael": 1.0,
+        "#library--commons-csv--alex270295": 1.0,
+        "#library--commons-csv--invalid-email-address": 1.0,
+        "#library--commons-csv--davidmoten": 0.5,
+        "#library--commons-csv--ebourg": 0.373134328358209,
+        "#library--commons-csv--yonik": 0.2631578947368421,
+        "#library--commons-csv--aherbert": 0.23809523809523808,
+        "#library--commons-csv--dota17": 0.2
+    },
+    "error_prone_developer_num": 5,
+    "error_prone_developer": [
+        "#library--commons-csv--mirasrael",
+        "#library--commons-csv--davidmoten",
+        "#library--commons-csv--alex270295",
+        "#library--commons-csv--invalid-email-address",
+        "#library--commons-csv--ebourg"
+    ],
+    "error_prone_developer_team_rate": 0.1282051282051282,
+    "team_developer_num": 39
+}

@@ -1,0 +1,23 @@
+{
+    "cate": "#library",
+    "#library-cate_aver_bug_rate": 0.2318840579710145,
+    "#library-cate_aver_bug_commit_rate": 0.2,
+    "high_bug_rate_error_prone_developer_number": 2,
+    "high_bug_commit_rate_error_prone_developer_number": 3,
+    "high_bug_rate_error_prone_developer": {
+        "#library--opennlp--wero026": 1.0,
+        "#library--opennlp--ragerri": 0.26
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#library--opennlp--wero026": 1.0,
+        "#library--opennlp--ragerri": 0.22,
+        "#library--opennlp--wcolen": 0.21081081081081082
+    },
+    "error_prone_developer_num": 2,
+    "error_prone_developer": [
+        "#library--opennlp--wero026",
+        "#library--opennlp--ragerri"
+    ],
+    "error_prone_developer_team_rate": 0.0425531914893617,
+    "team_developer_num": 47
+}

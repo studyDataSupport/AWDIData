@@ -1,0 +1,46 @@
+{
+    "cate": "#library",
+    "#library-cate_aver_bug_rate": 0.2318840579710145,
+    "#library-cate_aver_bug_commit_rate": 0.2,
+    "high_bug_rate_error_prone_developer_number": 10,
+    "high_bug_commit_rate_error_prone_developer_number": 10,
+    "high_bug_rate_error_prone_developer": {
+        "#library--commons-crypto--kexianda": 2.0,
+        "#library--commons-crypto--dianfu": 1.5,
+        "#library--commons-crypto--dongche": 0.8333333333333334,
+        "#library--commons-crypto--jerrychenhf": 0.65,
+        "#library--commons-crypto--colinmjj": 0.5454545454545454,
+        "#library--commons-crypto--winningsix": 0.46153846153846156,
+        "#library--commons-crypto--JkSelf": 0.4,
+        "#library--commons-crypto--salyh": 0.3333333333333333,
+        "#library--commons-crypto--sundapeng": 0.27956989247311825,
+        "#library--commons-crypto--": 0.2413793103448276
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#library--commons-crypto--kexianda": 1.0,
+        "#library--commons-crypto--dongche": 0.6666666666666666,
+        "#library--commons-crypto--colinmjj": 0.5454545454545454,
+        "#library--commons-crypto--winningsix": 0.34615384615384615,
+        "#library--commons-crypto--salyh": 0.3333333333333333,
+        "#library--commons-crypto--dianfu": 0.3333333333333333,
+        "#library--commons-crypto--sundapeng": 0.3010752688172043,
+        "#library--commons-crypto--": 0.2413793103448276,
+        "#library--commons-crypto--JkSelf": 0.2,
+        "#library--commons-crypto--jerrychenhf": 0.2
+    },
+    "error_prone_developer_num": 10,
+    "error_prone_developer": [
+        "#library--commons-crypto--kexianda",
+        "#library--commons-crypto--dianfu",
+        "#library--commons-crypto--dongche",
+        "#library--commons-crypto--jerrychenhf",
+        "#library--commons-crypto--colinmjj",
+        "#library--commons-crypto--winningsix",
+        "#library--commons-crypto--JkSelf",
+        "#library--commons-crypto--salyh",
+        "#library--commons-crypto--sundapeng",
+        "#library--commons-crypto--"
+    ],
+    "error_prone_developer_team_rate": 0.4166666666666667,
+    "team_developer_num": 24
+}

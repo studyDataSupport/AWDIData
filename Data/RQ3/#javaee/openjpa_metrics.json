@@ -1,0 +1,14 @@
+{
+    "all_file_num": 6337,
+    "error_developer_file_rate": {
+        "#javaee--openjpa--bmarwell": 0.0007890168849613382,
+        "#javaee--openjpa--tandraschko": 0.0011046236389458735,
+        "#javaee--openjpa--mikedd": 0.2860975224869812,
+        "#javaee--openjpa--": 0.8854347483036137
+    },
+    "daily_error_prone_developer": [
+        "#javaee--openjpa--mikedd",
+        "#javaee--openjpa--"
+    ],
+    "number_daily_error_prone_developer": 2
+}

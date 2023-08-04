@@ -1,0 +1,14 @@
+{
+    "all_file_num": 3388,
+    "error_developer_file_rate": {
+        "#big-data--giraph--asubmissions": 0.010035419126328217,
+        "#big-data--giraph--hyunsik": 0.02922077922077922,
+        "#big-data--giraph--ereisman": 0.048996458087367176
+    },
+    "daily_error_prone_developer": [
+        "#big-data--giraph--asubmissions",
+        "#big-data--giraph--hyunsik",
+        "#big-data--giraph--ereisman"
+    ],
+    "number_daily_error_prone_developer": 3
+}

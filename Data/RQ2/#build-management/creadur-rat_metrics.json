@@ -1,0 +1,20 @@
+{
+    "cate": "#build-management",
+    "#build-management-cate_aver_bug_rate": 0.1588785046728972,
+    "#build-management-cate_aver_bug_commit_rate": 0.14383561643835616,
+    "high_bug_rate_error_prone_developer_number": 1,
+    "high_bug_commit_rate_error_prone_developer_number": 2,
+    "high_bug_rate_error_prone_developer": {
+        "#build-management--creadur-rat--michael-o": 0.5
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#build-management--creadur-rat--michael-o": 0.5,
+        "#build-management--creadur-rat--bodewig": 0.14383561643835616
+    },
+    "error_prone_developer_num": 1,
+    "error_prone_developer": [
+        "#build-management--creadur-rat--michael-o"
+    ],
+    "error_prone_developer_team_rate": 0.05263157894736842,
+    "team_developer_num": 19
+}

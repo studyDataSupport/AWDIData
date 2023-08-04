@@ -1,0 +1,10 @@
+{
+    "all_file_num": 8808,
+    "error_developer_file_rate": {
+        "#graphics--xmlgraphics-batik--simonsteiner1984": 0.11273841961852861
+    },
+    "daily_error_prone_developer": [
+        "#graphics--xmlgraphics-batik--simonsteiner1984"
+    ],
+    "number_daily_error_prone_developer": 1
+}

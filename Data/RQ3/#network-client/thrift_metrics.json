@@ -1,0 +1,12 @@
+{
+    "all_file_num": 4849,
+    "error_developer_file_rate": {
+        "#network-client--thrift--vihangk1": 0.00020622808826562179,
+        "#network-client--thrift--punwinger": 0.00020622808826562179,
+        "#network-client--thrift--roshan": 0.0008249123530624871,
+        "#network-client--thrift--thomaslee": 0.0014435966178593523,
+        "#network-client--thrift--dmvolod": 0.002680965147453083
+    },
+    "daily_error_prone_developer": [],
+    "number_daily_error_prone_developer": 0
+}

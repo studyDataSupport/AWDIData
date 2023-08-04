@@ -1,0 +1,22 @@
+{
+    "all_file_num": 23537,
+    "error_developer_file_rate": {
+        "#network-server--felix--chirino": 0.00012745889450652164,
+        "#network-server--felix--ffang": 0.0009771848578833326,
+        "#network-server--felix--bobpaulin": 0.0010621574542210137,
+        "#network-server--felix--srs": 0.005055869482092025,
+        "#network-server--felix--djencks": 0.011343841611080426,
+        "#network-server--felix--gertv": 0.01780175893274419,
+        "#network-server--felix--gnodet": 0.09211029443004631
+    },
+    "daily_error_prone_developer": [
+        "#network-server--felix--chirino",
+        "#network-server--felix--ffang",
+        "#network-server--felix--bobpaulin",
+        "#network-server--felix--srs",
+        "#network-server--felix--djencks",
+        "#network-server--felix--gertv",
+        "#network-server--felix--gnodet"
+    ],
+    "number_daily_error_prone_developer": 7
+}

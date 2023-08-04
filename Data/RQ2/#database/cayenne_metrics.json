@@ -1,0 +1,41 @@
+{
+    "cate": "#database",
+    "#database-cate_aver_bug_rate": 0.25,
+    "#database-cate_aver_bug_commit_rate": 0.2182410423452769,
+    "high_bug_rate_error_prone_developer_number": 8,
+    "high_bug_commit_rate_error_prone_developer_number": 10,
+    "high_bug_rate_error_prone_developer": {
+        "#database--cayenne--ollybondareva": 0.4,
+        "#database--cayenne--AlexandrShestak": 0.3333333333333333,
+        "#database--cayenne--const1993": 0.28888888888888886,
+        "#database--cayenne--nismooooooo": 0.2682926829268293,
+        "#database--cayenne--AlexKolonitsky": 0.2631578947368421,
+        "#database--cayenne--OlegKhodokevich": 0.25,
+        "#database--cayenne--emecas": 0.25,
+        "#database--cayenne--aplgithub": 0.25
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#database--cayenne--emecas": 0.75,
+        "#database--cayenne--AlexandrShestak": 0.4444444444444444,
+        "#database--cayenne--ollybondareva": 0.4,
+        "#database--cayenne--KravchenkoAS": 0.36363636363636365,
+        "#database--cayenne--nismooooooo": 0.2682926829268293,
+        "#database--cayenne--": 0.2597577388963661,
+        "#database--cayenne--OlegKhodokevich": 0.25,
+        "#database--cayenne--aplgithub": 0.25,
+        "#database--cayenne--const1993": 0.24444444444444444,
+        "#database--cayenne--johnthuss": 0.22666666666666666
+    },
+    "error_prone_developer_num": 7,
+    "error_prone_developer": [
+        "#database--cayenne--ollybondareva",
+        "#database--cayenne--AlexandrShestak",
+        "#database--cayenne--const1993",
+        "#database--cayenne--nismooooooo",
+        "#database--cayenne--OlegKhodokevich",
+        "#database--cayenne--emecas",
+        "#database--cayenne--aplgithub"
+    ],
+    "error_prone_developer_team_rate": 0.17073170731707318,
+    "team_developer_num": 41
+}

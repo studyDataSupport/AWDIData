@@ -1,0 +1,276 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#web-framework--isis--andi-huber": "2016-05-22 00:00:00",
+        "#web-framework--isis--danhaywood": "2010-10-11 00:00:00",
+        "#web-framework--isis--dependabot[bot]": "2019-11-06 00:00:00",
+        "#web-framework--isis--": "2004-07-30 00:00:00",
+        "#web-framework--isis--joerg-rade": "2015-03-27 00:00:00",
+        "#web-framework--isis--mwhesse": "2016-10-30 00:00:00",
+        "#web-framework--isis--johandoornenbal": "2016-03-20 00:00:00",
+        "#web-framework--isis--naveensrinivasan": "2022-04-10 00:00:00",
+        "#web-framework--isis--pjfanning": "2022-03-16 00:00:00",
+        "#web-framework--isis--joonatan-r": "2021-02-21 00:00:00",
+        "#web-framework--isis--JuhoKon": "2021-02-16 00:00:00",
+        "#web-framework--isis--PakhomovAlexander": "2021-03-16 00:00:00",
+        "#web-framework--isis--jbampton": "2021-02-28 00:00:00",
+        "#web-framework--isis--anttipessa": "2021-01-26 00:00:00",
+        "#web-framework--isis--ahus1": "2020-01-07 00:00:00",
+        "#web-framework--isis--bkalbfus": "2020-06-18 00:00:00",
+        "#web-framework--isis--jdbranham": "2014-12-24 00:00:00",
+        "#web-framework--isis--php-coder": "2020-02-18 00:00:00",
+        "#web-framework--isis--JLLeitschuh": "2020-02-10 00:00:00",
+        "#web-framework--isis--lamberken": "2019-12-05 00:00:00",
+        "#web-framework--isis--joergrade": "2019-06-27 00:00:00",
+        "#web-framework--isis--kshithijiyer": "2019-07-23 00:00:00",
+        "#web-framework--isis--ppirus": "2017-03-21 00:00:00",
+        "#web-framework--isis--blaugold": "2018-09-08 00:00:00",
+        "#web-framework--isis--bradh": "2018-08-27 00:00:00",
+        "#web-framework--isis--jimmycasey": "2018-07-29 00:00:00",
+        "#web-framework--isis--kev-m": "2018-07-26 00:00:00",
+        "#web-framework--isis--rkalis": "2016-04-14 00:00:00",
+        "#web-framework--isis--gesina": "2017-09-08 00:00:00",
+        "#web-framework--isis--sanderginn": "2015-11-13 00:00:00",
+        "#web-framework--isis--martin-g": "2014-09-08 00:00:00",
+        "#web-framework--isis--jcvanderwal": "2012-12-04 00:00:00",
+        "#web-framework--isis--oscarbou": "2013-08-20 00:00:00",
+        "#web-framework--isis--rhosdev": "2015-08-16 00:00:00",
+        "#web-framework--isis--sebadiaz": "2015-06-17 00:00:00",
+        "#web-framework--isis--mbppower": "2015-04-23 00:00:00",
+        "#web-framework--isis--niv0": "2014-12-27 00:00:00",
+        "#web-framework--isis--michalbcz": "2013-12-03 00:00:00",
+        "#web-framework--isis--rcmatthews": "2012-12-07 00:00:00",
+        "#web-framework--isis--bibryam": "2013-07-14 00:00:00",
+        "#web-framework--isis--DImuthuUpe": "2013-06-09 00:00:00",
+        "#web-framework--isis--bhargavgolla": "2013-06-12 00:00:00",
+        "#web-framework--isis--struberg": "2011-04-23 00:00:00",
+        "#web-framework--isis--danielshahaf": "2012-11-07 00:00:00",
+        "#web-framework--isis--mnour": "2010-11-25 00:00:00"
+    },
+    "commiter_end_time": {
+        "#web-framework--isis--andi-huber": "2022-10-27 00:00:00",
+        "#web-framework--isis--danhaywood": "2022-10-25 00:00:00",
+        "#web-framework--isis--dependabot[bot]": "2022-10-25 00:00:00",
+        "#web-framework--isis--": "2022-10-14 00:00:00",
+        "#web-framework--isis--joerg-rade": "2022-08-11 00:00:00",
+        "#web-framework--isis--mwhesse": "2022-06-14 00:00:00",
+        "#web-framework--isis--johandoornenbal": "2022-04-21 00:00:00",
+        "#web-framework--isis--naveensrinivasan": "2022-04-10 00:00:00",
+        "#web-framework--isis--pjfanning": "2022-03-16 00:00:00",
+        "#web-framework--isis--joonatan-r": "2021-04-09 00:00:00",
+        "#web-framework--isis--JuhoKon": "2021-03-30 00:00:00",
+        "#web-framework--isis--PakhomovAlexander": "2021-03-16 00:00:00",
+        "#web-framework--isis--jbampton": "2021-03-01 00:00:00",
+        "#web-framework--isis--anttipessa": "2021-01-26 00:00:00",
+        "#web-framework--isis--ahus1": "2020-10-01 00:00:00",
+        "#web-framework--isis--bkalbfus": "2020-08-09 00:00:00",
+        "#web-framework--isis--jdbranham": "2020-07-19 00:00:00",
+        "#web-framework--isis--php-coder": "2020-02-18 00:00:00",
+        "#web-framework--isis--JLLeitschuh": "2020-02-10 00:00:00",
+        "#web-framework--isis--lamberken": "2019-12-05 00:00:00",
+        "#web-framework--isis--joergrade": "2019-08-15 00:00:00",
+        "#web-framework--isis--kshithijiyer": "2019-07-23 00:00:00",
+        "#web-framework--isis--ppirus": "2018-09-28 00:00:00",
+        "#web-framework--isis--blaugold": "2018-09-08 00:00:00",
+        "#web-framework--isis--bradh": "2018-08-28 00:00:00",
+        "#web-framework--isis--jimmycasey": "2018-07-29 00:00:00",
+        "#web-framework--isis--kev-m": "2018-07-26 00:00:00",
+        "#web-framework--isis--rkalis": "2018-07-06 00:00:00",
+        "#web-framework--isis--gesina": "2017-09-08 00:00:00",
+        "#web-framework--isis--sanderginn": "2017-03-10 00:00:00",
+        "#web-framework--isis--martin-g": "2016-11-20 00:00:00",
+        "#web-framework--isis--jcvanderwal": "2016-11-08 00:00:00",
+        "#web-framework--isis--oscarbou": "2016-08-18 00:00:00",
+        "#web-framework--isis--rhosdev": "2015-08-16 00:00:00",
+        "#web-framework--isis--sebadiaz": "2015-06-17 00:00:00",
+        "#web-framework--isis--mbppower": "2015-04-23 00:00:00",
+        "#web-framework--isis--niv0": "2014-12-27 00:00:00",
+        "#web-framework--isis--michalbcz": "2013-12-03 00:00:00",
+        "#web-framework--isis--rcmatthews": "2013-08-15 00:00:00",
+        "#web-framework--isis--bibryam": "2013-07-16 00:00:00",
+        "#web-framework--isis--DImuthuUpe": "2013-06-19 00:00:00",
+        "#web-framework--isis--bhargavgolla": "2013-06-12 00:00:00",
+        "#web-framework--isis--struberg": "2013-03-09 00:00:00",
+        "#web-framework--isis--danielshahaf": "2012-11-07 00:00:00",
+        "#web-framework--isis--mnour": "2011-08-10 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#web-framework--isis--naveensrinivasan": 0,
+        "#web-framework--isis--pjfanning": 0,
+        "#web-framework--isis--PakhomovAlexander": 0,
+        "#web-framework--isis--anttipessa": 0,
+        "#web-framework--isis--php-coder": 0,
+        "#web-framework--isis--JLLeitschuh": 0,
+        "#web-framework--isis--lamberken": 0,
+        "#web-framework--isis--kshithijiyer": 0,
+        "#web-framework--isis--blaugold": 0,
+        "#web-framework--isis--jimmycasey": 0,
+        "#web-framework--isis--kev-m": 0,
+        "#web-framework--isis--gesina": 0,
+        "#web-framework--isis--rhosdev": 0,
+        "#web-framework--isis--sebadiaz": 0,
+        "#web-framework--isis--mbppower": 0,
+        "#web-framework--isis--niv0": 0,
+        "#web-framework--isis--michalbcz": 0,
+        "#web-framework--isis--bhargavgolla": 0,
+        "#web-framework--isis--danielshahaf": 0,
+        "#web-framework--isis--jbampton": 1,
+        "#web-framework--isis--bradh": 1,
+        "#web-framework--isis--bibryam": 2,
+        "#web-framework--isis--DImuthuUpe": 10,
+        "#web-framework--isis--JuhoKon": 42,
+        "#web-framework--isis--joonatan-r": 47,
+        "#web-framework--isis--joergrade": 49,
+        "#web-framework--isis--bkalbfus": 52,
+        "#web-framework--isis--rcmatthews": 251,
+        "#web-framework--isis--mnour": 258,
+        "#web-framework--isis--ahus1": 268,
+        "#web-framework--isis--sanderginn": 483,
+        "#web-framework--isis--ppirus": 556,
+        "#web-framework--isis--struberg": 686,
+        "#web-framework--isis--martin-g": 804,
+        "#web-framework--isis--rkalis": 813,
+        "#web-framework--isis--dependabot[bot]": 1084,
+        "#web-framework--isis--oscarbou": 1094,
+        "#web-framework--isis--jcvanderwal": 1435,
+        "#web-framework--isis--jdbranham": 2034,
+        "#web-framework--isis--mwhesse": 2053,
+        "#web-framework--isis--johandoornenbal": 2223,
+        "#web-framework--isis--andi-huber": 2349,
+        "#web-framework--isis--joerg-rade": 2694,
+        "#web-framework--isis--danhaywood": 4397,
+        "#web-framework--isis--": 6650
+    },
+    "commiter_contribute_time1": {
+        "#web-framework--isis--jcvanderwal": {
+            "start": "2012-12-04 00:00:00",
+            "end": "2015-07-27 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#web-framework--isis--martin-g": {
+            "start": "2014-09-08 00:00:00",
+            "end": "2015-01-27 00:00:00",
+            "bug_num_per_commit": 0.21568627450980393,
+            "bug_commit_num_rate": 1.0
+        },
+        "#web-framework--isis--andi-huber": {
+            "start": "2016-05-22 00:00:00",
+            "end": "2021-11-25 00:00:00",
+            "bug_num_per_commit": 0.0914560770156438,
+            "bug_commit_num_rate": 1.0
+        }
+    },
+    "commiter_contribute_time2": {
+        "#web-framework--isis--jcvanderwal": {
+            "start": "2015-07-31 00:00:00",
+            "end": "2014-04-03 00:00:00",
+            "bug_num_per_commit": 0.08333333333333333,
+            "bug_commit_num_rate": 0.3333333333333333
+        },
+        "#web-framework--isis--martin-g": {
+            "start": "2015-01-27 00:00:00",
+            "end": "2014-11-02 00:00:00",
+            "bug_num_per_commit": 0.21568627450980393,
+            "bug_commit_num_rate": 0.00980392156862745
+        },
+        "#web-framework--isis--andi-huber": {
+            "start": "2021-11-24 00:00:00",
+            "end": "2020-12-22 00:00:00",
+            "bug_num_per_commit": 0.1263537906137184,
+            "bug_commit_num_rate": 0.22623345367027678
+        }
+    },
+    "commiter_contribute_time3": {
+        "#web-framework--isis--jcvanderwal": {
+            "start": "2014-04-02 00:00:00",
+            "end": "2013-03-21 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.0
+        },
+        "#web-framework--isis--martin-g": {
+            "start": "2014-11-02 00:00:00",
+            "end": "2014-10-15 00:00:00",
+            "bug_num_per_commit": 0.12745098039215685,
+            "bug_commit_num_rate": 0.0
+        },
+        "#web-framework--isis--andi-huber": {
+            "start": "2020-12-22 00:00:00",
+            "end": "2020-01-15 00:00:00",
+            "bug_num_per_commit": 0.11371841155234658,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#web-framework--isis--jcvanderwal": {
+            "start": "2013-02-01 00:00:00",
+            "end": "2012-12-04 00:00:00",
+            "bug_num_per_commit": 0.4166666666666667,
+            "bug_commit_num_rate": 0.0
+        },
+        "#web-framework--isis--martin-g": {
+            "start": "2014-10-15 00:00:00",
+            "end": "2014-09-08 00:00:00",
+            "bug_num_per_commit": 0.09900990099009901,
+            "bug_commit_num_rate": 0.0
+        },
+        "#web-framework--isis--andi-huber": {
+            "start": "2020-01-15 00:00:00",
+            "end": "2016-05-22 00:00:00",
+            "bug_num_per_commit": 0.1299638989169675,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#web-framework--isis--jcvanderwal": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 0.08333333333333333,
+                "time3": 0.25,
+                "time4": 0.4166666666666667
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.3333333333333333,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#web-framework--isis--martin-g": {
+            "bug_num_per_commit": {
+                "time1": 0.21568627450980393,
+                "time2": 0.21568627450980393,
+                "time3": 0.12745098039215685,
+                "time4": 0.09900990099009901
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.00980392156862745,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#web-framework--isis--andi-huber": {
+            "bug_num_per_commit": {
+                "time1": 0.0914560770156438,
+                "time2": 0.1263537906137184,
+                "time3": 0.11371841155234658,
+                "time4": 0.1299638989169675
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.22623345367027678,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#web-framework--isis--jcvanderwal",
+        "#web-framework--isis--martin-g",
+        "#web-framework--isis--andi-huber"
+    ],
+    "number_daily_long_time_error_prone_developer": 3,
+    "improved_daily_long_time_error_prone_developer": [],
+    "number_improved_daily_long_time_error_prone_developer": 0
+}

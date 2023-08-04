@@ -1,0 +1,122 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#javaee--openjpa--dependabot[bot]": "2022-09-23 00:00:00",
+        "#javaee--openjpa--s4iko": "2022-09-23 00:00:00",
+        "#javaee--openjpa--solomax": "2018-10-18 00:00:00",
+        "#javaee--openjpa--ilgrosso": "2016-05-13 00:00:00",
+        "#javaee--openjpa--jeanouii": "2021-05-26 00:00:00",
+        "#javaee--openjpa--rmannibucau": "2015-06-06 00:00:00",
+        "#javaee--openjpa--bmarwell": "2021-11-30 00:00:00",
+        "#javaee--openjpa--jbonofre": "2021-11-22 00:00:00",
+        "#javaee--openjpa--tandraschko": "2021-07-12 00:00:00",
+        "#javaee--openjpa--dazey3": "2019-05-14 00:00:00",
+        "#javaee--openjpa--struberg": "2011-05-15 00:00:00",
+        "#javaee--openjpa--": "2006-05-02 00:00:00",
+        "#javaee--openjpa--eolivelli": "2020-07-17 00:00:00",
+        "#javaee--openjpa--simesi": "2020-09-22 00:00:00",
+        "#javaee--openjpa--PoojaChandak": "2020-09-16 00:00:00",
+        "#javaee--openjpa--nemux": "2020-04-21 00:00:00",
+        "#javaee--openjpa--cschneider": "2017-03-11 00:00:00",
+        "#javaee--openjpa--mikedd": "2007-04-02 00:00:00",
+        "#javaee--openjpa--papajdo": "2006-12-04 00:00:00"
+    },
+    "commiter_end_time": {
+        "#javaee--openjpa--dependabot[bot]": "2022-11-24 00:00:00",
+        "#javaee--openjpa--s4iko": "2022-09-23 00:00:00",
+        "#javaee--openjpa--solomax": "2022-09-23 00:00:00",
+        "#javaee--openjpa--ilgrosso": "2022-03-16 00:00:00",
+        "#javaee--openjpa--jeanouii": "2022-02-21 00:00:00",
+        "#javaee--openjpa--rmannibucau": "2022-02-03 00:00:00",
+        "#javaee--openjpa--bmarwell": "2021-11-30 00:00:00",
+        "#javaee--openjpa--jbonofre": "2021-11-22 00:00:00",
+        "#javaee--openjpa--tandraschko": "2021-10-27 00:00:00",
+        "#javaee--openjpa--dazey3": "2021-10-18 00:00:00",
+        "#javaee--openjpa--struberg": "2021-09-20 00:00:00",
+        "#javaee--openjpa--": "2021-04-10 00:00:00",
+        "#javaee--openjpa--eolivelli": "2020-10-28 00:00:00",
+        "#javaee--openjpa--simesi": "2020-09-22 00:00:00",
+        "#javaee--openjpa--PoojaChandak": "2020-09-16 00:00:00",
+        "#javaee--openjpa--nemux": "2020-04-21 00:00:00",
+        "#javaee--openjpa--cschneider": "2017-03-11 00:00:00",
+        "#javaee--openjpa--mikedd": "2013-08-23 00:00:00",
+        "#javaee--openjpa--papajdo": "2010-03-09 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#javaee--openjpa--s4iko": 0,
+        "#javaee--openjpa--bmarwell": 0,
+        "#javaee--openjpa--jbonofre": 0,
+        "#javaee--openjpa--simesi": 0,
+        "#javaee--openjpa--PoojaChandak": 0,
+        "#javaee--openjpa--nemux": 0,
+        "#javaee--openjpa--cschneider": 0,
+        "#javaee--openjpa--dependabot[bot]": 62,
+        "#javaee--openjpa--eolivelli": 103,
+        "#javaee--openjpa--tandraschko": 107,
+        "#javaee--openjpa--jeanouii": 271,
+        "#javaee--openjpa--dazey3": 888,
+        "#javaee--openjpa--papajdo": 1191,
+        "#javaee--openjpa--solomax": 1436,
+        "#javaee--openjpa--ilgrosso": 2133,
+        "#javaee--openjpa--mikedd": 2335,
+        "#javaee--openjpa--rmannibucau": 2434,
+        "#javaee--openjpa--struberg": 3781,
+        "#javaee--openjpa--": 5457
+    },
+    "commiter_contribute_time1": {
+        "#javaee--openjpa--mikedd": {
+            "start": "2007-04-02 00:00:00",
+            "end": "2010-10-05 00:00:00",
+            "bug_num_per_commit": 0.11904761904761904,
+            "bug_commit_num_rate": 0.7619047619047619
+        }
+    },
+    "commiter_contribute_time2": {
+        "#javaee--openjpa--mikedd": {
+            "start": "2010-10-05 00:00:00",
+            "end": "2009-08-03 00:00:00",
+            "bug_num_per_commit": 0.1349206349206349,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time3": {
+        "#javaee--openjpa--mikedd": {
+            "start": "2009-08-03 00:00:00",
+            "end": "2008-10-24 00:00:00",
+            "bug_num_per_commit": 0.1746031746031746,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#javaee--openjpa--mikedd": {
+            "start": "2008-10-24 00:00:00",
+            "end": "2007-04-02 00:00:00",
+            "bug_num_per_commit": 0.19047619047619047,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#javaee--openjpa--mikedd": {
+            "bug_num_per_commit": {
+                "time1": 0.11904761904761904,
+                "time2": 0.1349206349206349,
+                "time3": 0.1746031746031746,
+                "time4": 0.19047619047619047
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.7619047619047619,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#javaee--openjpa--mikedd"
+    ],
+    "number_daily_long_time_error_prone_developer": 1,
+    "improved_daily_long_time_error_prone_developer": [
+        "#javaee--openjpa--mikedd"
+    ],
+    "number_improved_daily_long_time_error_prone_developer": 1
+}

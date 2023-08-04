@@ -1,0 +1,61 @@
+{
+    "developer": {
+        "#library--cayenne--ollybondareva": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "cayenne"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "ollybondareva",
+                "createdAt": "2015-11-09T11:33:04Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 0,
+                    "nodes": []
+                }
+            }
+        },
+        "#library--cayenne--const1993": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "cayenne"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "const1993",
+                "createdAt": "2015-01-07T09:32:35Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 0,
+                    "nodes": []
+                }
+            }
+        },
+        "#library--cayenne--AlexKolonitsky": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "cayenne"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "AlexKolonitsky",
+                "createdAt": "2011-07-29T19:13:47Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 0,
+                    "nodes": []
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 0,
+    "deveper_mul_apache_item_error": {
+        "#library--cayenne--ollybondareva": [
+            "cayenne"
+        ],
+        "#library--cayenne--const1993": [
+            "cayenne"
+        ],
+        "#library--cayenne--AlexKolonitsky": [
+            "cayenne"
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "cate": "#web-framework",
+    "#web-framework-cate_aver_bug_rate": 0.17026369880182485,
+    "#web-framework-cate_aver_bug_commit_rate": 0.15903494620395192,
+    "high_bug_rate_error_prone_developer_number": 6,
+    "high_bug_commit_rate_error_prone_developer_number": 3,
+    "high_bug_rate_error_prone_developer": {
+        "#web-framework--myfaces--cnsgithub": 0.3333333333333333,
+        "#web-framework--myfaces--matzew": 0.2606060606060606,
+        "#web-framework--myfaces--struberg": 0.21428571428571427,
+        "#web-framework--myfaces--bohmber": 0.2087912087912088,
+        "#web-framework--myfaces--dennisbyrne": 0.20437956204379562,
+        "#web-framework--myfaces--": 0.1798284531203786
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#web-framework--myfaces--cnsgithub": 0.3333333333333333,
+        "#web-framework--myfaces--": 0.19461697722567287,
+        "#web-framework--myfaces--struberg": 0.17142857142857143
+    },
+    "error_prone_developer_num": 3,
+    "error_prone_developer": [
+        "#web-framework--myfaces--cnsgithub",
+        "#web-framework--myfaces--struberg",
+        "#web-framework--myfaces--"
+    ],
+    "error_prone_developer_team_rate": 0.07894736842105263,
+    "team_developer_num": 38
+}

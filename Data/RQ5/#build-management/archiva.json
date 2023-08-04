@@ -1,0 +1,919 @@
+{
+    "developer": {
+        "#build-management--archiva--ndeloof": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "archiva"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "ndeloof",
+                "createdAt": "2009-09-29T14:35:17Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 32,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "moby/moby",
+                            "isFork": false,
+                            "url": "https://github.com/moby/moby",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Assembly"
+                                    },
+                                    {
+                                        "name": "PowerShell"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "HCL"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 66365,
+                            "watchers": {
+                                "totalCount": 2946
+                            },
+                            "forkCount": 18804
+                        },
+                        {
+                            "nameWithOwner": "docker/compose",
+                            "isFork": false,
+                            "url": "https://github.com/docker/compose",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "HCL"
+                                    },
+                                    {
+                                        "name": "Gherkin"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 30113,
+                            "watchers": {
+                                "totalCount": 711
+                            },
+                            "forkCount": 4955
+                        },
+                        {
+                            "nameWithOwner": "go-yaml/yaml",
+                            "isFork": false,
+                            "url": "https://github.com/go-yaml/yaml",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 6382,
+                            "watchers": {
+                                "totalCount": 100
+                            },
+                            "forkCount": 1019
+                        },
+                        {
+                            "nameWithOwner": "mattn/go-shellwords",
+                            "isFork": false,
+                            "url": "https://github.com/mattn/go-shellwords",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 486,
+                            "watchers": {
+                                "totalCount": 10
+                            },
+                            "forkCount": 75
+                        },
+                        {
+                            "nameWithOwner": "distribution/distribution",
+                            "isFork": false,
+                            "url": "https://github.com/distribution/distribution",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "HCL"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 7744,
+                            "watchers": {
+                                "totalCount": 262
+                            },
+                            "forkCount": 2318
+                        },
+                        {
+                            "nameWithOwner": "containerd/containerd",
+                            "isFork": false,
+                            "url": "https://github.com/containerd/containerd",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "PowerShell"
+                                    },
+                                    {
+                                        "name": "jq"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 14497,
+                            "watchers": {
+                                "totalCount": 320
+                            },
+                            "forkCount": 3026
+                        },
+                        {
+                            "nameWithOwner": "hashicorp/go-plugin",
+                            "isFork": false,
+                            "url": "https://github.com/hashicorp/go-plugin",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 4534,
+                            "watchers": {
+                                "totalCount": 333
+                            },
+                            "forkCount": 385
+                        },
+                        {
+                            "nameWithOwner": "docker/docs",
+                            "isFork": false,
+                            "url": "https://github.com/docker/docs",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Ruby"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "SCSS"
+                                    },
+                                    {
+                                        "name": "HCL"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "XSLT"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 3875,
+                            "watchers": {
+                                "totalCount": 203
+                            },
+                            "forkCount": 6547
+                        },
+                        {
+                            "nameWithOwner": "docker/cli",
+                            "isFork": false,
+                            "url": "https://github.com/docker/cli",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "HCL"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 4146,
+                            "watchers": {
+                                "totalCount": 120
+                            },
+                            "forkCount": 1807
+                        },
+                        {
+                            "nameWithOwner": "moby/mobywebsite",
+                            "isFork": false,
+                            "url": "https://github.com/moby/mobywebsite",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Ruby"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "HCL"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "SCSS"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Less"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 32,
+                            "watchers": {
+                                "totalCount": 15
+                            },
+                            "forkCount": 50
+                        },
+                        {
+                            "nameWithOwner": "docker/docker-ce-packaging",
+                            "isFork": false,
+                            "url": "https://github.com/docker/docker-ce-packaging",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 164,
+                            "watchers": {
+                                "totalCount": 32
+                            },
+                            "forkCount": 152
+                        },
+                        {
+                            "nameWithOwner": "opencontainers/distribution-spec",
+                            "isFork": false,
+                            "url": "https://github.com/opencontainers/distribution-spec",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 618,
+                            "watchers": {
+                                "totalCount": 57
+                            },
+                            "forkCount": 188
+                        },
+                        {
+                            "nameWithOwner": "ndeloof/rennes.tech",
+                            "isFork": false,
+                            "url": "https://github.com/ndeloof/rennes.tech",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 4,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 5
+                        },
+                        {
+                            "nameWithOwner": "docker/buildx",
+                            "isFork": false,
+                            "url": "https://github.com/docker/buildx",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "HCL"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2769,
+                            "watchers": {
+                                "totalCount": 54
+                            },
+                            "forkCount": 400
+                        },
+                        {
+                            "nameWithOwner": "compose-spec/compose-spec",
+                            "isFork": false,
+                            "url": "https://github.com/compose-spec/compose-spec",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Ruby"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "SCSS"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 1776,
+                            "watchers": {
+                                "totalCount": 57
+                            },
+                            "forkCount": 739
+                        },
+                        {
+                            "nameWithOwner": "compose-spec/compose-go",
+                            "isFork": false,
+                            "url": "https://github.com/compose-spec/compose-go",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 285,
+                            "watchers": {
+                                "totalCount": 13
+                            },
+                            "forkCount": 90
+                        },
+                        {
+                            "nameWithOwner": "docker/compose-cli",
+                            "isFork": false,
+                            "url": "https://github.com/docker/compose-cli",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 943,
+                            "watchers": {
+                                "totalCount": 30
+                            },
+                            "forkCount": 269
+                        },
+                        {
+                            "nameWithOwner": "containerd/nerdctl",
+                            "isFork": false,
+                            "url": "https://github.com/containerd/nerdctl",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Roff"
+                                    },
+                                    {
+                                        "name": "PowerShell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 6383,
+                            "watchers": {
+                                "totalCount": 44
+                            },
+                            "forkCount": 498
+                        },
+                        {
+                            "nameWithOwner": "ndeloof/test",
+                            "isFork": false,
+                            "url": "https://github.com/ndeloof/test",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "ddeloof/ddeloof.github.io",
+                            "isFork": false,
+                            "url": "https://github.com/ddeloof/ddeloof.github.io",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "ndeloof/install-compose-action",
+                            "isFork": false,
+                            "url": "https://github.com/ndeloof/install-compose-action",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 11,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 6
+                        },
+                        {
+                            "nameWithOwner": "rumpl/moby",
+                            "isFork": true,
+                            "url": "https://github.com/rumpl/moby",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Assembly"
+                                    },
+                                    {
+                                        "name": "PowerShell"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "HCL"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 1,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "ndeloof/buildx",
+                            "isFork": true,
+                            "url": "https://github.com/ndeloof/buildx",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "HCL"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "ndeloof/containerd",
+                            "isFork": true,
+                            "url": "https://github.com/ndeloof/containerd",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Assembly"
+                                    },
+                                    {
+                                        "name": "PowerShell"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "jq"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "ndeloof/distribution",
+                            "isFork": true,
+                            "url": "https://github.com/ndeloof/distribution",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "HCL"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "ndeloof/distribution-spec",
+                            "isFork": true,
+                            "url": "https://github.com/ndeloof/distribution-spec",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "ndeloof/yaml",
+                            "isFork": true,
+                            "url": "https://github.com/ndeloof/yaml",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 1
+                        },
+                        {
+                            "nameWithOwner": "ndeloof/go-shellwords",
+                            "isFork": true,
+                            "url": "https://github.com/ndeloof/go-shellwords",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "ndeloof/swarmctl",
+                            "isFork": false,
+                            "url": "https://github.com/ndeloof/swarmctl",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "HCL"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 8,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 1
+                        },
+                        {
+                            "nameWithOwner": "ndeloof/avatars",
+                            "isFork": true,
+                            "url": "https://github.com/ndeloof/avatars",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "docker/compose-ecs",
+                            "isFork": false,
+                            "url": "https://github.com/docker/compose-ecs",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 52,
+                            "watchers": {
+                                "totalCount": 5
+                            },
+                            "forkCount": 4
+                        },
+                        {
+                            "nameWithOwner": "ndeloof/compose-hello-plugin",
+                            "isFork": false,
+                            "url": "https://github.com/ndeloof/compose-hello-plugin",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "#build-management--archiva--oching": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "archiva"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "oching",
+                "createdAt": "2010-06-21T08:39:10Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 0,
+                    "nodes": []
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 0,
+    "deveper_mul_apache_item_error": {
+        "#build-management--archiva--ndeloof": [
+            "archiva"
+        ],
+        "#build-management--archiva--oching": [
+            "archiva"
+        ]
+    }
+}

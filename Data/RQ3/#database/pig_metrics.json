@@ -1,0 +1,19 @@
+{
+    "all_file_num": 4012,
+    "error_developer_file_rate": {
+        "#database--pig--breed": 0.001744765702891326,
+        "#database--pig--rangadi": 0.010219341974077766,
+        "#database--pig--ashutoshc": 0.01744765702891326,
+        "#database--pig--julienledem": 0.05209371884346959,
+        "#database--pig--r0hini": 0.1812063808574277,
+        "#database--pig--": 0.9459122632103689
+    },
+    "daily_error_prone_developer": [
+        "#database--pig--rangadi",
+        "#database--pig--ashutoshc",
+        "#database--pig--julienledem",
+        "#database--pig--r0hini",
+        "#database--pig--"
+    ],
+    "number_daily_error_prone_developer": 5
+}

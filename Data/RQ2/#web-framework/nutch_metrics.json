@@ -1,0 +1,43 @@
+{
+    "cate": "#web-framework",
+    "#web-framework-cate_aver_bug_rate": 0.17026369880182485,
+    "#web-framework-cate_aver_bug_commit_rate": 0.15903494620395192,
+    "high_bug_rate_error_prone_developer_number": 10,
+    "high_bug_commit_rate_error_prone_developer_number": 10,
+    "high_bug_rate_error_prone_developer": {
+        "#web-framework--nutch--HansBrende": 0.5,
+        "#web-framework--nutch--naegelejd": 0.5,
+        "#web-framework--nutch--stevegy": 0.5,
+        "#web-framework--nutch--tejasapatil": 0.38095238095238093,
+        "#web-framework--nutch--sigram": 0.3443708609271523,
+        "#web-framework--nutch--balashashanka": 0.3157894736842105,
+        "#web-framework--nutch--erikhatcher": 0.3076923076923077,
+        "#web-framework--nutch--jnioche": 0.24060150375939848,
+        "#web-framework--nutch--": 0.21239954075774972,
+        "#web-framework--nutch--chrismattmann": 0.19248826291079812
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#web-framework--nutch--HansBrende": 0.5,
+        "#web-framework--nutch--naegelejd": 0.5,
+        "#web-framework--nutch--stevegy": 0.5,
+        "#web-framework--nutch--MJJoyce": 0.3333333333333333,
+        "#web-framework--nutch--karanjeets": 0.2857142857142857,
+        "#web-framework--nutch--sigram": 0.271523178807947,
+        "#web-framework--nutch--balashashanka": 0.2631578947368421,
+        "#web-framework--nutch--erikhatcher": 0.23076923076923078,
+        "#web-framework--nutch--": 0.1859931113662457,
+        "#web-framework--nutch--r0ann3l": 0.16666666666666666
+    },
+    "error_prone_developer_num": 7,
+    "error_prone_developer": [
+        "#web-framework--nutch--HansBrende",
+        "#web-framework--nutch--naegelejd",
+        "#web-framework--nutch--stevegy",
+        "#web-framework--nutch--sigram",
+        "#web-framework--nutch--balashashanka",
+        "#web-framework--nutch--erikhatcher",
+        "#web-framework--nutch--"
+    ],
+    "error_prone_developer_team_rate": 0.14893617021276595,
+    "team_developer_num": 47
+}

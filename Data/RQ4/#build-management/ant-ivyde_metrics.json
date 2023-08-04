@@ -1,0 +1,42 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#build-management--ant-ivyde--jmkf": "2019-05-26 00:00:00",
+        "#build-management--ant-ivyde--bodewig": "2010-11-16 00:00:00",
+        "#build-management--ant-ivyde--": "2007-01-24 00:00:00",
+        "#build-management--ant-ivyde--hibnico": "2014-06-30 00:00:00",
+        "#build-management--ant-ivyde--jaikiran": "2017-05-23 00:00:00",
+        "#build-management--ant-ivyde--twogee": "2017-10-28 00:00:00",
+        "#build-management--ant-ivyde--alex-bl": "2017-07-08 00:00:00",
+        "#build-management--ant-ivyde--cpfeiffer": "2014-08-18 00:00:00"
+    },
+    "commiter_end_time": {
+        "#build-management--ant-ivyde--jmkf": "2019-05-26 00:00:00",
+        "#build-management--ant-ivyde--bodewig": "2018-12-17 00:00:00",
+        "#build-management--ant-ivyde--": "2018-08-10 00:00:00",
+        "#build-management--ant-ivyde--hibnico": "2018-07-16 00:00:00",
+        "#build-management--ant-ivyde--jaikiran": "2018-06-25 00:00:00",
+        "#build-management--ant-ivyde--twogee": "2017-10-28 00:00:00",
+        "#build-management--ant-ivyde--alex-bl": "2017-07-08 00:00:00",
+        "#build-management--ant-ivyde--cpfeiffer": "2014-08-18 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#build-management--ant-ivyde--jmkf": 0,
+        "#build-management--ant-ivyde--twogee": 0,
+        "#build-management--ant-ivyde--alex-bl": 0,
+        "#build-management--ant-ivyde--cpfeiffer": 0,
+        "#build-management--ant-ivyde--jaikiran": 398,
+        "#build-management--ant-ivyde--hibnico": 1477,
+        "#build-management--ant-ivyde--bodewig": 2953,
+        "#build-management--ant-ivyde--": 4216
+    },
+    "commiter_contribute_time1": {},
+    "commiter_contribute_time2": {},
+    "commiter_contribute_time3": {},
+    "commiter_contribute_time4": {},
+    "commiter_time_trend": {},
+    "daily_long_time_error_prone_developer": [],
+    "number_daily_long_time_error_prone_developer": 0,
+    "improved_daily_long_time_error_prone_developer": [],
+    "number_improved_daily_long_time_error_prone_developer": 0
+}

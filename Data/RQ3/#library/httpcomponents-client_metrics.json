@@ -1,0 +1,17 @@
+{
+    "all_file_num": 3788,
+    "error_developer_file_rate": {
+        "#library--httpcomponents-client--xiaohu-zhang": 0.00026399155227032733,
+        "#library--httpcomponents-client--smashtakov": 0.00026399155227032733,
+        "#library--httpcomponents-client--jeromedemangel": 0.0007919746568109821,
+        "#library--httpcomponents-client--serkanturgut": 0.0010559662090813093,
+        "#library--httpcomponents-client--sermojohn": 0.002375923970432946,
+        "#library--httpcomponents-client--fxbonnet": 0.013727560718057022,
+        "#library--httpcomponents-client--rschmitt": 0.028511087645195353
+    },
+    "daily_error_prone_developer": [
+        "#library--httpcomponents-client--fxbonnet",
+        "#library--httpcomponents-client--rschmitt"
+    ],
+    "number_daily_error_prone_developer": 2
+}

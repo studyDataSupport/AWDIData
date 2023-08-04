@@ -1,0 +1,147 @@
+{
+    "developer": {
+        "#xml--cayenne--ollybondareva": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "cayenne"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "ollybondareva",
+                "createdAt": "2015-11-09T11:33:04Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 0,
+                    "nodes": []
+                }
+            }
+        },
+        "#xml--cayenne--const1993": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "cayenne"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "const1993",
+                "createdAt": "2015-01-07T09:32:35Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 0,
+                    "nodes": []
+                }
+            }
+        },
+        "#xml--cayenne--AlexKolonitsky": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "cayenne"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "AlexKolonitsky",
+                "createdAt": "2011-07-29T19:13:47Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 0,
+                    "nodes": []
+                }
+            }
+        },
+        "#xml--cayenne--johnthuss": {
+            "attribute_apache_item_count": 2,
+            "attribute_apache_item_list": [
+                "cayenne",
+                "cayenne"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "johnthuss",
+                "createdAt": "2010-08-21T20:26:42Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 3,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "apache/cayenne",
+                            "isFork": false,
+                            "url": "https://github.com/apache/cayenne",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "PLpgSQL"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 294,
+                            "watchers": {
+                                "totalCount": 28
+                            },
+                            "forkCount": 128
+                        },
+                        {
+                            "nameWithOwner": "globalpayments/java-sdk",
+                            "isFork": false,
+                            "url": "https://github.com/globalpayments/java-sdk",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 19,
+                            "watchers": {
+                                "totalCount": 8
+                            },
+                            "forkCount": 38
+                        },
+                        {
+                            "nameWithOwner": "eclipse-jdt/eclipse.jdt.ui",
+                            "isFork": false,
+                            "url": "https://github.com/eclipse-jdt/eclipse.jdt.ui",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 27,
+                            "watchers": {
+                                "totalCount": 12
+                            },
+                            "forkCount": 71
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 0,
+    "deveper_mul_apache_item_error": {
+        "#xml--cayenne--ollybondareva": [
+            "cayenne"
+        ],
+        "#xml--cayenne--const1993": [
+            "cayenne"
+        ],
+        "#xml--cayenne--AlexKolonitsky": [
+            "cayenne"
+        ],
+        "#xml--cayenne--johnthuss": [
+            "cayenne"
+        ]
+    }
+}

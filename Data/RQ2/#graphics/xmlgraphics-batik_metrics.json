@@ -1,0 +1,19 @@
+{
+    "cate": "#graphics",
+    "#graphics-cate_aver_bug_rate": 0.0387591544667822,
+    "#graphics-cate_aver_bug_commit_rate": 0.037348500491180645,
+    "high_bug_rate_error_prone_developer_number": 1,
+    "high_bug_commit_rate_error_prone_developer_number": 1,
+    "high_bug_rate_error_prone_developer": {
+        "#graphics--xmlgraphics-batik--simonsteiner1984": 0.08633093525179857
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#graphics--xmlgraphics-batik--simonsteiner1984": 0.07194244604316546
+    },
+    "error_prone_developer_num": 1,
+    "error_prone_developer": [
+        "#graphics--xmlgraphics-batik--simonsteiner1984"
+    ],
+    "error_prone_developer_team_rate": 0.16666666666666666,
+    "team_developer_num": 6
+}

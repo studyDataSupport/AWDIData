@@ -1,0 +1,19 @@
+{
+    "cate": "#build-management",
+    "#build-management-cate_aver_bug_rate": 0.1588785046728972,
+    "#build-management-cate_aver_bug_commit_rate": 0.14383561643835616,
+    "high_bug_rate_error_prone_developer_number": 1,
+    "high_bug_commit_rate_error_prone_developer_number": 1,
+    "high_bug_rate_error_prone_developer": {
+        "#build-management--yetus--madrob": 1.0
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#build-management--yetus--madrob": 1.0
+    },
+    "error_prone_developer_num": 1,
+    "error_prone_developer": [
+        "#build-management--yetus--madrob"
+    ],
+    "error_prone_developer_team_rate": 0.013513513513513514,
+    "team_developer_num": 74
+}

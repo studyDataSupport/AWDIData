@@ -1,0 +1,307 @@
+{
+    "developer": {
+        "#library--pdfbox--jmaerki": {
+            "attribute_apache_item_count": 2,
+            "attribute_apache_item_list": [
+                "pdfbox",
+                "xmlgraphics-fop"
+            ],
+            "is_error_developer_apache_item_count": 2,
+            "item_info": {
+                "login": "jmaerki",
+                "createdAt": "2012-10-03T08:51:44Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 2,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "kairos-io/kairos",
+                            "isFork": false,
+                            "url": "https://github.com/kairos-io/kairos",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Earthly"
+                                    },
+                                    {
+                                        "name": "PowerShell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 618,
+                            "watchers": {
+                                "totalCount": 12
+                            },
+                            "forkCount": 68
+                        },
+                        {
+                            "nameWithOwner": "jmaerki/wod-continuous-feed-printer-pack",
+                            "isFork": false,
+                            "url": "https://github.com/jmaerki/wod-continuous-feed-printer-pack",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "#library--pdfbox--jahewson": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "pdfbox"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "jahewson",
+                "createdAt": "2010-11-04T18:01:32Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 2,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "niklasvh/utrie",
+                            "isFork": false,
+                            "url": "https://github.com/niklasvh/utrie",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "TypeScript"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "jahewson/stdlib",
+                            "isFork": true,
+                            "url": "https://github.com/jahewson/stdlib",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Fortran"
+                                    },
+                                    {
+                                        "name": "R"
+                                    },
+                                    {
+                                        "name": "Julia"
+                                    },
+                                    {
+                                        "name": "Awk"
+                                    },
+                                    {
+                                        "name": "TypeScript"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Handlebars"
+                                    },
+                                    {
+                                        "name": "WebAssembly"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "#library--pdfbox--jukka": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "pdfbox"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "jukka",
+                "createdAt": "2008-08-29T08:22:10Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 0,
+                    "nodes": []
+                }
+            }
+        },
+        "#library--pdfbox--lehmi": {
+            "attribute_apache_item_count": 2,
+            "attribute_apache_item_list": [
+                "pdfbox",
+                "pdfbox"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "lehmi",
+                "createdAt": "2013-04-26T07:00:02Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 4,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "apache/pdfbox",
+                            "isFork": false,
+                            "url": "https://github.com/apache/pdfbox",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2078,
+                            "watchers": {
+                                "totalCount": 90
+                            },
+                            "forkCount": 752
+                        },
+                        {
+                            "nameWithOwner": "JacORB/JacORB",
+                            "isFork": false,
+                            "url": "https://github.com/JacORB/JacORB",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "GAP"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "IDL"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 70,
+                            "watchers": {
+                                "totalCount": 20
+                            },
+                            "forkCount": 82
+                        },
+                        {
+                            "nameWithOwner": "apache/pdfbox-docs",
+                            "isFork": false,
+                            "url": "https://github.com/apache/pdfbox-docs",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "SCSS"
+                                    },
+                                    {
+                                        "name": "Sass"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 20,
+                            "watchers": {
+                                "totalCount": 13
+                            },
+                            "forkCount": 41
+                        },
+                        {
+                            "nameWithOwner": "apache/pdfbox-jbig2",
+                            "isFork": false,
+                            "url": "https://github.com/apache/pdfbox-jbig2",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 22,
+                            "watchers": {
+                                "totalCount": 9
+                            },
+                            "forkCount": 17
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 1,
+    "deveper_mul_apache_item_error": {
+        "#library--pdfbox--jmaerki": [
+            "pdfbox",
+            "xmlgraphics-fop"
+        ],
+        "#library--pdfbox--jahewson": [
+            "pdfbox"
+        ],
+        "#library--pdfbox--jukka": [
+            "pdfbox"
+        ],
+        "#library--pdfbox--lehmi": [
+            "pdfbox"
+        ]
+    }
+}

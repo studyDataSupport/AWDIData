@@ -1,0 +1,48 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#cloud--incubator-milagro--ruphy": "2022-05-09 00:00:00",
+        "#cloud--incubator-milagro--JohnMcW": "2019-08-01 00:00:00",
+        "#cloud--incubator-milagro--spector-in-london": "2019-05-26 00:00:00",
+        "#cloud--incubator-milagro--howardkitto": "2019-06-25 00:00:00",
+        "#cloud--incubator-milagro--": "2016-02-05 00:00:00",
+        "#cloud--incubator-milagro--zanebeckwith": "2019-07-31 00:00:00",
+        "#cloud--incubator-milagro--Swader": "2019-07-24 00:00:00",
+        "#cloud--incubator-milagro--kealan": "2016-02-24 00:00:00",
+        "#cloud--incubator-milagro--VMitov": "2016-02-16 00:00:00",
+        "#cloud--incubator-milagro--tonybaloney": "2016-02-06 00:00:00"
+    },
+    "commiter_end_time": {
+        "#cloud--incubator-milagro--ruphy": "2022-09-13 00:00:00",
+        "#cloud--incubator-milagro--JohnMcW": "2020-02-04 00:00:00",
+        "#cloud--incubator-milagro--spector-in-london": "2019-09-12 00:00:00",
+        "#cloud--incubator-milagro--howardkitto": "2019-08-30 00:00:00",
+        "#cloud--incubator-milagro--": "2019-08-13 00:00:00",
+        "#cloud--incubator-milagro--zanebeckwith": "2019-07-31 00:00:00",
+        "#cloud--incubator-milagro--Swader": "2019-07-24 00:00:00",
+        "#cloud--incubator-milagro--kealan": "2016-02-24 00:00:00",
+        "#cloud--incubator-milagro--VMitov": "2016-02-16 00:00:00",
+        "#cloud--incubator-milagro--tonybaloney": "2016-02-06 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#cloud--incubator-milagro--zanebeckwith": 0,
+        "#cloud--incubator-milagro--Swader": 0,
+        "#cloud--incubator-milagro--kealan": 0,
+        "#cloud--incubator-milagro--VMitov": 0,
+        "#cloud--incubator-milagro--tonybaloney": 0,
+        "#cloud--incubator-milagro--howardkitto": 66,
+        "#cloud--incubator-milagro--spector-in-london": 109,
+        "#cloud--incubator-milagro--ruphy": 127,
+        "#cloud--incubator-milagro--JohnMcW": 187,
+        "#cloud--incubator-milagro--": 1285
+    },
+    "commiter_contribute_time1": {},
+    "commiter_contribute_time2": {},
+    "commiter_contribute_time3": {},
+    "commiter_contribute_time4": {},
+    "commiter_time_trend": {},
+    "daily_long_time_error_prone_developer": [],
+    "number_daily_long_time_error_prone_developer": 0,
+    "improved_daily_long_time_error_prone_developer": [],
+    "number_improved_daily_long_time_error_prone_developer": 0
+}

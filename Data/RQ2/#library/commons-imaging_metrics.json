@@ -1,0 +1,25 @@
+{
+    "cate": "#library",
+    "#library-cate_aver_bug_rate": 0.2318840579710145,
+    "#library-cate_aver_bug_commit_rate": 0.2,
+    "high_bug_rate_error_prone_developer_number": 3,
+    "high_bug_commit_rate_error_prone_developer_number": 3,
+    "high_bug_rate_error_prone_developer": {
+        "#library--commons-imaging--aesy": 1.0,
+        "#library--commons-imaging--netomi": 1.0,
+        "#library--commons-imaging--mgs255": 0.6666666666666666
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#library--commons-imaging--aesy": 1.0,
+        "#library--commons-imaging--netomi": 1.0,
+        "#library--commons-imaging--mgs255": 0.3333333333333333
+    },
+    "error_prone_developer_num": 3,
+    "error_prone_developer": [
+        "#library--commons-imaging--aesy",
+        "#library--commons-imaging--netomi",
+        "#library--commons-imaging--mgs255"
+    ],
+    "error_prone_developer_team_rate": 0.08823529411764706,
+    "team_developer_num": 34
+}

@@ -1,0 +1,166 @@
+[
+    {
+        "fix_commit_hash": "77a842e7442936903141ad031eeabdd7ffb0573f",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "e71b7260dcdddf8611701384cfe0559c53ec03a5",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "6b2b28013f52d18237ae5e70ffff2bcea2a30264",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "bc8c02a1863fc55b035c3730c934bdeda37549fb",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "7a1939c120da823781ba0210cc9dfc12e8d5f5e4",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "cf28db76b3fb5d759fa6cdf64949f8ce52c18f6f",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "920a2b8cc37fefcb23f61d416df96f6b8ea224e5",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "d9e37beac85d588a3a1bc3ed39949c47e283a0d5",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "7d4eee0b49116ad3fe98d1fdf54f20b56af1a470",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "5f10366a3e67091ed59337efb7ec7c7dbb0be454",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "5be9a22c71225bc13d1e1a316ce9e383bc73b709",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "17eb1160911fb838fe6af0faf8f76ed54385085b",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "277eb6573a4d0061bc20b57c5cd1b917f44dadf9",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "1c580bd696c2c69603ad4fcaa37bb07fcf32d663",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "ac100357e3b87dc1b6f294383360a16a5caee861",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "dcf15da4c261bdfea0664db86dbd1bdfbe4f551c",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "eb15593838e6539386467fbec15a060ae1e5dc11",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "afae005d840a3c1d57cfe6f7ba910a9a481b1127",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "81af8adab7ac29d7a50aca623408c7ec562e4aa6",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "5f77a877ed19421b5315f0d061e8c015eb855246",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "272d16c88b257bb1cd9fcea46faf652b3f3f8985",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "22837b8b2ad2f70a3ec9edcf21a07ac9d4a42b73",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "f0c2746fc0144033b7dd20a69a45d720f8bec8f3",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "4d558758938fa709c0b277f083a42648dfd909f8",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "2b97e49e9cd58c2de299dc11a51ee879b8e262db",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "8d1b2e3a1dd03e67212288c9ce1f166d9177d811",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "cf94879276cb3a3821a2cb5cc9e7e69bd9ce6460",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "73009b0513f6fe8c743f1207c3b5afffa04ced9e",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "5440515f4325160ff7d2b726025e0197c3d11883",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "69830bac709a4f5a42973667de7bd6e3bab5e96a",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "d6c59e389030f7b2d925b3dd88c4dc90013d3bc5",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "55578b12ca13d5e9976b6cd53c4c66305fdcbabe",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "b263d0009cb23922e7ecd1ede8c10aba63f31d61",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "45bdf0be5cffc78185b8b574ab0fa6f8df1e761e",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "3bcf81a8b0155d7d888c93a175e54ea61af8380f",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "ea8109fd94e38f3d384c90218309cb69794bfc6a",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "36e1114da1e98f72f95d5ea986888f974e95b9a1",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "f1415789f5d857c1b5ea30132d29fc76b77cd5e6",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "6857da75404c40cae97a2bc0b8789246c3868c1f",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "50afba0ece15a0937ba5c4baaa56e88fb7bcdfa6",
+        "repo_name": "apache/directory-server"
+    },
+    {
+        "fix_commit_hash": "00a292213d69507ffa31b76574fbef16be2ee5eb",
+        "repo_name": "apache/directory-server"
+    }
+]

@@ -1,0 +1,1538 @@
+[
+    {
+        "fix_commit_hash": "d913a5603727d10d6b85afa68c5ed6f6027f3e94",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "88f0c341cfc4a6508db63794846e7c3902b8e255",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "d4043916518f73fab75756e46e41b53ecd37c644",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "7eb64f48504e72a02cffce031bdf2622aa024f45",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "659951bc63368bb1eed8d2e25b2ae5ed79476e56",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "c95ddff0205ce2c54fe2f677769e71a59417835d",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "14e92fc8c82bc47ef90a25ee219861069ecf3193",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "8167513c35bcb1c4ffaf34c9529bfcba14bb07ba",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "fda1824620e2c448bbb0cec33c568632be8bfe6f",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "261f9d1fd5c190e9c11a9d65968693cee3df4008",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "2791f470466493a3f10ce0d4fb53416056d407cc",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "3a7e41f4e2e577b60430a7199cc4ddd1dfeadb62",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "d65047c87b46717605742057b59847673339e8fe",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "9c21bf2cc2af3d9f45542285f278d1b85f700f2a",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "6e6f8ebf779d8edc5cedec687558637d8212ab18",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "d220b245d727036f9134e9ba5e1c51dcc31f959e",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "5ac92111c4e9347c492a16ecd402acafdb1f9cd7",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "ca5190636a5fc1ffe48d0d6b8087ad160c0b7d80",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "3db2939885d222420712612a25c5c7c896953151",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "11d05ac9bf3f5a97076f2c745b88ab86661b31fd",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "6d389b0d8692fd660e77029fde40e5bb363ff6f8",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "dfeafcc6fb914a6e5aa5293fcdf188e39a87842a",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "a248697c0668f8f1c442b04e3833d876b125dc2c",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "b8606a10ddb0f22628935b317267e1378b8fba3d",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "2393c7920b65be5f42fae3376b34810c7e96815f",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "70f0635ac27d83673d2e49185221be059411c3ba",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "5916059be904df77bb23a6b5ff5a2a6b717d8650",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "9dd50b39c94aa71eafbde4dfd651d81b7d5d9a6b",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "767240f360b0152e796772825a17c5c58e19179a",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "17cf6fec9e992bf37e58fd78b59042ce37f33304",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "7ebf12bf3867c7cdead772b8c80675c8a41bf7fa",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "a07ab5a98263aa400484276359731b999fcbf472",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "bcc6a2648834335d711cee7cb219e4ad7552979b",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "f770455ff9f53a9413353cc0d4d534a3e1f6fb83",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "c34935dcd3476db7397e7433de6243ec81a09ccf",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "6b4be0d68696f2bd7b84196aace5b41559646f85",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "36353d6157a1c6c3f8f5e8497a68802a79784b12",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "29655f3149f151a834ed5a724e91e32994b28d89",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "14621c08d70c3f128d7d1a81149fc88f43c61c95",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "65a5ec8164f5a75f63b1d853a742f358e0ae040b",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "b29f716a02c41cc64b7f5dd2efc8f10793cce5b9",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "f7b45341328410dea583901a31218a3588cb5aad",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "def6db48645fb6c043a4889b45c582335b331d30",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "7e0a2dbd1395769b317c9f252871a5683011c373",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "7db5eb5cd06441f5c38017392fcb69580d1b0eb9",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "a35fa4a40463c4566cabac020a877958bfdbcf05",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "7d40cedb20f249b981c18fbacd403a32c614f8d5",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "1eec2b6e01fe95f8edef1f3787e7fcba07f5b2f1",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "584ca19fadcfcc0c603598eced249a42cc85b484",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "cbb76523cc4a8f306329ed5cc97f96af759a9967",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "22cfbb86f2e67c4dbb0636de823b336ad08e1123",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "7aed4bc88ccd4748c46bb0fa144ff9185a559e94",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "88c84af8788116be2b1f492c3314e07b493dc6f2",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "eb5db026da3e205356e7629aec89cd6768073d88",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "2a56db09571164d94ddab1ec6f4a8a766e615acc",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "6fd7c7c38ba5d75e97efdbc0b61cb46483cdaf49",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "d05be89614b4539b2ac16e911439dcb3df2e23df",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "eebcc0017fbf7b1f1d0d2920cd8f891e1ec36e38",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "9fef6ed06b027c1525579c88b58aa9f5833687fd",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "17cef5652f69d46acdd88b69517043bf051212b1",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "9b59d099d18bb2f1894f81b0f52a9c853aa5e599",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "d29b79674d9ebd31f5a7ed83d908ed0d3081ab6a",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "855ac7776c495e9f311d741c151525d266dfe55f",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "52044d23d9e87de45593ab5c3a21e6fcf768717d",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "045f1e952709117444fd7d06145d9a487db56e30",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "31f528263acc78380ce47b6316eb723aa26e5377",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "64553eda5f38e8fe8b805fd4d350e833107f6670",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "af4bd3a86b964c53e31a568221cc5ad08da35615",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "e7d0c29ce1796aa707a857e8a2e11b043cd279db",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "6bb9c927bb36700bd5d5214f38ed646c41ce17ab",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "e08acc6ed6b2761b6063f9ae105ee9f4077ef418",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "7c58f9d77d048442ede9e3f52c1af18cde5e1696",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "9e73bbec16cbf91c5f228d4c3ae99c6c526081f8",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "d6038487f7d4256f73dd089c9bc8d307fbae0aff",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "aa11765bee8e5e7f2d062ba8123c0dced822f071",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "624e4cb6af605be6bbb11637c4b60324dd6f5a11",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "65ba26eca7d63b6b7cef70386f00425438318825",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "1d4cb6c39294bf8e455d90d0d4a6cae651d58d28",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "5113be22d888ba2bd403ef7549ea692163f5ff10",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "c83a08a8d6390e7e43553f209214916695fb8aa0",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "db2f86bcecfe0d68183a166ad07a7f996d332539",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "2b49bf36183981e26ed80ffbcc266929560f431e",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "a299a6c1fdfff5669d2f9bc830e6b2df96bec1a8",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "1c6c36b81af44b14b534c9dd5be663cbcd16c8b8",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "df300573863c7716759c1bfef56fa382ba73d705",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "ec67fdea32cf6ffe96939e8a722bd21cbc215852",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "83c0a3c7b255ec744c6150ce76c40e8301280c79",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "4183fb744dbe938cbfb65129ec65acf0d4846d6e",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "24f961eac294ca8c3d4b843df6238053d8b2da08",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "723a732521eeeb7486f4388f0dfb6d002ea731ae",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "5a1c95525fe397596c2c3073bd17facf3bfadd35",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "d41101df5932043c3a8614552f25ab91194595ba",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "04ab255d9f45e9a22ed6711216c5f02664d75a2e",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "96a1c4427e48cae34117b8f23cf92abad4616b80",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "c45728e085797fe3fca8e4a7bc53f7143fef5133",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "ca75641fc0c990aa4592d0ee195ae34593dead2b",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "49f4617afa3dc57afc38d8724b571c3da977db10",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "459d437af289344ace3d0bad21c57da5e7b3aeb7",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "fbf62437c7e776422288564c419dc037dbd72dfa",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "8649002e03314e3e4ebe436021e5db56c20500a5",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "b8fd47ba8d0086f3b1b15f43360a1f4c4dd9eff0",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "c9e2286f73a490152c5892cacf7d8012008fc268",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "cffee28afa146c8b7e4a1e82668c6f2c4c99d9e4",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "36cb2a1c72076b4e7200599911ab18c1078867bd",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "a5ec80a275ccfe0eb3c45a4bef150bc03091a272",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "92044e3d44b885cdd005f38a65516c95a8c9fa21",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "bc97afc0c153f1c9593b44ef5d6e5d750e5d2eb0",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "7826d22d301b1a6accef2b7686700231ffba7e29",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "b06795ebe42400af64a5fa5949dde85422d21d09",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "50e6d4443343c19d037d35726597e0ff7608dede",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "26c060a0e899333bed560b1def58ac08634d12fd",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "11c636b6b32538e48050476d40b5da9d135c77e8",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "7cde28a4d2af3cde0adec62186b19116893b06f2",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "913fdeb168db948d59c58531efa0a413332b3f71",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "a4e2110a6307f00e10f1f2193b5f609bc185b628",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "c4605a32d4104ed1d8c4c6e01a3440bfaec0e54c",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "1e4d0beae23ef7981d46dd44eca3e8bdb19d8565",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "9af449651de4a6b19c59029190cc0635df6f732f",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "0616b865edcf9d082a95000cd3834fc0a6893b81",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "4874a1eb185870eef88731080ae8cf9ceebc3be2",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "040df11d3f791659ff36722fb99d91c501bfa4a7",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "bde70457d0e313497eee08175ef9397fcad825df",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "230448a454f1be583f70af48846b7a9c1c6b58c0",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "0a75446ae79288da35316b9491291ad1e088dcca",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "5fec2346a64fcd7c9d025d3a2db2e196acf4caac",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "c2a22bc32ca5e3f82c6cb5fedcb1924bc251b20f",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "5d437312bfe20e654b4400fe24e5d91db6b3e5e8",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "c0469cc9b73719ac6ccf58a7da7b7da2917e4620",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "d4cf7743897000430eb8f102d713c0e4e8532c5b",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "18cba94fab010152f00396439c3d1a8bfd9d7681",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "ab3a6f003bc660b87958a63cd4f0138c5248bf3b",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "34114dea002958b2d0504da27150585ad58678d3",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "04f1bb2b499018a539b12c5ef3a991acdce2d61c",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "3cf4e3d79c0e69eb8dc957be797af222cb64d6a9",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "cf07407c2d5ead649517697945e4cd358481dfb0",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "74a2a2683f27f69f996aa2f63fca5bed125e3677",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "7d2f1e8b4d83e7ed2b520e635acdb6ef2cf561d7",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "b9322c583d6aa0cae91d2c5724dfa528a0168385",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "dd670f3f787f1ae4010233e02e426e3cab76d920",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "3f1fe271ed8c59eb136d94bc4cd199f2da60befd",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "e0ab5d848a8844a8bce5d3d8cd33e6ebeaebdd2d",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "01ca3425cc9405a23758a07a442f78872a80ecb5",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "d83282ca532636b4d2d6d4b47c8f5e1f394332a2",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "773aa30c64108f5dc28a6fefb58d1ca4baa016ae",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "3a65df1e2ee8e1bd7e8655f86ce9191c215cb465",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "a4b8a73790d057498cd7f88e936e870a61c1c98e",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "ef7b85130e66e0b80c4c4882d4348e1b0b0a9d4a",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "235b4b98d4d96b75b77de15e4a3522a5f68cb502",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "40f31786c59e10f8ea74c2bf4463954361d5f68e",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "0f6ab3944f4c51b928e553567a55c3f827bbe54e",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "6bc2ff7e0059fe0a01871b12a09047086774e174",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "68e6539192690a10afc450c1bb6cc623e0e25224",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "1ac6fa8426d645d74409801464101d85bff03625",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "750c5d5316ab96f89fe11ae101fbbb2d18aa1d11",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "a7c66d5120bd8ee8d64459a0a5504bfffa4cbece",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "962de83e86842d576d9a82d6105c4f98fdd0dc97",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "0fb1b459a607f21f6a8ebd7492879d02553c4b88",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "4d899cacae36cf0fecccfe708b581ef5c3809ff6",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "86dadc3a75b933cd8f6b71827bb95a2d94f0a411",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "29a8474ba03b420b462566acede250e98fdb4789",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "f706d9c13a78f360d5e0c94c74251a892ce0e66e",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "52c6c2b7b5acf48fcddbfe7c043b133f0fc71c00",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "575d39e7c5c9974ecbe080a09a2787d08534ac3a",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "9df30c5a091eb6e3487ca8578674b872ab77963b",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "985d45122bc55f6ddf2e3e36f9aac0dca6abd3cf",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "afd3c322a9d574a27526b479654b97a3142b99cf",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "83ff38ebee5e410038aaae19b66ad5170757a6ac",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "7e866ad6a134357ce34ba7ae5247a088aac5c79e",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "5e82bbfa462cf3a537fef4d6a42eba7bed87de55",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "200e0e12ba1c8eac60d9022d26c2833aba1f57dc",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "6254526296117616cc6c3aacc26167296b6c0277",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "746038e8b29e7e52757bd0b10541274c27327816",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "f0fc31e2998db512171067eb9d18759de80fd1fa",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "2385ba901e98d89e6cabd2b32028e1b3cac3992e",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "5bbcb8342f9eb5aadcb99885931891e5a8362255",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "94b3cba6c254aaf8d67e633d2fe46b3c4c30a2c2",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "d7b3f5d98ff786b79583ee08f670dba0cc308344",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "4e308868bdb2eebf1ac6e61b9550be76597a1042",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "e21767dbdebf54669a38b2ac609329d2b917dccb",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "f8eff7e00e979dedab511bc6f1e0aa2a9d885671",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "2c2b498066b44f49c4f41064aa9f80ecb2a0ac84",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "7151a3875ba46e768a368d534ecbaa2bb43acb14",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "075c912d873708a7fbedfea62fae073275c41a05",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "15651822be7a019f55c94b54fcbdc1b473f5eb4c",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "85357cf92a347cd9a24e28779bd3353be00696e3",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "cbea1b64efcf77951c34d93da8ea0577a0743abf",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "f7370d2b12f93827f3ed96d73f73f61d37457eda",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "9b15fdfde8b856db5845ce346ba102c732c0ccdf",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "d70127f12652d4e98f8d49e319db82137c9c5f16",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "b87ca1b33a013ad6fc11c71d1e1b9795864606f1",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "6df22338678d52f79de99968fd3ff70803e873b6",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "cdabc59ad86ca8538f4cb810f625ab5c217dbf4b",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "a0b95ea7a3df01399c95e57117b63e2a9c22a37b",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "aaa164179cdf10a4076d0270e5b05bf8917028a5",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "9be7339c3204b6f22aac4ba2ed53b44b8a9706b5",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "edde721937115beeee01ea4076d60b4ecf381807",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "6cd716f1eaefce26b95d5e147eff90477f82def0",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "d45f08e82ebd217fa5ebbb08b9e4859aaf7cf58a",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "efdc715b88ed3e60d6eb63caf200d2eb6a38ffb6",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "3757a64abf7b93ca1d97b73b10cba42cb590455f",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "0c5a3db9dfa114a740cec3bb42733b1a5d1af6a2",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "5fcfcf3afe811eb2e43ad4fdfcb53e4b711e3545",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "04ba8905f8639b0444a1439bcdba18cbaa0a3dd8",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "238cc525f92d400fe919f79238ca9361553fbf24",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "a2d8dfcb277c2c5b5bf6c4f66475124724bf3c19",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "2c417c83a6fe4d3c5fb9f864ba48f5255fbea6c1",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "644541a2f4b9cbdbc68a29108c77f1cf46980657",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "586e31805ad710169b29303028289f6ad396725d",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "a46f3924e37938403a7ba184acb7163b94378497",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "4f32e863ad2552d6fb941a536b91e1e18a35c462",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "eafdeb5266f934b24ee5ec560606c76ae56a62c8",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "62f088cf14c3e65edfe31cf71835241467e07508",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "79fe91bd035461d9344c03bda276cb12a7a10b1a",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "761329d272017e378e919b97c7df985e1cfb76e2",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "1c1cfffd5d0e58ec8b8ad1e3d307c9d0ffaeb000",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "82da165fdd7afc63b31e7c95a28d4a34b55054e7",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "26210fe0981ac3bd646fb9c4bf2d7591752266e9",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "6d850a8aee5bae14695988077ae1aa46dc406fed",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "8859eaeb688e0cfd6aa48ec5022e43a3e2f7cbf4",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "f6a97139c91cda6ac34c11e2efed71d5d371ce39",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "a809c11a6065951f5aea48bc4a6048986cd0586a",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "ff1f2c01ef21fe4f0724d5e8b0b76d19376a1150",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "7053a7870da15c3996ca0fd6567f398ac9a5dfb0",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "2c53ef38a5caf5621fcf74983636fbd00341a674",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "31749cba5deb387064a60343604c4c3628b4d600",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "2b855809a4ef1b87fb17e541442b97a02396fffd",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "ec63b55a04afdd5a970d8b05674deb4c3802c59c",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "41a7a2d3d471d5e1a047f7f019729e1a931976ed",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "cf6d316bd00dd76c648ecdd0c84ceb4fac444317",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "8a2c821e131717b6dc06996886d1393d74b09ff6",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "acd06b30245c4df27e4e36176916c95df60e42ca",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "bdfd1facb9f2aa5f1ea09f72eb3f1491e503a2ae",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "b75b0c28d62df82b94747ed2556ffc6226c83a2d",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "affad9fa3b66e45c4b7c0bb2483e959dc0f5341a",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "af1a01a0af93b4855b2b76c183b80f72a9c86fc1",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "a21d3fb2d6adea6e82e3d0733c831d220ca6cd82",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "8e9485b7bb49641ee0229a111be6b10180374bd9",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "64b41d08c623f9c3b2439dcb6fe5a157b69dac51",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "8c5391505d03ac9037c5b5c46a0b126dff2a85c7",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "68cc6e7dad0fddc1ba92b2af945c45f1e2aef603",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "480b76fe8d67997164f4c4b43212e38ea0c20402",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "b81322ac75cb05b4b8726ba255e236e6c11260c9",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "91c47bfd92c7fa20ee10c5b6fa8df74acf128c00",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "38ebf0d06cecf46b3f5a15619203ca0f5fdfa0d2",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "6b350fb6b75abbe93a8077d52b50eaa93f2d1165",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "1c781cc5fa79ab2f476ec07600f493bd04940cc3",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "1663e0911e71c57aeabd9a7e76732e205a305df5",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "66c4963b49a1ddd985e3b57309e465ff1922cc26",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "958d09ecbd2956f6cedfadfa2c67040c386bd105",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "c635b3006dc0056b607f4dcd393c26d093a8edbc",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "df4323b4c69e222abc3f537c3b4e6df52441eb0f",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "ba868af5534b5d6558b8501cb0f6edcd5116782f",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "5dc6ddcb9875e2b346e91cb2b484d5fa8d4e0479",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "60ba7552192a415b0b61ceebe93e2a252081fcd6",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "52445de74efb8917bc4e32ac10b9a0f0aacc509e",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "054189d00928088797154b53f304221bfe7ebb03",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "d8cb6958f0b531435de484279aeca9edb5d12016",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "6219b77dbcd7bbb2ffdc39c72477ea65d4079282",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "c73ed64fd021fb64e2c7be7f00c2e3248ea5cc0f",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "609982747f91cefb1f986ea77c84f1fca03cdde6",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "324f443856a4a10dd19dfa21f362bebf5f9f3d58",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "00b2de6205857dbf97030fc6caad14353db0ab4a",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "03619accbd917c20b7c8ed6c19ec98433809d73c",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "f4f86edd4daac5f46329f216457e1df361eb1e7a",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "611c21ba69d52361962bf2baa8dfbdf53391150a",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "308e3d1e49c55a5f79b7b4f2413fa9d85c060102",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "a32292fa0553a8c2b6c4a0fd357fe0ba18d3e01d",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "f7aea98742c2885eb85f07754b47abf7e71ec851",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "d309e457256e794f35542f136af5fbadaa66325a",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "15d816670156677e8e99706b5e671e2c7e971462",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "e5283df9953a45b675e2714ec7ef59b4255d78ce",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "bc52da8a73ea38c77c5ef91babd584fdda311be5",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "f3778b6cbded6c01acfe7a4fa1379afcede3f524",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "00d9edc1e6c1893fd2d3fdcb2600cba2287db36e",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "8df2b40742c03640bd3fc9b1f9807a424e0a2560",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "f907f5223cf6c87576d027c068ed7d50afd9cc98",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "95b6064c3da59949469e43ccfcc1254250ee41d4",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "8743e947befe44cf846183e8024728a39f1a97b1",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "20bc14528486828b45c9dd521840c520752ef833",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "aa174a5d73fb1195780c1dce45ab62404117217b",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "80a0256cc7919b32612cfa585e7f4224f412ea02",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "95a3c7ec2c26edf66da793d0d7a05ef37a58491d",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "2e81343297aa1586f535c00dfb646ed55f52f995",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "0d77d8c2b11197146d4970ee4407e99dc1c9ec40",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "0df905a870563236bb095772ae00a1975ec3aece",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "1fb286809e14e77e051ec22d91afe32bd1ecdebd",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "fb60d76704745317186ad700e9b7ce5a569a614d",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "22c5fbbd783f319c3c534de4348dab84fb26b220",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "086fb9c7282eeb6010f5de60938445a195ec0d2e",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "8fd946c93d11ea77eb9afeed5e688260844f5a8a",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "a8b106c2bb3e3e7e292cd80f3e56a5f56a51742f",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "de68449cde790f75d00a5d27621950d77060315e",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "1d218b17056f955204f9aed5d49139fba5cf6252",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "afc0ca557da9adb24da7f520c38457f18ad11c63",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "3659a5f583d38a925476287d47b34b4afa7bdb43",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "a39eadce50e3bc37abc0e47564ef1698529bec81",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "eb373f79bf361e85b1b70aca87fa5a1e5d75fa7c",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "73929940d90d9c530a91a23373dcad994153c49f",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "b9029ea7a61a45012072f4e4a4ef2c212a716f6b",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "eb884e7c09be3d86195a997188a014f96ad14e73",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "4d5f57a303dd5b0ac8ba8379d0291b358da02476",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "a68eb389010fafbdd62ced416ef632cd8cc78844",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "c417ddef6760fcad27baba34e6e1dbe92d5708b9",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "b0250cfb4f7adcb8ed9ecb77bd8228d5f415bb50",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "235092e51799322d7f1c65dadba3a4bdec0becea",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "39f77ad3f80efd7416f17a204aaa7b5b79629aa3",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "a7e342422c4f271a642a67fd2771f0aa7e6e504f",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "46867d135372b130712bc0da33f95fe1e30cbbf0",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "0c22936ab21f42bc4234197910a748d54b9a3d82",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "010400c143b5dc2947871905924b5b5fe28cd0ae",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "22a60283363f96264cebfab9a4eb1682e1e96c54",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "d15144cf45c731f8c016c8b3d3b75c45f60fa0d8",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "aef9fc8d8399483cca9a874bc60327c70cca74c4",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "84e0b91179be6921ef0ce7be63934fe4c374f690",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "fbb1ffa81d8cfd2d5b87e8d34f3c25ef4016e126",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "222779bbc4052c41a6db0e484cee44b58251abdd",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "b92892094b0d4c30cf4c767e9759c0f350b7dd46",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "0401959157832c803ad56bc5973814b1b854525d",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "33f244dbabcfc07ebfc624fca7b4372ba3b751b1",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "d99ad1b94a5e3186b521c01ddf9f1a8b1201dafa",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "1f08b692cdf2f7c5c78aeade3946958c9c5cf01c",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "a656c7292fc449b7385e078396bd1c293df99021",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "a0ad055e6329f983f659b2c44ee37865e1d8e12b",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "8c495ddee4e6ca7e2d2f4ab0fd50210f727648ba",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "02615adc4f45799d07f61727167b65c87458f573",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "32a2a7c59b86e8c6047d8de0d7c426ae871b0bc0",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "52f25fd28456dab5b239dcec9e79240cbc157ce5",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "8ff60020f85ae5d9f57e9a25a6342fb7b00e1d2a",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "05c2986d08f538a3964fc08728bdc8fca00725f1",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "f6a7bba3d6e917dddddb49f584dd763b2f29a2fd",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "e2cd6d83220eb87ae2a3e9f6002b8fa8b6b13197",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "15a3c04fb7e488117cb1b65d13c99f4499568b3f",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "b351406fc934f707d0dc41a0eb179413ea08bbd9",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "8b94ee589bb9a5a6df3823569a55775f66cef502",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "55b21b64494546d268df6044f5a5fecd23efba83",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "4e75e0a1e1323122499716bdb8b7bf19fe1768e2",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "43f2f0ba3b071c58aa8ddec6c9673f4b72ff6185",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "c0ccb55d8c664455681eb86d9e3f37c0df18faa2",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "f6f901065e3bf088fd9459c3c370484e3cb0bcf3",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "cccdb756d14b9c62295e0df9ded5fab5256227ed",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "8f206dd120dc4dea416e058d469145393319b609",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "04c9c6afd251de971248997d99506b981cead728",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "75939353800ad8e1f18646428ab40be32a9f4f16",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "7d20658b024018af57b33ed71176174befc9547d",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "af245d67feb82f9099d5d225ef24149ae1811fee",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "2b3bcaf034be0d779436d759050ca30cd37e4dfb",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "73464c3877c4c2106ed22b5825228de752840793",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "7290cc8ea60dc7ff8d7435e93a5030dd320d4ba2",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "9f12b6309d498e5ff4916d5c8de3ab7011d3e871",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "d9efad0d1a1fef6419dfbffca8acaf0fe2d4d864",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "404870c705f2ed55956e3638f7ddeaad20a8a703",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "1fc5806ec9fdae248b9e7de5267d52eb8b09d193",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "285b6530d7e8f008f0386fb63303c7af5ac6ca3d",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "342ae65974545061635537269f10be29c2626098",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "5cc56f414a1af54c03dd40a9d2b1164d471bfaf2",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "72122753f488d5c00ccfd60577885d87ae4c54a7",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "ac2a44ad6f3002e0a7cf4a7326afb13ef221071c",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "12f29fd8a9e50203acc12ccf794cf73c0abf5703",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "eabdfe2d92fd5a9ba91595488f0d9d4189b73481",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "5c63ec4451288bf47d5ec663ccd6ec1536793957",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "f7dd08a2a5b78b0ed9cb2f46efd5b0939b254847",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "97c3a203f4538eb760886c2456248ae7a1b9aed1",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "375cb2075d22a26ff11fc6491fda57e347f207b4",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "48b499c63661cb4c3febeaad0c25d98c3c3a5d84",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "2c6d8b24797ad87a8653e90db84aa6ebac8e9d67",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "bbfec4a9906a9df898fb3a464f1470917999cc1c",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "44ea490c1e2cf2c2d520eee0c693b108f661ca61",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "335f5943f40f2e368b5bfdad3e425ba437130092",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "95308de8087debef04bf8dcc8c1320995e89c53d",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "82f25150b90171e1ae2f6b2fde38cfea5bbc8eb7",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "75385ee57d93fceeef35273ddc709567af48d96c",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "a3488dc43cd60580374532f3780bdb1b1ec8697c",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "2701655f914920736d0cb95b857e389c4f6d377e",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "cbc42fdeb2c2a4207c720948f57eb1836e89ff24",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "a2d8925f0291281372f2bc8421bde67fdad50fb6",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "1ced54dde4fbc821cef4732c4b9123743c05cab7",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "5e970e1e14f52da0292d2c516e43ed458dacce8b",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "653c946ec2b8c51a0ab4e4e7e6d2f6cff9f457e6",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "af7c003582c2ca657c2547de9f670f693aef1ca7",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "7cf8d611afa260970060c4f63c823bf553cc2df9",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "7923009eb57595b702ac68f28e81f97a5b0f373e",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "f4c70f77e578009cbdd2f1d87acc22c9c91fddf9",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "ddfb8e58a5a729cabb5edf954a113ee8127cd7cb",
+        "repo_name": "apache/jclouds"
+    },
+    {
+        "fix_commit_hash": "c63b9329623546ad30319ba8dd0bcee73f36d785",
+        "repo_name": "apache/jclouds"
+    }
+]

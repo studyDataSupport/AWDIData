@@ -1,0 +1,234 @@
+[
+    {
+        "fix_commit_hash": "9e1dfe12413b8104564ff76c8283ce93276a0bc7",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "db750900a9d104ae66edce980a0617466215ece8",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "940d97dab28ce04bf7767cd1772b07ceb79a1714",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "924f12c232e586c677a2380250a8e5c31605b8d3",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "94db5c45db6cdf136afe83508a184dcadf54f0a2",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "a3f57b935d047d43dd383428411519b00ef971a6",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "5c35c9894a776052c60fca4a0f0263bf6be7daad",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "bd7a397e1ff3e3f2fc7f4d6f6b643d3d6c764111",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "1666a8da34068db0557cc9b186736f571e73df58",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "f5ff0cfb080b767b542e9deec5ecc34dedcb4f0c",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "1ac00c7b529e698915552a3339e5def95d59de9c",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "13e3b6e2c0e134350f6a50ac0af7a8e4cd819d36",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "bff3f29321c38825f4be881bc344487aa3052369",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "455a279f25654c4fcca9a516d835b0c0e1a33907",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "b37548b92be75004db807170a3ee68aa023b720b",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "08bb5a04b0e79f0f6b83ed6d2b00117b16601b2d",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "4fadb5631ee05898452d622f7493fb30a999bee1",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "a35bc7e536edc2f2c7c54d8f001d557029170562",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "64876e9fc12d428fba99aafc4d3691db25d60598",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "550dcf44f97d73c858f43fe1508b3e42e152da92",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "60b70718d909ec1a0b0f3e13a77bbeee34b9688e",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "590c7197ab073f5b2145f02ae7115396ccdbf008",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "8f2af00087fb2fb7617ecb7261af67a6c1cf0a50",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "f4a149ec6a8b7478fdef645627b1bb445d189469",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "95ae5beea125797ba3bd07028af1dbbd65dc2265",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "788ced3f74433c11aa5bd3f731a2dee2948cfedc",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "8fe3e4055d8479c2ccaebff45bf0071890639f8c",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "76c6fd91edb3487783fb65a226e27f7ea1e8551d",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "49a1b016d46d624c3d6b559f710a076d9bbd5b82",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "a2694af1a52b5377bebeeaf378c3b9bfbb05a21f",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "784e7beb05df95fe6d85c9a0720c8234670229d4",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "2a42270d9548e03a2f98f8e178073fed9101edf1",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "dff5c5314790968fa1bdebf66d8b83dae4e64201",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "60b8176814d75ee7db9e31f10ccc9dad191bfed7",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "de69f0428ddc8b981623c464d23d5a65435562d9",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "940e10da215ff40d253013bcbf10b7382dc15466",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "859a0a4f769c32761944e35bea0efac88add8207",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "05252f652d05ab1eb4e0425ec45dfc569ae33124",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "1ab9da5c87caddd8b5e0b5ff13cb39d3ded2693f",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "4b76b9a7980b0dabc027c0c0071f279615578efb",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "c5b2383847eded88f1f570c6dca4450848a82508",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "991d8f113abed61b9a7b06bcdb5d92ac64962d4a",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "a2e23040d8f98335238ab7b793ac316871e1f0c5",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "e6e623e627ea6842a6d6dc6369bc969854accc4c",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "3e012e37565c8b8a0d62fc8265d82b2c3b4e9744",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "7fc13a4a87e1c69c66d53c446ec963ef07fb8519",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "dcd1ac028af16b43959cb8a53f15a30eab920f32",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "79444117414be2aba91bd8c44d7abc9bd66dc37d",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "7179aacecebd3a0be303e59b49c5fc946200bb88",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "48f1369a803a6890bcb129868cf7b9682ce33a9b",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "735b5b877f2750e75aca07e351d3d8ae7a675fac",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "54b778f264a1f85bb9e82763e2fea4f3b961bfab",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "3700a9a5c6338d5c96543aa35eefef1e578806c9",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "2be6b006928639917cbda1641a98eeb5a13040a3",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "a5fc9d5150648c97d65736a82249ff4e1795c2a5",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "06521a0a5ca1e01a880935cc84d786052d16d280",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "0ee1974fb5618c04c47c29126a52a8c60a864961",
+        "repo_name": "apache/libcloud"
+    },
+    {
+        "fix_commit_hash": "87ee61e6ba03a43dcefea2ce180988bec066b6fd",
+        "repo_name": "apache/libcloud"
+    }
+]

@@ -1,0 +1,28 @@
+{
+    "cate": "#library",
+    "#library-cate_aver_bug_rate": 0.2318840579710145,
+    "#library-cate_aver_bug_commit_rate": 0.2,
+    "high_bug_rate_error_prone_developer_number": 3,
+    "high_bug_commit_rate_error_prone_developer_number": 6,
+    "high_bug_rate_error_prone_developer": {
+        "#library--commons-vfs--apearc03": 1.0,
+        "#library--commons-vfs--jwcarman": 0.6666666666666666,
+        "#library--commons-vfs--elmuerte": 0.3333333333333333
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#library--commons-vfs--apearc03": 1.0,
+        "#library--commons-vfs--elmuerte": 0.3333333333333333,
+        "#library--commons-vfs--jwcarman": 0.3333333333333333,
+        "#library--commons-vfs--PeterAlfredLee": 0.21428571428571427,
+        "#library--commons-vfs--": 0.21212121212121213,
+        "#library--commons-vfs--jstrachan": 0.2
+    },
+    "error_prone_developer_num": 3,
+    "error_prone_developer": [
+        "#library--commons-vfs--apearc03",
+        "#library--commons-vfs--jwcarman",
+        "#library--commons-vfs--elmuerte"
+    ],
+    "error_prone_developer_team_rate": 0.061224489795918366,
+    "team_developer_num": 49
+}

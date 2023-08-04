@@ -1,0 +1,28 @@
+{
+    "all_file_num": 3479,
+    "error_developer_file_rate": {
+        "#big-data--samza--smccauliff": 0.0005748778384593274,
+        "#big-data--samza--byjiang1996": 0.0008623167576889911,
+        "#big-data--samza--garryturk": 0.0008623167576889911,
+        "#big-data--samza--VartulAgrawal": 0.0008623167576889911,
+        "#big-data--samza--isolis": 0.0025869502730669733,
+        "#big-data--samza--elgeish": 0.004886461626904283,
+        "#big-data--samza--s-noghabi": 0.006898534061511929,
+        "#big-data--samza--strkkk": 0.016671457315320496,
+        "#big-data--samza--lindong28": 0.02242023569991377,
+        "#big-data--samza--pdu-mn1": 0.023857430296062087,
+        "#big-data--samza--atoomula": 0.04713998275366484,
+        "#big-data--samza--srinipunuru": 0.047714860592124174,
+        "#big-data--samza--sborya": 0.05432595573440644,
+        "#big-data--samza--navina": 0.08192009198045415
+    },
+    "daily_error_prone_developer": [
+        "#big-data--samza--strkkk",
+        "#big-data--samza--pdu-mn1",
+        "#big-data--samza--atoomula",
+        "#big-data--samza--srinipunuru",
+        "#big-data--samza--sborya",
+        "#big-data--samza--navina"
+    ],
+    "number_daily_error_prone_developer": 6
+}

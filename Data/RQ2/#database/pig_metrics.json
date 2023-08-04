@@ -1,0 +1,35 @@
+{
+    "cate": "#database",
+    "#database-cate_aver_bug_rate": 0.25,
+    "#database-cate_aver_bug_commit_rate": 0.2182410423452769,
+    "high_bug_rate_error_prone_developer_number": 7,
+    "high_bug_commit_rate_error_prone_developer_number": 6,
+    "high_bug_rate_error_prone_developer": {
+        "#database--pig--ashutoshc": 1.3214285714285714,
+        "#database--pig--julienledem": 1.1891891891891893,
+        "#database--pig--breed": 1.0,
+        "#database--pig--rangadi": 0.6666666666666666,
+        "#database--pig--gdfm": 0.39285714285714285,
+        "#database--pig--": 0.3385093167701863,
+        "#database--pig--r0hini": 0.2767857142857143
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#database--pig--rangadi": 0.8333333333333334,
+        "#database--pig--breed": 0.6666666666666666,
+        "#database--pig--ashutoshc": 0.5357142857142857,
+        "#database--pig--julienledem": 0.3783783783783784,
+        "#database--pig--": 0.3736024844720497,
+        "#database--pig--r0hini": 0.24702380952380953
+    },
+    "error_prone_developer_num": 6,
+    "error_prone_developer": [
+        "#database--pig--ashutoshc",
+        "#database--pig--julienledem",
+        "#database--pig--breed",
+        "#database--pig--rangadi",
+        "#database--pig--",
+        "#database--pig--r0hini"
+    ],
+    "error_prone_developer_team_rate": 0.46153846153846156,
+    "team_developer_num": 13
+}

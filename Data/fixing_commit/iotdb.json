@@ -1,0 +1,3694 @@
+[
+    {
+        "fix_commit_hash": "076793531138dc0b5e1443f6921637a16e450d52",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "dff3d3727e485700951b5ae3170cdc8f74df28a4",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "3dda1ab202b89747ac0baf851eb47ec34cd3a6d4",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "531f8b353349e0436960bdb0d60e8f0e55021ebd",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8a68f3a8ce8d38de75912fc8ec0e8daf6db62bf7",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "aabb052dca2bbab204ef4bb0c76848d3cedc3d65",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8303f187b691602af4b6cd7e844e24406e8e1522",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "84aa99226abc2a2ea6192b3d4bea9ea9fa3b6c74",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "993782d2def4a4ad8d1e6dbbd7d811222b9b9e99",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1b71c377540f0738d0c6d3d6d45e99c2ad7145ba",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5b91cecdebbd18367d0244f1ff6140eaed7c4c6b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "2cb85a92869c400561a4ef317e84f2fa201b9ec4",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "08b6c1514bb880b40ab87557462d5663ef455dba",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "dbef84905a72f61d5138323fb6e32f5004e852c3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d1358dd09f9470f4b6539b3b7be540558ade246d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "0ebc42fd83372e214bfc3af40d12cf45dee5ff2f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "26d6c9e265e13ce23a93b591f1efae7a1ddcb75c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5fb78ab80e2fc547ec7e1dcbfb1ef6fe7fa9a769",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "90733d82890fc03c0ff2abe82b5eda6a3baac219",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "cecfe9b2be8057a4c4592c73187559575f136d40",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "bbe369add141afb28f946e7e6a88d76cea0a618c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ec635e27b905b393c64e363354b267d19ab1c267",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "fa0ed4dd82d0f27ec0133336c37c3f264975c67d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "31f3458dde61bcc7a04270812c48e61ffd0c5f16",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d22ef7c9aabd35b61784bfb73585bbca27de2f08",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "eff8a8046857076fdf1bb9884087340c4622d106",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e8bbc70c5be333284c41110f88d8466b220a7e59",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9554c45c246dc7fbb46145527ef3fd20d36dc45b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "4b70531b3a5aadae667840c3dcfcb54ce875c220",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b7513070dabe3f5c28634501edfc8de79bc809a2",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b31ed747b6375308cf0356439574dc80c38b6091",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "fdd72bcd677d9e8180ea423e8f518fbef5c0fca8",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "68d8f52352b0852019c61f136acff26dffb0e076",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8a4b8ea3661f87b9b0cfcb712fe64101598cddab",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a54c9c48d495e65538a4ccc793da61e6255c98fb",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7e5651d33126ed7afd13bcc72bc7c9645f32eb57",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b90962c2fb006f75911cb76be774ec63a35d831e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "10611563ae337fc52c024e99d99e8b943082083f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "67f96c5706b617c9e6f06383818cc5286c0969fd",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d26acabc0aaeadcfc1140d9822b94425baf3c078",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f316522ff712cce4d5eb491a2bf388860db4c1bb",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "90307345737aa2e1a2f87fbea0bc63822fb0586c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9c9e2c9dc84ab43ed5fe1ed5f81c7edca25c91fc",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "60a26214609f52f2b1e6c615928527c22af8d3a8",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "38831292ed9003e9f60782afe092bdef96b8b074",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7da6d051e0e67bdcb688665a3b9433615cc205ad",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "04d9a4a540de729fd3370ac95cec3c11d4f0b275",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "630c68a01e6f4f05f4326b9d6aef3eab298cc172",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6b04945052b09ef2561b8bb06ec7986105643596",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "09e358731cde66c8dbecaf43374cc76e9bd8c34b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e4250bb101892ef676208fcb8e54eb342e624b85",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "aebafee38e5360fd396e700e0568b37134721b49",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7dc11bae567cb6aac18827b5c746e84538538ac3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5cc478c8e6b00ef2e203cb9d820ecd6ff3492e9e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "08829f5b9c9da9d66795da8f85cdd6990285016e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "bbd0ee0b8f020f576d43a74351c129c3bf515f67",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5036ee2c6162f07f4332f47b4cd718d9beccd0b9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "867eaf322f21010685d18333debc94d7590e7c3a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c9ee1238142f72d4e96748bff801ea4d2f54105d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "44238ce1c1831a0ab383aa78de16a12d746fd006",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9ff80560cab619e0e0b89f8ada06bc0f78a0b164",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "81967ee09faefae121e4a6b4606143a454264305",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1d39d54d7b593f245089f65398f5d23d42acd462",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f140313981fce92002cd1532fbebc27c0fb40a7a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b1cf25bbd4d203cd8520abd589cc83c4892edf07",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "82cd0395bde6fe6cdbf6caefbd228beed23071aa",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "74ef508652bcb80ada1a6a668141fa8469dbcb7e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d8116d48209fc12c6168c1c34d1bf2742831ed46",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "4bebeee38495abc40b0a4c3d30678deba413fb7e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "2e93bc6b361b5e34cb19dc2757ffe3c3b44c56de",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b692bb70ab460103a4868644148fb948184b8b5a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "01ca80bc29383132589d9443bf8e9f0f3cd223e5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e4366a4f5bc456867dab2375cba688522c7ebd49",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c2457223020411e2e14d58ef5ed465d5f829e55f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "3ecc1d27b8e9310ba487cfcb2e4eedf4b42d3cd4",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "0af48606c36acf9a937e234074866893c9ebfe5b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ecaa0f2af32cad07cf347cb65f0a6ab6a3082751",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "326fc81d7a8c97ce05e297be21d5224b1257e830",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "403f5a9f9b08660ebe00a3cc9d289590253d606a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "85fa188ed1a9a3f60854de4c9ab2d4fbc394463b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "35dd0cc0026a519ac7d2ff71838509e9f8440fff",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "518dcfbfa461ffe4912fba18cb29299416301588",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6d2a1cff9bc9965dafaa1b6f1f800debfa5ecb01",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1d514a77833d1a14d0e93182870c44a7916d41bf",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "83a464173823352ea89485941e1c95f009e19fbc",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "4808d89e9e02543e2f3fc49465dbee58fce506c6",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "391b2c1e00a7a22a3d7e0de1e8536f72d0a8cb96",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "0d47aab5304d01d3e094ddd64f11a9c35a0adb7b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "edc81cc361841efcfd7991269db4c40ac48a22dc",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "013a533bec95a95424e2787d8cdc61da839a3a8a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "24271677060e6ee70541d5649cd4b44647e80b88",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6462d20f4f3a2f05d826f6588de476a13ae30e03",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "743c5fd1e9e490cadebf550cc3e9e31eb120f163",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "bbab64fe9a625e5e2cebea0c300780c1dfcca711",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1c1b0596e09bd312d682538bbf48190f98460b74",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "42865df4eef69acd1642525b573f9c494f300d6c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "fc4cda7592abdd4fb614b875bdb8332b7b7e12f1",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "03106229f2c54f34ea587f5411132ea545668c3a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "aba398d5596201644f8b4f6771eb44e758c98a8b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "470d992b489a0183098077061bcc94f71d14dba3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "210a0b532e0f703a07fa238e26c3134c7b0c4ea8",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "be3a931847e4107c740aef7314086792331114ad",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "678740fefe9d9db2ae2eca8def56f8675f2a8d20",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8a7645c7c6f61787c8d8ffee02dc520cf8601424",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7b20a8ebbdd1bc55adb03336720148a72783471e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e5e4f17f703fa7c8e7623d0a8d3120acb0e89fa6",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "856abd44370862a3c8b6e9cd66ba995536fc9754",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "4108e7c6f9aaa5b0215e4c512867dab6895922a3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c045e6ee8608958c2957bff1ae0132f73d71253d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a79cb13aa8481a738f83a2eab608a6f77e383193",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9d99b0c7ddd7c30e039669b199e3b8dd3ea67b91",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "94657cf836ea6407cfd374f36324333e8194b919",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "25131906c64146e69507c3d9cfb52cd751125f0b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7ba111cebbd6e2861086f780470715db2bc37b4d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e7b130e373f2b454953b87d89a5006c7c598c020",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c90be56685b5d21518d856b1d2ed821489c4c7e9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ff6282b02e285c355d9b99f6cb6d6ba1a2613846",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "150686d0bd3c444ebffb3ad19e85d3f05f6911a6",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "57428ae2b999154b39a496f908db26ce5d367baa",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8bd115fc110a015f6cf3296cd9fe6db37f692692",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1ff9604bc66143f43e5b833446194c1dd0a482ea",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1c8ac8ff52ec452e7b22d60deea9a99dfe7d2d9f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "0b463cc0e715d66e78dced000db61bbd00d10c28",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "4f9db185615fe41917acc5cbb90d1bed9380a566",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6c4a87c1af53ba1128596f7b31ebb2821a6e69a9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "81f5ca61c29006bad558209e38597ff43c4aa62a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "66e53e1338205b1d1548405cebab7658dca14f19",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "cf4ca212bc0b847a6ad4edbadfb05d2180044d56",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e6bd879eafbe41da59ee685e0cfa870d2c17235f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "adc46576f86f025658272e3d2146d6d38939b081",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "454261d5624c09cd78d9409696a5eb5700ad8ad4",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "16a5f7ab5bc0979ee1b8d5347a408813ec6e4e25",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "3dddfe9bdb7b25a9fbdd95a15477c99106803c0f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "eab3a18157b609f721d6249cd390b0e2c3b4216b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "545a34341d32c5b9e6846529794121c2fcd0da98",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "76c01dc09740207a49a73cab161b96bb73c88d76",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "15a3202baadc981da4ece0c18699d2bb2067f30f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "41a60b50260dbbd510e22b6693f1a53ddee91707",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "371b3b4d3cd4cd6a9cac444baf90bd1c0d08fecd",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d7854a6d38fc8e8b23a78601d6e1d728e2380cf4",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "28c338b52dbc5dd66e63b450bebeb48b59557bc4",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e9d4b0138f6fd241c15dffd35e7ebdc540a81582",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "61a8ff2238d51d505157072cd924e46141fd80bc",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1b5d88b5e451bd93c1328753cc0692e6aa4e1982",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f1787b83c5cdb98262d7e8d324c8c8f8b812f1b5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6421f4ea771a84665d1a0e01ecc2828b15dd5c43",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a04a1eb62b9196576ac3255161ef4b69bd540772",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e51421182787a0ca982a291bf57a1c3497ace303",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b7c4062f28d27d5685d7fb6a04b068b2ef217304",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "39db994138c878b9e4f055d4c62e56f9ceb86693",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "742cc64c85ff332afd2b14d9d968ce395960e32d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d037f1b739f3f80557f6cad4d42eb2e6f5afdd53",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1bdf3f9598f9378a8b9a086178c3a4132524588c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5ef5936d564bb401764e72001334c24681b85983",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f0cbaf7865680f580ef2beef638e5cac825e7fc3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "bdc79a6316c66088efce9c3ee110785e9adabdb3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "0bc694c320359c23f35bccb0d5ac312b3cca5784",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e84b1e318590ed51e4f2df9e5e92cb7cacebf171",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c7b5eeb8cf66db33f38de5483d9268cc8f999a2a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "55b5b17af20e10d6c22aa6f8c8feff725a315dcb",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e52b8c23c6a22813e6791deb7d8ade86e4f661d4",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "4789a5e368a5bb2d521b7811aaa0b1cb1b30e357",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6e7e7e22e313a0f97aec0046b3ad39647b360cb4",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "4c8edc56611991d75b7a995f12da91fbc4e76d95",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d7d6c9e0ab844ff8e112029078062d9b5b8ee96b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a46e79a65b2b51d25d23a7054497501b015cb7e3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a751beccc1f889de8a1d6ffd9cc4917455b05160",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a354fd4c355d54730f4a25af58b7ca1f846ef08c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "82e984baf25b4917221cc5fa19c21eb9484af966",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "975eaa5bd283b98cf6e64944c2ed734da438c2b3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f3c61e854366b4e1030b7211279ee76c96321087",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6d3c0cc4d06c077ffc93a5290ff70f08efb61783",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f4d1323f115cbcb474ad288398a6bf1044c85e46",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "159bdef59dd6e3c6fdf3b05e71b690030fe7ca3f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5721496be88f7c44a59dd31564fd8860c8da9485",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a1f1c3c2dfb9f52bad084cabc3c73aa99f7108bc",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e51f5ef6a40d6a9fd5ee2bf52cdc56f540e9f7e0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "198f38a255d3fc2a7bf15011abad6faf98dd5265",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e271ddcfb8268d3323dca2df9d50ca6cbb5f0c78",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "07b598f64205582cc7a2ed205240f174af1c53fb",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "576b58478770704b7aed354f27821615205e4e79",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "adedb34e4f9ef0204058a092d58757c668948f9d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9eaa804235069227c3f35779df2cde23966714c4",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e0453b7d8f2cb3459891fb55d5f083079e022e52",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "dcadc62f5384c041fabfabb2a3ecf40621ccddce",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "2bf38a0b69e15f5dcf99b6630851e7bf9a07110d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "035779b7b877eaf2ced13a3a1968e0d7959680d8",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "203b15bae6a007416f5ad8bd40f64571b238a5d4",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5bdede42294e9d69bf724e1701e76d8628485f50",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9c244b7f4f103d391385381fc8bec9499d796918",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "73db1ee9e42b9e9456f8595ab5d4d1856362c31a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "3f596c676f0b81020db5fd143b103c0ab2196540",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "dce7c472c08946e0e7f07076151f61c262300634",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e4987bde9434c5bf3e1791c08922f26a8dd3d584",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f4bb4af023e5c8ff9e5dd28d687bfb850fad288b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7c7e21bbd74639146f197774ae7f3c6e6ddc8b42",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "26c42ea190e44cf0c6ed23e1bbc6a3b04d918dbb",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "80f36390a380105458158f36eba871b20e3d7ba2",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "bfbf05a96f3943384b4299154d6e66915c9ae9db",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "897ed48ec90652bf5ed3b13b424993e75381a280",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "2daf9745687505d03aa8fa7a00fd4f87626e03b3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "396a36dd4559691a474f59679a88b862959858e6",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "bdebd1de255a70f13b28d64c72a13ae8c2f4adb6",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b1ba13eed1036df21a6ff0ce30c786bc7d6c1eff",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "015a4960d37a2885b76a363f1e36ffec48e4827d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e16cf90c1eda431066ea3203b4bd471fecd3c804",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ea437401d077cb9737452d9284252eccf3e1803e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "3008429c95f8ff8f2a77c8052d9aa055bf9c5437",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "823bddf1d021d8aaf2a62d85e05a55ec01807da1",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "3fadcfeab864a511fd7beae86f597e21aeaf3c51",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "34577f3169d6a510f629daaa2390455a0091cc4d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "81c363e8dcc1ff0cfbde250f470015218214b0f7",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5008c7856a940bc1003be3f116e042e68220e060",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5ebe47c8b18adc9e86ded45ae5339799ea91bcd1",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "bf36ca3a3f3bc034c8ef29c3594b42815c103f39",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "0bb50c3009d58b5bf299db6845f97c99f76b3f0a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "112814056163f76c771514734946d9f8ad784563",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "956ca739e1a04fe13f001e8126c3c24fac4c0f7d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a3c8932c3dd00dbe09dc11b8283527ccb1a2e948",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "be315c0b6296a2fd4e0b92495d98ed7737a2448e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "dbe28c7f968d722a593492999bc4a7eda0abd1a0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "50552c6c0f38363d47af630d5695578a38f32028",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "874cc7a392eac563332f8ae039f364e8c31d5936",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9540c88be1f8f3547e1515f3b3cd58e1f1175107",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a59c4c806d132e2b5dc81304ea0455d36a5ce26d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "44f1d1813be3c1b6be5c591c3073d6764dd94c9c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "4a01899bc1a85913d8ae79961e52b119dc44f5c1",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ff5a14a86d55e73238144caf9c8937fa7c0319f3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f65514eea5d331cb8389e83bcf0ffe096439c2f2",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "05f02a63e1e47d326fc609b4e4e20303696829b9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1c2783cfe88a10dfb153b86317505ef80a0e221c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "80141097f8035ed71cdf812014191e20895547a5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "084d4a445277cbb99febc701164299e094818fe3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7d7834c200b2c7178dbcdd2d355ff182785bf19e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ed20fccc2bbca84e0cf2b00cf8f48b6996064f20",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6702808c25ba78e8b53364eef93771e35405efee",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "05a849184efbd9740c6fe20bfd3b149e9cd4b1d0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1840cd1a782461dc2c56ecf3ee2d9cc5446d48c0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "aabba8b54807fa3e64f4fde6331b9974bafac4f0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "462c0c2c8c5d98f3369ed692b653d70a5d7ce7bd",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "3b785c80ca82311a5841ea825424a6d6dc161e91",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1147668b15aa772a733eedcc7fcdcc3e4729cff8",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d417b3d6d2fba5718a967aed8c78c36cfcf4379e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "0422d480064697355495aa18c749d296744d4dd4",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "79f46915b05b2f7f687eaca81a2a8bca57e3147e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "eafa32263cb1da69843de6ded64e637935ae4494",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "914cc9a354391938a64e1c981e1d446649b6a688",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "3d4061ad69de2c2d6225a05f94e9d34288f968cb",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b3355c58b3e74a154c623b5fbe38b621d47ed383",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1871e60f393a9f1636fa6ca03a7b05d7b04ea89d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d7cf5907744dd2ccde99299bd25c657fc973fd1b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c4b22f26ac86b7de0d0a3d53d4785973af3da019",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9e749b8ee14fe991bf97c4029c4a597aaa4431d5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "2242a4033ee7d47256002f683fadb84495fee42f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1e31ab278dc569832aa0ec8db395cab97de68051",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7b07fd9cba13edf5c1c108b7f6f58cb00a178420",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "39298c609fd870d72e00056956ca25e84fb3a2bb",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b0af35219ee78b9b39cb0e889963994a28896d7f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "08006e2ae0109ff97fd0d3f6b861be6f0967dd97",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "dc08d01081967fc6f402da5f09acd459dd98f36c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "922ee7b162b8cc2bde2f78963268d3847cd21ecd",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6c10edff06fc427573799de9ade0ffcf3a119cf5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8a8e727a2071118d05a4f4d0727f27082cd69d7a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "61e9a0e4db1e60d7fdab9b2d80831312b1e89b4d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7cb2d3f6cfd79b6353ba2093641826f529e70569",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "85d27c3e20ecf7c58f30e80a06d43cdf4ce1d28e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a3f0606f3c89e47192f5c9d9a6b10febaf58c27d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a9ee691ecc4dfbcfdacac6afc9e6f3eb9f80ad60",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "071cde31adf4bf040c78b49d89661560b5c1d6d3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7f1b0a74de4147b1750c2912f8fe6aab43779fb2",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "565b14dbb104670b336bf928fdc9ebe3bf8608f0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "45ca963708e346bdbce87efb9748626dbcc30e6c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "cb6b1d542ffff0e5daf76e1a53bacc4d14e3d923",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "464cbfe44dbe9bb85226f6e32615641b49dc7058",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c77c70b249e86899edfb5d1c3c973c9798595756",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "eff66ef3a3739da432af15933bc3cdea212ef49d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "92efe44edc88e9d5f50420787e70c675df97a66a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ab1451514b9ff674a6dd7be3f33506fe13fa8983",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7fe40937a28c8ed9dda9eaaa78f3e9ce0461efad",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "aad6796debacf0fc3272c154ab260b0bd3279977",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5ded7e581e4b959187be4828b9889532c1cd3d0c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "49b829998d488f6c15d0fb55fbb54094b2c877c0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "aa175c20539263e2b03a2cb91a5a7142129aee3f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "20804df90ebfdaeb2997c09acf12184ef34f1983",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "45e46bf105c62673943514f6d1df1928f45abce0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b47f7f03941d21ae93c212c42e93463cff90f978",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "96f4504e76afd87c528659ba4519856f6d6cf90f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "0b98a8cd5c0d62c5defa5d0956c5e584ab849ee7",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d9d2465f0d211fbf51504c5ed618c6a3314e5a2b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "48256e44f35f0f1ec07a108a501eab933580e408",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b343478a41be9f9f4dbc48d05ce41c3c6849b866",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7fcb1044e74393bde61373b6d1428a158a999440",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c01b1e1504bc44b92823e1eff27eebad15c317d2",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c84095d093b7263084a62b36f726f31a7b282dc6",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "88426aa3e31dc6caae1be72e2f1d43c92512cc13",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e1dfec58e36a3f81cb06dbdf09e8cba1ef9b633c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "23bb94e2e5874cf657bc3720b0e3b18cd2f64b78",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "31e5893900e736b1032d2129b4bc96fd2aee3350",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "95884ad6b95561bdde42eea55edc50fa23fb46a0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8675ccb7ce14fb5cb059bc7e1b3c6a064e51c1aa",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "467243dbd40172ecee342751a25b92bbfb696123",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "15fa098316f49b6048a82f92810ca2a68b0f7465",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6387b0e191926528edca5790554b319c6cbfa2e8",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1f3152976a9fbd1823b4a7f50f77bbbb9aaca7a7",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "0d8d00443e92c037f2042c5b4f09d43de7a8a16d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ec6eba9305a0a8e60f346c9259c7882f0e36b09c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "882dbcfc2e2fb9dd030a10e662898c611f60e642",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "20cf75b8cda5c245789b65bf2259fb2fc034eda4",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f35f1133f680341025b4adf8474fbcfbe5364cb2",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5e59402019662e1e61031b922f204ef2b4d46bf6",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a09471f6ba1918f526a94229fcd78368363c3ea6",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "796991f75f726b254164a8ecf34ef02248ec9073",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ac0f1be089829a5a14b98578a963f2485f7b6128",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1f9bef5d7ccd0922ed2512b5914dff474e941748",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "18638376c1eb2eb58448cf39c8d3e26b6761e305",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a7a8e0aecd62c293f4d2006499dc4a4d25c47d22",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9a1bc7ccaf4b36cd89813182ae121f7afbbf2b9c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "bda7cfa7bc165f0f929491f0f6f8e0a93fbf65fd",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9c506e4be3ec3515537d7be69dc6e245785a8ffc",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5ce066c37b3f6345b7afcbfbb102425d3cb4a884",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b724afb4b236d15eb55eba24e89f98e3c9879e6e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "406a79f08ceaa9b97d270d28d4ab210303fa4715",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "05fc9f5421a47b589d4bec87b8655a7e3515beaa",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "0378bbe78a8ccc1a5758aec1fc9385f6de1a7bd9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7042883fc0334a75ba7a674c967eb5b70f0273ca",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "dbee2b89bedea6a9e7610bf92089d779e3a75e60",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b1734a082a5dcedf07c27ba75d036b42be775a28",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "fe253ffdfdb94aec990472f99dc9ae20540ab859",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "2d43fd913f6210574704d3d2f40e0c1097e21d6e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "956165acdc54ba9c15aa2857981675e5057f392c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "542ba05ee4a3bdd221ad186ec53f4edfe3139f05",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f0baa7dbfbec29212335ab69f48c6284fca1f27c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "19872aaf9a178dcf5661c8b10f4eb752fced86ac",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "847b8e34cc301a85bf904af85e649cdf1e51fca2",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9d0f6390c2083c47470fa1f5a3c80b6fbe4fbb94",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d64d945f4a04c368a8e8863bb7c1f0e1e72195c6",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "eca0b03b0eda301180bb8cf36e64cc8139413636",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "be385cd2db37e649ddce10fbb0d3a672631de563",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f9fcfa1fd596c3b1ce08b3c38fad38ec7be6d276",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "241c36a50bc19d2d6c0a477c0d919de4f25ba185",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "cca9cbc73b7a89d767440f84e6c5f1f5abce67fc",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "223d27d16c7a6f7a598e4bec22e50cd2686b1806",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c58cc7e6b45730fc7dcb0e9fb2bd244b73bdc614",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b12aa03e32c695a8c8d9033eb25b5f27a1efe2c5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6f953aa7bb172dd80c0910a19a652eff365b18c9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "20c527ffd3f468d7f19a9b27996a5a9368a2768b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "76a4e43955658be78bfa2b8807c527820a6b545d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7cf013bff3daa55f322f4da669b7172346b945bc",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8f7fb5766131bf9f63843398dd3854d6409d7ead",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "eadc582377ea7c71d90e0b807b0329a5accd1bfa",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d8c06a80d3dade2d5fda066c1dea3d03ceb1b09b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e438189fa6b0668021fff2b93ef0977d0d1340ed",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "4c1abdd894911d9790808105c1e0a5bd194ff88f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "245621ca3bf6d822cad26ab857fb01578c920528",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "01d81e78f73c993dcf5234fcdda35ab5cfd41cc5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ca4f3cfc81b7f3923a192b776094f34d7ec0d964",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5f6a986b1cad8d25fd6e9927c2c32651f786c023",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6946f3031af64a59845aa17358b3b7ae42799af4",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "714b81a50a138babe42162f42bf1ad69fbb226b0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "787456ac3e03469e8d06099b9b03775333d4c373",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "718305dfccdf40e9b4997c6228148cac819ad440",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "407c076424265fd82a7bcacb5c11665c904ce35f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "dd37fc10975b7d5940716b1b4a6546d5dcf4c92c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f03f0205ab1dc7325a2f0864aacf68ea7505f36b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9685c5b67b06bf30d80454ccce424fdf22f44ce9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9522cfb39e33d3cb62723bc36f431f35c6c26cfb",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "75620dd4d681fd6c6133d8da9e03e669442496d3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9ff33b3f1575e49e4c6abfa4d7e4664a826e6731",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8b2817bc05481e139ef892ba0be2d72aead5f703",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "3bc49554295d5767e0f004ba8a7a8fa3567f5ec1",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "eba44b18df4546d124382049926ef2d7743d9e6b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e891a68c132dabc3a404eafe3b9b77376313465b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "90cd903f9bfd6b3f6c15f4e3674cabfea35a5058",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8ed3f3ad5d46e2b822092a328a84b8d2a35bde1c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "588fece871a8757c7ad9d91fbabcba7313472ff8",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a356eeabc9b1ed2c445d977a7b23e04dc151f3ed",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8c38d6baacb047a8943d94a423dbb986cc1bb21d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ad9401282fe080aa67cdae2f92794f2334499f3a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8d10d159ead0b4582f702a54f19466051feb2328",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "51b7199ab0c3afb1cdef59af228aba64c5092bc5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "2d8a821592440e4908ddd44418d4a77a7b4d757d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "976d041b76cf35570ec3a8f784996e0e811d2ffa",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "becb89fe61f48bf8c046c2e935c517ff26c2661c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f3dc12ff5920c67294dd7184c027ce3b899c4f47",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "984f1986d1530f7ed9f15c13ef1eba6a44d42230",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "51b10a267960323dd91b66e5b61af6b717073eb3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "62365feb646647b2da229b4ac3acb2174794cdf5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9e1a508be4d335d9ccac6f90b7c568bc5c5fe182",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f0ff5510a6894eb61e67f199edc3220c25faf332",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "03f876ea190586811e286f128b5de15b9982581d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "34ca54a94d8663dbd31094c9dc633eb3eba3ff9f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6f2231926071f902134e5664b03c66789e983a31",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "cf2ba5ad4538c209ee429449b9eb3edb5ad52641",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "4e154bb57ed64692aa701aa89b963198594fcb05",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "90e381d7c8c4efbfda4e5eecc4c5590e5ecbd65e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "be883fd8ccca035e627317ba75839041109fcf47",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1ffad89199b8103ad0e8e7903bc4e8f53a7e05f9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "28b9e822d21bd187e24f99cf1861bec268747169",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "96f919a171222f9d4b7e039ae12d72bafb0a7ce6",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "44fb2d1eed1ea8ed62d4061b9c6daa011ea04a26",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a9d7b17d3551eeeb366b82afe6154fa956de7513",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "498f2a15fd60ca9b2b90d5b52ed5a6bb661ca692",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c8a5c8fca630ca764c415868f4249bacbe9469e2",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d3aa3c1c15e91fc4b78d614638060dd87b9ac199",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b9b32e10bfb596f729d9457d1820bb8ea88688d1",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "be307cc46fcfdc37bca88741c27f5e4a98ec0a81",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "49938f49af3427b9dc55030cfd624319caeebf4b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "95164c1c83ffa175e043623e7b31f5cb1746d296",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "31108de8039e2563a8c83c5ab0549b0c0eb6d1fa",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d29ef70755bfbb1993e644f4c45b88ef71c0d2c8",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "0426e72c87a5cce9a0fc6a48b33b7531efd49a10",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "34b480d9db5b12aefec19179c70aa6863dc1e74e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5edf9e966693f0f1be4f0d8e11ee0c6dde5eb02d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "2f784502e52e15548babb2e4b9133f0a0731ba44",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9f04de9965554acb7be16241333210ea5faeee0e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c2a2acdf90eef0c7f24f5ec5a34d0d28afceb9fc",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "10b15eaec7ad1e2da16db068ec65713363a0d1e9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f75243cba5cf32c1c8fa919f1e66d86b5af099c0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d16cea42783f17d2e87ef0320d4cb876652f443f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "196d6a9da2adcca8b912d91125f6f4eb94850b44",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1584871a7cdca3b055f90ee43ffeb355eb8d8db3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5286d42d5bc5e2befcf3a254163e7c0d3394d286",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b2d060cf52c5746f37502b9e887ec05ce516e576",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b98d25f95bd68d1e2b8df88aeed9809314020ea5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "48ad03239674d7308d32e838f6fd6122bc7f0db4",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e4af0c0bd1be867390df10005d38b535e955509b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f9b16cd19f84523ed3ffdbf65df065732cec3b77",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6d15dd0ebd11f170f6918d04fb94a5d8e6a56f38",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "107cdc6d2f6a8a6417671b5ebcf92acbc907c95a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "479c8d706179d7279fd12a7987c56e47cfc9b2aa",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9f9dc19503563f0fb5311e528924560a499838ea",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "091c14affa80304f9b45d15f82516b6da378a524",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9d33535d23fbb98b6c41e7eaa52a7bc2e81b435e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e44835f0b60ad7c360f87125a2ad4e63f383b250",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "92ad9f24b2d91490d532e0c829f19becad2c648f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b954d0f74f1f84c56cfb51a049c5a30bf77e8c4e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "95bb194dd95d868fddc2b82ab2fe9dbb541f2c4f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "238f230a83d604d179deb36a176deee80c98374f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "2ac29f5bce9e0a4df7ac14960ec63e47c7260f92",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "44b76aef626c9ebc6dac0d19edc91331a48ec532",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "762cd4ddea991dbfc6e87dcb68ad7d4564fda52e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d0389ce1d31f82f77e67bee8718dc1f09678004e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e76343852317c7ecae455a0c8fd72d5853bfbeac",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "bb5c7f90dd23f91e06214674d3620d42e13e8b1b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ba7bc46dfb4e89ede75f68b5d2b545610fec0fee",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "09e0903daf5f2096c7ae72f0fd4e3249affdcaa4",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ca5641a5ae79b1598104ebbd8a14ec714fc1dece",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9c332cfe528d7bfc62aaaa1ca1ed277950ef8b48",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9195d3edae4f41889ad693db311a5a78613cf8b9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5a7adb5a3eb5132611256f87b1093626124f7272",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "08c46e3a2a45e1190d57ac151c6bdcb89a7b0107",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b7f82d74ec197c0fa16215edf6ada2fcae41ebae",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "11f6a10ca1495b43a8d60348c11cef11ac3805c6",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6d9ae99d1a1db524c9b1f44ae7e2c9610576fe4b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ffb3da01e0b0af799ffc6c1cc82e587171fde44e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6019e6b1686d58ddea252aa61a25ea79a63bf278",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e3240f5703650ef631a9562b523688f2c17beddb",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "38eaf0ebd51b250ba6e66cb93c25680574d8c5dc",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "bc7cd107bca61b480a50f2e9cce6e531c3d19e37",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1ff0e119f2914e2d3b2ac4170af787e810dbe821",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d3319754b2f9e057ca99e921daf3423506b762c5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8ea5ed61c0e32815c57c85f864b66496090f5f8d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "4626f6fd465c2a26ba964eefaabe8b4888cd6e77",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "56c0d7c7b33a5718a0b72bd47477e4ee10aac744",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1b11e90aa2580cfbdc124abacbe6aea3afaa822f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7844c63e0e1e20ba741ab3ba8cfb8a086e47fe03",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e55ded75a5a36f249ce0cffcfeb12329b6b0746b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "68cdf81962c43c1b79e522b15b5fcdc5ae23dc4b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "dfc571c9666f6783fd58ed12d80490d589ac5167",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7400b80a14de0a831bd26d127cfb4961bb1cc995",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "000cf58d2af3744f003dbc29621ecb885b4a9bd0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "cc7ba66d3d4b6c54701e7e1ccdf6d29335283ef9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f9011617315ac9a7e2516597eb773b102f0d84d7",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b9e1f15154406322a1986a597d5f3760b79fea16",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "633db3a77a42cb78c60e59568b29a4c34a2ab130",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ac437d83baafa6594cb9862ff932d4a9cded30de",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "481f8aa63270e396f61982d8be7234d249ce2764",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "4310c457e03f6dcf9c2aef4d69a974f5fe8bfaba",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a235a88c21741783b92e7d7a03c39addce04504f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "09a46f34ed6e12ab978ed372f658c9910d3d38e4",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "bfb7a02187ad3eec42614d2014bbc2e70be825cf",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9d615bb499ea9718d1c3923711bfcf7d5a4a68c8",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "91dd7f7b6c73118aca70ab87004f37bd19a119b9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "31f636f4625cf72b90d25b21d4721771900016c5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d2c70405fbe297ec84c8fcf9a79b906410d96efc",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "60b1f893e06d0235eabe95e15a82943fc84c36c7",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d6dda206c322c06dba84a8706d62f4c154474b54",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "061a9787e199ca0c85735232aaef335dce93e7c6",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5d09b8cc46be44e9b7771f8a02543d0b79848768",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6acd4ffe5f3209ca687185a2473471e5a799b1de",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "465fc88b21f1d25dc828b7e0aeef9223575c17b6",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "2873987392bc92c2586c0cb65ee4deba18e12356",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e5b64f77f64e33df25e2459f7d29e9f9bee6a1c1",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a86707d9211c266fbe4def4e7fdc3ceb64648888",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e45636ec27c1fda9fe10c39f9417038f3c40f3d4",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "cfbddc23d286f0b823e373b9bff9db78703d988a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b978e6e4fc47c4f61336143a860a559bc262b43a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "91428bae4b12d9af69a12ca114a0ce47207bf57c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "59655eeebbb2d7edbaa66f6063946d7c2f19d2b0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9ebd02c600ffa13055e8669804c8dd563f815b2c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b19a00fea6970deec6077fd22d88b99ffa9d5985",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "32a63f52d2343e4958331ab28dac516b0553b4d6",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5803a061728b9e6402ac0f36bc3d03d7338606d9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f0562a1b3380eff0ea8670fe9c21d0f3a993a000",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "2659d1c1cae29247460ccb28e631d7ec12959cc9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "16349e9ae3fcef072e611a20088cba6e76b72125",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7b1f5c4ebd7069700bb4af895ac35d7a30ca8d15",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d8bb6d5b902eb6babe6da858bbe9f6f21aef68ad",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "2695bc295caa7c6cb96f2e6b539546ad6896f68f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b0282e19904ae18304be0fdd9854f1fd96789d25",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "3115b09609939f38582249a2f25898a61f54f197",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "aebe6f10dfb21e057344026df06ec7346597b637",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d84856e5d5a9f6c1d77d810da8abfec4455d9a1b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ff60ebc6981181ddcc98f44dd875a64015fc254a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "81154e618034260c7cf5e6ab83ada71215e31a4b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b959fb3251088ee9e4dd52b42aac36214e3cc84a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "de01258778a6c6d4aa0207a88ba294e5bdf32f3f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "186c12fd0648c83986b6849706fa43e0a4e50102",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "53f48d2f6bf3ffe716ca9067fb0b9275f7665780",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "2f49925eb06055e85bc2495838783b01d6dc192b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "da91b605fe11f7c5560430728812faecbea20f05",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6deaac84e9ad5144ea33c67635616d7c6b512023",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e3827ea57c8b5928f74b55550b6d42bf8c10d645",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b981551b0c34aa2cc36b80cc54cf53faa30b7c31",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "302e9b9153ec1d2c39187151a425ffac9275f6b6",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8944470d6be0fbbda67f43824da1c1e451903bfa",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "39d19de139c3651e18a9c67a37684efa3065eb6f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e7f50b6a3a0276e8bd309a96a0f49cfddfcf95b0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "bcdab51721fb94db8e3506d1f4fb766a35972fd1",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "3d4bd3d0b5b59e3ca2e24c2a306d14b7e8c45902",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5466c5f9b4ed8f8a2adf63452dc2ff8e5e3a1e00",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "899f1c8bf01b9cde90929bc4290a62a410d1d077",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ebdf88f02fb973437a5a0626b2c7421390d9ad42",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "262c5c62b5d920c53b18e0bd6a0af1eaab013f7b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "16bfac106f46f44695bbefddcdb247ac2b185c63",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c5283320ee3521ed0d4f85cad072ef370a7bf8b4",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a2dba1b81e6962e4d31315e75cb4136546948463",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "04622bb0323f6506c73a448018f3f449cb8fb060",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "217367812716d63e334722d9d1a3f2c4e4187594",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ce16e30ecec47fae5a176bc8a47aba50d3c2ec57",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "aa511e01e486a4879af15ba7ce6bde1f8f7b7a6d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9baeae3f5cd7b5037607e7e49cbc0a763ff17cb3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "18e0ae4ee1566d900ee32194061c165b03b4af91",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "45050cb05d97b9413d6e22e676f7a840c574c62f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f42ff839f0684397e242eca7510f2b67c04851ea",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ed93a7d0083f634f60497f005d3406011dc9e2cf",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "618a913d350378141a5c9098809a2361be143478",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "acdcf9fff628f5465c4330074b3a198a8afbd854",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8a51c4245f24709d8629344d2b2cb051d2593759",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c295263717b59d4a927e89cd154b7643ce16b750",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "aa108f38dfb95df48a9c41f12bf621764f77d6a1",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "2ae5a52a354bc1a0c2f088767bbf4a2a763ec2dc",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "3334c532d54e3ad8530bb834ce1bad5d0b9006a7",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "4dcca126092f4fd45a0668e9c9e74281ed52eb81",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "853ff4771e36505bd6082b17b4b49af7a866329b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "4fd2229a778070cf84d9b94d240f0403bc8fd411",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "99600d25d87deedaf5a106c9542879ef895fc9c9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "05afd4f897a10502dcc059358eab40962c5d90dc",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "3f2a8c0a63cf314c931140fffa223ce4dcce6ef2",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "131167d2d50f70dc42ca68bd82c7cb5cdedd5840",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "327240a308912107a6fc25381f92a9808d629800",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9d9e6b994455baec7eabd49b417afef9dace0dd3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ce3140601ebe4d8f1ec893e853981c4ceee18571",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "2b0394f8f474680544219de667fb8ffffa3dd01b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "47b7e82a8bd68f3128ebda48de283acd3feaf5e5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a7063c1e40fbdca5873311f301946f76b80295d7",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "4be3978875178e1f2a0dc4412ded5869bf044d29",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "4c5d4ab8f93f4b01219f0bc2614dc20a621d719a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5274c990f4ebe6447cd5b3f8d69f80a95c54e8e1",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "93a2f408ea38846863f38fc2c5d51eb962ad07b6",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "78b1ba9087a2cd3ece2e0fee7c2c9f6ed8746ec7",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5d9beb446854cc654404d0a8e1b141c91e5878f3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ff669ed4397dd897e64af59d744f0ef22a63570e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8779a951a28106dbf6502c31af93ec5493a112d8",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a67f1e49de2b9ae42d0079afbf151f93c4bd6dbd",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "dd1ea1475e7c0220441f19e82a53eb9d58e9ddf1",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d6394adae114de88ffff1084a2fe847837ac382c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "76a4fa58bfdc439e67309e6d6d89a753915b6e1d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "25c19188b578d29bd27f5acea98a69f1a0377b6d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d2116cca2a13c68921de444e62dea8ac97489ebf",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "febdcb8cde7231a0df7d1042f514860980652897",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e78f1b6cb83deab0c85df9d6b354f8dee53e5f0d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e6d7c8fa75d8abae1a230363b8a2da795f1a7bbc",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "28a78953714556be948b7e4b8b0a93f86190591d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "098093a57decc3441eae2fc7964c8934df6aced8",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "521f5626297e834049e8f8af94bac09ede3b8143",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6a88895ce3b1afc300b0fda95a5010dd315f0ff0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "38637f9c1e959974f5f3364294518e97e700cf6a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c4f4eb948644e221fd6b549fdcbdd7fcc8339156",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f5a7b990d902402b0d738ca18f0f587330db87e7",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6487443cbb971f718f3b310c651ef754cb601ee9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "be4339701e29c91f757c4e4821bd396ef0d8695f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a8f467cdae105cf85472a0e070101ebb666c6f8d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "241eb904e01a712be11e46fcdfc73e34586cbff5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8a1674ee43c5822057794299116c3fd5241a3370",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e84ccffaaf20a9f72ced912aa69ac0e441b7b164",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a3cd3743c375858c43567c5d43b191f428595709",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "14505c175a8c1e98535757027f36210b07de213c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "046ac2d4c910e5386d102a8ee5aa99a4841b9184",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c6744c53f5cb16dec9ef74a419ce6028a60e96a0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ab32867780157d160ef63ff77a4a80803b484aed",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8030147d68a50fa05f08b0ee2faa40e1a1271aaf",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9016d747ffd8bde49c7862ea45df55412ea233e8",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7ff968cf43222f2dc5fe04524ce9753c55abeaa5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "fedbb92a5b2dd7a20dc7a048e7a973b74b2540c9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "772838cfd2b5e784ccb72adcac7385f98da50344",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "3a78a8fb90c6a2fcdd6cc0b6e6350ae3048bd647",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "44fccddf553e80c29e055cb9a1d59630762917bf",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "88f19d705ae07e5ecc3edc16d2e3cf8fe8256399",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "36a2c850f5191744a3c8577309389beb0ccaeb03",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "da2e78857226a9d6d9fa0d6ed56af2f778a7ca9f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "3f35a7edc32573e61163f456c7403234fbdee7c3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1e43fc726292cc82a4a1707bce7878efb295f90d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e08525072a88e6a99ee2026352fb133f40e7c3ee",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c8513e6f6766a6bf7bd9eed4b0b976a3fb8c5577",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7e718f0ba703f7bca0cb0be2b717cdd6cc48d888",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "206412a7ea01ad44a93abbb496904ae139ea37e7",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b89cf91c0c78456349e869efb97411aa01e747b9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c48b11823da119c89a781aa26a385eb0bf266054",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f2382efdb771e5ad01d4b4784eebfdbd63a06cfe",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "52869f4fcfdf3bba493f97a902815617bc0e0198",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a5185a078df686aa863427536cbfd89ebdd9999e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "3a6ce23580e7c18af7fd5e7e51c02598bbcc51ac",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b6eb283e8a61044d3f53ce7ec7dc6c26fd6e16ff",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "803b88d77b889a4022b1b5e3f47160b64ad57105",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "0c39ef6b250c53210577ff001ab4fefd1d93954f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ea153312c4b5db4f05e5ef14d8bf4ef908ac97cd",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "30a862604b3793a33da28c096ae26111b86447c7",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8c97f2bc8bc84b6c74c415073b5785ac24bccddc",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a6fc68e14b8cb9c18d688b2e578823894d9e5e42",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c179fb9170e2472b34ca348bc43d2d57b0fbcdc7",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "25a8e984eb655429d1cf700788b67f8de2b73cb0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "0163d3aa76d452fe2c1d864790451dcfd3d5cd5e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "30e8a07cc20294a191a79f95a76d734e4032ce4d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5c7eb254461c9053c2b9b6d044d09a2824768883",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "07abef07ed540437aeb1a7de576757a151e97c41",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c8d0da83743ff6ed707fe0f4df683d5aa0bfcdd8",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "10aea61a24c23e26098333c59d122d6c9335d6ee",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9dd88f08fcb9205212a0687192d960462b6efdc4",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9c3da93dd93738590a2be51b5cd00733d7dbaa89",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "84a018d17f242dbd949dd5d27cab111744948000",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ceafab1436c4aef888ac49d1160caad0eea7b03d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6dc45c6c4210f117099a1a31b50288f868630ddc",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "00a2484f9a8d6f83b14ae2988de14c8adc992280",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "4e778b56900a177b35aa4c8fda8a175eb417313a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f1c342ac9d12fcf429663c7710d8a3dbc0af44f8",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e5d86c9d1d5de1934c77d2ea4f97f8cd6d669bb8",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "45b3d6f8e3dc818cad15e9251897f45782aacec0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5f0dcd9a6d0117e7bb2c56f5fcf3ea68ce0a9d30",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d97128ff1507a1bbf8aa2e22ef0d1bb1e655703d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "28ce04e5ad655a9d91f66dafe83b5cb082d9a4f9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "0e1eddee7aea70af099f763273d1ab45d1151c09",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "177913d2650c6f3ff95d6646d0cd4c72266c2943",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b76a799c4346ba16caf468e0c8f191949ff612b4",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a885ec93e955ff3e50be81da9ddab2c02207ad4f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "601df56b76df7dbda720361a536ab66e492f1b25",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d5ebc3c2247b9aca5f76401f51b2f702e5231a6f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "2f279dd855a76cc28c976787217594c5e54f5b09",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ba988eec2778370df629913a30baae3f66abba8c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "3333f3b2a6a5035b7f42a33dd23b3e841b0768b1",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "adb1cbc4878fed6a061b461d0e5c55256de6cc61",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c8dee24b82e8b91017e7446b7ab6edfec698b64e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8626336fa1278e7f22157865a156b251eadff84d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "bc696e9586faada13c9715135a7c1563c792ac0a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "33ce2b78ade67899287a83a1d9111461396d39b9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "146274cd462625258b584e76366de35cf57e4a1e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "986f57e7870ad5b5870ff135e0ca9269b883c144",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "757619c18fb2c9da8b643c0646d4a4aaa4346a91",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "55d037fa69f77dc8df7f395186f0a702626216ba",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "45f59521c67a8583813e4e84bf0cdce9f819651f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "582e742bbc8235514f1c5001019a1765edc37adb",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "337539557eac8e4d003db7a964984aeab4e3f389",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a43045b32929b4f47c80320264a0b8987b734f34",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "05cce674fa379c576ba2658f5c6428f3da594ef5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "14628691417d974c4273bb77c3d9f898a70d0976",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "4884dc87baaf3ca7126dd297defece7da8a6ce97",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "37f5c7af19473e91e507914d2cea301b9c204bb7",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "443845c249fe59149ab97af4670874092dc38995",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ce385ab72e46a49e0a6ddd927eee6b431dee789c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "95e3b69402cd40555d8a9654833b552d7c7e3d9d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c05a7c57b2d15f918a5e89719d4cec4b4a5c23fd",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "2ba8c784e7cc2edf3c1eb258bdbc8f61fa64bf0f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5a348a49275db78d9a17e5ff166570533f850d37",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "af567eeb1973f594ab44d998a9ac23485522c896",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "2bff46a40d2bf2a69ccd9bdd749d4aa0d1a7de66",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "25f7f5587bd583300f761329d94f3c6c8af32ddf",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5e020b5880a97c8530b39986b504c5f28fcbcd33",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "0147ec40145581b7a07a8a431c2043db501a45e9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "0a3f21b230e72340a9baff139ff1bb30f50a67d7",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "18ae729e2792c709b7054cb0de25f4d331d7558e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d3acb1883353e2b74264691c40c640fb197695d2",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6f67a81cf418f18f87084fb869db1816ce6e92ec",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "624b975b484ce37baec561296749039fddebe0b5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a3f1358e3b5c475523467bd2b18f4ade7b61427c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b44915da9caf6473b0edb6b753c5d38feedab951",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "974a95938410c11323aeb51dd2bfeaea14439735",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6b9fe875268101566583ac7137a5f6ae234b4e84",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "42448cb80d1f949bc9dd7f642441c5bcabcb8e93",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6384f075536835801a7588a6192c81db8d619900",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "03f534d4a9516c37990982ea8072df9d4d43d88e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "03e920ec5707f32a603410844a99fec5ce03e0c7",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "80850fb333c20085ac5a438bafee826c37446db5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "fe983ed81b97aa8b232bbdde57df08f5e9c32b0d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "11c942a3b5bdcf046c334d79d65b0ba06e84107d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "91d3690a59ba5c0a72dce7a8bc37f7731793a4a2",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e19ad0575d597bcd0a6dd74ea54a1bc7fcfe5e3d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "44fdc04f8cba9100bfc81b94887b236375c31bf3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "fee62c1ad88121de22ce9519687ebd9710214ad1",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5fe8c8428f4e381f2a2dff5e1e04ad43d9bbbeac",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f7e3590d99c97acf7d5d43d0b6fa047e6ae32c44",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6907e34c3b25e189ba4cb7cad36afff53d5893a1",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "4852dad6a39a57abc49998f54fea6473b6abe3f9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7a77b3f87ebc0449109433d965436d9912ed61e0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e9ada637017068ad9adb2e956f07288b1d44f60b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ca3658933733f7f8ccc6b4c806c75bdf0998bfa0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6e88ad7a048b3db32d50034c2884a4f39e79662e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "077bb3c8a77d3e2b08ede232f2b0a1ea2a6c501f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "17a28728672850924649f840910513a277a6a70d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "3f55841aa042a578126c5739607b5c0d5488f004",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9ba36a30fb1e82bcc4deb1fc803d002aea95fce2",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7ecccf50ae46ea0f62bfbfa37525797ad1efee0c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7148f155933ea97410f30d7e67ebf6e72acaf953",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f585d02a3cbe217caaab41de43e22570f4b0db8f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7be35d62d0396bb6f906c0f96c383ae9298fe1d8",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9b06cae589b0cfa0f0a37ababb6c17b16b586bb6",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9fc331b4bc3735854910f24c1387e5a41b96e8ad",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "fc0af0271b99e43b8bd10a66cfa78b545affa694",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "3f5af4acb0d3aa04b7e68037b11b073acac28172",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "cea339de0fabe5a8988a80754e4efe9650bd71c8",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "edb6d9edf46afd7bc6ad6accdd446a3c7969c249",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "453d95dcc2cd4d0f829dc8c8900a4eb174b3917b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "2e7a32ed9cc761b2f497397638297dfba46cda6b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "92e4755ec32d524897c02508c113a1ab84b1a969",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e3d0e8e58b0cff0f7b16e2df2936d42f45cc20d2",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1fd2e19392c6e9cb3e4bccc29a581ab766e5eaa5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "4377d18a9dd3d7bb48cfd6ebaf96609b1f9b05f9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "85604b44cd2e243789d2ecbe09f86a228f2bb7ea",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "155df75347da8bbe937aa5d1a0667c6859a1b17c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6ffd0951478fbd6a2c0bde8092c187a61ef50e0f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a8b01f1d0c1184bb48c82e721c9346c540aa960a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "4f60e926141d2cef248272e4b719b8baa3659741",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1f98174ab0b56533a95adadead69c0c0c8ff3805",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "02a4ecfec982417a9a0bb373ddc5b2240b864403",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7d5329f0fdf1247b886e48ec6a2c92457304a2cd",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c50628b1a8834228a6ea30fa5c0f3907b8ddcc05",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8c2772932bde87cb915f9cf8ccdbe57b4ddf8e6a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "2245ea5b98ecfb185bfc656cb93d350eef9bb5b3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "603d6b2a09f4269f7585d0f80eba481a19da7d0a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "425b35df65e076df93bf3ff1249e69266a596958",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "cc5ff6f60774ce0f80e89773eecd5d6857e835a9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "04b098232ab3410484bfadc19f844be30de0b5ee",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "0eba627280dea1ba7b5fb79e102c863a78a836aa",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "bd1a86701ecd332b9b5c9d3ed92b05a4881da24a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b1e5c81df55f9ea1b4110afa3ee5be360404461c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a07b5ec7a48131d2185577fe578bed4aeea71507",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "2ced0e1a3bd0127364fa9d7ab7729790c35b2bd2",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "805d3ab5bb56234e4cb627c0aff30e2440ffa736",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "85d4a00305c283f28440e8bf3705dbff168c090c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "af1da9dae5736d062f3cdc4f94f14a71ec83c5c5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7c2628e95473aaded1f1e27a3f2c2650d7ba2ad0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8ffc98d8603d3614131eb9e3f7dca0e73b0f4073",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "eef210cb9b85f46351ae69367c19e71155b2bbbb",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c7f6beab34fb6319e80d70aef2423c592e8b6ea4",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a75b7225e915b98e8d5453ffd31a57cb1ad48917",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9431e538423745cdeaebf19626689b888a87f7a9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "db49dae30d7e4749f4bccd0864c9940595038347",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c4112184fbefa641b53a1b5fe3ed3f8a4b736ceb",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "20fed99e276e10db5fc9333fcddfb09825087c80",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f6cd1f95fd58b7772c8e850e5496361a9875fcff",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "97ca7e0ef6263173a5e554711b9548fbecd982ce",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6279fca8de9c6807e150e0c06550c31be3637e28",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7fb0d5ea6f2939a7649cc889ebafdf92231835e5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "adcb89c77e7ed154692e22ee2f95d1ca871c18cd",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b42ec04a0abea6dc414ac7e8153f2df8b081392e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e5418c4b026701371c816f7d516695e681df8206",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "cce61a2bfbbe8f0a863140d7f395d530ad0db7fa",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "21b61ad9bd056e83aa404041d9095f0f197aeded",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f273ac3043aad92b9b1ba42c72f3652ec48291f7",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9f09a939c0ca5cc741fed1f37d4907e3910dd38c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b5fcd7fa31cf94a9781be1e26e75ca16ae93771d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5851ac967a07150e17dfb45bb2eff79cf71f86e0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ebf63b12d24412dba2af49dcaf687a6c7d51f232",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "0698da6b8b1116e9a74c34fcafeafd508cc32ec3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6fef74a7bf504b52ff4f0a6030c3db2b53698ef1",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "3053112afba80cfc2cc16f3863cfafcf4a647154",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "4a1dc2d89be12214ba7a2256b79f91a190a83f4b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "0964b9558828e1b2bc2765cabbf511d4a87497e2",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e5f213c9d898716ddaae2470e3ba2657776d65b2",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b323b78a87c8fa4942e8bc7ebf9af18bdf87a89f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "df48add272284ed2ad40359eef0c74b10e0cc435",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "90ff56a774548c9c0aedc079da0bd8318f629afe",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ae766b06aec541a855664147bfe6f40a908956c2",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9bed072e4fdb14e9de4b586411295508ebc3b2b6",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5822e2b587165a9ae27af9d6f50659b22ae89f64",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5fa23d05fc449d63bf157a62bda6d69c9bc96e95",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "0de9fff3fcafce2203e8e3521a9da3a55956c665",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "0d853dc74b4587d79e3eb9d5cc1bde71c3adb1da",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "da54ec5bdeafcf54ff797ec89098f3e470db48a1",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7834fc86448434b5538ce4306545d0275c08f1d3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "2c4fae58b0f6e30e06fbc80b64be5444dfcb2438",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "76a9aaa50ea57702915f7020b8962fff01e3b185",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "55c2e208fe258f5f9cf482518ee9f5cb8eb97edb",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f0b8a4be8aec82d6662391b267b41f519e2d0c9e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "72aa40c1a4a7da661d6f6b858621846ea6ebb12e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b3f21a3ef677700f6d2f71ccc11c0db6a1ca45b2",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9fc0e17b2f8f916111cc2ed1ae56f7c282b45eeb",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "75ad80cf8e8e698e2f4772d213e16dc6496ae7cc",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "21a07404089246b979cb2abc09803756aaa9a986",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "fe8f60c0ada5bd150ac96b620b9752b12bb2a11e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f2708618bfa81d071fb2c44001482d5bc6bb579f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "29728c07a89b8cd3a85e4345717bd855a62b41f3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b4e09813b008b03c4d6cdce0605b82bce8e4a466",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c95584c3c16a99f08787ce83544229fde4a29b33",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "77ba8719b69c77459afbc9080373384c9ded402a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "051ef4dd9cb418e99dc1a37a16443cf418b98180",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a7ac8c195745d1c36f0756086107e25427dd6f9b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "92f014f4bb74cb98effb35eb843475bac7c8e2f7",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9d5fc6aa0efe0232710ac1910aaf67f845861452",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8f3edd731d7fbe5f091efa1dfb4ccafd6ac82784",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "392b64e756ec24f7403d2f966561278ce10417ad",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "63782430c210296110a5d4f173554ba1d2dc3176",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "aa37f591ea5b295e73f86068276853d9d766cafa",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "fccbadd322f849e775e8e52cd382603998f8d211",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1193fca6a42d937916f5b9a4d070bfa56f67547d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "144320a0a6797e6704c959dd332b2cffbfd82fb8",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "aa0ef896b6faff9e7c38fb094516653f9488d8f8",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "174a219c25b3796c505d7aa8efe5b42db0b7428b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "298e9ade935e81df8c55eff81f6924d2bb588fb6",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7b29194d9e46ceedc040bf947fe10d1954a81168",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "822b6dd3c906fb7cb223958e90ab111e3bad938d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "230432da6c41e978d6e7d6a2865c41be0b136717",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "f9c63e594e89a50a036b069106f4fb908caf337b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b7eeb44a7bdfdcf89d68d095fd4129c0770c0c07",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e2656a29dc10e4c44c4c3ed4148c6b14a7f27ae6",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d4f2a49a3f56500787ae92224d1680357bc2e8c5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "66be65a2cda665c33983175b21f8eeefb451fe46",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b2d88da9ba7eb1e48e0addaeef2f32bd30cf0df4",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "107e7f74e665d18ba189168aecafe186309641f0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "fe6249974b1718c6329cc09928cafbd48a017599",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "130810bfbbfe90a184cc5fbb5485e813ec546016",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "16d1570fc4a703d06108af95378a633da6838745",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "fb4a0af9d286f2dd5e347b19987380d820e698fd",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "0bc56c4c29bfd4906a9467bddc102bd07482c159",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "40222c0a9fc42176179428a20632d744deacd34d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "dea6737bc183340a0f6c48ffcf644f78cb358a43",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5676094e485a32e8fb64a7936aa01c914e24fe7b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9340de30b00b1b43d88d5f64b369c3a07f50f886",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "53376960c0fe00fb3d71bf29a3a3b80252879d5e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "bcd6c22a96c21725c85c18bce862c49ca15b2593",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e8fde6b961195244d52d8ae609d36654adb0bd6e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8fdf9f8b20e27d523138c3537e22f8820dd1cdf5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "13b7103ab8107e5db4ff7a2ebd07700268b4fa2b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d750b2eadde854d3e829dba578ac73fce7cf3e96",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6fc0aa9827500687be69beaa87baa3b6b49fccc2",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a87d9e422d52f9f6cc63871ce09d414ad723c74a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "59cba45b28046264330aaedbab609590404f95af",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6658a0a2fc93bd1e75ef0d2ce683b7eb0999a311",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d079a4d1cc0650524d03065cebc527d9a1226d10",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6ddb2c3a40532f4aa06a9fb9a71319f00dac68d2",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1013014af6d43169a9c2127ecd0b509ba83ad097",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "72eb5afc31656ba92e186f2b2e5834ab1a4c63d7",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1a709432ed52b6b138f5a3bfeb647c94160b9d3a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "17f3a429a5c9a243abb61b078d9511c523c3954e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "bfbb1f3e1749ec40297d9a0e88d22be51dd2923d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "3033b5226db085f2c1b83ba07be6dfbc46c2b9f5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ff06ddd2facfef8b53e8a7a2622d9a576198c42d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b9acc260b4a4c8be2a0783cdd0420e05d1c65183",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8430a6fbadb838123df0e455d3b72a893529402d",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "dfa53bcb40a1804359d4601fae5b5c792d5865d4",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "279ff019a8a94a93f58d19c82150bb943e9952ff",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8a2205bec5d79d910fa938572db7962671c76f82",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e440b8b2d002737fd3aa745b41581b8e685da430",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6366f2b8e59c1d570f8ac7fc1c647a6c6866c8b9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "994dc325c4ddf60e422be819656b4ba497c2c8e0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5043dce21327436bd8290e47b541b8284a4d8bf7",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "06654ab24ea8b33512bdf67268dc1330870d8e8e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "0771b631fc5c3771a2c8f1d8689c47b66dbc8587",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "07cb95963e87d9f2d483aa9b048d140928cc1bed",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8d0dd60c09de818d344026804415204650739b77",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c300fc6c7bf40f67bdaf6848c5a885630726a72a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "15643e1db8033a98d80a8c9367e61d3e45bd4117",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "2cc5808a05e64302d959d0faaaa0e551d546f15e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b2433c70d189718543bea0797f2126bf1699bd66",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7f2df2e406cd68e7990b5c6e6481017018d21812",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "fa27882c8b6414e268440ad7453c18fe672569f0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "3d9e9de9fddce59216e8ca60c567b06b7b2b4638",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "ef16fad43aff6e907539cf6a2ec76c6433b969ad",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "3043acff218a1c6566bfa0d61ada708af482af5f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "37e684006f65390a58d49866cd1c8ecec68d0f83",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7d787906d462542a5719c3b961fadd7613141f37",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "feee3f7997125321a9c1abca9e4e59acfe285ac3",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b2d7f0db66cf074710dba9be74217e7e299db685",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "b845dd7a93c0c55ec21fa02e87165ad244ec9a6e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "c95e29100bbbf842b40b36ecc481531cc058c028",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "e8efe6e45c3d33255e807697d87c98733c02e4c0",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "bd116cd3db2fbbc73e629716eb7f0d162b4195df",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "fee3841ac8d2369e09d8a70ce6d21510f221ebbe",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "d8a7ea6bc9e7d53fa1b313138b9acb267bbf3f8e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "70e28cbb121900c6af7438c116d8b09f04b18df6",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "bee5b612e9a3ead1003b496e61b76fdde49573b5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "62f8f2fa616069bc3045c2478637865681de2315",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "0c57d25b5f27a767ef132847bbe68eb70f7d2dcd",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8d53b662391551666536c2cc1e912678611ba31b",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "dcd7c356d304e373682bc6463671aac95d9d5416",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5b4f35ea190fe4a97ca638704e6bf1dddf361d36",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a7815e3fd0a13455ae46790f430cb938bc15f01e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a300868feb5f9dd774c291bf2b8bb616cfb10829",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "fd05a3c6317c5b81e5ebf23d97a5e0bed81d5783",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "3e41ef822cf5e704b70f829a58b216431b6b9485",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "343c7bd0c28e4db627a34b3fac11167f24970d78",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "5cc46a97e48468cc905bb29bfee1a0d3fdbff622",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "84bdd5a2be6609327c62d83f1ac1732a6cf7b195",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7675fc53afe98398933153f84fefbdd3b3699790",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6c7b85165ea7d7faced939a87bb3699cad791322",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "7dd3722b713ddfff37c70d9b11a50dbe7388b77e",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "9b8b68a820bbbe7f29fe2e7646cfc9fa73f7b9e9",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "db3d1f7584606b6b845f684dbe58f61ca2a5cc8c",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "8da6f8f65e1ad678b572278fc9660367ef2feb43",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "6b2179490b19592543ff881a57b975a2b44ebd1f",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "2f26fc1c6a836e6cbfa42169cd07e634a4370765",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "a1e3a303a5e62a5d00b261d84b16ad38e044d80a",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "bd30ea802cfd310e3effbe378650c4d2aa4316c5",
+        "repo_name": "apache/iotdb"
+    },
+    {
+        "fix_commit_hash": "1f71db1fe614e7d76bcce3e2b5a86f1596c0f73b",
+        "repo_name": "apache/iotdb"
+    }
+]

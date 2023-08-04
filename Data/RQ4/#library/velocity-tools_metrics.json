@@ -1,0 +1,42 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#library--velocity-tools--arkanovicz": "2006-12-27 00:00:00",
+        "#library--velocity-tools--martin-g": "2020-11-20 00:00:00",
+        "#library--velocity-tools--ydycjz6j": "2020-10-08 00:00:00",
+        "#library--velocity-tools--michael-o": "2018-06-28 00:00:00",
+        "#library--velocity-tools--sdumitriu": "2013-05-03 00:00:00",
+        "#library--velocity-tools--": "2002-01-03 00:00:00",
+        "#library--velocity-tools--hgschmie": "2006-11-03 00:00:00",
+        "#library--velocity-tools--danielrall": "2002-04-02 00:00:00"
+    },
+    "commiter_end_time": {
+        "#library--velocity-tools--arkanovicz": "2022-07-25 00:00:00",
+        "#library--velocity-tools--martin-g": "2020-11-20 00:00:00",
+        "#library--velocity-tools--ydycjz6j": "2020-10-08 00:00:00",
+        "#library--velocity-tools--michael-o": "2018-09-30 00:00:00",
+        "#library--velocity-tools--sdumitriu": "2016-11-21 00:00:00",
+        "#library--velocity-tools--": "2013-01-12 00:00:00",
+        "#library--velocity-tools--hgschmie": "2006-12-30 00:00:00",
+        "#library--velocity-tools--danielrall": "2005-06-14 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#library--velocity-tools--martin-g": 0,
+        "#library--velocity-tools--ydycjz6j": 0,
+        "#library--velocity-tools--hgschmie": 57,
+        "#library--velocity-tools--michael-o": 94,
+        "#library--velocity-tools--danielrall": 1169,
+        "#library--velocity-tools--sdumitriu": 1298,
+        "#library--velocity-tools--": 4027,
+        "#library--velocity-tools--arkanovicz": 5689
+    },
+    "commiter_contribute_time1": {},
+    "commiter_contribute_time2": {},
+    "commiter_contribute_time3": {},
+    "commiter_contribute_time4": {},
+    "commiter_time_trend": {},
+    "daily_long_time_error_prone_developer": [],
+    "number_daily_long_time_error_prone_developer": 0,
+    "improved_daily_long_time_error_prone_developer": [],
+    "number_improved_daily_long_time_error_prone_developer": 0
+}

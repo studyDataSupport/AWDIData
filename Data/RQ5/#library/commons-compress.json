@@ -1,0 +1,1530 @@
+{
+    "developer": {
+        "#library--commons-compress--tcurdt": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "commons-compress"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "tcurdt",
+                "createdAt": "2008-06-14T07:00:08Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 50,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "tcurdt/jdeb",
+                            "isFork": false,
+                            "url": "https://github.com/tcurdt/jdeb",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Groovy"
+                                    },
+                                    {
+                                        "name": "PowerShell"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 406,
+                            "watchers": {
+                                "totalCount": 22
+                            },
+                            "forkCount": 168
+                        },
+                        {
+                            "nameWithOwner": "tcurdt/jdependency",
+                            "isFork": false,
+                            "url": "https://github.com/tcurdt/jdependency",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 52,
+                            "watchers": {
+                                "totalCount": 10
+                            },
+                            "forkCount": 23
+                        },
+                        {
+                            "nameWithOwner": "openscad/openscad",
+                            "isFork": false,
+                            "url": "https://github.com/openscad/openscad",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "OpenSCAD"
+                                    },
+                                    {
+                                        "name": "NSIS"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Objective-C++"
+                                    },
+                                    {
+                                        "name": "CMake"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Lex"
+                                    },
+                                    {
+                                        "name": "Yacc"
+                                    },
+                                    {
+                                        "name": "GLSL"
+                                    },
+                                    {
+                                        "name": "POV-Ray SDL"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 5760,
+                            "watchers": {
+                                "totalCount": 246
+                            },
+                            "forkCount": 1114
+                        },
+                        {
+                            "nameWithOwner": "FreeCAD/FreeCAD",
+                            "isFork": false,
+                            "url": "https://github.com/FreeCAD/FreeCAD",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "CMake"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "QMake"
+                                    },
+                                    {
+                                        "name": "NSIS"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Lex"
+                                    },
+                                    {
+                                        "name": "Yacc"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Max"
+                                    },
+                                    {
+                                        "name": "GLSL"
+                                    },
+                                    {
+                                        "name": "OpenSCAD"
+                                    },
+                                    {
+                                        "name": "Objective-C"
+                                    },
+                                    {
+                                        "name": "Starlark"
+                                    },
+                                    {
+                                        "name": "SCSS"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 14656,
+                            "watchers": {
+                                "totalCount": 529
+                            },
+                            "forkCount": 3343
+                        },
+                        {
+                            "nameWithOwner": "raineorshine/npm-check-updates",
+                            "isFork": false,
+                            "url": "https://github.com/raineorshine/npm-check-updates",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "TypeScript"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 8353,
+                            "watchers": {
+                                "totalCount": 62
+                            },
+                            "forkCount": 323
+                        },
+                        {
+                            "nameWithOwner": "CauldronDevelopmentLLC/CAMotics",
+                            "isFork": false,
+                            "url": "https://github.com/CauldronDevelopmentLLC/CAMotics",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Smarty"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "NSIS"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "GLSL"
+                                    },
+                                    {
+                                        "name": "Vue"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 538,
+                            "watchers": {
+                                "totalCount": 59
+                            },
+                            "forkCount": 129
+                        },
+                        {
+                            "nameWithOwner": "rogerclarkmelbourne/STM32duino-bootloader",
+                            "isFork": false,
+                            "url": "https://github.com/rogerclarkmelbourne/STM32duino-bootloader",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Assembly"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 879,
+                            "watchers": {
+                                "totalCount": 90
+                            },
+                            "forkCount": 475
+                        },
+                        {
+                            "nameWithOwner": "navidrome/navidrome",
+                            "isFork": false,
+                            "url": "https://github.com/navidrome/navidrome",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "C"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 7287,
+                            "watchers": {
+                                "totalCount": 68
+                            },
+                            "forkCount": 630
+                        },
+                        {
+                            "nameWithOwner": "layoutBox/PinLayout",
+                            "isFork": false,
+                            "url": "https://github.com/layoutBox/PinLayout",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Swift"
+                                    },
+                                    {
+                                        "name": "Objective-C"
+                                    },
+                                    {
+                                        "name": "Ruby"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2171,
+                            "watchers": {
+                                "totalCount": 45
+                            },
+                            "forkCount": 132
+                        },
+                        {
+                            "nameWithOwner": "metrue/fx",
+                            "isFork": false,
+                            "url": "https://github.com/metrue/fx",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Rust"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "D"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Julia"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "PHP"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Ruby"
+                                    },
+                                    {
+                                        "name": "Raku"
+                                    },
+                                    {
+                                        "name": "Crystal"
+                                    },
+                                    {
+                                        "name": "Perl"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2001,
+                            "watchers": {
+                                "totalCount": 32
+                            },
+                            "forkCount": 99
+                        },
+                        {
+                            "nameWithOwner": "rivo/tview",
+                            "isFork": false,
+                            "url": "https://github.com/rivo/tview",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 8583,
+                            "watchers": {
+                                "totalCount": 114
+                            },
+                            "forkCount": 494
+                        },
+                        {
+                            "nameWithOwner": "fyne-io/fyne",
+                            "isFork": false,
+                            "url": "https://github.com/fyne-io/fyne",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Objective-C"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Assembly"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "GLSL"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 20921,
+                            "watchers": {
+                                "totalCount": 251
+                            },
+                            "forkCount": 1171
+                        },
+                        {
+                            "nameWithOwner": "qdm12/gluetun",
+                            "isFork": false,
+                            "url": "https://github.com/qdm12/gluetun",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 4169,
+                            "watchers": {
+                                "totalCount": 29
+                            },
+                            "forkCount": 261
+                        },
+                        {
+                            "nameWithOwner": "Serasidis/STM32_HID_Bootloader",
+                            "isFork": false,
+                            "url": "https://github.com/Serasidis/STM32_HID_Bootloader",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Assembly"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Rich Text Format"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 358,
+                            "watchers": {
+                                "totalCount": 22
+                            },
+                            "forkCount": 124
+                        },
+                        {
+                            "nameWithOwner": "leafac/kill-the-newsletter",
+                            "isFork": false,
+                            "url": "https://github.com/leafac/kill-the-newsletter",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "JavaScript"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 1918,
+                            "watchers": {
+                                "totalCount": 30
+                            },
+                            "forkCount": 91
+                        },
+                        {
+                            "nameWithOwner": "passepartoutvpn/passepartout-apple",
+                            "isFork": false,
+                            "url": "https://github.com/passepartoutvpn/passepartout-apple",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Ruby"
+                                    },
+                                    {
+                                        "name": "Swift"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Rich Text Format"
+                                    },
+                                    {
+                                        "name": "Objective-C"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 615,
+                            "watchers": {
+                                "totalCount": 19
+                            },
+                            "forkCount": 108
+                        },
+                        {
+                            "nameWithOwner": "plausible/analytics",
+                            "isFork": false,
+                            "url": "https://github.com/plausible/analytics",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Elixir"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "HCL"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 15576,
+                            "watchers": {
+                                "totalCount": 129
+                            },
+                            "forkCount": 827
+                        },
+                        {
+                            "nameWithOwner": "jellyfin/jellyfin",
+                            "isFork": false,
+                            "url": "https://github.com/jellyfin/jellyfin",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "C#"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 23796,
+                            "watchers": {
+                                "totalCount": 300
+                            },
+                            "forkCount": 2186
+                        },
+                        {
+                            "nameWithOwner": "JetBrains/JetBrainsMono",
+                            "isFork": false,
+                            "url": "https://github.com/JetBrains/JetBrainsMono",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Kotlin"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 9281,
+                            "watchers": {
+                                "totalCount": 87
+                            },
+                            "forkCount": 278
+                        },
+                        {
+                            "nameWithOwner": "Kuestenschmiede/PwaBundle",
+                            "isFork": false,
+                            "url": "https://github.com/Kuestenschmiede/PwaBundle",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "PHP"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "SCSS"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 9,
+                            "watchers": {
+                                "totalCount": 4
+                            },
+                            "forkCount": 2
+                        },
+                        {
+                            "nameWithOwner": "kcjengr/probe_basic",
+                            "isFork": false,
+                            "url": "https://github.com/kcjengr/probe_basic",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "QML"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 72,
+                            "watchers": {
+                                "totalCount": 22
+                            },
+                            "forkCount": 52
+                        },
+                        {
+                            "nameWithOwner": "knadh/listmonk",
+                            "isFork": false,
+                            "url": "https://github.com/knadh/listmonk",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Smarty"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Vue"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "SCSS"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 11029,
+                            "watchers": {
+                                "totalCount": 108
+                            },
+                            "forkCount": 959
+                        },
+                        {
+                            "nameWithOwner": "simonvetter/modbus",
+                            "isFork": false,
+                            "url": "https://github.com/simonvetter/modbus",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 148,
+                            "watchers": {
+                                "totalCount": 5
+                            },
+                            "forkCount": 44
+                        },
+                        {
+                            "nameWithOwner": "terjeio/ioSender",
+                            "isFork": false,
+                            "url": "https://github.com/terjeio/ioSender",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "C#"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 161,
+                            "watchers": {
+                                "totalCount": 30
+                            },
+                            "forkCount": 56
+                        },
+                        {
+                            "nameWithOwner": "0xERR0R/blocky",
+                            "isFork": false,
+                            "url": "https://github.com/0xERR0R/blocky",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2765,
+                            "watchers": {
+                                "totalCount": 34
+                            },
+                            "forkCount": 145
+                        },
+                        {
+                            "nameWithOwner": "grafana/agent",
+                            "isFork": false,
+                            "url": "https://github.com/grafana/agent",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Jsonnet"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "TypeScript"
+                                    },
+                                    {
+                                        "name": "Smarty"
+                                    },
+                                    {
+                                        "name": "Mermaid"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 1200,
+                            "watchers": {
+                                "totalCount": 129
+                            },
+                            "forkCount": 368
+                        },
+                        {
+                            "nameWithOwner": "charmbracelet/bubbletea",
+                            "isFork": false,
+                            "url": "https://github.com/charmbracelet/bubbletea",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 19134,
+                            "watchers": {
+                                "totalCount": 106
+                            },
+                            "forkCount": 606
+                        },
+                        {
+                            "nameWithOwner": "spascual90/Fenix",
+                            "isFork": false,
+                            "url": "https://github.com/spascual90/Fenix",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 11,
+                            "watchers": {
+                                "totalCount": 5
+                            },
+                            "forkCount": 3
+                        },
+                        {
+                            "nameWithOwner": "KlipperScreen/KlipperScreen",
+                            "isFork": false,
+                            "url": "https://github.com/KlipperScreen/KlipperScreen",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 701,
+                            "watchers": {
+                                "totalCount": 23
+                            },
+                            "forkCount": 247
+                        },
+                        {
+                            "nameWithOwner": "tcurdt/release-rust",
+                            "isFork": false,
+                            "url": "https://github.com/tcurdt/release-rust",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Rust"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "jandamm/zgenom",
+                            "isFork": false,
+                            "url": "https://github.com/jandamm/zgenom",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 285,
+                            "watchers": {
+                                "totalCount": 6
+                            },
+                            "forkCount": 11
+                        },
+                        {
+                            "nameWithOwner": "tcurdt/tcurdt",
+                            "isFork": false,
+                            "url": "https://github.com/tcurdt/tcurdt",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "Sienci-Labs/gsender",
+                            "isFork": false,
+                            "url": "https://github.com/Sienci-Labs/gsender",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Handlebars"
+                                    },
+                                    {
+                                        "name": "Stylus"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 107,
+                            "watchers": {
+                                "totalCount": 11
+                            },
+                            "forkCount": 23
+                        },
+                        {
+                            "nameWithOwner": "wollewald/ADXL345_WE",
+                            "isFork": false,
+                            "url": "https://github.com/wollewald/ADXL345_WE",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "C++"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 27,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 6
+                        },
+                        {
+                            "nameWithOwner": "grblHAL/core",
+                            "isFork": false,
+                            "url": "https://github.com/grblHAL/core",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "CMake"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 206,
+                            "watchers": {
+                                "totalCount": 24
+                            },
+                            "forkCount": 46
+                        },
+                        {
+                            "nameWithOwner": "jellyfin/jellyfin-media-player",
+                            "isFork": false,
+                            "url": "https://github.com/jellyfin/jellyfin-media-player",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "CMake"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "Objective-C"
+                                    },
+                                    {
+                                        "name": "Objective-C++"
+                                    },
+                                    {
+                                        "name": "QMake"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "QML"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2005,
+                            "watchers": {
+                                "totalCount": 28
+                            },
+                            "forkCount": 209
+                        },
+                        {
+                            "nameWithOwner": "gega/csg2stp",
+                            "isFork": false,
+                            "url": "https://github.com/gega/csg2stp",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Lex"
+                                    },
+                                    {
+                                        "name": "C"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 7,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "usrz/minimal-ubuntu",
+                            "isFork": false,
+                            "url": "https://github.com/usrz/minimal-ubuntu",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "alexheretic/ab-av1",
+                            "isFork": false,
+                            "url": "https://github.com/alexheretic/ab-av1",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Rust"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 215,
+                            "watchers": {
+                                "totalCount": 9
+                            },
+                            "forkCount": 16
+                        },
+                        {
+                            "nameWithOwner": "xbst/KUSBA",
+                            "isFork": false,
+                            "url": "https://github.com/xbst/KUSBA",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 113,
+                            "watchers": {
+                                "totalCount": 6
+                            },
+                            "forkCount": 20
+                        },
+                        {
+                            "nameWithOwner": "gusmanb/logicanalyzer",
+                            "isFork": false,
+                            "url": "https://github.com/gusmanb/logicanalyzer",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "CMake"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "C#"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 1228,
+                            "watchers": {
+                                "totalCount": 44
+                            },
+                            "forkCount": 146
+                        },
+                        {
+                            "nameWithOwner": "pocketbase/pocketbase",
+                            "isFork": false,
+                            "url": "https://github.com/pocketbase/pocketbase",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Svelte"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "SCSS"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 24944,
+                            "watchers": {
+                                "totalCount": 158
+                            },
+                            "forkCount": 1025
+                        },
+                        {
+                            "nameWithOwner": "hoto/alfred-uuid-ulid-generator",
+                            "isFork": false,
+                            "url": "https://github.com/hoto/alfred-uuid-ulid-generator",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "JavaScript"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "resendlabs/react-email",
+                            "isFork": false,
+                            "url": "https://github.com/resendlabs/react-email",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "TypeScript"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 8578,
+                            "watchers": {
+                                "totalCount": 33
+                            },
+                            "forkCount": 356
+                        },
+                        {
+                            "nameWithOwner": "tcurdt/openscad",
+                            "isFork": true,
+                            "url": "https://github.com/tcurdt/openscad",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Emacs Lisp"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Objective-C++"
+                                    },
+                                    {
+                                        "name": "OpenSCAD"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "NSIS"
+                                    },
+                                    {
+                                        "name": "CMake"
+                                    },
+                                    {
+                                        "name": "GLSL"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Yacc"
+                                    },
+                                    {
+                                        "name": "Lex"
+                                    },
+                                    {
+                                        "name": "POV-Ray SDL"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "tweetback/tweetback",
+                            "isFork": false,
+                            "url": "https://github.com/tweetback/tweetback",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 495,
+                            "watchers": {
+                                "totalCount": 10
+                            },
+                            "forkCount": 70
+                        },
+                        {
+                            "nameWithOwner": "activepieces/activepieces",
+                            "isFork": false,
+                            "url": "https://github.com/activepieces/activepieces",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "TypeScript"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "SCSS"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "MDX"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2861,
+                            "watchers": {
+                                "totalCount": 19
+                            },
+                            "forkCount": 210
+                        },
+                        {
+                            "nameWithOwner": "tcurdt/homebrew-tap",
+                            "isFork": false,
+                            "url": "https://github.com/tcurdt/homebrew-tap",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "tcurdt/navidrome",
+                            "isFork": true,
+                            "url": "https://github.com/tcurdt/navidrome",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "tcurdt/PwaBundle",
+                            "isFork": true,
+                            "url": "https://github.com/tcurdt/PwaBundle",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "PHP"
+                                    },
+                                    {
+                                        "name": "SCSS"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 0,
+    "deveper_mul_apache_item_error": {
+        "#library--commons-compress--tcurdt": [
+            "commons-compress"
+        ]
+    }
+}

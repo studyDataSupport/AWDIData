@@ -1,0 +1,420 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#web-framework--cayenne--stariy95": "2016-11-01 00:00:00",
+        "#web-framework--cayenne--Ivan-nikitko": "2021-12-10 00:00:00",
+        "#web-framework--cayenne--aperaverzeu": "2022-10-10 00:00:00",
+        "#web-framework--cayenne--dependabot[bot]": "2022-05-25 00:00:00",
+        "#web-framework--cayenne--johnthuss": "2012-05-14 00:00:00",
+        "#web-framework--cayenne--steaked": "2022-01-27 00:00:00",
+        "#web-framework--cayenne--OlegKhodokevich": "2021-12-06 00:00:00",
+        "#web-framework--cayenne--dmitars": "2021-05-12 00:00:00",
+        "#web-framework--cayenne--aarrsseni": "2017-09-27 00:00:00",
+        "#web-framework--cayenne--KeyrisXdSnow": "2021-05-18 00:00:00",
+        "#web-framework--cayenne--KravchenkoAS": "2020-05-20 00:00:00",
+        "#web-framework--cayenne--andrus": "2007-01-21 00:00:00",
+        "#web-framework--cayenne--faizel": "2020-05-04 00:00:00",
+        "#web-framework--cayenne--HappyFacade": "2020-04-06 00:00:00",
+        "#web-framework--cayenne--lbane": "2020-04-04 00:00:00",
+        "#web-framework--cayenne--": "2007-02-06 00:00:00",
+        "#web-framework--cayenne--ari": "2007-03-06 00:00:00",
+        "#web-framework--cayenne--hugithordarson": "2016-11-10 00:00:00",
+        "#web-framework--cayenne--const1993": "2018-03-27 00:00:00",
+        "#web-framework--cayenne--jalligator": "2018-08-17 00:00:00",
+        "#web-framework--cayenne--PRIESt512": "2018-03-04 00:00:00",
+        "#web-framework--cayenne--MegaPapa": "2017-04-04 00:00:00",
+        "#web-framework--cayenne--emecas": "2017-12-01 00:00:00",
+        "#web-framework--cayenne--lonvarscsak": "2016-04-04 00:00:00",
+        "#web-framework--cayenne--nismooooooo": "2017-04-04 00:00:00",
+        "#web-framework--cayenne--sarvaratchagan": "2016-09-07 00:00:00",
+        "#web-framework--cayenne--thinline72": "2014-08-20 00:00:00",
+        "#web-framework--cayenne--jbuddha": "2016-12-22 00:00:00",
+        "#web-framework--cayenne--IRus": "2016-11-29 00:00:00",
+        "#web-framework--cayenne--atomashpolskiy": "2016-08-18 00:00:00",
+        "#web-framework--cayenne--dzmitryk": "2011-06-28 00:00:00",
+        "#web-framework--cayenne--ollybondareva": "2016-01-21 00:00:00",
+        "#web-framework--cayenne--seelmann": "2016-09-13 00:00:00",
+        "#web-framework--cayenne--maiksd": "2016-08-05 00:00:00",
+        "#web-framework--cayenne--AlexandrShestak": "2015-11-24 00:00:00",
+        "#web-framework--cayenne--vintikjeny": "2015-12-03 00:00:00",
+        "#web-framework--cayenne--AlexKolonitsky": "2014-08-18 00:00:00",
+        "#web-framework--cayenne--halset": "2015-09-07 00:00:00",
+        "#web-framework--cayenne--aplgithub": "2014-08-01 00:00:00",
+        "#web-framework--cayenne--laakhbeenor": "2015-02-19 00:00:00",
+        "#web-framework--cayenne--mrg": "2014-09-02 00:00:00"
+    },
+    "commiter_end_time": {
+        "#web-framework--cayenne--stariy95": "2022-10-24 00:00:00",
+        "#web-framework--cayenne--Ivan-nikitko": "2022-10-11 00:00:00",
+        "#web-framework--cayenne--aperaverzeu": "2022-10-10 00:00:00",
+        "#web-framework--cayenne--dependabot[bot]": "2022-09-01 00:00:00",
+        "#web-framework--cayenne--johnthuss": "2022-08-01 00:00:00",
+        "#web-framework--cayenne--steaked": "2022-01-27 00:00:00",
+        "#web-framework--cayenne--OlegKhodokevich": "2021-12-08 00:00:00",
+        "#web-framework--cayenne--dmitars": "2021-08-11 00:00:00",
+        "#web-framework--cayenne--aarrsseni": "2021-06-29 00:00:00",
+        "#web-framework--cayenne--KeyrisXdSnow": "2021-05-18 00:00:00",
+        "#web-framework--cayenne--KravchenkoAS": "2021-02-10 00:00:00",
+        "#web-framework--cayenne--andrus": "2020-10-08 00:00:00",
+        "#web-framework--cayenne--faizel": "2020-05-11 00:00:00",
+        "#web-framework--cayenne--HappyFacade": "2020-04-06 00:00:00",
+        "#web-framework--cayenne--lbane": "2020-04-04 00:00:00",
+        "#web-framework--cayenne--": "2020-03-11 00:00:00",
+        "#web-framework--cayenne--ari": "2019-05-21 00:00:00",
+        "#web-framework--cayenne--hugithordarson": "2019-03-20 00:00:00",
+        "#web-framework--cayenne--const1993": "2018-11-15 00:00:00",
+        "#web-framework--cayenne--jalligator": "2018-08-17 00:00:00",
+        "#web-framework--cayenne--PRIESt512": "2018-04-15 00:00:00",
+        "#web-framework--cayenne--MegaPapa": "2018-03-30 00:00:00",
+        "#web-framework--cayenne--emecas": "2017-12-01 00:00:00",
+        "#web-framework--cayenne--lonvarscsak": "2017-08-01 00:00:00",
+        "#web-framework--cayenne--nismooooooo": "2017-06-23 00:00:00",
+        "#web-framework--cayenne--sarvaratchagan": "2017-04-12 00:00:00",
+        "#web-framework--cayenne--thinline72": "2017-01-21 00:00:00",
+        "#web-framework--cayenne--jbuddha": "2016-12-22 00:00:00",
+        "#web-framework--cayenne--IRus": "2016-12-06 00:00:00",
+        "#web-framework--cayenne--atomashpolskiy": "2016-11-15 00:00:00",
+        "#web-framework--cayenne--dzmitryk": "2016-11-12 00:00:00",
+        "#web-framework--cayenne--ollybondareva": "2016-10-19 00:00:00",
+        "#web-framework--cayenne--seelmann": "2016-09-13 00:00:00",
+        "#web-framework--cayenne--maiksd": "2016-08-05 00:00:00",
+        "#web-framework--cayenne--AlexandrShestak": "2015-12-15 00:00:00",
+        "#web-framework--cayenne--vintikjeny": "2015-12-03 00:00:00",
+        "#web-framework--cayenne--AlexKolonitsky": "2015-10-13 00:00:00",
+        "#web-framework--cayenne--halset": "2015-09-07 00:00:00",
+        "#web-framework--cayenne--aplgithub": "2015-06-23 00:00:00",
+        "#web-framework--cayenne--laakhbeenor": "2015-02-19 00:00:00",
+        "#web-framework--cayenne--mrg": "2014-09-02 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#web-framework--cayenne--aperaverzeu": 0,
+        "#web-framework--cayenne--steaked": 0,
+        "#web-framework--cayenne--KeyrisXdSnow": 0,
+        "#web-framework--cayenne--HappyFacade": 0,
+        "#web-framework--cayenne--lbane": 0,
+        "#web-framework--cayenne--jalligator": 0,
+        "#web-framework--cayenne--emecas": 0,
+        "#web-framework--cayenne--jbuddha": 0,
+        "#web-framework--cayenne--seelmann": 0,
+        "#web-framework--cayenne--maiksd": 0,
+        "#web-framework--cayenne--vintikjeny": 0,
+        "#web-framework--cayenne--halset": 0,
+        "#web-framework--cayenne--laakhbeenor": 0,
+        "#web-framework--cayenne--mrg": 0,
+        "#web-framework--cayenne--OlegKhodokevich": 2,
+        "#web-framework--cayenne--faizel": 7,
+        "#web-framework--cayenne--IRus": 7,
+        "#web-framework--cayenne--AlexandrShestak": 21,
+        "#web-framework--cayenne--PRIESt512": 42,
+        "#web-framework--cayenne--nismooooooo": 80,
+        "#web-framework--cayenne--atomashpolskiy": 89,
+        "#web-framework--cayenne--dmitars": 91,
+        "#web-framework--cayenne--dependabot[bot]": 99,
+        "#web-framework--cayenne--sarvaratchagan": 217,
+        "#web-framework--cayenne--const1993": 233,
+        "#web-framework--cayenne--KravchenkoAS": 266,
+        "#web-framework--cayenne--ollybondareva": 272,
+        "#web-framework--cayenne--Ivan-nikitko": 305,
+        "#web-framework--cayenne--aplgithub": 326,
+        "#web-framework--cayenne--MegaPapa": 360,
+        "#web-framework--cayenne--AlexKolonitsky": 421,
+        "#web-framework--cayenne--lonvarscsak": 484,
+        "#web-framework--cayenne--hugithordarson": 860,
+        "#web-framework--cayenne--thinline72": 885,
+        "#web-framework--cayenne--aarrsseni": 1371,
+        "#web-framework--cayenne--dzmitryk": 1964,
+        "#web-framework--cayenne--stariy95": 2183,
+        "#web-framework--cayenne--johnthuss": 3731,
+        "#web-framework--cayenne--ari": 4459,
+        "#web-framework--cayenne--": 4782,
+        "#web-framework--cayenne--andrus": 5009
+    },
+    "commiter_contribute_time1": {
+        "#web-framework--cayenne--KravchenkoAS": {
+            "start": "2020-05-20 00:00:00",
+            "end": "2021-02-10 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#web-framework--cayenne--ollybondareva": {
+            "start": "2016-01-21 00:00:00",
+            "end": "2016-04-07 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#web-framework--cayenne--const1993": {
+            "start": "2018-03-27 00:00:00",
+            "end": "2018-11-05 00:00:00",
+            "bug_num_per_commit": 0.36363636363636365,
+            "bug_commit_num_rate": 1.0
+        },
+        "#web-framework--cayenne--AlexKolonitsky": {
+            "start": "2014-08-18 00:00:00",
+            "end": "2015-02-24 00:00:00",
+            "bug_num_per_commit": 0.07142857142857142,
+            "bug_commit_num_rate": 0.8571428571428571
+        },
+        "#web-framework--cayenne--johnthuss": {
+            "start": "2012-05-14 00:00:00",
+            "end": "2018-05-02 00:00:00",
+            "bug_num_per_commit": 0.16666666666666666,
+            "bug_commit_num_rate": 0.9444444444444444
+        },
+        "#web-framework--cayenne--dzmitryk": {
+            "start": "2011-06-28 00:00:00",
+            "end": "2016-02-18 00:00:00",
+            "bug_num_per_commit": 0.05405405405405406,
+            "bug_commit_num_rate": 0.7297297297297297
+        },
+        "#web-framework--cayenne--thinline72": {
+            "start": "2014-08-20 00:00:00",
+            "end": "2016-05-17 00:00:00",
+            "bug_num_per_commit": 0.1,
+            "bug_commit_num_rate": 0.75
+        }
+    },
+    "commiter_contribute_time2": {
+        "#web-framework--cayenne--KravchenkoAS": {
+            "start": "2021-02-08 00:00:00",
+            "end": "2020-11-26 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#web-framework--cayenne--ollybondareva": {
+            "start": "2016-04-14 00:00:00",
+            "end": "2016-04-14 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#web-framework--cayenne--const1993": {
+            "start": "2018-11-02 00:00:00",
+            "end": "2018-10-15 00:00:00",
+            "bug_num_per_commit": 0.18181818181818182,
+            "bug_commit_num_rate": 0.0
+        },
+        "#web-framework--cayenne--AlexKolonitsky": {
+            "start": "2015-02-24 00:00:00",
+            "end": "2015-02-10 00:00:00",
+            "bug_num_per_commit": 0.2857142857142857,
+            "bug_commit_num_rate": 0.0
+        },
+        "#web-framework--cayenne--johnthuss": {
+            "start": "2018-05-02 00:00:00",
+            "end": "2013-10-14 00:00:00",
+            "bug_num_per_commit": 0.1111111111111111,
+            "bug_commit_num_rate": 0.0
+        },
+        "#web-framework--cayenne--dzmitryk": {
+            "start": "2016-02-18 00:00:00",
+            "end": "2011-09-28 00:00:00",
+            "bug_num_per_commit": 0.24324324324324326,
+            "bug_commit_num_rate": 0.0
+        },
+        "#web-framework--cayenne--thinline72": {
+            "start": "2016-05-02 00:00:00",
+            "end": "2015-08-05 00:00:00",
+            "bug_num_per_commit": 0.1,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time3": {
+        "#web-framework--cayenne--KravchenkoAS": {
+            "start": "2020-11-12 00:00:00",
+            "end": "2020-11-12 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#web-framework--cayenne--ollybondareva": {
+            "start": "2016-04-06 00:00:00",
+            "end": "2016-03-31 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#web-framework--cayenne--const1993": {
+            "start": "2018-10-10 00:00:00",
+            "end": "2018-08-08 00:00:00",
+            "bug_num_per_commit": 0.18181818181818182,
+            "bug_commit_num_rate": 0.0
+        },
+        "#web-framework--cayenne--AlexKolonitsky": {
+            "start": "2015-02-09 00:00:00",
+            "end": "2014-12-10 00:00:00",
+            "bug_num_per_commit": 0.14285714285714285,
+            "bug_commit_num_rate": 0.0
+        },
+        "#web-framework--cayenne--johnthuss": {
+            "start": "2013-10-09 00:00:00",
+            "end": "2012-12-23 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.0
+        },
+        "#web-framework--cayenne--dzmitryk": {
+            "start": "2011-09-28 00:00:00",
+            "end": "2011-08-23 00:00:00",
+            "bug_num_per_commit": 0.05405405405405406,
+            "bug_commit_num_rate": 0.0
+        },
+        "#web-framework--cayenne--thinline72": {
+            "start": "2015-08-05 00:00:00",
+            "end": "2015-02-09 00:00:00",
+            "bug_num_per_commit": 0.225,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#web-framework--cayenne--KravchenkoAS": {
+            "start": "2020-11-05 00:00:00",
+            "end": "2020-05-20 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.0
+        },
+        "#web-framework--cayenne--ollybondareva": {
+            "start": "2016-02-27 00:00:00",
+            "end": "2016-01-21 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.0
+        },
+        "#web-framework--cayenne--const1993": {
+            "start": "2018-08-07 00:00:00",
+            "end": "2018-03-27 00:00:00",
+            "bug_num_per_commit": 0.18181818181818182,
+            "bug_commit_num_rate": 0.0
+        },
+        "#web-framework--cayenne--AlexKolonitsky": {
+            "start": "2014-12-10 00:00:00",
+            "end": "2014-08-18 00:00:00",
+            "bug_num_per_commit": 0.14285714285714285,
+            "bug_commit_num_rate": 0.0
+        },
+        "#web-framework--cayenne--johnthuss": {
+            "start": "2012-12-23 00:00:00",
+            "end": "2012-05-14 00:00:00",
+            "bug_num_per_commit": 0.2,
+            "bug_commit_num_rate": 0.0
+        },
+        "#web-framework--cayenne--dzmitryk": {
+            "start": "2011-08-23 00:00:00",
+            "end": "2011-06-28 00:00:00",
+            "bug_num_per_commit": 0.24324324324324326,
+            "bug_commit_num_rate": 0.0
+        },
+        "#web-framework--cayenne--thinline72": {
+            "start": "2015-01-27 00:00:00",
+            "end": "2014-08-20 00:00:00",
+            "bug_num_per_commit": 0.1794871794871795,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#web-framework--cayenne--KravchenkoAS": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.25
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#web-framework--cayenne--ollybondareva": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 0.0,
+                "time3": 1.0,
+                "time4": 0.3333333333333333
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#web-framework--cayenne--const1993": {
+            "bug_num_per_commit": {
+                "time1": 0.36363636363636365,
+                "time2": 0.18181818181818182,
+                "time3": 0.18181818181818182,
+                "time4": 0.18181818181818182
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#web-framework--cayenne--AlexKolonitsky": {
+            "bug_num_per_commit": {
+                "time1": 0.07142857142857142,
+                "time2": 0.2857142857142857,
+                "time3": 0.14285714285714285,
+                "time4": 0.14285714285714285
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.8571428571428571,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#web-framework--cayenne--johnthuss": {
+            "bug_num_per_commit": {
+                "time1": 0.16666666666666666,
+                "time2": 0.1111111111111111,
+                "time3": 0.3333333333333333,
+                "time4": 0.2
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.9444444444444444,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#web-framework--cayenne--dzmitryk": {
+            "bug_num_per_commit": {
+                "time1": 0.05405405405405406,
+                "time2": 0.24324324324324326,
+                "time3": 0.05405405405405406,
+                "time4": 0.24324324324324326
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.7297297297297297,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#web-framework--cayenne--thinline72": {
+            "bug_num_per_commit": {
+                "time1": 0.1,
+                "time2": 0.1,
+                "time3": 0.225,
+                "time4": 0.1794871794871795
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.75,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#web-framework--cayenne--KravchenkoAS",
+        "#web-framework--cayenne--ollybondareva",
+        "#web-framework--cayenne--const1993",
+        "#web-framework--cayenne--AlexKolonitsky",
+        "#web-framework--cayenne--johnthuss",
+        "#web-framework--cayenne--dzmitryk",
+        "#web-framework--cayenne--thinline72"
+    ],
+    "number_daily_long_time_error_prone_developer": 7,
+    "improved_daily_long_time_error_prone_developer": [],
+    "number_improved_daily_long_time_error_prone_developer": 0
+}

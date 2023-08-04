@@ -1,0 +1,10 @@
+{
+    "all_file_num": 31076,
+    "error_developer_file_rate": {
+        "#http--cocoon--jashaj": 0.0008688376882481658
+    },
+    "daily_error_prone_developer": [
+        "#http--cocoon--jashaj"
+    ],
+    "number_daily_error_prone_developer": 1
+}

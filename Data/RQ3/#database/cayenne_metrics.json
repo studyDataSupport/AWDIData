@@ -1,0 +1,19 @@
+{
+    "all_file_num": 14281,
+    "error_developer_file_rate": {
+        "#database--cayenne--emecas": 0.00042013864575309853,
+        "#database--cayenne--OlegKhodokevich": 0.0004901617533786149,
+        "#database--cayenne--aplgithub": 0.0011203697220082628,
+        "#database--cayenne--AlexandrShestak": 0.002310762551642042,
+        "#database--cayenne--nismooooooo": 0.006092010363419929,
+        "#database--cayenne--ollybondareva": 0.008682865345564035,
+        "#database--cayenne--const1993": 0.00959316574469575
+    },
+    "daily_error_prone_developer": [
+        "#database--cayenne--AlexandrShestak",
+        "#database--cayenne--nismooooooo",
+        "#database--cayenne--ollybondareva",
+        "#database--cayenne--const1993"
+    ],
+    "number_daily_error_prone_developer": 4
+}

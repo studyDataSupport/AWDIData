@@ -1,0 +1,262 @@
+[
+    {
+        "fix_commit_hash": "fa2494818fc9ec40162b671e67609eb030e899db",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "c04a022b004dd7aba094f449440c387daf170911",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "93407aa9c00b83959fd537f0eb1b80cc3235c3b5",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "798ec181c3cb8fda93bc58885c9b1b06fc835a32",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "05a3c4045d74d06be6ed60ddaff69f3aae256186",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "8a98b3052617dfad054c7eba2bfe8db16d0a541c",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "82dfbe3ccde2ad4ecd6df100dd9bc6dcc86898cc",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "c004b1c3a17d84852997eefd488df8647e19a7ee",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "b6b9194e94a9d972717a4b245a82522b8f1cb865",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "b143d89310ddae6c20e2390136c012403f21e15b",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "a59ecc1b2e2fc34b9a024f3578fea8667838994e",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "88da753d2bbc37f328235908f800727f9b68acb0",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "d21e10c27db5fb6039f27bee7a4a9392a86ff7d3",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "5af19f06ab2b63ce650f4bb0402c30c2721022b7",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "79a11f562201a01e8bb38ffbf2f9dafa87eef9a9",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "13800d118b9dabfe4c8e7380988367fc61a29949",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "d313c4b52ad9f0b3be59e6bf594b75f75706d6bd",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "7fac9cbbe070261e9f03dc35030429ee9ba2351b",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "08a70ce5d9e3c710b278c8cbbc2ea8c884bb0a7b",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "7228b6bb2a1932850d9a8698af941725ada6e2ed",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "ab8a0fd7e355bc9a8733f842e534b5b56748bf85",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "5360b60535fd2e6829c160e3234d0470981934ca",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "62e2f67984b5aa5d691284573c6f8141778e2eb4",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "4598389e368eeca549e7d3f59a2f796ce4015b68",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "53354f53a474e30559e06d007d67b86ccee65508",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "f76ce3f2615d7e259b9e7723de5f2b3924fe93d9",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "49cea72d369a4309c02df4b988930c046423c821",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "258a1fad435ce8ebd19ca94b9210d57537ea0e77",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "fa4362305bfd3c609eddb169b9ce55948219a5e1",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "15edb47f4d4991cb5aec04837e974734eb9d1943",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "8132517a11811cd30b26bb8c3d56d507a1c47a83",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "aea368146ce9e97bd8994e79123a1e48c55bb862",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "f3a880fe3c99a50dbcbd82c369b1f73377a05c55",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "63e9466a716cc39f4a68a82e371dc93c4ae137a6",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "355272c0cd36fd996104d4e7067976ec048aab2f",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "5640e13f2feac7fc5306c9ac32997b5b79525dc5",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "6ecf461753586880791aa420415f545848acd87d",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "a61e9133dfba6f2165be69ccd2bb2ea3abd2a681",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "6e3c085cff19f9ffcc6677c32d5f916602f5eb19",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "9d72e78ac6026187f6c1459f6ff8f56e3432b6a3",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "9573dc44cec3c7bd39bb3dbc6d5005e1c0ef7792",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "e3add65a3b4dcf6a8a942e6c73fd575201d71814",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "22bdf1d6a6f4274bd81b86e007456ded4ef0f179",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "39fc19e17fdb6d13d1057de093f2be46a227914b",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "ff813ca9ddb8029a3550b79377323c844dd8c35e",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "2a319fff3f78a232ca0faa257814dcce48686465",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "81c76ea5000eb4f347749853af0edac844ca0179",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "e23b18765dd32547237a00a9de5de79ee0cfc570",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "e704f23b5072e8e4b83808628b4bb9f964bbe383",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "63893a9f280222cf49fb9893ed3c1e242e6ef966",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "bc419880cb6329348bb52afc5eb29e4d89e5c8b7",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "3f4d2241f1a9d3eae3dc0f93355c337cd5a95a62",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "599fd1bfbb330237904d9b3ac40d12c31b143298",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "a42305967a44d13041c9689cb2274c3ec0835e8b",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "e8cef4d8879edf3304bf199e709d70fe7ade4e51",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "f56cc97550f61102afdabb580308308ff1ba491b",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "b4126f74a95d84f9ff3da1e5e01733c4881de92e",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "b3aad807ce59404a3e6121354ba39e2301744bcd",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "8047590964559a983d08511e83069c39af6a25c0",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "10382e555c633bea0093e937dc07880c2a8b1105",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "9ba5899632c921a592cc3eabfd4138e0405ea8d6",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "4e9e7a686a55647b49937cf8ba7eb691feca3901",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "ba3382c9f920d3bf5df51e6c09553287699d9fda",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "904b49c595c7c62ecacb3e80b10b672fc8d2f6b8",
+        "repo_name": "apache/manifoldcf"
+    },
+    {
+        "fix_commit_hash": "d54d9748d7890f4a6143ea0d64ee23579fe3cc84",
+        "repo_name": "apache/manifoldcf"
+    }
+]

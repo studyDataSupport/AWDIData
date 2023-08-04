@@ -1,0 +1,176 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#library--commons-crypto--garydgregory": "2016-04-28 00:00:00",
+        "#library--commons-crypto--dependabot[bot]": "2020-12-25 00:00:00",
+        "#library--commons-crypto--sebbASF": "2016-06-11 00:00:00",
+        "#library--commons-crypto--jochenw": "2022-05-18 00:00:00",
+        "#library--commons-crypto--arturobernalg": "2020-11-22 00:00:00",
+        "#library--commons-crypto--": "2015-03-27 00:00:00",
+        "#library--commons-crypto--geoffreyblake": "2020-03-31 00:00:00",
+        "#library--commons-crypto--XenoAmess": "2020-05-26 00:00:00",
+        "#library--commons-crypto--aremily": "2019-02-19 00:00:00",
+        "#library--commons-crypto--adamretter": "2020-04-22 00:00:00",
+        "#library--commons-crypto--ossdev07": "2019-02-26 00:00:00",
+        "#library--commons-crypto--chtompki": "2017-05-27 00:00:00",
+        "#library--commons-crypto--salyh": "2016-05-25 00:00:00",
+        "#library--commons-crypto--britter": "2016-05-03 00:00:00",
+        "#library--commons-crypto--sundapeng": "2016-01-05 00:00:00",
+        "#library--commons-crypto--krosenvold": "2016-07-07 00:00:00",
+        "#library--commons-crypto--stain": "2016-06-02 00:00:00",
+        "#library--commons-crypto--JkSelf": "2016-03-29 00:00:00",
+        "#library--commons-crypto--dianfu": "2016-04-26 00:00:00",
+        "#library--commons-crypto--winningsix": "2015-11-11 00:00:00",
+        "#library--commons-crypto--jerrychenhf": "2016-01-06 00:00:00",
+        "#library--commons-crypto--colinmjj": "2016-03-15 00:00:00",
+        "#library--commons-crypto--dongche": "2016-03-09 00:00:00",
+        "#library--commons-crypto--kexianda": "2016-03-15 00:00:00"
+    },
+    "commiter_end_time": {
+        "#library--commons-crypto--garydgregory": "2022-10-23 00:00:00",
+        "#library--commons-crypto--dependabot[bot]": "2022-10-21 00:00:00",
+        "#library--commons-crypto--sebbASF": "2022-10-08 00:00:00",
+        "#library--commons-crypto--jochenw": "2022-06-10 00:00:00",
+        "#library--commons-crypto--arturobernalg": "2021-10-21 00:00:00",
+        "#library--commons-crypto--": "2021-10-20 00:00:00",
+        "#library--commons-crypto--geoffreyblake": "2020-08-04 00:00:00",
+        "#library--commons-crypto--XenoAmess": "2020-05-26 00:00:00",
+        "#library--commons-crypto--aremily": "2020-05-06 00:00:00",
+        "#library--commons-crypto--adamretter": "2020-04-22 00:00:00",
+        "#library--commons-crypto--ossdev07": "2019-02-26 00:00:00",
+        "#library--commons-crypto--chtompki": "2017-05-27 00:00:00",
+        "#library--commons-crypto--salyh": "2016-11-30 00:00:00",
+        "#library--commons-crypto--britter": "2016-11-26 00:00:00",
+        "#library--commons-crypto--sundapeng": "2016-11-21 00:00:00",
+        "#library--commons-crypto--krosenvold": "2016-07-07 00:00:00",
+        "#library--commons-crypto--stain": "2016-06-29 00:00:00",
+        "#library--commons-crypto--JkSelf": "2016-06-16 00:00:00",
+        "#library--commons-crypto--dianfu": "2016-05-05 00:00:00",
+        "#library--commons-crypto--winningsix": "2016-05-04 00:00:00",
+        "#library--commons-crypto--jerrychenhf": "2016-04-01 00:00:00",
+        "#library--commons-crypto--colinmjj": "2016-03-29 00:00:00",
+        "#library--commons-crypto--dongche": "2016-03-21 00:00:00",
+        "#library--commons-crypto--kexianda": "2016-03-15 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#library--commons-crypto--XenoAmess": 0,
+        "#library--commons-crypto--adamretter": 0,
+        "#library--commons-crypto--ossdev07": 0,
+        "#library--commons-crypto--chtompki": 0,
+        "#library--commons-crypto--krosenvold": 0,
+        "#library--commons-crypto--kexianda": 0,
+        "#library--commons-crypto--dianfu": 9,
+        "#library--commons-crypto--dongche": 12,
+        "#library--commons-crypto--colinmjj": 14,
+        "#library--commons-crypto--jochenw": 23,
+        "#library--commons-crypto--stain": 27,
+        "#library--commons-crypto--JkSelf": 79,
+        "#library--commons-crypto--jerrychenhf": 86,
+        "#library--commons-crypto--geoffreyblake": 126,
+        "#library--commons-crypto--winningsix": 175,
+        "#library--commons-crypto--salyh": 189,
+        "#library--commons-crypto--britter": 207,
+        "#library--commons-crypto--sundapeng": 321,
+        "#library--commons-crypto--arturobernalg": 333,
+        "#library--commons-crypto--aremily": 442,
+        "#library--commons-crypto--dependabot[bot]": 665,
+        "#library--commons-crypto--sebbASF": 2310,
+        "#library--commons-crypto--garydgregory": 2369,
+        "#library--commons-crypto--": 2399
+    },
+    "commiter_contribute_time1": {
+        "#library--commons-crypto--winningsix": {
+            "start": "2015-11-11 00:00:00",
+            "end": "2016-02-23 00:00:00",
+            "bug_num_per_commit": 0.38461538461538464,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--commons-crypto--sundapeng": {
+            "start": "2016-01-05 00:00:00",
+            "end": "2016-06-24 00:00:00",
+            "bug_num_per_commit": 0.17391304347826086,
+            "bug_commit_num_rate": 1.0
+        }
+    },
+    "commiter_contribute_time2": {
+        "#library--commons-crypto--winningsix": {
+            "start": "2016-02-23 00:00:00",
+            "end": "2016-01-12 00:00:00",
+            "bug_num_per_commit": 0.38461538461538464,
+            "bug_commit_num_rate": 0.38461538461538464
+        },
+        "#library--commons-crypto--sundapeng": {
+            "start": "2016-06-24 00:00:00",
+            "end": "2016-04-29 00:00:00",
+            "bug_num_per_commit": 0.17391304347826086,
+            "bug_commit_num_rate": 0.21739130434782608
+        }
+    },
+    "commiter_contribute_time3": {
+        "#library--commons-crypto--winningsix": {
+            "start": "2016-01-11 00:00:00",
+            "end": "2016-01-07 00:00:00",
+            "bug_num_per_commit": 0.15384615384615385,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--commons-crypto--sundapeng": {
+            "start": "2016-04-27 00:00:00",
+            "end": "2016-01-14 00:00:00",
+            "bug_num_per_commit": 0.17391304347826086,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#library--commons-crypto--winningsix": {
+            "start": "2016-01-07 00:00:00",
+            "end": "2015-11-11 00:00:00",
+            "bug_num_per_commit": 0.16666666666666666,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--commons-crypto--sundapeng": {
+            "start": "2016-01-12 00:00:00",
+            "end": "2016-01-05 00:00:00",
+            "bug_num_per_commit": 0.21739130434782608,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#library--commons-crypto--winningsix": {
+            "bug_num_per_commit": {
+                "time1": 0.38461538461538464,
+                "time2": 0.38461538461538464,
+                "time3": 0.15384615384615385,
+                "time4": 0.16666666666666666
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.38461538461538464,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--commons-crypto--sundapeng": {
+            "bug_num_per_commit": {
+                "time1": 0.17391304347826086,
+                "time2": 0.17391304347826086,
+                "time3": 0.17391304347826086,
+                "time4": 0.21739130434782608
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.21739130434782608,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#library--commons-crypto--winningsix",
+        "#library--commons-crypto--sundapeng"
+    ],
+    "number_daily_long_time_error_prone_developer": 2,
+    "improved_daily_long_time_error_prone_developer": [
+        "#library--commons-crypto--sundapeng"
+    ],
+    "number_improved_daily_long_time_error_prone_developer": 1
+}

@@ -1,0 +1,51 @@
+{
+    "cate": "#javaee",
+    "#javaee-cate_aver_bug_rate": 0.1859580931957289,
+    "#javaee-cate_aver_bug_commit_rate": 0.14415584415584415,
+    "high_bug_rate_error_prone_developer_number": 12,
+    "high_bug_commit_rate_error_prone_developer_number": 12,
+    "high_bug_rate_error_prone_developer": {
+        "#javaee--deltaspike--kenfinnigan": 6.0,
+        "#javaee--deltaspike--lincolnthree": 4.0,
+        "#javaee--deltaspike--hiddewie": 1.0,
+        "#javaee--deltaspike--DennisRippinger": 1.0,
+        "#javaee--deltaspike--pedroigor": 1.0,
+        "#javaee--deltaspike--rmannibucau": 0.6829268292682927,
+        "#javaee--deltaspike--": 0.2857142857142857,
+        "#javaee--deltaspike--tremes": 0.25,
+        "#javaee--deltaspike--chkal": 0.2391304347826087,
+        "#javaee--deltaspike--danielsoro": 0.23809523809523808,
+        "#javaee--deltaspike--LightGuard": 0.2222222222222222,
+        "#javaee--deltaspike--ArneLimburg": 0.2
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#javaee--deltaspike--hiddewie": 1.0,
+        "#javaee--deltaspike--DennisRippinger": 1.0,
+        "#javaee--deltaspike--pedroigor": 1.0,
+        "#javaee--deltaspike--lincolnthree": 1.0,
+        "#javaee--deltaspike--kenfinnigan": 0.6666666666666666,
+        "#javaee--deltaspike--rmannibucau": 0.2926829268292683,
+        "#javaee--deltaspike--danielsoro": 0.2857142857142857,
+        "#javaee--deltaspike--tremes": 0.25,
+        "#javaee--deltaspike--ArneLimburg": 0.2,
+        "#javaee--deltaspike--chkal": 0.1956521739130435,
+        "#javaee--deltaspike--": 0.18681318681318682,
+        "#javaee--deltaspike--struberg": 0.1721958925750395
+    },
+    "error_prone_developer_num": 11,
+    "error_prone_developer": [
+        "#javaee--deltaspike--kenfinnigan",
+        "#javaee--deltaspike--lincolnthree",
+        "#javaee--deltaspike--hiddewie",
+        "#javaee--deltaspike--DennisRippinger",
+        "#javaee--deltaspike--pedroigor",
+        "#javaee--deltaspike--rmannibucau",
+        "#javaee--deltaspike--",
+        "#javaee--deltaspike--tremes",
+        "#javaee--deltaspike--chkal",
+        "#javaee--deltaspike--danielsoro",
+        "#javaee--deltaspike--ArneLimburg"
+    ],
+    "error_prone_developer_team_rate": 0.18333333333333332,
+    "team_developer_num": 60
+}

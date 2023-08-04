@@ -1,0 +1,137 @@
+{
+    "item_start_time": "",
+    "commiter_files": {
+        "#big-data--bookkeeper--gaozhangmin": [
+            "'bookkeeper-server/src/test/java/org/apache/bookkeeper/replication/AutoRecoveryMainTest.java'",
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/storage/ldb/DbLedgerStorage.java'",
+            "'bookkeeper-http/http-server/src/main/java/org/apache/bookkeeper/http/HttpRouter.java'",
+            "'bookkeeper-http/http-server/src/main/java/org/apache/bookkeeper/http/HttpServer.java'",
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/GarbageCollectorThread.java'",
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/InterleavedLedgerStorage.java'",
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/LedgerStorage.java'",
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/SortedLedgerStorage.java'",
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/storage/ldb/SingleDirectoryDbLedgerStorage.java'",
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/server/http/BKHttpServiceProvider.java'",
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/server/http/service/ResumeCompactionService.java'",
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/server/http/service/SuspendCompactionService.java'",
+            "'bookkeeper-server/src/test/java/org/apache/bookkeeper/bookie/MockLedgerStorage.java'",
+            "'bookkeeper-server/src/test/java/org/apache/bookkeeper/server/http/TestHttpService.java'",
+            "'site3/website/docs/admin/http.md'"
+        ],
+        "#big-data--bookkeeper--Shoothzj": [
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/storage/ldb/DbLedgerStorage.java'",
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/client/LedgerHandle.java'",
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/client/api/ReadHandle.java'",
+            "'site3/website/src/pages/bps/BP-31-durability.md'",
+            "'site3/website/src/pages/bps/BP-41-bookieid.md'",
+            "'stream/clients/python/bookkeeper/common/timeout.py'",
+            "'stream/distributedlog/core/src/main/java/org/apache/distributedlog/ZooKeeperClient.java'"
+        ],
+        "#big-data--bookkeeper--StevenLuMT": [
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/storage/ldb/DbLedgerStorage.java'",
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/BookieImpl.java'",
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/GarbageCollectorThread.java'",
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/InterleavedLedgerStorage.java'",
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/LedgerStorage.java'",
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/SortedLedgerStorage.java'",
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/storage/ldb/SingleDirectoryDbLedgerStorage.java'",
+            "'bookkeeper-server/src/test/java/org/apache/bookkeeper/bookie/MockLedgerStorage.java'",
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/LedgerStorageNotificationListener.java'",
+            "'bookkeeper-server/src/test/java/org/apache/bookkeeper/bookie/SyncThreadTest.java'",
+            "'bookkeeper-server/src/test/java/org/apache/bookkeeper/meta/GcLedgersTest.java'",
+            "'bookkeeper-server/src/test/java/org/apache/bookkeeper/meta/LedgerManagerTestCase.java'",
+            "'bookkeeper-server/src/test/java/org/apache/bookkeeper/util/collections/ConcurrentLongHashMapTest.java'"
+        ],
+        "#big-data--bookkeeper--poorbarcode": [
+            "'site3/website/src/pages/community/contributing.md'"
+        ],
+        "#big-data--bookkeeper--hangc0276": [
+            "'bookkeeper-http/http-server/src/main/java/org/apache/bookkeeper/http/HttpRouter.java'",
+            "'conf/bk_server.conf'",
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/replication/Auditor.java'"
+        ],
+        "#big-data--bookkeeper--zoltar9264": [
+            "'conf/bk_server.conf'",
+            "'site3/website/docs/api/ledger-api.md'"
+        ],
+        "#big-data--bookkeeper--HQebupt": [
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/BookieImpl.java'"
+        ],
+        "#big-data--bookkeeper--zhaohaidao": [
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/storage/ldb/SingleDirectoryDbLedgerStorage.java'"
+        ],
+        "#big-data--bookkeeper--wenbingshen": [
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/replication/Auditor.java'",
+            "'bookkeeper-server/src/test/java/org/apache/bookkeeper/client/SlowBookieTest.java'",
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/replication/AuditorElector.java'"
+        ],
+        "#big-data--bookkeeper--merlimat": [
+            "'bookkeeper-common/src/main/java/org/apache/bookkeeper/common/collections/GrowableMpScArrayConsumerBlockingQueue.java'",
+            "'bookkeeper-common/src/main/java/org/apache/bookkeeper/common/util/SingleThreadExecutor.java'",
+            "'bookkeeper-common/src/test/java/org/apache/bookkeeper/common/collections/GrowableArrayBlockingQueueTest.java'",
+            "'bookkeeper-common/src/test/java/org/apache/bookkeeper/common/util/TestSingleThreadExecutor.java'",
+            "'bookkeeper-common/pom.xml'",
+            "'bookkeeper-common/src/main/java/org/apache/bookkeeper/common/util/OrderedExecutor.java'",
+            "'bookkeeper-common/src/main/java/org/apache/bookkeeper/common/util/OrderedScheduler.java'",
+            "'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/Journal.java'"
+        ],
+        "#big-data--bookkeeper--zwOvO": [
+            "'site3/website/docs/getting-started/concepts.md'",
+            "'site3/website/docs/admin/upgrade.md'",
+            "'site3/website/docs/reference/cli.md'"
+        ],
+        "#big-data--bookkeeper--zymap": [
+            "'conf/default_rocksdb.conf.default'",
+            "'conf/entry_location_rocksdb.conf.default'",
+            "'conf/ledger_metadata_rocksdb.conf.default'",
+            "'site3/website/docs/reference/config.md'",
+            "'site3/website/src/pages/release-notes.md'",
+            "'site3/website/versioned_docs/version-4.15.2/reference/config.md'"
+        ]
+    },
+    "number_of_introduce_bugs_per_commit": {
+        "#big-data--bookkeeper--gaozhangmin": 0,
+        "#big-data--bookkeeper--Shoothzj": 0,
+        "#big-data--bookkeeper--poorbarcode": 0,
+        "#big-data--bookkeeper--hangc0276": 0,
+        "#big-data--bookkeeper--zoltar9264": 0,
+        "#big-data--bookkeeper--HQebupt": 0,
+        "#big-data--bookkeeper--merlimat": 0,
+        "#big-data--bookkeeper--StevenLuMT": 0,
+        "#big-data--bookkeeper--zhaohaidao": 0,
+        "#big-data--bookkeeper--wenbingshen": 0,
+        "#big-data--bookkeeper--zwOvO": 0,
+        "#big-data--bookkeeper--zymap": 0
+    },
+    "bug_introducing_commit_rate": {
+        "#big-data--bookkeeper--gaozhangmin": 0,
+        "#big-data--bookkeeper--Shoothzj": 0,
+        "#big-data--bookkeeper--poorbarcode": 0,
+        "#big-data--bookkeeper--hangc0276": 0,
+        "#big-data--bookkeeper--zoltar9264": 0,
+        "#big-data--bookkeeper--HQebupt": 0,
+        "#big-data--bookkeeper--merlimat": 0,
+        "#big-data--bookkeeper--StevenLuMT": 0,
+        "#big-data--bookkeeper--zhaohaidao": 0,
+        "#big-data--bookkeeper--wenbingshen": 0,
+        "#big-data--bookkeeper--zwOvO": 0,
+        "#big-data--bookkeeper--zymap": 0
+    },
+    "commiter_bug_number": {},
+    "number_inducing_commit": {},
+    "commiter_commit_number": {
+        "#big-data--bookkeeper--merlimat": 3,
+        "#big-data--bookkeeper--wenbingshen": 3,
+        "#big-data--bookkeeper--zwOvO": 3,
+        "#big-data--bookkeeper--gaozhangmin": 2,
+        "#big-data--bookkeeper--hangc0276": 2,
+        "#big-data--bookkeeper--zoltar9264": 2,
+        "#big-data--bookkeeper--Shoothzj": 1,
+        "#big-data--bookkeeper--poorbarcode": 1,
+        "#big-data--bookkeeper--HQebupt": 1,
+        "#big-data--bookkeeper--StevenLuMT": 1,
+        "#big-data--bookkeeper--zhaohaidao": 1,
+        "#big-data--bookkeeper--zymap": 1
+    },
+    "team_developer_num": 12
+}

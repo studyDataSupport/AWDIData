@@ -1,0 +1,3794 @@
+[
+    {
+        "fix_commit_hash": "bc8fac953228c28d9aec57b2a3f44de3bc16451f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "693455fc9ba6da6f7a01cb9cca90d2005634d586",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "812fd52e9af3cb3b86f60adc5791ea6d21808c3a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7496c39dc72d7eba4643d7167eab1aafafc9685d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "14f57546c12912d99c33da574ef387b2b501138d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e46ec513a2f1d8a14fd4e08cb8a868b05756c5bc",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f4c2981ea22f9fea28c90a5b33cecdd95561918e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2deaf375b9f7869b3e72982397eec34785378c40",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ae0fe4606e56aa5ccccb63714504c6951e3bb1c0",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "120915227d1b44e30ac8f0d9924675c854b8ce4a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4366185351eb0dfa40d1ccac4a0766bf707bd440",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f6d190d7a1339eef199e26d9b053fedbb9dc4dcb",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "43f4723ea2cce745c4916721155cb962dd04e855",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "167bc5268fcfc3418faeddbaea06ce4decf926c2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "52c586587c512fa5a72eb12f2df7dfa4ac8f5ec2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "295a041a728444d1a1ee7b82104dfe387a704929",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "50a0552dc428069f396fe4926f4bff0e97372cfc",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "31485649e6ea11921b97dbbce5672d5eef5bf0b9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "aa8e1531f970d5477d60f7ea2c669657b5bf077a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "6cdd2f0589e44bb464cf03f4e6848b059fd9c113",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "53d9456dc7ad725c30b73b38a52a751b55ae0dbb",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ce523efddab377a6a2067f88f4b587064914a4d2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e2bfa1535317186c3e7b69de188f998aeb864431",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1b177a2638126afb5280ad5c113e901e42fec375",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5b6f389dffb9319f13a707b2f38340ec3682a612",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d5f0c377812a96df356681e924be983bbc00608c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "3163401292d0640a6ade44d77cbefce1db8d9f10",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c60ad2e5a33ce5b83b39366209c82d1372315ba4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0eaaabfeb71345379d76f71754fa064d2dba5e1c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a7eed67f81799f2bba24d7f22aeb49a893d6a526",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2ddfecef996e59ab33e3c578d9ae11ef041164d1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f324039c9241d9bb2ba7a50369c46e6144f18812",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "cbae31d384f2343f9af4f1851f2fae60c82b8e56",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "df6dd3afc2726b03e66f2c7f74dfb079652364b1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "db03ec34f18287f8bc833e881e445fabd480dfa2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "197e92a7b8be6d3de0fbfeab8c45c10507edd0d3",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "fcaf700a205b9faa3b02b5faf1243d702c09efcc",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4073660cc307fe3f769ddd3f521d15a3b50293ec",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c04efbeecc4831ec1b7075cfc7ca06527ef67897",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ca202894f3e83b4e49f131b320a656f7732d8c5d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "52b9eb7c098a1855f750511274c9b7d7d86856fc",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "242aed4e29887197b378ddb8cbf5a466f46af3a5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ac8d8f085ea7d8d70217b8142a7a0434c4709915",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c87268bacc4536da69c4918e9abc2f6a83db1afe",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2c45bbd37a80a7c7030c5c0c52017171a93a4d73",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2575a52b7398895cfdfce06e3361344f576b9fd8",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "69e36aec83a830f09eaf66c6b7438c0099ef9de2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "6924df21aa76a9c658134db49075f5bdedef055d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5dcb19f4bc4726b24fb941736ffedb202af594f3",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "471496e87c00b38d74370136bb7fef3ba7dc9f15",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "eecf3cad2626d0aaaa44f383e25f7a5fc931d9fc",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4d8e28fad12b47d54d5f5f5cb9a6502b3a960d6c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ba54cc3b7baeb0a4db500234953391da0be7b176",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7daacd2a582d65fab6cdda35d73df7f46b70efe9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d14ba146714921d5f8bdd4b2b5fa44ddf2d66950",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1cd7033782a95aa369d0496f5d2e386649efad40",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a617d00192791090dbf0e69d8c1a46174f9d9d4e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "cb48e0f6c42bebd3b43e9fceaaf4e7b2a293ec76",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ed5ec762e45a9b367af129d339b9a0d81de0e17a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ec66f35ae3619afee6b86b4c254e163a8d5328bc",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "3a615dac0eb8c29fab058326c9c5c8086d4fdacd",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8fd966f7fa2872701b79f6d9c48f7f234178b750",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8f70ba9a20d941ccab9510d298744d1f04bd71f2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b9d35381a62a3e31be966c6e19bbfd7c72151e00",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e605d9c9d004f2926fa1fd271f9d09ea370df3bf",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "303645acc9dcad81984f7cdd9f26a736809aa6bb",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4a44fb7873c59c549929e9899ee23b97b289daf8",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "fcac9b2c5c2e1bb406e6ffd412714485ae4d0a31",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0ce10e34a4f58002b590d40070855259ecee14b1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4a34946211477bf9fc7ae3771dd3ac3fd4c38eb2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "bcce97b7b83d0086bba113321c8bfff50f1b3e8a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "025a014e63509383ee2c8d0cf72338fcd2a1f44d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "3712540038306fa2e7899275a2282ec2faa32e12",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ac80f0a712f38fc8f41b52816ce73db8507e7249",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "48d04f3053e3ab92c2aab6bd4e75cf4086efa154",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "cc5eb1a3b6c94129680d1794d94e8e1783c6104d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d0d5417d22f359d5910d934c37175fa00213b694",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "71c7470d1d54cf810bfc17f6f62be57d14af4875",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9e2ce5e6f6b517203741529f9ea014fcb5bb87d0",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "cbf6dc85c728aa1d3d93216e8980ad8a5626be38",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "81591369501b82880987d09e5704d685d97aaf4a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0ebfab7eae1d784109a95166c6a875bc9bed445b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "110f4153bd4a6cee447e7cb59014ac130b00d55d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "49a09d208578dad1bc42c96d20158d970b14d7da",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d361481c3fca9754a82f9c780d654f1be772fd4f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9aa87729c0f28293432404d0ec0b1746c7ee099c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4db62361575bfad3986cee013e6e7f0cab570431",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1a7d05efd95b41edd370abde9b2a0e2093c9f293",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "94b445ea18585f0571e177fba72c1af7560943b1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a619758f6a07db81561a2f9bf5d27639269f4b2e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b518853eb4cbaa1e0b37cca7a66613def39694bc",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "433468916e079a0dd92ef7a294eccd2ad0875767",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b7caa778aefe2e757d65280b72d5f583ad0521b8",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7879cef08e8c0806e53017e98de801d17d4ba44a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a244be45618f2f297d4def9953520eb3b4d37a13",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "863e7ab1e30f99036c905ca16fdd9aa31d095e56",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d5eb5f57f158978767da0450bc45abada49aedf2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2c28207b09732f1e6103813789e5a2f19024866b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d10e15d5eda566bc978bc2cc3e7c8fa26cd73577",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "dcdeace47a179851ee0810d446d2ad903ac826c2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d1852e3af0fb0513a8ecaff00fad3967bcccde55",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "12733e7184f707af37bb55809ee3142732867be1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9b9b4ead5bcd1b40ec9c6efd36d78297857dc6bb",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "918be5a38b93df4ffe59affd7d61d3410ec3a236",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c845d4a51700748b00bdaa6a7a6e0117c5fada5c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2242282719c590e9adbeb60a2699e307c5f472a7",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "fa485e628d335f0395eebdb5a57d1304b31af874",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ce0f2a9d6a757610132343cb6133cc2bda9388e2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a2a4335946b74b27ea23a6cf95c30f69e765517d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "57184ab02ffe8020f9b91f64b73d73e1d7f38131",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "91a81ce43ac90b8b1eec3ea9ec9cf162efbe25a2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f4019ae33eca291ac19b87822e12b150eaea3b24",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "eda72dd48f6ca8234e74c20bf10f2b3fb93439eb",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "dbdfe7fc23c3e2f05deb0867913cea74c0b0032c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7ca30e00680a4c3c41dc8269542a3f608f8c42a8",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5bc3cc5c438364218566a7b66ec9830a01501b05",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0535ab9162228505f1247b51288f42476a31b306",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4127124b5f623f39cce070d93b5f0e7632b243a1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0e04e5c005e9cc7d3f0f811633477a5067deb0aa",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "89206511aad7cacb91c7fa032490816e7cdd18ba",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "38b56bbf3807cf9d2c4578a7948e4bb5bfaf47a1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "aaf1748525d304511c254b1aaba4b480e54b38c1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0026377664ff9ed4382a16d860aa1dc85f8ae37c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "fd8e1bb8aebcb40531bdda6cf828f9d3476be6bb",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "52ca823cb212566fab912c624e652858972214c8",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "840af4f5de180dc53e2c28c5dbab01bef72a6ddb",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "bef8b19e02a81b6580e4469ea64730e50eadf5bc",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "998e720776d4b36f0440876664e84a712b8a5933",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "58d8479b2ac8f3609178b744fbd839784823737f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2e2230f27b5e35e4ebb4acdf8b48d0f12569acb7",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "6ca3a4eab9ccb83f17dd8efebf7b8c499aa244f2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e2ea842e4638eeeedf6c4484483937b14e451964",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f39d0c515a87132ac1e3bc649ba4f650bfeea4e9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5c46e4c1f4436de224bb6c5c408c3849d8ed784b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "926adc68691d751ad89261313ea54a5007d95787",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c48ff3ec7247de10b9fa4418456ec606f81fa427",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "054655049b2bf35030e1566f10135c949c2316e0",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "abdb8874e3cf9b62393a28b14ec0d91f4932f665",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "04ec47e085d09326d8908d7b2c1ebecc28c9d8a9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "58e3b99384ac3b0ca4f26c094c0c0a58571b5d92",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "61e513e1a828a18ec2ced0ffec470384477c277c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "871f3b736fb1ccf626c162c321f9b421998c5a74",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "186ca4ac117c079aa96db91eb353080d6cea3740",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "73c8f844f53e6692a9d20e001a491a1f03f92b89",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f9071e047a06d25ca1594af1fc8d7351c6c09192",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c758be4775e53fcb869bd70c711be12597a6a2b2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e90158c6d672070facf5efd053b2d47871e0d491",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "90a623b1678773bc0dc5ac4491f9fab2afd73312",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d05d307e0b1bea9f2f1a63a02392a917b35814c0",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "704c6ec8643a7e686868717bf61e0ad2c772a852",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "98e547f2d7f850994d880a97b07380eeb84b649f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d2ee4dcb75ac41a0f5664bff1199e22eea72d506",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4578327cf1c84098e1f5297e2f83b19532ea2ae4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "3f364a601673e0e28522b1139bf955c5550483a8",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5e9b53ad8d5b8a6fe65b8995b17dae8d56d1aca4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "cc235fd1de6dbd09f9a4967736db9974a5136366",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4a47303b6fef73f7efd10015f2354b5d3b983a6d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "fc0a00213dac11cf0e37dcad9e22615b7503d075",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1b019617d408312ac33bf8f07f0ec862f7b33382",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "56ab602d8f0e9ec92bfa083cc14badce8169468c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "eac453ecc8f986dd852fc08a65aa2d0b3c08437f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "13d386698fe8e516676c192b603deda5aae08d0d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "61ecb34d28c318a5620b6ede7c13aecf71634c17",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b54f7f3c7a69e0ecb56587045e5d863d06e99372",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ef4fd73ca73630721ee9e2790c9104bbccdf85e0",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c9cb1702588c3e309ed0c03235718bcedb9c1ee9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "16dd645efeb6a51f840858339430c438490593df",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "029c9b8d64605dd3d09ea22b0d2b7e6818f05300",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9b244d7b4101f386bb71bc4244c77e37d0dfb0b5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b144016b629be5fd4c526e25e5d40d2c4265c761",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "96587a4ed89ce6691198a0df8a96a9c81ddb875f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "584f210a5e67ec9fd9c4c3758b524081c475083b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a3e450ea0ec282cb1ad41c6314b1e6bfce3c4dc5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "af68e28bc211fc819137587dd112e4d46b5148dc",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "53a106c27c1188895bdd66be61d5322a9fbf6751",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ddc8011bbb9d1d6e9f5aa0b1537edb8eaf831a87",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "89bae580c9757bd9cb2821b95c6a07f482b8a340",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "855f12ea2c7343ae0ef5a72cbb22a7a973ffbbd8",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ff638cb6db57caed4e7130df316b403001437152",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b3923f29ddfee3b10ed99097480aefacb3878f04",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "db8cc2347070ce5956ad6e881224c285f825acb6",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "05333e8d096c400fa2bc8839fa4ce96f5ab7d92d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f58a46da9272c8d3b4f863864346d1f072cf59d8",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e8e7cbd03616e1a4ab7aa4c5bcf5632c57ed815d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b98e77ee906dc9c6326b7d8703870faf523694ae",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "431dcd24918fd8c6b4b60c30fd287061670f805b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d00f061ec03f01f65788b0cb2d8f89ffcf4bab28",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "836063568cee538b28e70565f0e10100340fc0bc",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "51b9ab77960eeb1a65248ac2f602d7903765ac82",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8b1d79f930317b5f076d6dda4567d483d2948270",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e89aaaf9f86d5b4b32a1ee46dd77b57229b3fad5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "731d8ff13f8ae7f376e911b01bcedc1cc2af246c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ac21cb65ae0f63664b63c4dbabd221bf0831f094",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "62b7acf7c65d146b06bcd05ceaec256197b3799c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "3897835372b0bbc2b7c70beb9842a660fbbb2031",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ebda495ce8bd52d63086f911f626f362be284c71",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "36cdb97febfd0aa7d0dfbf4c8f9b165a7c7ee0aa",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "880217d79543e7e029db391e2acdfc868a06ab61",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b1cc3a7e1737231777ca3d3fc5bd8168a51fe0cf",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "fd7df3456565dd1a2dc421c84f81762f0e80e1b9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a6197d16cf723a4d87e433ae805dbe36fca9e823",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "32c3f2d4b727697c26c6022dd6051b0a28d6f4df",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "cc27ffebf8b41895612526246f7c3189bcdf9e1f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "51d25c541f4ff47b6bf85d507477970518d415da",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "81fe6fcb71b9d55d07fddbd34d126fe0d8ef9558",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "379b162d50e7364086fcc6953db2626a66ec33ba",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "eb6d3c5533bdc2b0b9d25fb47af961fdd2bc9051",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d398c633ec676f5861ab6a035030193c299d15d1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8a2e6ae8570d8affecd7c0915e0402c4f57ba458",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "40485c5ac3edb492ffd2494d03f3a46f6eab23dd",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a4587b6a2ba3f03b6742fffb426c05bffc92b092",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0ac46f34a14b6c89e497e551c8cb583fdf8dc832",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9f3e1a3c354646c17b4d79dce3e5557889afe78c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4d2ca826405b4d9424915c3186b3ec5c6cdfe51b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "248f08c7537cf1e9b631b768f18a7dbb6b7e5cbd",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ce85fed6451fe9ec8d9c01e7011faee59e839bc5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "3fd62231e51901073e5c9a44ef8a62394bd7c808",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7c2cf00332c5f5123516cebca6f942bfda5eb516",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "fc968d94b09fa56d2c363b0a8cf5828691ef49e3",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4d7ccad55aaf03245153ef68f620ed14d9ad127a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c80ad98e324b63a0aa4f88f77b7c310e54a9ff21",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "bdfbe08ca452b5659e62ca269bd83e33c6c6fd0d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1ce7fc4e16490fdb21bf60d6a1e17e6b9436a62d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "759e65e95e4c6708aa1d39781b5374465ad0d94f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "fdeeec693e73a63e3470786eeda2eb3085a7f80c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "99447cc0174c03ae41f22d6c66e85b69af6726dc",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "32940ee263b23336cbc995f3ddb4ba518e8713c4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9b611aea89a7ff0ef9205e071e076c92b4afccdf",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8d28295454013cfe50eb98ca97f18fa51beb80e7",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8a504c7c7f8e6a07ded65c671b64ccd702f47668",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4ea6f9b4de8437598a87f8480133135622ccb3b3",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b3963eb33a3bc664214a16c2c16f04de8d777078",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5fb449118bbcddccea0750dd7a97e66f53f32c60",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "42c341190db362b9679b0dd1ee4a91b0de82635e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1262230a1d4b96d098524fd301fc2bb062415137",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "283d638f728015120cd9838ac7676f8b8b649d3b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "92b1afe7d200c16d21f711b4bd1fe2678136ae5e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "06a37c012909b6fa8326fc9f4f1160a4577610af",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "918bb6ebac23f9785bfce26f4e7315fd86233691",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f745a08ad39f0fa3bfcb87c87324bcdb3cc74b0a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f17167da59975c81166430e77f8ed935c62aa8ae",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "eb9b667a814997b9317f28fc92920092f0c26d8b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "67e6e9d165ddf92ad41072da9141b92210cf0543",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "193502a3000b04d2121364dd0b3989cd70df99f0",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "632a6b64f8794c602f0c3f86bd3cdd990a5fbe58",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "59c45d3a3e040a5640c203bec5a64f466d83cf7b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "dc90162c3cc893bc3e64c2f66f5870b336b5eaa0",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4d08dcac1c1b256281855c91fec1a5e9219e1e30",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "fc1f085f30d9bdb9ba75d640c487e8bb1a8c0607",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e7262162a6d4e3efdd1a666cc33b7e575aa746af",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c478a0629e6017a68f1c831b0f838b4c1b8cea40",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f6d7168c5bc3f4778fdb857b5b4bf23357aa841e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2e5c0866ed3609533a9a24f7d5f695cd6abe9323",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8773ba8deb867f6f1d52d1ffc48138c7846382ee",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "660b5bca04504b3d801ae2bd74f3fce812003b19",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d49cb66256039a5dec2fb2c7bd968c7249294ef3",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "129774dbf0e3cb4cc85279628f8c26af388c8734",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "57a2814b86864f6b6b6e75995085c4cd7ae4ee05",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "85ccaae92945b1cb2b50e02f00eab8e7b0f457a6",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d7d728c748a6b7878685277add60863df34693b0",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5881ed8f6ea08612ea8fc871b5d12b1628d186c8",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "11a7fe7b07def7c623dec3c5a320b9e84485cd30",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "fc592f05fbc5f3c8d901fbe8d01250c7e1b9cc4d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b34c0eb811ef7cbad565fecc644049d1cf42e898",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1c887df8e303b9267a879e58b86c4908a0b26225",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "986172bb5790e504839355d280482c0bbf967271",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f32d86085ebd7ce918be9faddc6f612e3ed1b9f0",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "53e84a25a7d34dc41fcceef3c09a29484ade4e07",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d3046fee5084968978d1802f2f9753a037dca9ff",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "44e2bfc8a385959e944cb946b25b183083501a14",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "38e6eb8850d471c25c94dfddda17aa97c5956898",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "71e33f02fe717823f2c250028b3f19fb29249b43",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c65e7507388cde75cdccdebdb80e20b583b28b42",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "381eef37a43054279b89344ab55086e5c5adb47f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "3f360a77bd227122dc5fbad0597c2b6e06a22aad",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "76770fbea66c12f31674c13755374d65fe058b76",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4f606a13067b7d7173604f9207369d7604ac1d96",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9846cd05fee5327bfcb70363fdfb9ec2ec328b7f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c299db6a43ca6ad9a8e8886827ef49bc029eeb9e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "19166412f24ee76abf11140fff952f0beab7f592",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "3999c9234dca285900617926b9a32ef989d9852f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9229dd36c624917cf2149eead13f49079958895d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c8635c55ac7d59e1bc780c75d634ece59d75c793",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4df0672d1abb1cebcbc288b4fa1b1c7594a576a4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9e412e536b021b1ae0b75c8b8a7ef871f3faf680",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a66a78cb6ff308b821fbfcdfd94eff14b6cc23eb",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0f8b05eb22bbb58b1872fa6a64ecda750b6b6fac",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "cb9911a25a2dae1abfd6c1e5a8ef0ee865afa4d9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "13a55e94e4b3886a7ba065d77ea05b0fbe23f3bd",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "18bd3b8e279bd4a7c93a1808feee34e5f9a13900",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "bc0cca6e57740ed514acd606711d787735964ada",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4ba05e197764349071f0049ff46caeec78833c54",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c60417751b9602050c3dd95b1659558900add5ba",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4016804624b610cbc7e45b1758ff2c26941dc54c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4220e8bb2ebde6abe8c2b5ddec72de21097dec34",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e51dc99ac30a183c66f113a400fc514b4be6ba9e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1d399f26a06dc10e8038634dcf5442cb7e0b69c7",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7b196983748d945a7d078ef6da9184bbf7343ea9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4987c3645247898ac0e0e6e8ee6cfe11324a2669",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "aa587bb8287b22839b6d12a8cbab032c5b77dfaf",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7349a72993f54028b1d314578a1c0b77327c635b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7a7450b90c1cc244a4bc96fcc9845c6de8464d63",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2784b52fb1f7a00dac566a3e30fe111e278c9592",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "45c0de9dee9fcfca15b30ac11725f96b3669e2ab",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2134f080ae6aa73a0fd47e184d5476b68e52bd99",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b61e8d529c60a5b0c62b2535b65a09e1a9cf036a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4fdefcbbea9bbbe838fef9a718895729be6c21c9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b90305043c1a89b69f03e3026bcefcae0a3ee83a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "954f8665861c11ff300081e3ddc6a1e7094242de",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "bc6683f4e67f1c1904a82b4d488293124f565e26",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4729799d6cc7fedef378e6f7fe3ac8409754f342",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c555bafbd151e4410f525839e79f5a2044574bd4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a3414a962be5c01d9aee5294cfb492564b7c1dbf",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e844eff90b5993da01ab6027a93265d3f1f0077f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2717b15749ad01f0c3a1120c66825ffffd9d3832",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "35b65a26727245b75420551851f78d574a6d2c0b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b2ec86f71046867d7798635853a9c7076f6e3a20",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "96728794b9303e12568c83c62b1c0e599549e493",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f8909f52a3b17773f139b4bca0a4bb4380241d5e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "11539a2e3618eed2ba0f87ed5222eaa0dce591dc",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "898e0a2d9c63947333635b811157d49a45b357ec",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c7a0a99316b4a79bf3939bab627b793e15628a41",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e4033958a007e0d659936c2b806986bf6801ce49",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d6c681669425242c7ff2e0760de3ae9c065f7dde",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "6e7266ad3649e1804ee869afed04f79a71e48b7d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c94d9b1e68570760c7990f15e9d7e3670ed233c1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "89bf09f9706f49de5f076ecb9f586efeb6139ca1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2aa46453d49f19e25f989a421a3df6a3eb61a155",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "93fd7c712e1aeb9be0df63ecd78fdf5523fdf5ba",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f422f016b15b20b53f5e1b7f748922780149cf1a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "cc2821d706cf0a9229eb73d7f53fed2ad379374c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "6f308e524df7a49a2f2f7c28459ba1a70bc451db",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "db50800726efc6005f1eaea5547d3a9e8bdf514c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "138a99bed99ba1920dc09dc92886d258a5cd0091",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7f8f9791255d7dd2425a6feb0aa466bd15019d61",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0e34aa16c86b619a1400ca589408f94f0728497d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "055ec2a7cacc3c961b377d047bd8230022b31a8a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "af682ac82cd46e8c28a2c38d4aed7bb5af2fb60d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "611569d120f6d5c43d04faeab111daf54a4ff892",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "928bfab30d244881efb632ad9d0543960cb72783",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a5fcb4be1d368ab2ea2d84c8770d0e318b376936",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d1c1ca5f74c027c5d4d32aecf162e0d1154b61ae",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e739efea44e26fc187cf5074b16d2a4bf28a5967",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "eca804d571553a4c045c03df3e2aba223fe5aedd",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "da237588d13ea9bd2d6e5e81f9ec7aa7824f770e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "040e9442c2ac63d689dfad3b9c6ee9a36a1e39be",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2a6d72c34c90faf861b714c4ad3260571fb328a8",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "08cf0cbcaf5b7ede13515dd3d975ed62ade2dc7c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1b053c5e11b6fca3e88c0ccfb4911e4c8bba5bed",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a1e1b207b8eff5d38234df7931cb919082ec1f4a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "335e873378490c4af96d25324f863ed1a3466f6c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b31c15af017c3d0716a89513f4c772025c443ea4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "67ffeb432e42caf957bd9c4dc6dd8f3c9230a7e9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "43ab7bdf01a1e8b0ec4f3cb47539e049d7f02b94",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "adee2135698c74877446abfd83da8c848e4ff35e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "403624ad4a60fae3481030d1a6c679db989dd2eb",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "cc61bc9207c6b52f35bfafe5d31f9a74ad962ee5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5f3450f743f70c214ef8aadb2c82d92bba69c1ca",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "27c1c0f8d10e3a763fc7b676d5f9c4ed087fc870",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "189b55414cb5b5c0cb9c9d8718c74eac5cf06f14",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "437a9a88323d0973ebdd135115ba23f8a20a6d81",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8ea911cc1c7dcd82c397a3d08f4183d0d1e9d7e8",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "cfb0ce18c9948eef01f7f9b1a0d20f2e80fb227f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8ba9d923501e8a5f016133030dd328cf2d33855a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "06df07ec93bd377fa50ef483dfadbf33eb1d8d39",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9a1a5840173824a8a1e9cea52c398793d7e609a9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "be42781207475ed5c7e9d5015c026d3896307a75",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "82e981be87093accf4dfd19fec53df5ee57e9429",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a1640b99e667687f370c4760e37959d99cc6a578",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d990bcb5911d4037c9ce9835adc65626218092d9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8f47214ae6da788c67d3432cf3321e6de8dd76db",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "29614f38602629eb55049074d5a2dee296bb7d9d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7953de69200ba1e9c2189bdd1b9a387831c79376",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1c75488e7888cd019995fcae758621fa8691fa9c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "26182eb355c4555773462534050af56240ea77aa",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7439e6968d5ad9241ca242b04248080ea7e8c996",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b83a8bcf0d056151e822e7698014dd19fc0f0bfc",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a7d0efc10028409bac8f4d997c9a97e4095a1b71",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "86a8ed1bf08af2123a44c33d3f7f8ab4b05147e3",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1d5eae8ee896e6eb7cc7b78beb9fd0fdf56dde39",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f7f6a21c47120177e9e61d37bc8cc7fb2a2ca7ae",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e08fc6bb80095f43bc0519180b43e7b569b57dec",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a03e9c53b56c5f55215689593d6d0b6b36ea7c8a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9d385e457d9bed289fca2730c9d2be6c3996c76a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4bdf635cedd6da93d2ea0b3a629749838f3b41ba",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c06cebd7ee51f4a912671d334c10dd8cd61d6826",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "bf3fc5eb09cfb7db53f83f10b6dbbfdbe1dbe1f6",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b509532d18fe1c50fc499e9fd36870ccf74bb07e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "069c028cbf0135e56b29df84ee77ad4b2cf19a82",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b4455c4c63b209d8e778d9e88984adf8786cd570",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "691a212129fbf50a091d2b5c05e070d88929eaf8",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "11796c96b7a8d257bd0376b646c413792093efb4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "375b624c48bb0e422f9c33dc8b3428ce1f68f400",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c9053394548d1e4ced9230ef875b49c7bf920812",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0e8b54e948ae1c40826d307deb189275c454ef6f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "532baa04961174c978b5b7e14f70bd4d6b96874a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "dcd25a0569c8d004ccd7247f9a308fd91d3ef43e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8a1f03b1c63d8b445302dc1ed46b033086fcb9be",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "fc0e59a9cf6eb77ef7f516591d9cdab5d413332f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "90b5a0073eeb418517fda20a43d1a9cee588fd37",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c061d20a8135ff80d8c99cb5403a5f295b1c2a63",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "12a1fd65d97ec5c584bad12c9960d58870aa974d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a3fb6df71767a869c6fa168b2664e6834f068568",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8886615ae738c3c606562ac6080a72ee42b446f8",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1e7fc7127a1682014c1e98119d9ccbce0602c4b9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c25abaf019fd65afc4b2ec19d0d98aca4310446d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5bdd73d8db5e57ed68c9848c7736617fe7018ec5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9925a6372cb46bee9a4e40bdf0eac914b54b2717",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f36f65911bcb33953d34f88bf8add9895cedee63",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "31e8dc07f86f5c68f82f868c6dded3919b5a516c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "dab6c828686bbbbc80d30c345fce222bbe1db3cd",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2420226cbde79a8b7649e02122baadbbe4acbf06",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e0fea744d68ff004c2b258b8a7263311bced2531",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5d2ed18d43c2f9c03dc894ea5ba247d7900907c4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "105dacd6a9018cd82a8e4837dbff8de112b60069",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d8ba648ea30ff93684c92ff7c78173d5ea3037b0",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e587af9fb6a0cbecce9d0d89f28aa227388c3502",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2caee34ee9e93406a8b54f2d282e1e42eb892474",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e1ba9d96a1e15bb7f09ba405e050c63aa54dbdbc",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d0aa9ec73f747554be8d588fa9db66fead26da5e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7468deb442752c1e04af4921826e5bb42cd9fd87",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "6e56ea05f2ce56bb610ad51f2fc7ae9b0aa9b66d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5ecb51e3c32941d3dfe85f323003f48cc737c519",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5db4c8c13c54f63ee396f13deedabacea1bc6ad7",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "20d018cedf2757bf21bec8f387daee73b0a43ffb",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "fbd84791e1b90e636d974fd194bd63c47f24e355",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "689d9bfd69de4afb544f76a97967ce0f4726a0dd",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2df45990583690fbdf5bc79ee99d9193439185d7",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "10ad502285ca410e8a6cfb4414e34b0494f208a7",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4ec9ae4e1b3526965a4ad52754841dd8908e76ae",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8e2cebda6bde0548af3fd85a91ab32e6040e0918",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "33d530c5623dd0c4cb3a977d9aaea02744deefce",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "84aa9565f6ada9f991f0184815f4ba2f04c2fdfe",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f8cad74ca71768243aadda69bb6cb54067e06656",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "75f1de31248638b2357de365df99ecf0e76c8be1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "fe84b04561f6131ddc0593fb811cd1bfba21316d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c7f28551f9489d7327792ec97f032ac932016af9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a587795d455df1a9c3b1d8d0ef2a23f965dd2127",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c8a58d3c73d9ea2afe85cb030f5d7bb1d1ad0188",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "98dbfe990887c2ce032015781cc99d4ae8198cbe",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a6d2f52409e1b9cf497d76cd799ad73f17579092",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "591e0bd3c09fd7fe937920fbf5ec1c5bd36a386f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "335dbd989fdfb667dbf6a09ad959743935da47a1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "02f1b8b5ad4ccf9936bb650c7228e401acee09cd",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ee55e06fcf58c98959afab774fd891f1d9fa49ad",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9fd0be12685ecd844cdaeef07f68478cad96d5a4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ed0ec11e23c828d395c01949e98a1b574a44208a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a27c8ebcb81e6f8a1d1b57aef2b0203d9d855eff",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ff5d35f0b4de19a5566e52e5b4162950ee4f5b23",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "84d36bad4a05e0a25ea9a9d7be006b64161a59ea",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2a8d86617e2b9109f6a366dd4f6bdc20fbd25050",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "76df40b9535fbbaf8fd826dc35f15b585e81fa36",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2e8716d89854a407314e5910cb6b37db0400d050",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "97d865e51ee51b9b0d300dcb8dd90b29fa2a3e4b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4c1cb80cca7c26b11f32febd23ec887f13b7606d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "21ac567db07c3f2196dfb41cb7bf9bbb786801a2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1a50523f32e1a8e2be69fce48d982df856639dad",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c7da8f6b7d9d9296e453df2ab296f9fce4e76dfb",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "64a762f531e87923d3b4ff10141b69ee78904b17",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5b3843a89d70c4f8e9b13227480bee1b4a90568b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ec915ded83af86ad96d005c957b03b8807cd197e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "92946b8d7b6efaabaa0f1074843a3a9682fa3367",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7e588554ad3510663ee27d9345d680a42c584ae0",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2dd78920b940546942cbec33055d9ace996bef38",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "cf768a74da3da2c00d158ba6aeb38751b6c3510c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d402f6d23b796f97c4cf32b0a2ff45150a4d2d66",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "165ea0fde4df1c2cc0ba17f6f4a51e64ac61098c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "10b1ed02e64561325110ad2ec14fcf9c4532748f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b751c72e93266fd83355d80bc536a75828bb5e30",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7590d4fa76b113dad9c4bec08655d5d0ec4201f7",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5b57a5151c5dbb68741f47709c64265f090ef354",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "6212381ec38e1e7ad18a6ffb30656a8fe3c742fd",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5af2d25f67f6b432f0af194298586ad71531588d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "509c332b68eae90403639b779cd4f7e5f61ad6f5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "90d4339973870fbaa9c48eeae6896fefec95035d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a438bcc1e4dec613f078ecea25bb177a3904a3a7",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7e03a9cf1714747df01c4fa4afc00615feafa8c5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7d42ffd065c66d810a52a90f8c2dace55f3aceed",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2b77fe102878f2c1e1e9831cfe1be3df75adfbd1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "bfb556c91c8722d42db1895a2a2e71fa7466baea",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "13287d2c186079aedc2dbaa7bef299845aff0b2a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "6eacf68adf2dfa3f6769ed29d79025d57e681d27",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8df6e80e48bca4aeec32f0fa2bfdacecf4730cd0",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e482e2e93687d8601f94f8134544ebe1e0a04108",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "828ea38fcfd4a4edee2813ae9d357ee0f555afc8",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a09e751d8e9d3a5f8a8989dec11f96d517bc16b5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7b2114638cabcdcbdb72534c14ae349dc9ef7a42",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a8fbf80096f5fc6363fc7e5e182d29f2d57af080",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "55be159283d77b382fa3325df5987410548640c9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "27217ead9a67bcded8978133a9d7abe40ebc1d1a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d835af99ba4c0c5fdfeddb6d8ccd03f2c6616333",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "6474b61be2a106f0debd4bd274782d10bbb298e2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5af2413c4ea4593a081e4f5ad8ba6b2d3cf78e12",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "24d51ad9e36de2ad84d45d8ed19af41441b16765",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "fa6acbef83700e0fbbbe23fa1ffac8d6b103b94a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f52dc20159ae1d8adcd6e9f9966b7bb6b42d14cf",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a068eb8da8848ca5b5729fb568984621bfb60bf2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "951a725d03764a4ff570194592dea804e392e22a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "12217b17d181d995d53e49d48a19baa48f130577",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7f58a165f1af9fb7ab45169f5e58b858fdc9c682",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "67ad3e38f3d415d4ed7f7ae76ed5e27d9cb33a3f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "710e784871662a54e0e8994b038a49e735f8be2b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "485520df21c94339066b53af35de13fadc5c632c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "62a23febbe6f1bc4aaade9d1fa0540cea5a839f3",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c211d05e98c82d57eb0af61487a76f0ddd99660d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f5490414dfb23a0d9a46e96aa904a1cc8c04f3e4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "3346d99e361e1dab74fc8774d3089f9049529941",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "222385bf85bb0c234ca5da981f575ee8db0cd2d3",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "aa62fa2dbdca59b175eefb62e97b5528f40d076b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "986615ff6756ee9b6940dbba0e536c5bcba5de25",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c440344ae3216d4f16c897d803cdf766bda2d97d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0e13dc72e7719163ffca638a7f809dce3f9cf54c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8ecac9216e6512afe84e0325a6e6b27d87689fde",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2288231780703f13b8f80da8e36787c4d494424c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "78d35f16f84f91985bbbd7582d79f648e4ef76e9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "6acfa43f419b7dfc579988efce32091f8349e0e7",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "92b1505a70057aef762ac20bf80a7249d947e3e9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0719da376065950d8786576cf92f71367d9aba8d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7b401def625630cbf1f9ee5f8993bbcb3269c222",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d762ed3fd9193ad6e837fec1747d18f334872951",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ff3af36d63609cd0b60400071e9df26ec41e96d3",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c5aedf40f21ffc9f884330e576ff8f680fd5f368",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7b4755d57c8998d1aed62c100124b8a94a3427db",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "10b3473ae0ab88645322ef4798f9eb696cb59b93",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "3a0119b217bb71d107b335c27abac77847b2bfe4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5432c872271e42d1ba8981e5f5de2059d5509ba2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8537d424205dce5b032bbb4c37362d91dd3cfeb5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "935f81fb0f446a18eb09d5c710f679e4012a7cc1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d3f507f9424b7deb355696c1c6d5f5aad142157d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "3a411555fa9a89965281604c4e56709325abf743",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "751f7648982dff7ffbaf1dbb1cb1a02fb831d797",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5c95ab4e31ee547807e83e4b2d972b4d33da9eb2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5f413f35eb9fd67f67ff031d5b0b15af534d54e6",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f1bbea9b73d0e24454cf65a3c015b083f9247aa2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ac532bd73c5da8997f865e048b36c76fd3c11301",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "bea3974a89bbe2dd83be26f3e94e2c9cea0bba31",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "364d3f47257b5ea6b4956b96ad571e3cfdae80f2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "037dc504d6435aa61d90b9fdb2f8926471cfe683",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5adc176102b1a32591bce737f8993b26903cca36",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "cbe21a0a0728106a8bdc7b85b5094a8b2ac5e7df",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0b15afc6cb421de54991dfaa5193853e2cf5d2df",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "edecb857a6c01886103361577713cc308d8ad201",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "3d2901be41a3b4eaa777d996c0fc408e267ba923",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a59b404ca15f5e6cc4fbf7ee3621e6a1963454a9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "95a1e3db84e4f9e74d942a059d46b6eed612abcf",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4789bbc634ac960f4156bdc5b50ab7a745531216",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "54e3a7edd6bea957639215daaa02eb465889a5c6",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "96fbfc94a9388c3829f15d5e0775ab0cc04182f2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "47c27955f77f23b3b0c597b1c17598ca2ac69a8c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "3004ba8b9b78d603e04d8c6f2313b0b527fdd252",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "315a0ba9b1fd72999666c46ce300b808acb33d63",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "98a08fc7ea43397ad6a70b20278f7f625332cd3a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4c2675aab4bfb4ae3a08250d75f349e3387c1cb1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "680e8a6e4faf6b65dcb81a61525faedb0e937f09",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "6d17873c93af181f511ade54b73e555c08f9a3db",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ebdb1d793c33ac67962dbe712167dd328cc7d010",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8f72475234be14397ae0f0ea03cb91d9d6d56d5a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e4768f1efce860099c6a1f8d366e2a58954c0314",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5022bb43aff894fe5f596a8f5ad551693a48deab",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8c1c94b9e81d5a624075448be75702ffa08e40c5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d0726a227d4f10e57489554b8adf8406e6d96920",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "efc361ddc97209a2d87f69018701dbcc5a3450fc",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "fb2e31348a25619e244ff6cf1e634c01001e2f18",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0f207409c02fff54e3fb3a5a1c0b3865ef91e7db",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1bcfe47aa3b8f69f92ccd21789025b4806c6fd7d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "22f0af4de5ac89a7ead9d6e3958262b7a4fda9c6",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ee332f57824ee1fc4cb2343f5824e31895a30fda",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f389cab9e222c40e0f6bc38a8ae520c479ee9471",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "3b01d36d90548eb5f689503e7b77e91ed680d047",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "3f6abb23ede59f4a37eb37369880806620ce0bd3",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ed3de63f87b49714eb7d55915ad4ef857631f59f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5f61ef8a6c7b9bf3baa58cb3bb5f028a64d728aa",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ba4ddecec1f84ccf62e18bf54996abbaa212d0ce",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "65ca3c109d2278fbe97dd41e2463cd182f264336",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d783b5ce78b012f8541b0baf1d32a381094146f4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d3c6aefd31490ab9612b55c7106939e131a0d684",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8857bef1ec39d1af0075dae86e0de3601752d883",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "318fb19d1c94eeaa370c2140e4c7b78936f97aee",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "3ee68053e7d41d3aa6e8777e5e599596fc7ce6a1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "6c00009740077cbce66f7cfc5129440dd35868e9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9f7e34f114d499da39f98ec3c77a389e9d0538a4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f9da2747af2b9ef6b62ff82de9af6c7e46348ce2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ade9d7a9967b8f2d229e2c214566c1de0322829a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1ce0e9b6cf8a5f80cab28da1a1c739013bcb6d54",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5ae580ed00cb4cff5691bf5d7ee8ce208b1a6d05",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9596f2dc2d0e55f37ff78fb73ad0bfc548ad8c7a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1fdae18db98de6dd144bb7e25dd49fd760e813b1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9af4fe40178cf69778421e8c8f8af81c9b157574",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d187a877cd9fac4cf8c203c0bc2cfb1fcc774b73",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "6b6865ddcca9f3fae4e70c97b22169018eb929a3",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2bec3185795a268b4ac447a5e22582be6f120fc8",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "3f8ff2aafe442f654bbab46b2b6dfadd9a054096",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "edf54197e0a57611dd2f58ed4597cf94c2ccbceb",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f1dcae4dc38cd67c59eb6f6050231332020bc6ae",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e90109f37f287d0705c0e772357b13665ea776b4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1957648c34964696783d06f28b01da8b0c1b02ef",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8eaf3bbf12c81452c1e0c30fdcd6fefb634b2bf6",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a7351ae7a7af0fabb621196b84bf512fba2c712e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "91958827383d37cc3835fcd56c385bff489d9b48",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1ad4d0b05ec907c8fcebca4eb844bfa68246d2be",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "082455c358f81f62dd48152be8df0ebdcf4b768a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e2e39f3faa2f75ac632c425fe916bfed1c6bcc0d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "fb0dc061fe1200037d7beed48dcfb23c0877fecf",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "336c7b3878cec4b4e9455c68dde8553e98fd753d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b65a0175bf9e61f775918414e3049f1452aca74e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1bc09836ce8a1cbeb8d4a51283d4974be486210e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "027e7018a9cf8eef6671e29c4907d5cd2e4d2cd4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ee0028fdb31741d6f8f76acec77c32bdd1f37507",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "87a7592ea9fd2b3ceb40e7e7ec3aadf3c2b8c087",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9f08a22e2d1366ff7ce4fcd27ef0399a7bc4a0ad",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f9d8e07d768459240c8665f139cc140575dc5216",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f31e46f5c25b882f3904648907ba1c94dcab794c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "29538657c2c1e89dbcc75fa41128b995dc0724a8",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7287e35597fffee78cfa2d3de4297c59873b6c6a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f1d0ab8b57e79e401e8dd9b4232843d057dd7722",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "33307d5753b946952b5ef2cd5fc09f0a636f33a0",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "99519d4451392243c65e8f3ef35606e5dd339a7b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b4fea509fde4d292893bd98043f1efc5231d0103",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "3a394adb19573ecff255b1b8858f4586e2d88457",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "6eb0a6e5bec8222d766d2517af6b91e52a9cb5e7",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "47e89d000106ed505280662a1a2f53c589b24fa4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7c9b30aad4ec45c0d4434a24a1332129ceb9e29b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "13cea0c5eb39fb22e23505575a76b06a58d3d0ec",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "30298e1e467f9c88503321b6fc6d4525b2e2f41a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c7c58cddab5e7818d6f2a390cb354a9c16aaf8da",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9bcca2581bd280ee21d32206b912687471b0183b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d5f006586b8b50eb243bda43d2d59232dbd195f8",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f76eec9914c02b97f870326b825d7604dfec02d1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d9a4ce6caa238f52f5165f72b2de061c0134ce9c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0ff2c9edac99f7b16b9361d15841f8be3741ada5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2d77f09f86134f4b665a7bbae2d7c04461e114fc",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "febf20c0570bdcff727e0053b895cc41b00f1a30",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5cb02e2f997bc307c432dce84b1040d55b64a4d9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ce9aa244163a8db709722eb786f4fb45ec59e7fd",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "62a75e0e015ae35f27a08e156f792b6e5517fb6a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "6eb64e5256f7d735e1db3cefd10fca6cd67d92ca",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "684466faadf4627391bd74042c782ec47a44d6b5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "495369f989e5b5d8307264b75411bb36ae6d45cb",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "fb0587976c8a5198b57f3d17c27703f39af01f52",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b15b65f4d35269a2c28cf4bbcecb43490c42a149",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b37e4293d2abfb2db0b2a63a571ffe7d54866242",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0bd487d668bd802f8c6a1f34cf0019804fcce6dc",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "6f57a474ad9c157679dcca5d214f22baaf8ef885",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "3375ee1abd365a80a6bbe256648824d58a256448",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "58322f6146e312f93b8fea5bfcfd4ed39653cce4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c9b1cfda2d26dac36d40bcd3e31002d62e2e6407",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5750a7cd9931c64fc65d116f2718df3d6c173d45",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b8fc0d77cdc38d9ba39b937fc7d95ccf622bc866",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c252a251a8e66ccaf960555ef8bac87a4e6b4bb6",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b596dca0efa5eff053121211b5c8a0ed3f271a57",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1ee8600ed5c2cd4097d98af36bc24d46c424db03",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f64fb46186b2a5382af728155cbf0a1d3d7c9adc",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e2a34700d857ff36526a8b5943e4af56fc77a3cf",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e56c3a048af509eba9a82c7afac3c0e41e64900f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f98abb9c607ec7ec57de0ffabc9192844a98dbb6",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "286e02a44dfb5f9ee101007b46bcb8ee47fa62d7",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a227981fa4287adcb431fa4e17c378117b8ef934",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d88194a2632b66445a6561e5937661d4d38bc274",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "98057fd20db280b3dcd131425fc50992cf29a1a4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "47edcbc16c040f6a68a9e15354439188a79fe3b0",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a738b878b39c92046fedf15dfaed577598fc8c43",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2eb51e601ada268c178e746478dd7945ec26ec12",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4488a043bd440d0af0c77a008e12507c13b6dea4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9bc05de0763b653e001cd3aa2e4a73c7a3584de9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c28224c876f1b646ddefeb66b94d517a2f170935",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4b08fb4c580fb2d385b7d5ab910b2a29b4ad1aed",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ae185396f89ace1338c5db327606ac6e505fbed9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "32690d2049f42fad35078d22864b4348a2efa5ba",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "148c6adbe0bd2fe72ac0b7a71d3e7f1d8b6d3b35",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e1ef89a7b2fa43dcbc707a0d1e977eb2eddf8d09",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "6c7a0599ccb7cae2be77bd46ebc4d41eccd1a4c8",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "69cbfa58705def7f80e0a31e05924505f8b2811e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8cb451daf2d2db841780eab78afe928de397c966",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ce52a55429535eeb034d7dae2a7d01f54c57be2f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a492c678ae3bf9a5f661a9127508fe5dfe24f9ac",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7819df6387a0726acae01f8f6942c7331d4a5420",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "51194fbbe5662b16bd644d64faa450e43f771c80",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "99593c2e7054dc234b00194ccea4f13ba428df44",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8706baa1d5da3adc578f237e183605278e0b6552",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7861f20e5c318b5dcfe28949b68d5c8d82b4b390",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "3a7799fbff76003b5f11ac314ae31a8b7c568c63",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a6d4cbab6e36341ed0bc5eccabe49d1277271d74",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9c5c6b7efd66ee1df46240a83c9e639c6e869c32",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "26338adc5f49e77c2bae4f3e01e520a8b6ae4c3d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8a6545109f257977838e015820ca9f1ca18aac74",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5f0bfdf8791c28b8ed804bc81ad48c2e1223ea15",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7806a411a847442723dbe4b064aacdce896d1d61",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ea7efe7add95ae62fb6f6b0f3287e13a09653b56",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0b527aca1f260a76aafae664b859c3978093056e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "baeb6c3e9c28037953b307090321e00b3a53fdba",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1f94d588a20c5384e79b8935a5dbf4fbd4c1fb6c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ffeb989b0c50fdb78292a8b367fd883990f013c2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a70a3b56cf54e1c1088d57bf7f4c1dbe06b291c4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2504be2fa3e1d8f6aa96ee6297ca1af2d5077826",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5c433c11fe46bc6ed3c64fa44d4a62c8f1ddb678",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b315194fb92476805f72465514a1d038b924125e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0c9c334cb2d7bc5f4cb6609734de1654197d5ada",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "dea8391172344586528e177bbbed1ac67d00894d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "77859b8d053204ff6adb8c33532b8faac8d11a75",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "432494a17ef2a9c329531b76bd3a4446b866c15e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c65fbb87848ca11beee5412cd3f8f9d257105cd5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "6769bd88906158c2352d1a0aeece5d1e0622452d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "db601e350d014bef58b16f7f631c3056d1f00dd3",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e4a844a7c3a78c2e35e20582a288eb04f9507083",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2c18dd898623e707ac382ab680b2501283ebd722",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "aba0f0b133aaa331b86e329866ea959753967ca9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "94ec60ca5b8db35c038abf06f2a6e78b4a3cb7c2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "62c759678df9852e92b0f54edd6ed8d2a99cf6ea",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f95528434e055a4db8f75cd9c370ec7af88dd21a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a8abfdd11a50baf766227ad82cad814c371ff227",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ffc4ef94f63f9b3fc407265a8b3b509446379360",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "3607f38fcf1b499579da7b11c1992484197d9a56",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0a919c0b100d22bb0252ec8bac25b197f8ee87e4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "18a2eecd73d82c0e270cb0706a643cddaea4dbb6",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d3582aeb7e34288fa0a54c6cfbf5286cbb7b6b95",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e7736bd8010b20f857685583a8b3fff560430e7a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "751b14a25f994370a318bb990d01704bd10dcca6",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5a08e3742da32b75820d22b0acaf37a485d3df65",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e7d7516b0e25e6b4e1a3c1598b5cd411f2f84504",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4124b556b66c72f51208fac59fbcbccd2e3f26e8",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "99d7b8f73616e182c4c04101aff7cdbc9d0ed6c6",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "43bb06d66b35d6cdc00a7d8a8f8c1305efc993ed",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "eda2fa5e74f06357d9387d7b672f13418e10cf66",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9632b697060bfeffa2e03425451a3e9b3980c45e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "56cedc0ae038b1447ae125b4b8d1094bd1db5551",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2bb8d1e0d3f1a0c39f456701fef2e9011d94b568",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a4ab854fab50b239c7723ea6616760b3a4749aae",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "04b5561ea9a558a4b15c330c325779823c924777",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2e530d3b69a53d391213776d299cb1b5cc19543c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c9b24897e3cdbbd9a1e60fde76b459828ab2ee52",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5c4e4d2ecd6fb333ef62bd24f14e7919dde7ba37",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "af5d6abeb924fc9233376a899bd482218444b1db",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d5a875982b6ae2acc8028185bf88d312e124cb91",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8cd9b40fc0be8719f0e305bcd718cc681efda0ae",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "37b41663f91d930bb785e9a562bb60d0d63f0818",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e385625006829bfd3373645c08471dd75473f6a6",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0aa422e648ad53d6aa3f6134c27c92dee5b86e5a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9f354a4559d2679590100cb7b0df3578a229d49c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "34b1cd03d57c742bfe182c54a4fef21103a15fb6",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "33bb1ce5727a54721baec0125dd1254d275160ac",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1755fdfa0fbdb9a016383bfd07905489c89a9319",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8005afe13790480ae3e590fef643a69901c548f6",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d98f8dd5fcd505073a361de97c135706bad2d343",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8a057724991d1ba0c38d3619b9aada265faf8674",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "999831779eeb2dbaffc2e655ac1727382dc93afa",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9c65733f0fb419e88b3ffc84714155555266952b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0a9f33b03ed57e37eaebba62db78ff948ea1aae3",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "58ffaf2136bd065b5a6d74444611919cf15dad8a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "501fd7e660d15ea92705ccd69bebb3342c885fab",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "539557c902404529c4636bfe0425ba44980cc177",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "48b4ad74d4f4fedeeb2aa71e09043a7eff902628",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "26361b6e7ad5021746b4f6cfda081ca69b274f4d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "cb5465755a81d9826a3160af3b626f5ef9b39514",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f165a6d1901bb5023faba2d61eb5d256012b34eb",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e20e5b06e3d8184376ab7a53835f3405433e9ee9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0450f8420896e353032694e689abb6f18d1a7730",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d88a2878c182d484f388519134b817c501354708",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2fc2220f558df0b67a11e0a86558b7cd894f1084",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "55f9405c415225b3fe2d3cb5c1753bcf95b760c5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "928b4a27a15246fa7901418fe43ee0649adf0c14",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "dc86bde75682c7a69b7bb3fb24908b18f3ee0e42",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0c1ff50fe9e1d82ab12be8d8246a416f02106e8e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c414c58ad541b2fd04a86c98bbfd730a2d6a1207",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "611ffae8d1bec04bffc93605f7acc8f1e8c7f728",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "06a61b602363b4e86fd2e0fcbdc8284ddfd70230",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b1e089a78855da4a1f51e68a9ee56a52afd820a8",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "477d842c2736259266944ae2ba71dccacb5ccf09",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "bd0586ddb8fae96cb5620d5db42a150c4296963f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "82c145a0410a31a3733a6d3334d21e40880cd86e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "977a25b73315371edcdff038e3b5da34ab638042",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "370c292b159a4c7b3b8ce40321f454f08ad31e21",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b24df614d6aaed4ccfcd3d473255466fd84f6ba7",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f93d47042f528681e2a2b0097a9b6a432a2febd2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5416a7c1d5081aa6739cabf6db1177794bb10b44",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "801e821a1761ddf39440656e17ec836847948bbe",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "43b8b43ba4ba1a9489b09338dfbe2fdfa972dcea",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0dc3b376a0c6d910cec6b6e6577c19be92ba235c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "cc37cf2fd73ac678373f535248901586fac03084",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "62a19f4f7c1644fb08362adb00da27a631a0b528",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7a122bfb7dc324ab54c97aebb7b55ef1e8ce36b1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "cc27d465e116ff7445b562dcb421ad96f717f8e0",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "48fba646f34fd0025089351ee41e5ee138ecd8fb",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "016a47dc6b08192a4d762ad305313519dc2f31a5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "571d8d2d67d48a56b85caf04f3c5a12c0299c12c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "bc716d92a60469088b5b9b57da9004e46333af93",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0a4fb9a7d41a1e8a6169f4c2ad8ebd8915cc306b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4a2f59404abf631ed07c61c2495fdf481ef27b87",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7d839171a7c2ecda217732718ae5aedf4d429fba",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1275b08820bac477901d3a6e207ea867426c5e6c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "59735a88c66bca0e7ccc2f093614551908757ae4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c1b9a27bf8061074a2635f7f90ef73504faf8f91",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8c39133596855641dcd992505aac8a38282998e9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f78c26ec6b9f6fb341661553b64a353c1270283c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7b986df3211f8538f0bcf74d9a8118d76f262eae",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "38d581b77601c68d6024097406980f58511f1218",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "768c12009a4b005f310968a8fe66b944bb9c566f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "dd51f5482005041142f9889854f238e529644030",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "56dd56dd1f5888f6c7bc4ec23e1d345156185401",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4c7ddb58ff4d9f655e3e7f919a6ac8d91bdcbb06",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "197e9960d2724056f257ddb64980a62b40cf8d6a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "868e5715e4a3fe21c08cedfd58ba5cd67ff65fe1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d3573a94b950ec4de9ccae115b292a7d4d0334b0",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f1f4fa2239c2218405e19d65bb12f89ee31305e8",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d02fda4b3c364b6f9dacc83e10bd3793c0b83cf4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1140aee65a56c3a66849c9eae0a554f3c45f17e1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "73160feac6b4f7a17295ec6b2a7a2af0c2e86b2f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0105554ab4f921afe010e3d6a56b82671fb1b63a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "75daf4025a070c78fff2eb4bed4e5717336a9c86",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "13682b6c0af047b9186d47758c21e2e4a62412bb",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a63961b2015fe9b3466bd530a260d263c2c0bdb1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1b2e5281bf64a497623dbce7b29ed0cd6834aba3",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "02d5a14b0a3d167b37315e314749850e64538b16",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "412fdd256dcdefa7f37f469ad27a22e6dbf966dc",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "68f600da2143a94c34b05ec3217986580a53d182",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e037c3f334d2c1c6d45b63872de7eacef962e719",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b40aa7881697645ce9dca5f167ce12bfa91c4d59",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "974312ead08db421ce2df614419c3d83e4c61be5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "17ec36714be6d75f3a8368e41a8e94e2b596980c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5145c2d3dcd52bb15c974c0976cc4a54eec677cb",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "89171c17a4e586d87d94f3ed434d3d209b1a77de",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "32bc347ec5106b7aca9f7ae435c97f48a59c9b4d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d9391c913587b5b7d039a47b82fdf62a02481c2e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "088781433b7fa29548bdc394e946e4a5c7427801",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a61ce32d063cbf1722c746b526cc6bcabb15a1f5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "bdf71dafa7ece8ff9805e6a425d30c033b9a598e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "21ad01621a2ea0913e07130c02b55ebd4c22ddba",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e60357c60a8ce93a6b5332a217d447a48d2872e1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "eba3eb96c23733706f20394777b809d8c136485b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "260fdc724dc48ceb7b576094e48dbd16b70aa80d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "3ef4a08d522a6fcacaedbfdd1a17e19a2e115089",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4ca54c5a13e7bbf600a483cdebd653e8adcbc2a9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "86a37bbc3254a51f140474a8fd41dac3febe8be5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d7badf47b131df0548b0664163820c208627d4de",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "da358949d3b3c8dee925688bd8c0b2d7ad98d786",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "8100d409e547be5f15918d8ef1fcce260c27a65e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "42dfaaee51b3f75849a0205927824b4812085bcb",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f22064aa3783ef7ea85d755de1624131d355d7ce",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2b325edb0e8b49b0b522eab129dc3786f3b5735a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1ffd116ae71db127feded8dc9cd3e57fc3652a88",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e5cb26aef001931e56792486bafbe19599643547",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "db0e17886fe58b7a3aa5973630b2e9c737f60c8e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "55f176d390920ea81a4d06a5a9349dbb9244de0b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "aeaca87dd15da1cab1d2b5a38018a1e6cad936f1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "37973525d80534c48ddc2ec0d2b9d98724a3858e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ae03eb22ba64e239b7ed1072456148fcc052d57d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "bc220dc1d42695a9606d4ed952733cac93a1a6fe",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "25c3c695422ded37bf0dfd93e933bccc2b1dc45b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "dd93ed27a0c6744a8fe5a57952847ad8bfb65bb0",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "367e849f31e3194212c1131bc70dd1649c5da542",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4d45d05454e0a0f7683b4182bed73d707d525792",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "31ac5c54f4027a43c81c10ca9236b101db8b6448",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "be8bd5e0ea0e15a95116a84945d73081bf843f4e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1cff9e35971bbe1b0df8397a24d4db1d40fcd952",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0de5a0aeebcdb3a75e22f35e574c1c148b5def1c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "75866cb1d03f91f64fb9a01a7b7e36089ce84736",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "72a470d4532cc5762ac36f967fad57da1da04b2c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "dc547086c62657a76d4f76f442ba6ad9ad3f0112",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "99ba394a41db5c866c418760ee737720f358117c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "bfe4ce7e799a540a732ad0008e14620d48ee9a01",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1ca4faa9bbad10b41b75ada4f10ec3c8d2022516",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f5f2ff438c6b2d594588c7f650fe1326dbaae03e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "6ab576db0bebf655c13bca89caaf14e8a1130676",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a5362cad587f47a33998561534b160e08216cbd5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9423ded73871c19f82c4b54c33bf0108328e55a8",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "dd65dcc6c79a504a914a3c3722a1dc52c4f762c2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "210c94e742fb64570094ee9cb96a00a963315462",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9fd276bba2f0960b15d76668441610dd7810d6ec",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "1333808b075cf6b3f64a3f6fdcbc0ebee6309065",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a6317fc81a76c54425d1df07d4fe466ef4c5e3a5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0e9aa874615a88132a0b666e2847b2931316b9db",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9c392896295d36a18b8929282aca8c187bff2bd7",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "cb5fce360b06e7a1b77e58b6366075daccd3132e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c926db698b926ed7495684f3d3049fe570749b21",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "86a6c6085265137fe6a7a8ff6a61ab60bb944ea9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ac882796a7c2ce93fb79f68dd7383f721fedab57",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c44a0957e2c9deb2415ddb0202522582b3451136",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "92cead13be1cc2b48af98cc929c8982400ef5b02",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "02e2e0c68013e115a0d919ab9aa8ccedc7e96ac4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c58ee3b039abecb5dc05d4ca83822c87bffe4cb0",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "53f76396a4e274e184300b246fd7a88e2ccafbc3",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2c72ac5fd605ec26e7bf2ee9a7e274aa39077f5a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "16536f9ce0252ff3f9198d309471e5663b29eeb8",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "dffc53d323d95fe9de392bdaa73ad7c0e75d6f13",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b4080876b1b3d82183281d60913a71f2a64871e8",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "bcccb165792b69319e8e44178b6ed0df92995bd0",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a9e7deaeef46104faf10146aed9f5084b3275d84",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5c0b0f6b5312909f2aab082f600449be54225040",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4f5bf9bb5b55740c3e9bde50dda71d51abda6b0a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "6aaa7021a10febd04e9e41faa0f58be11ec5891c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5735acfb19c446558b6c2f8d3359f6704bda7f19",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "79feb9364755ebd4a67018fb48a100ca3333e54d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "db3ec3bb8060d9cab99a37802de934d357b1b202",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "41284da8c6faac7366bb1b85111b0ad113ebc35d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "88b31cf54e6aea000e49242aff8b407b474891fb",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b5f3020659fe082ae7b7ad63556ef468e764de4a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "40abc86cd0b9c366005583bec9ea4f0ccbf8d900",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "4288cfe140fe36bcc0fa268d5bc405185eb873ad",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7dec7eb44e88ab322c91bb25be746f03835a7efb",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "eb491fc236bc11756f2e54313d9ee699e7088d2d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e7057b723fcd524c1f120523542be5bb24b83a95",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "f7985c7702660c5a761278d6d0419101f1f55cc5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d03cf8c98d86fc0d274b16a19c9e0fbadf4b68b6",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "700023750cc1399952761555514c59ca94e5c70b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "bd29a4c9a817279ac20c6f39567f43546b71d1db",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "17f2787850682e727babfe368031c11c699f29a4",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "cf316b3c1a948357fb3040940951c42fa738d768",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "99e172ca1612a64bec22f87e3473e3634b3fe87c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b37943a0039560e3929e6540f8d1f6dcfd0a58e9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "401718e4b5c2ded82804f1013dd2c20da73189f0",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5064bd3055dd86095bd36b2d55c99f9977d654f5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "209d23bcd977a68c6518cdcd26d8a544e83fb4e1",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "371708bb7bf0682a35669d08559a90258b39a192",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "64b33bf804bccaf111762a006d97c2558a167aec",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "031d4c61f5f2f69b179a66918fecab2d8ccb16d5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "fd2a44155a8ce902c309eeebe54cabad7221ae74",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7bce170df14d26afb4fb0a3ae6d3799568471e87",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "d3cc6164a6d8435fe2b5122c8913fd1a1f0a9574",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "3d2afec68f44d7eb866e46f56dab368cce4e5511",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e6e62bf132bf77926051326ff78121ecdaf78c34",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9567e7c05d1db7e65d7e9861bc23cfbb95e16a0a",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e338fe64f94dfa5365b699faa6f8621ce3f59bf2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "2df1fd94c3dc739426845965a15ce4e85491de5e",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e60093da1fe79f8bfec53a7a8500df0cce96e8a6",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7955d8ddf87627b5ae38050bacffe5154c47c355",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "493cfa7e1bc58394fc41c323acbf2a21f04f9f30",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5e056a15d5b259ac39ef4fa7123969e7692b9b95",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "660a724fe35ebb3822477f7bf7482ea18a00a225",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "07b887083045b7483da16fad5dd2aed50331af8f",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "869783e4bb71b7dc65e67cb7184f59a19571d5b9",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b00493ec999bf3feecd5183040c6fe15636c27a2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "6e52be00a1393f94beea8ffe0e6277c81b24102d",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a42e121541b89a4eddebd274ad9a46214610f683",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "0f763c6bb1be3547d4157865df4abb2ae6514318",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "436d656c76d82c1c1145e420c4ce1c4d0a7f36a0",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7c91f04411adc6046edb8c41c3c1bfe8a60f5d78",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ee8c726100f958a24a0b86812164e1b69d2b916b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "e98c6825ae22955496ecad40622c6f1e0f4b54e2",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "234ecc641a8a21e8e387cf0e8bebd77325c6516b",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "795bf86c56bb14236a714353879657d32cbb2c42",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "96db21d40fa39047ecf222990f5cfcf7c72de04c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "a841099fc8417de79f4c1d66b9da34ef321a9f76",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "c8a0fc54f41a380892d9d7a4f5b4c1b6d927e967",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "7194b3c5bcd22ad9c53d55faf2c74b7f86c439ea",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "b79d6a8a19ab58ffef1d80a4c11853bd7872fc4c",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "ad693b0e7aa6c99ebc3455ae00d865505f4198b5",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "5cd1567c3b0842dd6eb4fec7d3c81404612da288",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "9ed2c0246e68bc5025865ab545235e010c65b982",
+        "repo_name": "apache/knox"
+    },
+    {
+        "fix_commit_hash": "97f2a86c5463c64c3c0f3e83159c4ce02e79eaef",
+        "repo_name": "apache/knox"
+    }
+]

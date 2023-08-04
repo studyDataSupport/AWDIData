@@ -1,0 +1,35 @@
+{
+    "all_file_num": 4610,
+    "error_developer_file_rate": {
+        "#database--zookeeper--bitgaoshu": 0.00021691973969631235,
+        "#database--zookeeper--abhishek-chouhan": 0.0004338394793926247,
+        "#database--zookeeper--lavacat": 0.0006507592190889371,
+        "#database--zookeeper--p-malik": 0.0026030368763557484,
+        "#database--zookeeper--yisong-yue": 0.00368763557483731,
+        "#database--zookeeper--asdf2014": 0.006724511930585683,
+        "#database--zookeeper--cnauroth": 0.0158351409978308,
+        "#database--zookeeper--Randgalt": 0.016919739696312365,
+        "#database--zookeeper--afine": 0.018004338394793925,
+        "#database--zookeeper--henryr": 0.02125813449023861,
+        "#database--zookeeper--rakeshadr": 0.024945770065075923,
+        "#database--zookeeper--skamille": 0.030585683297180043,
+        "#database--zookeeper--rgs1": 0.03947939262472885,
+        "#database--zookeeper--fpj": 0.061605206073752715,
+        "#database--zookeeper--breed": 0.16225596529284164,
+        "#database--zookeeper--": 0.3292841648590022
+    },
+    "daily_error_prone_developer": [
+        "#database--zookeeper--asdf2014",
+        "#database--zookeeper--cnauroth",
+        "#database--zookeeper--Randgalt",
+        "#database--zookeeper--afine",
+        "#database--zookeeper--henryr",
+        "#database--zookeeper--rakeshadr",
+        "#database--zookeeper--skamille",
+        "#database--zookeeper--rgs1",
+        "#database--zookeeper--fpj",
+        "#database--zookeeper--breed",
+        "#database--zookeeper--"
+    ],
+    "number_daily_error_prone_developer": 11
+}

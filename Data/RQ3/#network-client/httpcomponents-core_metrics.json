@@ -1,0 +1,9 @@
+{
+    "all_file_num": 5114,
+    "error_developer_file_rate": {
+        "#network-client--httpcomponents-core--pfrank13": 0.00019554165037152912,
+        "#network-client--httpcomponents-core--rferreira": 0.00039108330074305825
+    },
+    "daily_error_prone_developer": [],
+    "number_daily_error_prone_developer": 0
+}

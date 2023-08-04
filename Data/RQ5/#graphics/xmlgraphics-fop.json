@@ -1,0 +1,276 @@
+{
+    "developer": {
+        "#graphics--xmlgraphics-fop--spepping": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "xmlgraphics-fop"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "spepping",
+                "createdAt": "2010-08-27T07:51:24Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 0,
+                    "nodes": []
+                }
+            }
+        },
+        "#graphics--xmlgraphics-fop--simonsteiner1984": {
+            "attribute_apache_item_count": 3,
+            "attribute_apache_item_list": [
+                "xmlgraphics-fop",
+                "xmlgraphics-fop",
+                "xmlgraphics-batik"
+            ],
+            "is_error_developer_apache_item_count": 2,
+            "item_info": {
+                "login": "simonsteiner1984",
+                "createdAt": "2016-03-23T10:13:48Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 5,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "apache/xmlgraphics-fop",
+                            "isFork": false,
+                            "url": "https://github.com/apache/xmlgraphics-fop",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "PostScript"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 157,
+                            "watchers": {
+                                "totalCount": 27
+                            },
+                            "forkCount": 124
+                        },
+                        {
+                            "nameWithOwner": "apache/xmlgraphics-commons",
+                            "isFork": false,
+                            "url": "https://github.com/apache/xmlgraphics-commons",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 17,
+                            "watchers": {
+                                "totalCount": 10
+                            },
+                            "forkCount": 21
+                        },
+                        {
+                            "nameWithOwner": "apache/xmlgraphics-batik",
+                            "isFork": false,
+                            "url": "https://github.com/apache/xmlgraphics-batik",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 183,
+                            "watchers": {
+                                "totalCount": 20
+                            },
+                            "forkCount": 131
+                        },
+                        {
+                            "nameWithOwner": "apache/xmlgraphics-fop-pdf-images",
+                            "isFork": false,
+                            "url": "https://github.com/apache/xmlgraphics-fop-pdf-images",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 10,
+                            "watchers": {
+                                "totalCount": 8
+                            },
+                            "forkCount": 5
+                        },
+                        {
+                            "nameWithOwner": "apache/xmlgraphics-website",
+                            "isFork": false,
+                            "url": "https://github.com/apache/xmlgraphics-website",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 2
+                        }
+                    ]
+                }
+            }
+        },
+        "#graphics--xmlgraphics-fop--vhennebert": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "xmlgraphics-fop"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "vhennebert",
+                "createdAt": "2012-06-22T16:55:35Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 0,
+                    "nodes": []
+                }
+            }
+        },
+        "#graphics--xmlgraphics-fop--jmaerki": {
+            "attribute_apache_item_count": 2,
+            "attribute_apache_item_list": [
+                "xmlgraphics-fop",
+                "pdfbox"
+            ],
+            "is_error_developer_apache_item_count": 2,
+            "item_info": {
+                "login": "jmaerki",
+                "createdAt": "2012-10-03T08:51:44Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 2,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "kairos-io/kairos",
+                            "isFork": false,
+                            "url": "https://github.com/kairos-io/kairos",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Earthly"
+                                    },
+                                    {
+                                        "name": "PowerShell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 618,
+                            "watchers": {
+                                "totalCount": 12
+                            },
+                            "forkCount": 68
+                        },
+                        {
+                            "nameWithOwner": "jmaerki/wod-continuous-feed-printer-pack",
+                            "isFork": false,
+                            "url": "https://github.com/jmaerki/wod-continuous-feed-printer-pack",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 2,
+    "deveper_mul_apache_item_error": {
+        "#graphics--xmlgraphics-fop--spepping": [
+            "xmlgraphics-fop"
+        ],
+        "#graphics--xmlgraphics-fop--simonsteiner1984": [
+            "xmlgraphics-batik",
+            "xmlgraphics-fop"
+        ],
+        "#graphics--xmlgraphics-fop--vhennebert": [
+            "xmlgraphics-fop"
+        ],
+        "#graphics--xmlgraphics-fop--jmaerki": [
+            "pdfbox",
+            "xmlgraphics-fop"
+        ]
+    }
+}

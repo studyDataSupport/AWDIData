@@ -1,0 +1,17 @@
+{
+    "all_file_num": 23102,
+    "error_developer_file_rate": {
+        "#library--jena--JervenBolleman": 8.657259111765215e-05,
+        "#library--jena--jfraudeau": 8.657259111765215e-05,
+        "#library--jena--ehedgehog": 0.00012985888667647823,
+        "#library--jena--dobrist": 0.00012985888667647823,
+        "#library--jena--bimargulies": 0.00012985888667647823,
+        "#library--jena--krosenvold": 0.0001731451822353043,
+        "#library--jena--OyvindLGjesdal": 0.0003895766600294347,
+        "#library--jena--paulhoule": 0.00047614925114708684,
+        "#library--jena--cygri": 0.0005194355467059129,
+        "#library--jena--ramiromagalhaes": 0.0008224396156176954
+    },
+    "daily_error_prone_developer": [],
+    "number_daily_error_prone_developer": 0
+}

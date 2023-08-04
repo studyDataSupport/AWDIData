@@ -1,0 +1,39 @@
+{
+    "high_bug_rate_error_prone_developer_number": 8,
+    "high_bug_rate_error_prone_developer": {
+        "#content--incubator-freemarker--woonsanko": 0.25,
+        "#content--manifoldcf--rafaharo": 0.23076923076923078,
+        "#content--pdfbox--jmaerki": 2.0,
+        "#content--pdfbox--jahewson": 0.7165354330708661,
+        "#content--pdfbox--jukka": 0.6779661016949152,
+        "#content--pdfbox--lehmi": 0.5106679035250464,
+        "#content--pdfbox--": 0.4459677419354839,
+        "#content--pdfbox--THausherr": 0.1321882001493652
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#content--incubator-freemarker--woonsanko": 0.5,
+        "#content--manifoldcf--rafaharo": 0.15384615384615385,
+        "#content--pdfbox--jahewson": 0.41863517060367456,
+        "#content--pdfbox--jmaerki": 0.3611111111111111,
+        "#content--pdfbox--lehmi": 0.35760667903525045,
+        "#content--pdfbox--": 0.2814516129032258,
+        "#content--pdfbox--jukka": 0.2542372881355932,
+        "#content--pdfbox--THausherr": 0.15474234503360718
+    },
+    "error_prone_developer_num": 8,
+    "error_prone_developer": [
+        "#content--incubator-freemarker--woonsanko",
+        "#content--manifoldcf--rafaharo",
+        "#content--pdfbox--jmaerki",
+        "#content--pdfbox--jahewson",
+        "#content--pdfbox--jukka",
+        "#content--pdfbox--lehmi",
+        "#content--pdfbox--",
+        "#content--pdfbox--THausherr"
+    ],
+    "team_developer_num": 90,
+    "#content-aver_bug_rate": 0.12859410007468258,
+    "#content-aver_bug_commit_rate": 0.13942307692307693,
+    "error_prone_developer_team_rate": 0.08888888888888889,
+    "high_bug_commit_rate_error_prone_developer_number": 8
+}

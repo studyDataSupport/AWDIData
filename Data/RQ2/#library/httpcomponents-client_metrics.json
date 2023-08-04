@@ -1,0 +1,40 @@
+{
+    "cate": "#library",
+    "#library-cate_aver_bug_rate": 0.2318840579710145,
+    "#library-cate_aver_bug_commit_rate": 0.2,
+    "high_bug_rate_error_prone_developer_number": 7,
+    "high_bug_commit_rate_error_prone_developer_number": 10,
+    "high_bug_rate_error_prone_developer": {
+        "#library--httpcomponents-client--smashtakov": 2.0,
+        "#library--httpcomponents-client--jeromedemangel": 1.0,
+        "#library--httpcomponents-client--serkanturgut": 1.0,
+        "#library--httpcomponents-client--xiaohu-zhang": 1.0,
+        "#library--httpcomponents-client--sermojohn": 0.5,
+        "#library--httpcomponents-client--fxbonnet": 0.5,
+        "#library--httpcomponents-client--rschmitt": 0.25
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#library--httpcomponents-client--smashtakov": 1.0,
+        "#library--httpcomponents-client--jeromedemangel": 1.0,
+        "#library--httpcomponents-client--serkanturgut": 1.0,
+        "#library--httpcomponents-client--xiaohu-zhang": 1.0,
+        "#library--httpcomponents-client--sermojohn": 0.5,
+        "#library--httpcomponents-client--fxbonnet": 0.4166666666666667,
+        "#library--httpcomponents-client--ok2c": 0.25609756097560976,
+        "#library--httpcomponents-client--": 0.2534246575342466,
+        "#library--httpcomponents-client--rschmitt": 0.25,
+        "#library--httpcomponents-client--artem-smotrakov": 0.2
+    },
+    "error_prone_developer_num": 7,
+    "error_prone_developer": [
+        "#library--httpcomponents-client--smashtakov",
+        "#library--httpcomponents-client--jeromedemangel",
+        "#library--httpcomponents-client--serkanturgut",
+        "#library--httpcomponents-client--xiaohu-zhang",
+        "#library--httpcomponents-client--sermojohn",
+        "#library--httpcomponents-client--fxbonnet",
+        "#library--httpcomponents-client--rschmitt"
+    ],
+    "error_prone_developer_team_rate": 0.09722222222222222,
+    "team_developer_num": 72
+}

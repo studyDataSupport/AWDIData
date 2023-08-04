@@ -1,0 +1,50 @@
+{
+    "cate": "#other",
+    "#other-cate_aver_bug_rate": 0.5,
+    "#other-cate_aver_bug_commit_rate": 0.4,
+    "high_bug_rate_error_prone_developer_number": 14,
+    "high_bug_commit_rate_error_prone_developer_number": 10,
+    "high_bug_rate_error_prone_developer": {
+        "#other--karaf--peculater": 1.0,
+        "#other--karaf--labero": 1.0,
+        "#other--karaf--slawekjaranowski": 1.0,
+        "#other--karaf--cristcost": 1.0,
+        "#other--karaf--mcculls": 1.0,
+        "#other--karaf--dleangen": 1.0,
+        "#other--karaf--vladimirfx": 0.75,
+        "#other--karaf--SourcePond": 0.6666666666666666,
+        "#other--karaf--djencks": 0.5533980582524272,
+        "#other--karaf--wborn": 0.5,
+        "#other--karaf--tomqwpl": 0.5,
+        "#other--karaf--akuhtz": 0.5,
+        "#other--karaf--cmoulliard": 0.5,
+        "#other--karaf--jstrachan": 0.5
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#other--karaf--peculater": 1.0,
+        "#other--karaf--labero": 1.0,
+        "#other--karaf--slawekjaranowski": 1.0,
+        "#other--karaf--cristcost": 1.0,
+        "#other--karaf--mcculls": 1.0,
+        "#other--karaf--dleangen": 1.0,
+        "#other--karaf--wborn": 0.5,
+        "#other--karaf--vladimirfx": 0.5,
+        "#other--karaf--tomqwpl": 0.5,
+        "#other--karaf--akuhtz": 0.5
+    },
+    "error_prone_developer_num": 10,
+    "error_prone_developer": [
+        "#other--karaf--peculater",
+        "#other--karaf--labero",
+        "#other--karaf--slawekjaranowski",
+        "#other--karaf--cristcost",
+        "#other--karaf--mcculls",
+        "#other--karaf--dleangen",
+        "#other--karaf--vladimirfx",
+        "#other--karaf--wborn",
+        "#other--karaf--tomqwpl",
+        "#other--karaf--akuhtz"
+    ],
+    "error_prone_developer_team_rate": 0.06666666666666667,
+    "team_developer_num": 150
+}

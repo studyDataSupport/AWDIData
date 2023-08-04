@@ -1,0 +1,21 @@
+{
+    "cate": "#library",
+    "#library-cate_aver_bug_rate": 0.2318840579710145,
+    "#library-cate_aver_bug_commit_rate": 0.2,
+    "high_bug_rate_error_prone_developer_number": 2,
+    "high_bug_commit_rate_error_prone_developer_number": 2,
+    "high_bug_rate_error_prone_developer": {
+        "#library--commons-math--dagguh": 1.0,
+        "#library--commons-math--chtompki": 0.25
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#library--commons-math--dagguh": 1.0,
+        "#library--commons-math--darkma773r": 0.21428571428571427
+    },
+    "error_prone_developer_num": 1,
+    "error_prone_developer": [
+        "#library--commons-math--dagguh"
+    ],
+    "error_prone_developer_team_rate": 0.0196078431372549,
+    "team_developer_num": 51
+}

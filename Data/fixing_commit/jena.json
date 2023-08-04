@@ -1,0 +1,3458 @@
+[
+    {
+        "fix_commit_hash": "f8feafeb5e2044aeef458e6c1e00c00bc3f268d9",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d74b7b1464075d9a095e7b136fbec86829e03e62",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ec1d9de33e9ce0fbbd16034f182d470bb6fe8eaa",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "fade84f852a464a1896210d0bf04e82634e9b24f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "7b1ed2df40fd73f9e300a6708b9c274ac8301707",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "658a987f2ee9135e2e3ccad7af852d7337b1f863",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "cfc30a97cdcdec8e01cc6ff5bdcb75c422b7b4f5",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c43849b474bd1746a4f2c8cc82dd0026d1be98eb",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "bbfc3b1aab6899f9695168255dad0b5803ac4088",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "14c97d73b57ae3090b829b2b660259d23a5c47ea",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c543b9d04bb96195b96904d4ca65e0585d039751",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f19ab4da52304328b07ea0e9fe78d3b1a214c5e4",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "5a9f520334f72891a5d363f20591826bed5a75a9",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b02bae5d481576928b3d9511dbd7cf53af91bec0",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "019db539c17b61705af4f9399ef40e9a0ee38ec6",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9b7d442f3ee0493d0bc7f33be94744f7acb44e1f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d7d2b38365f4e2535372773cc0d7ed9ab6a3dea3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "81310e9ce36b6ec714583ffe6f7ba72145df16b7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4a5acd4bf4a810e1386bb4839be5c6a5a8c50b1d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "608eb6e90e4f42de63b0f02e5752ad6b27a46d69",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "42e80fc87e44d048e21ef9e32ec6b0bc6281f150",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1affded4de33eb5514b92036baa9cdd5831776b3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e075c5642b618013ecc7b7469514201d3e5242f1",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b9c6b2b99553af45d3879a78d59f8fd8573fd56c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0cec68c7fdd2a724d6feb7776363eb59105e2e1b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c07423a356fa73b41120aaf23c40a900d801c7b3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1e075c9c52b74b0479a474813bed5b274c9ea2e8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4b77be6ea27d715c7c92fd0ea6483d587cf78c5e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "788e0634c9302c70447ba33dd396d546971221f3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "18ce7dd1fa34d39d6938c7ff8748e9d12409de9a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "cbbd5749fad6a03fba87045a833c86421d2f8d1f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f22987d83b6f4505459b41b27575082df2fa5a14",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "357f8ac590c495b021c642e95192f9b890bb4651",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "3c3344afeb055e2ff6f3b6586eeec2d3bbeb54d0",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d668e1fd82f3cb0ba4300f9f718475ff47d71f41",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "07e847b2ad458bb0026cca1474a1fbefe931c31e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2355cf807d052401906b9380c3c8cff861bbc315",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "039d26ce6cc198fd4b5c9b5dd9cf115cfeebd3d8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "3d23f2f052ba78d18f7a0d8d2d738c74edcb3b1b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "7f477ef4c64bcc4bdcfa4ee012f23c9cda07f3d4",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "36199b033f04c53e079a5a68541e0597f1ee62f1",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e31ddb83d290ed554f00e918d7a568980702ebb7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "7d22c0ba1f939275d5d6dc4b9d0ef1d70db9f63d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "8fcb21537cddc77d367774fb9859668f55599d95",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1b39bf7eb922b7f579f939dde8a86b9b00056193",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f9ae513fcd05f99da4bc67bdd181a7cf531228c1",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0a9e1de9620aafe3caee721fa006bb41e04d661c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "473bf297cee81559ab4ac7ecb8dff50871e16769",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "83c61917b3296e731c83b37cd29a8de5a56345ba",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9a40fb8e2d36098cbae533650077c44db0791811",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f13c9f8e3268716b6c6efc84952a5c0f65d97163",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2f387ee0710bc5f5a4a23876e1a32efc080415c6",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d91da8dd5de8c73508c65be9a1ec4837d6ecf65a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "15b0aeccffcadcaed8f334250267dbe355f47326",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6696e4efdd0e441a9334d2338ea9fd9ce51a7c04",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "3bc5322bdf3fc0267b7e1d8050ab110c018a0912",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "34a210561d852c8fffed6762ceecbb1bb37ef4c4",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ed9c8e79ceaddaf8c6d377b426e3d7ae6e7916fb",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "860ed2dab977189a5639b831425cdec619a318c5",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d0c467a11c164dcc4170930805c018e6ded1f533",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "93d7340bcb256f994043fd14671f339363ac6981",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "165fac4a6ed0d1ad1d8332a70e8c026f9e4dd295",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "22ab1debb8ba19dd6f47171a787c300cf89d19cc",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2fe5d95cd94e592616ce039fd2ca71652109beb9",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "74f65a68428ffecdce55285bc3e1a1cb78130101",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d49be5a0151eef6576741507fa1bbdf551684770",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "394598d70ff4373b7fd335e79d100d8081af7fb0",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "fd37039ca3c6ca7073bcb0e0dfef3a8b69302c1f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9b074f6f47aff3eeefb8b2eeb6b7e59acbf51fd8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "751238a701fb86b529dc339a4304ade5e36b8d77",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b62009c6578227a28c73111064acaad4090229e0",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "69552b63a1295496d4d63e139948b2c1a221ee63",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "370a55c97f977474fc9114184cd43f060766eb5f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b9ac8ba3c0612f3fcf7f850381dc471de59ff745",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4841b5abf1778bd0a6f0e767a0fe3fc2f6e6a2f5",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6e1784d5d504d85c04ae431a2acd2f33d15ce689",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c1c9d48a4f06c206f94bc4d76d03c07806dba2d1",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6d57b066257c7e7d63d2447ec1dba2b0b5726936",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "afc1b11389deb1737e6ae0addd84fc666b39b9f0",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c1c5bc96b8b12d9ea0c5874413a91188adb813ea",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c85bf26069c1c2bf282bbb23f7973518e314bfd7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "cb385623cfd84ed63f81f77f7537f4ef6ca2f15c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6f686fc2442c16337ded071b045835749702db6a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9fa08cb9da66ca0a61c059a994c3004f11bef7d5",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "84e60f2ea59f7e6f8ed305181e19ab3caf31be14",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e29bbf83745a9ad9ad59d3fef4b6f34aff627933",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9b62c67e67126489bf3ca3e250379d3a4ba2318c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0262b2ed61b5fbc1880811aaa5a88ffe4c380ddf",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ad24b3777c3515fbaabe81e8ec2ad9d95f012e4c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "155af2a8eb82854b1f839b287bfb55eb11587020",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c495b2bf52189e550a12a464953f555107026ef5",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b5ffb47c76b83d1e0ac5081464cf272a4c252d7d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4bc0d40ee182dc9ca4d8379c9eb0df3da2e45021",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1689763c589b4d8fb7fededeb6e8dc938ecbd030",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "7079f8af8101b305cf73f7537415e9998a930926",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9f14ed0a4ee4f5415d4b696f62e113b547cd31f7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "234a470f7e88ebc6486062e70b6871e14bbf927a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f13afabac73d04aaaefc6d0c4a6b9ea9038bf8a1",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e5fb532a3bb27c31d55645febb53992a70f6235f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1b8165dbbae667e0e66a1ae0bcd726c730fbadb0",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "7d095fdbf04bef7d06a1737938067027ba0bf16c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "68456ce067ba4130b036559217ed5271cd600377",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c6eae0695a30d3191077ecdccdf51473aa6fb6b8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "481e51c13b21eca1d53bd063aab3ca38c98da776",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d7e4ff64b006bf271bd675b5857ce740a7f15cca",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b960181a211d58a5729fe6cacf07d156a0cb0c29",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1b1904285b5097f1043e2068419cc0212f4438c8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "5cc3c94017d5923089490822f045262fe604a90d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "58de541b1e7ee4d17e5fd8fdb4429ea907c123e8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "38590999a6042454cc5a7e4e477b5308df594494",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e80048016846c19446e65211791e21dcc0eff6e8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "a254043a14fe916edcfff7c15025f297d986a03f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1967e174200af7a355d6ccd3c01a46f9e26f894c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c8c91f8b2e1c4b54e004b55f2cf50f8feb8b4b90",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b85e31d0526584d6f64662670dce8379c40a28d8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "5223ffec980e5009f5c48bdac9c52d2477b37697",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "34759aa6d286e4fc88b570b26c8fb898ae59a354",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2cfd63e8100754b769af5980f65be31e643ea273",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "cc65126203ed0a97a4a60924a483de9348650c5c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d1d65c4d01b65e9984d8f8b9ac8b56642dceba8e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "54b1f508498d172fe2f5d690a56eec525b681022",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "86fbc49921c7f7f199f8e188d6439a22a26dc4f0",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "3cfe6b1ab366b79dd9e93967b77ca47913c2fee3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "72a6ec6b26d6740f1096c521d22d33327899b084",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c0f3727721cbebdd58a653c3ac2ee99aa26fc494",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9534f6b33832ccc09e6ddacfd3571ebdf5d2cf25",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e5752a427add2478cb6f0e97b3523fd129b65c2d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1b47fefdcffeba24ec162c23a65e25518b1845c7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "bdb5439d22b80b2909258449d82fb7b5003fd64c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2e6ec6a3c7ec344fae7fab97ed45105eba725529",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f0f92f630561d4365fd3b25d6f06b8b4c0746ca2",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "14ef282e054b401b63756f6f8eab59e2eef98380",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f24f9709861fac52c58ebb4fc45126db0e50d2c9",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e26ac1f622f0653e628b2847507018e0ee9eacea",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "dd223c5eb509b074d0570b598fd78726eba8eb93",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f944366299aa3bb3382a5e606bc36769c4cbbc72",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "fa8eb4adb9c30a76d872bc2e7f1f0a387c7bfbb0",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e6e47061caf8d20b41136c7bcf735d41ceb4d356",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "5d8f72debde832f81a6d64cbae28f42f7c087be2",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c7dcee7f31718550f76c6524d76189ee7ac301e5",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "27f74df759e7a609d688f04f8dfce70e9d378d8d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c91bb8a8988cf81c10c28b1034160d4cd6146047",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "39cc6a702292bd5ac1baa31c75b82cd41cea96b0",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0ac51cfbb8b25c39e8997356d9a9b8c891beec0f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "50eac4a6f3065e2a804dca80db1e8a61de190ee7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d12f0f1914a6f455496cdd532d03e3e9fa64a4a4",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "257dbcfc1e09f183d03d59f40a539f07b5ca1532",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b20dc3c8d55aa8cd1048f725408a094b99406836",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d23a6acc64a5e0467503c867e8a7bfd842939627",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1934159d40d07362bb6ee756cc736c9d6dd658a0",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2a13a9c633f1c8661c1a446a9d98819391c09477",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d2e23164a08082f3e2c52c43b99b0bf0e66dcc91",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "265c880ec9152e1af8385886ee79c9a4e94fef25",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "a34ad74791394fad5e1cb64fb948d2699e9794c8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4fc653268460823afc0c347a8745c496976fe48b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "8c1b90eba08dc45e7881bb1f6f185c2a4e8c817a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b645c6ccb1af4d72a89ae952452628a840b2d32a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "19a2480958fbf7e58647c112f60bf632826a50fc",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "195e5c92d4b3293469f6dc963bff60902736360f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6553f8650ee430ed5531791517a31d56e3dfd597",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9bb25bec8fa0c93bdbd290c6a57192ff2b91c847",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e877e6d305606ec9da655d69aba1dbfdbcacbcf7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "28edb3c389da384dd41d79e5234b9a6885213cd8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "df8d72ce6a326eee66a9b53a9397b4dd0fb6ee54",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "57d3539ac1ab0367c9f50cb93eac960a2ae3aac9",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "82d810bd64a308f5fc40976cebccab320b719365",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9a3b49dadcbc626d131bd6b5f23c527e4840cae1",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "945143d75b0f71e0121b9428b429e32318028a13",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2fda70efd56df43a9472491cb2a7d3984b47918b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1b1c9ad4ba587ea63eec2a59ca78abbd12fcc3b5",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d45a93925ad603f5c94404cb8c80892e94747739",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "347b8d1f4cefe80ded26dd1cae280ff1c038933b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "60cd85442dcf25a9f60e5c4f4038cadc7b165e4d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6316b7bd9c588e7a80428bcf554814239bb253ec",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2544f01662a459e6b36f09cfd38d065cfb502911",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d560c10f3bbb27128a864088a31736ca4be9abc6",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "55218eb69b4bd781a48928ec3e370515c9ca6536",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6f7db99a0c9d0b20fe9848c4abc4cd2444e4b557",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "fa57c6072985b2486cdc18f9d3282c39576a404c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d26c4fe1be0281c7fc8873bd64b1321a40673195",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4eafab1de66c2638cb7348e020af29bbe664616d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "26e96398d8b6d1024ac1456bcfb85d8b4a1319a1",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "803f409a7dab08bea0894f7a95bf4725cb6c3f5c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4666f73ffa1494c0de676628689e985e2d91aace",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ddbaeaa0653fa0b60da500b8d14cfa6ea8cefe02",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "90767a9d096b376a2b1c118594c38212a2939909",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b7f62fbb0da9799d97e9e3c2bb0a816bf0d103ef",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f043b66054a09cf8845d1833b0d5a50412cae42f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "182fd838f84d489a0d9f2178627e585b2ba3e7bb",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "33bfa90de9758d22ec49620f4c9db590ac7d0d45",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "99846a34446099012403357ccc300f384a61ce2f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "458c232b1ef077b5fbe79684ca911f4bd5274cd5",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "cf8691c3dfa8b64ae332ee405e6bb8ce357921a8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d0eae1eaba7743a536784521ae985b8b9eed228c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1942c0dd366f0a1629cef18a9a0dfdba5fbf9c4a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "347bb68ee0c20edc72f07e9fedb4a7e393e95aee",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0efda76f1fa01976d73eaa5effc2cc6393ff3f0c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "10ef9fc272e2729826d07f923fb1508c8c85e60c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2c1b6c84b589b004aeab76099578aa0aee2bbab0",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "8938fc9b353d2c815c306b787cbfe08a612e213a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "613c9d0527feae7a1fb796875ab2507827130764",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "5a0843d7e2cb49f3b59dcff747f3c254208d65c0",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "204060b98d1c190c831612ef2563eddc38c3fcbd",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2f655c0e3ba110478a8bd0050f40362dcb11db41",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "66dbb0a9898aa5ee25dbce01751973bbf8ca9ad7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "11601415baf9868257c963be1ead7b5f200dce65",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c3027d69ac87763113322876816fb6292ef6cd6a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c89ed1238bcee69918e7aeedaf52637c66ff315c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "cd75e6c1597db5da1adf2eb3decd5bd59877b266",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "a56eb06b8c2b577f6e1584f4cc9566d46d3efcf0",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0e904ec4ef95377be2047e27eeda7af957ea51f8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ce0b865a6e21082037bd3779ea09199b6d1d6c76",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "fbb773dd3f3ab7805b74fca22e3a30e225dfcdcb",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "199d4f267a70627b6a79f5a3081b37ca88224921",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "081b927d815efdc05f172045c8d0b9ec817f49ea",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ecb01ecd8b07f99966d6622d3aa33dc13ae19283",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "68b1b110e3d907cf898040e89a63da8fc2b6931b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "a1c2d14ab5c14ee3affddc2523f81c40698e92d2",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4816dcecd2992a8236ebbebb30ad2a1796aab92c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1d4a5f2625159cb324bad4992829ff7faf17f5da",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e96ed633e5d471aee106d74c4ee6b0e6ef67d180",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "5a51311bd5b4ab2daf2f9cb9bb8a42a9d372e325",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "93bab17bbf8073fe0d7cf566411aed3da6b34cc3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "71acf2c534711527d4d4b0b55f9a584de492c791",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "720a198d44da3099d08211af43cdfdd0b6cc9200",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "8627e79deb4c58337e49be0e524e423b3789b102",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "bbe1123952bd58d3ac5083d504f84cfd9103a431",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c724aa89a264d1fcfa416499099657f79f38b8e4",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b7a2d311ee364bc5dee07771a20564d94ac19398",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "af078411fe444621efe965116f814e188b59dfb3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "5fcfb84eb89d064ea85e054f791a10c2463b5ad7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "bd4f66969202f4514f000749b3c3bf65682f21fc",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "eef54c1109bbe7b6110618d609dc431e92238e5a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f2fcbc76daaee52e3ee40afcee85f0b3a1c7ce63",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "3d9b1677069dd8e0c60244b1246b899c237c397d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "842b4a7ffc3492e31c28230cb5a976706a79e9f7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "3e999d55dd8505bc385ac76f63a25c5c752465b9",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "32b653943ad76b56743090c23baf0cd9b973f44f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b7596d1f7fc5c4d2c00ec61c2ca28cd24c3ef1f8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "aab46d434912d751c7e86cbf28c708812cb1001e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "79a04c0d5c875594a8d1cf96487cb7733ca5457b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "874ad4edca94f462c549b2c93f27e5d83315cefb",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "074c1179b24f8aa9c53d3cf33ee48c13beca7157",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "cf11b2a9e691f8b9845d51c949e8617b60543fbc",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "03ad8395f5b1cb149fc1da2501ecfa9db1773d9e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "dee610e5c08c3b59bdbaebdbaa35bc0ed38ba0c7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1bcf8f40f449555013174c14c097a6532d4e3455",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "81fedb16a4869783ff3dc3eb40f65ebd0c5fe13e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1bd5fdcf3ac0694e0bbabd2f8e63deb92d3c2bff",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "66a8ff47e088225633a07cb224e667721323d7f9",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6a30cdca901ad9810f27c0b987e7d1c00d782d1a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "77058de86a6a85f6bdffc5b0b733572cac1d84b1",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "7f4915ee6c94b1044155110fe4612147a9e8de91",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c2a3bac147a786210b1ba4125a4be9edc66719c4",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "3def36360acc0fecb1ce1ff553279e0412c5bc73",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d609c13ea33007c5d657e43c5b5c1230978a883f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b9051fced59ec8a78e30ea6f9047b52513f2430d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ec67a007074b6beb42c72ae9a257e1876dd4a8b1",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1af87896dc9e6803878769f5d9eef2a5578b1de7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2a5577725073d04671cec0359f9597b54b1d1efd",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "bea3495877820e2ba55f258e1752dd3c353e3412",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2341f3f8b1b4b59bc1934564e781de99e51c42e6",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6b6a01b7a2cbc429f968a2cd457c60f9d39e6dad",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "991ec09cb1ac24c4c3b3e9d440b426045d2207be",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "db818ea3f70e15b9b0c9cd9bec0e16c6fa9ae6e6",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "67b18af43f54814f66f63c13866556b4256e459c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f6d3c77f32e5ba8c48d2b987dea3915004970eab",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "55516f717caba7d41c4b78ca298f4c030cedcddf",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "39ab3d9c8fcd858819a4b3b85aad3d314c3de9ad",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ab8d0f4e71039e1049d355ad37109c2bb515b803",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d0662ca44bb5a2cc5fbfcfe41213a9665892d278",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "be946b4254335da2cdbac2ef30c3f80daed08562",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "75737af9d16789fdc18097476ac7a2963a7fed1c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "65d4e11692bd55175f2f489d56526f3fbcb3e669",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "8a64ffeef483df37bcbd313ada28104a945d2027",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2ce86cdd73abd596cd9cfc95768a9c7851511411",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6b6db971e37da0a4a73c98a271e68afd2e36846a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0547e9786478a7cd2acb7d3c292b43e2f32ecbe7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c656cf10734f4d6316c28e96090588425de8d981",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f3549cabc95113412aa6d7e2e82066f0d836cd1d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "bd1ee9ed2a0aebc055f8b280e31fe087686934c8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "46e2f56852fa4158e0279c62ac51febd69fbc283",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ca943ee2f61668208c8769fbbf4e98d5a0b17c1d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c06971febfd6b6d92cfbb97b9baa3781f1709dda",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d78be3b006a83f4e9e3a83cd76c0c79ee549040c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "642a17cef8e4db9b722c1782a706d91c6b35e924",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4e724c2f82f7b9ef38dbeca4294c42ea6aa919a1",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c706ea4a7792221aa83bc4d5a9600ca4be89c4d2",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e44ca811387b457b9bf1227ca87f07c6ac6fecf2",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "8567e272d8d1bb33284ee2c4bdba056b69d76139",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "466f16558b9cd1a7a930fbb5e2844610ee8fb373",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6228bbc166f6a353dbe135e41686a15f56218508",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ebb10888c430686fa79a15900c9e4869aa2c41d4",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "fb172399ff2181a8f5f82e5988424defdf38da67",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2586abf09751fd962ca7afe25d4ab3d9431ce716",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "30eb9314a4076c6adc06b348556650297b2b9283",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "550a4cfeb20363b81bae243c35cc67db1088518d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "5200369653704be86e277774e6ce6d856369eec6",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "33063f335d0cb9224a64dc2f77dbaa9963d92ecb",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "bfd45548aa808fe44c558115ad6bd5fcb393ac6c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1b152112ca0338df0acd1378be26d379ac1f80ae",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1d037e80dfd8a91e9c4042f65695cadec4b17097",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "aecfaac0d631995120b77f22059291ffe6b9f06f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ba2b415f40f3efccf0ec6fc47c525813cd53ce23",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0d2f51b89cec6b9c67cd52919046f979f8964397",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "057fc73e2a9b84aa2e55bf6ba0da73344da395de",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "5c1e9ba87e6742e6679660c882287d092d7967f1",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d1427587401c29ba32c3e1b4eb11cced5e9e4abb",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1d415a0f8a9542240c500d53e7f9b46647b1bee6",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d0d732fb4e271119b5f6e1fdc0becee4f712f719",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "3046d0911252dc3f73bc41ef32df9ec3a9aa8232",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "74cbc638655a4661e13ad7a06ccd619e328c7ee7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9d2a65785f9ad59bc9c2debd2e01b9594113f191",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "89145b0ddb8b37fe9d5df3fd0aec448fba6ddacb",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "304dc0551f45b5d86174da714be9d63529b9f533",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "eff7e533c3ee48a7413bd1f5c248f9dfea09ac78",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "3e13dc64f4047eb589d9da46e50561a25290a230",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d174ec04dccb205de96e63c775e01f948380f8cc",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "5f0b1f097bbb0b564aae802f9177731a18d435b9",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ebca89d36cae4e869981b1a9973dbaf50ca36256",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "61f1b83b0af6ad6449ded0668e10e79165384313",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c3d6d17894b98f5fb340964cdd8e2f269e27acf0",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e40c036a9ad797a223255edf4135984f852e2967",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f030d2258ec74989ddef7fc560399b714cc98a52",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e799636b2545fde098b6036cf25c385f29059f56",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "76f0408f37e774317bb2dc7955c435f837bba05e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b250eee794c502eb96a417d0bd12ec1734dd2f93",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "639a33c4eedd1fd0a76b77247ebcffb727a43de7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d49a978ee893e9dae1e792f41015b08f6868c11a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2171ffee6ed5337a0645c436d0f7d5cea5e3d17f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "271eaaceb7874d982eb19e12c571dee821314c6f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "87977a977fa31f270288e138650e19e570b53143",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "40eb4df3f1b08d30764e6a5e921bfec54d514149",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e823da618945583153a661ae9dcc114e8f360994",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "8587fb58a5d22c0b081eb5a167f06945c2d194ed",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ee6ae2f851850e19f646ebcd5aef334a8e89109f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4d9524af417d1c89f92341343f2d8e1cd241756c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "57951c902e0f8a8c5567c6dd0f4d1ba72e3ea0d7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "98f711b70d36b0be2e40076e50161547deed72bd",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "116ffb87c5e1731e5ff847cf6773d9927be5a91c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "98db31411757c5464ab76cc524bd8dd33a9f2753",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4a3caf0686c148d38cbc1b794de6b9f326079913",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "03a1c35abd3c40c05e950c86608d2da668721034",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b358603f074d2991e734022abc97e94d83ea77cd",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ed48b26456f001591be80d565ecdaab23eedc3cf",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "16cacfe1732d8afa72b46f48ec7dc1c324752e00",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "afc9b8c038eff18c3654d47e112a33b3a653f66f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "3d406fe16973bea5af6f51bde10f583546f3f6c3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d3fe87be04e6a847d1aeeb238f9e509f89cf11e7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b11e87393e520815c669bd0086434c2960496b78",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e80f6fa4e3a1d3c9bc8ebc4a4710e6402024b0ee",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "54d74a723d5371d740c623aef52933d785b2492b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "26b72619074364712480cda1afe13217cde04468",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c2a8abd51395aabb84b8b1b69ca650799fa71613",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0573874ec790bd52491f7dda167a4d76d6af49bb",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "11234c07caf6ab6151c3d0bf3f665953565db97f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "eae24e5320da8e6e305c55efdb39728e4d2d08ad",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "305a5b1846d0fbaf165f2a8c4423b3e2645222c1",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "63e452eefd45148c93dbb1207153692a3218ed35",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ebf678ca57d593f37a650e025e5887a552b182a1",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f89025a832aa8f854f0cee012be560b550c11ffd",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d377dd141028ae81ed373b86d3fc8f26cc898447",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ae82c1582039314e1290a46ba431feaf7fe666ea",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "688006bf0318c206fc16eba2a8a97239e17060ce",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "08abdebaedd869804c592f112d2cd225385c4186",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "cfbc6dabdc54141a8038f7b1932f98a2de706f7e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6853d8247d4d16f499c45d0de081d408d10d3ced",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "a7ece2a0537ee84252c1e402366858d342248f68",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e0e5bc85715fda79b2759b06ea87171193de7a4c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "106af3a05b0c5bfbe03eb3be32ba3992ec0b06b9",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "db2017be1ae6881974a90465f4be48c06b259d59",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d286ea0ae635c121a68310405b6ecdc6306c0381",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "5bf38bbdc3fea6824984a4826bec82f211a609ba",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4a1d965573a2dc532b572401c6234f26bb2a0935",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0cbea575c3d9c6acf5812119bf597e88b35af41b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "bcb061395b0daf3754a0e0c27c7d49da32c6c2ec",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4e481553e5c80b851400f05c8baa96773f4384b4",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6165a44b419d18ff6809f2bad6ee78453bdca7d3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ebf00626e5b2dfa47beb7ffb500976dc839676e2",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "7c280ddc590756ae1418ba9e2e281d31ab67df4e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f0ab13d9ad12038183730172e845bea4dd3046ac",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f1dd9342f14728bf413584cc90185095e34262c9",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "7df447a24e3573626c3df59bf7ae6d4f0a4d4aa9",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "8d694fc4db6fe2473c5b2dcbbf5bbf3781eb6091",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0a3675ac78c90eded615ac8e28d5f3b7afcc8a63",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1a089359f612942e79739788729adadb55d5269c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "daaac0338d6b4a08b0e47c2055fedf7f7e17f9d2",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e16a436056ed6348947d4af94313de84d2a243b8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e07054d79bee975e8e1dff4bc8c31fd3f2d4fc49",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9f0a115878857d8219bc3efc263965a4d529512b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6f9e59d64bdba14f63178a3776cabb914a6d5537",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "42a3da72f7c72c382f5aeb5cd939c10365ff9d18",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "290594aefc2dfa9cf41350dcae4a8be36f6e94f1",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e71f273814f1a933f284ca41a4a52f1461937bb7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "75bd1e1314e717877df8b0747ae54eafffbc2c13",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9d64e423c02b00c95386ed6dc4082840452fd054",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "16ef8cafc8d367472ade13dec01ab36262b5a7fa",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "15a03f643c8a634dcfe999478a54570862858ba6",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e67d0bb24c19a4f2992003d951c95bd712432416",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "fc011bd8f3de500549da13ae4747f8eafd745204",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6b8f8d6753685df7763d213aa2cddc79c69d24e3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "44264d1c5310f7764256cbfee646a165a1e8e2dc",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "05e68d00043f374e7fd28e7342102bc4cd297064",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "16c3caadd0da223e463d28af98b517419df04904",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "555410d9b51e93efbc4f844f03f447563df6963e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f07bff3bfe909f9fa032ac4c0ce03414ac9ec5de",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "96df95e2f06606af3d27243e50a978cca99db53a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c987c1b73bf54c0ed6a094a2410c26d75c494d57",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9075e9ac2b2969621691bee3b39fe85623b18e56",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1e9d6887fa37f9f9b32a3d1f0b4eed1c89e115b7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "64fb6320b4dc759967213d7eef0d83229020719f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ecbeec79968ba7f5c9b7d0a161848acd30d87600",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ca3502f8f256b71eb8beb170eb9e69379f97d365",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d033b3d5bdb2bcbe394c66909d2d8bcea9f10a1a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "921853cfb9a038a07cee4d95e54401584ce8fd3d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "968e24bb212c7a7edca68d2ad17b8747f8dee6ac",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "49b298d488ed7bb4f47cb91b0f38b291e64a14dc",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "874c3be16cd492739f9a49386c484c9acd02b3c0",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "782d214066e224ba553bcef2b626fefbcfd73113",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "cb1fa93fce2fd0907e8f0e3f60768e795e27c633",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "63cd4e51dd9de8c36c4314f87e271c9af293b68f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "488257bebcc7dd75c2b68692f882e1dc36520ede",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "eac92d159587ef404a02d1a5f61d117360def914",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "fd44d834ac940005e9067947d3a5968bdc0779db",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d865a839c9268b5f2e23c223c193f409b887a28c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4573a430e7b05c9a3e669e53f128507461f03bf3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ddcd45c8e9285c08aadee2da006e1c3fe050b315",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d14ce97e9c61138d35f03dd7fc0c2604f8a9d726",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "51175d27768955ed1918b79ea7f046723e5c3173",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "cc2c4bd54c15b958dede6b4e83e6ee440a3157c8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e57daddab92ce771a580d8be6d96719a71707c12",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "a1c0532c8e4bab166048adcab132b59590dd6f73",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ec02e99e264694817244fa815933f4cc377bb51c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1b48d4983b3bec76e2241027f098abebd9b2b49d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "976625b9bf81dd9158e2921c1cf0f09f0f6b2e4f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9d5f675a87f522067f0a4ec92f50dfb187824715",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0aff0e6d42404e62c87a8fc0b0b8086fe00a7cd3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1c39de9032743094b10bc8ce52990a93971c5ea8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "68bf3456d2558258490afba3cc35d8ff2cd2ef14",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "7dc43e003f4fb2db65c46d0ed7e1ca633a28ab07",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ea3d0265233865972b0c83b46964ede7fd53381e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9f2ecb5a9ddb28c3a7e464109f20a8237f236ee3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0f40e4340279794b53b746f2a6e66daf1aeff53c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "87f1aaa4b9a51a4a72181e6a3cc5dc73dadce29b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "05a3505f6d73ad1767bcfebb6bc17c6312190801",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f376803841e81f70a546226a09b37c57598bda91",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "19ad899bbe490ecafbba8a5956ceaaa65945770a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "a22323cc9e343855a9b1fd773ef33b8764570dfd",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d2dd37ec0a0617fca8e990e5184ac147cdf5172a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "16da6c34cfede40475387eb031e647869506af86",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e385a0dec7d04c582283d21fdf1923bf937a52db",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "53115302588c7d03f0e22e35d3da1ce7a87a83f3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "eee87d7ce0058d58964da56e890f581d8ae96ac8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f98a0e9de4656d06c8a5914529db24c5dfd45ad7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9e976b64b88f237ca9d82fe69b8b3de6ef31d434",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ea83371ee2938fa7828802889067500d5a384818",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "bcd7e400975b45c36d40636ee06f7930dfbac374",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9355372b2c3cc74a6f950ca022290584cf3179d3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "541807c19db920c8257109a0058c256e0892be39",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e6eec07848f47d7cce6d51914be13e27eb11ec85",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "fc40565383fc1a9526a1ed56c87d21ff39614eb4",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e16531f87bc38f3127a6afac683d6f5511fb847b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e1bb3c967c6c868434ee412a5ad18e0fab547766",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0f2a544a6655b948c4a171a303442c767c2754a7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "8e02240e5a5ae3792d0056c4998441944c9c7948",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "accab21cd19824d2d47f9d4bba635a73796632b8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6f12cdbd3964adfddfdaddd3092970a9ea5460aa",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "363287f23ce4c5e93df74a76bd826090001126e2",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f2ae5dba8932b8166148f3ef4772905175b1e5df",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e55361dcb27474e5bd4c2d9ba572d63c063eb8a3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b33e2ed9a41022c906afe4d718b16380f839139e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "86974d3d922f664413f17e37dd968de55afdea96",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "fe0c4e2f39996f651768bdd3462e6c62935682fc",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f223f33247deffea5d46c9a697bda78f9943e865",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ae5ddd9678c50fdd80de537f9ad65bcd434c0521",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "994d6bf0a3f41eb59795fbc30642c2531accac58",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1d3d2204fe5f7da06144a4c0c25efb88007326da",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4c9315fc4afdd30229efa3a3bbe32d03da6adf62",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "3ac889118c8a611b98b638bab5a4cee78c9a41c6",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "5b7b28a61195983ea89ac45153f69d650c15cc81",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "01ec64590867be3ce377bdf509c2f88a2f1e70c3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b793fcc9c3ff8ab44d418f5afe456d3dafd4d1e7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "5f625be1c125b07bb8e80fc8fd500805d11ceb95",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0b506715c64a086b85565e8b01c0a87ef5e4d044",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c917e892ba934947d0ae0da21ab2e54d35ba9bc1",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "a05ac18790935ae241caac6a182d379750c62fad",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4b9116cedd204d9d6fda1ceb7013436dd3ab576b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "92a5e6cddf2c03557bb7fb7896cce46dc2ecb42d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "22e619d5d85497801117a2c2fc215b0d63a5e6f8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0f1babe52663133cb05d49e5b14e6ea01e9edb7c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f6817e6ed284e837ac8db426fc98012fa800040a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ce467aa8c0fcc5b6c00fd288ba9ab2e2c5f52628",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "a0b16d42f0a4e5557d6bef78468f32f07f28380b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "04b9fffcffda09c00a327dd86e63593a9ad5ed38",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b8540b431e7def6a621ca37aa9ddba85b0cb21db",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "5cbb1f1de52d391402ecaffbb90eccebd281b94f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "3bfae0cc31701768cdf63d8ecd3b02a6349cab1a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e5d48ceade16b83d0f5a1944d51d86288aa06fa3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f38360ab910afd4bb9090addc5b56bb10e000db9",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0602895b9319e0b9ee3ae406c9a25d112ac42769",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "417cac67bcee81693fca427b9ca691b5c7ee56c6",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "86d142db1a267ca86537d10b662c23acb2f6c6b8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "8c475680b3d85520e41b7eb78418e9514fb85eef",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6f0bb47b8a06190b608aa124b096b970342fa22d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "8e4098018034821857f82042a9f8ad742aafb7e4",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b389ad12026c32583e509bc0b1892f8e21fab5c0",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "72f6e814e17c577160fedc8f2d2f6a4d83943328",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0f596380a731b9be83eb90dc891ffcd187a662ea",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "fac4c44f09c68578c10a7b2b883393221f87fdb1",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ba181dd6950ad54d71dc3a56c9a695c8321daa5a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d5188e960c60cd1b7aadd5ab48ac4b5d0b91faf3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f41d74ab342332ab79511765cfcad2547bc13db7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "3e98f93305747dd9791d05979d1e7576256d8aa9",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "35e964a5eb99e15c479c67f81f5e414105b3a64a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d3ae834917470cc1997b75b0efd7a46589694804",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1694e7fb34ac325a0f1b5308a4772624e8100cb2",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9c33e84865ba985a62df2d5c17181a63d43a8974",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b1fd4f0b78c6442787e05206069c934c8f05ee46",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "859fa47b66c6ce0701d0b080c835955e96f30c73",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c81557a188620988204c8c02e8d05787dffae10c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "3ab59fe69d726cc59485fc45e445833fe63de773",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "590c06a8937a071c7f9b01254d44c7bc2811adfa",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4c371b80c59d05433689a03e228b66b0e40bece1",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2a50b822d15d9505ae5c60fa02d2fd74ff34599c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "7248f19b59a2ae61cb133b8475cb8215ebbe01a2",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "393f075c4be19453498ef9bc371028668cfe39a9",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9ab8584002c59fcac6e917463f42ec96ade73ab5",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "fd0c7b31f86b4f7a37dbdebf5b73f9c40f75805d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1cb2913f74f0e129a3b735f08c7fef238b0fd39d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e06cf5182f04d9d348f2b25d97411719484cafb1",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "33ec13709ef326847cd36e9d09a160c98ede85a1",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b177db20843e92151ff76b3dac8560269f69b188",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f33f205843c5d53950c234064bb6eca08aeecae5",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "cfbc491883beafa8dd9f289aec653e482412d187",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e5dc2f801e83682d4ab6c73f7a48da7b22aca43d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "52dbf46c475f19ca420e590864869c5a752996ef",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "583bc3d9c4f3d6a6836839591935a5e16337382d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c83f234bc33f858cb613014962400df5c46536ac",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c53ef3984ac2f7323f67b762de1395464fcccd66",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "041c4dae17ececf50e00ae02ab6a5df9cfe941a0",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2aaa1b67bd363b0d0d96e570f4f73b1fc6424e22",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0df098ba0c24581c49ab187950f3c5bfcdf1b6a0",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "133cf4b0407206777f85016da12f38e474bfed20",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "fdeced9837b199e37575108974f5a097b402239c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d61d1ca27af8023b59bfb4664a88b245e8e17e83",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e9ef60b30bfc92dc00bd2d895f2d38cbf35d8510",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "cbb1d4ee8a244adbb96b3fef207f025f846d84ec",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "16d79fd5c6f57fedb8bb48cc8b37a2d5773efa9a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d3180b5e75b8842cb201fa2bc73843025957ba70",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "5156ba64fbbc02765f9dda27154124f4f93d555e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2e18b8cdc19bf2e0af2f3f6bf06ebbd283a5bdab",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4dbae033d54c15c12a9ce389ff20ec097e8416ef",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "a9e1fae238b4ecd3b821693146d582cee298cd5e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "620c5660a91ac6246141124efdf319391498d495",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "60cdb4ab2bc150c41fd18f16750fc5d8efaadd04",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "859ca7257078a23f4215719749caf2204e48683d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1f9de03793e8791b5a57e78cf94c595fc015b14c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "873993cfb74b0a6728d8bb29532a0583e0912fb9",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ce0a94e8d1ea781cea5d4fd12752bf6f93eec876",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6fd8962a51f87dbf908924f30e207a89a444d127",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "370f79db857f21da81e1ec62f744f758024a9c65",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "96563de05192c7dbdbd0bfc025613be06aeffe52",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "fee02af49609752abd3c3711888cadb8f08f0902",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "7af41c340568623c7f938946aa3574ca05cac9fc",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "061e5ff18048dd08ac9e1705b00b7fa593c9f057",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "7122aa6243452eecd92bc4538fa5fbfd43da97e5",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9cfff3a3edd3c057f78915b4b55faa410ca21804",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "af1697aca1c0ea9dc9b55966baebb5ee755233d5",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "eeb759c24f985742c9386344f613928d0e26d4b5",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b3846cbd865412e78a894b30b94a4a9d90045d67",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6a0fee3ca45abd02d9f1105476b5940b93e4ee71",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "93d2d532da88e356e381b1555f95f64ded6a6065",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c8427ba75aaa02ec55ba073f87b453581f71ad5f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4237973df8cd9c31912f3fce4fccb71365d0787c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "503bdcfdff3c46b3887434ae658e213f6bf1b982",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c08f31d666ede682e6a0d93e9fb0ba001c25276b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "03ae45e29586a1d1ee56fc786474c8fe7465cfa6",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f6beee6f9c54dc64861a671f96ab5d2e8c657dc5",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b56d50f75df22e15a66effeb2692c4f8b6b10675",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "eafedda9ea48efcba6eb6b7ff47996d0ac61de0a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b71df52006e5c9ff7b56a9f86652c1ce0023637a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9164a0cd51cea4446c8488fbb65848fdaa9f8e8c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9d2b415ff1aab3936610d187e254e35f2a6b48a4",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ea3b3f01c3e7c4c2ce5005d519bc679067e02a13",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "940ebc6f82ba1f52086bcb7b1783f3176b0f011a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "20ac8e6f768888981f312a5ce6008ffdbc9f2fd9",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "66ceff0cb1b2aaddf4477993dda60a1e32026ebf",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ed30d38718de4a360d931933946773567bf89c01",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "a3d7609a65606417b4109da201d2aaaf6f87aa2a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "434bb59fb8e13370869256463369156dfb0f1408",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6f54f643125ee356b9694da51b70b50342abcd49",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "dd59e063a562c9bc067d57f4760497d2130f75a6",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c6bf61d90b8f542d1fa186d045057141a8bf1e13",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "3758cecd3d5fa1f5856384c4d5457f980b2bc4d7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "69d8469b64b8abab3b9e5c647deace41e21d5ae9",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "7040f19e208c93235f072c129940990751379d97",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "8a7b7f81d16eb88e3dbb9ea42059d8ada8e5819e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "775bf1dd2a46d4ac302b72811dc0a9d1b2dab8ee",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "40f1c8bea1dce836970922867e930fbf8f696baf",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "8b2ed19979b06028c635a68945509b069e455e07",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "52ac62d8484c255018f2309bb654bcdbf16b3644",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e789e9f3d77d410cda0df03a270ff8d00948a375",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "8c6e0b2aa5314cccd701fd47b08fff588a679009",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "7f806f737f217e0d8c60e751b47409b3d1ffdd11",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "53af5b20418d8b6c95f8d33648bc147bd27b481a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "bc438d84975c7d2d480ba29d30678f467030166f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "8eeb060c3df48881ac98747d8e024ff89047ede3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2257377413564fb381d1bb1ec8ca8c33c91ce69b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "3573bd76d5ed31a9ad89b0d62f8c62d497b9c1fa",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4edc6d38613970894165565000f9d1f1a50a6e4c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ea89ed3f8c575feee18f670ff9df3c8d6b5effb7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f65249be0ef454700bdb9ce1a86a8c825b613eda",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0cac294ece3aba6ff73e9d960499bf968bdf9ab4",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9ff16864f59d22bbca285c2174687d9a07f2286f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "989217d28b41210b183621683d826a23f3d85a99",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "620d9550d77893599ce92fdc6fc367af31649724",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "15b2828ef211dfe9676ee321fc42db4ffd7bd090",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "a2346597ca3bc58786eda5dd4cd762dafe5772e2",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "aa42c536909d9be94489ba096299162fbc2efb2f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4dc40e7c8e07647606746c91b09e4d95bbd63ed0",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6de2501ea1d4e2cbef4fd9fba2a4829cea8c5b3c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "76d77cc6c5fce0d4163125ca8f61d5c4717ce78a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6f70ddbceb00dafa86aea3c54b5c518ece4e129c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ed13968b06cfeccc380270a364c4dc26594dd47f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c8bdc16e1e0cc700cef006f6d15ab6b21f9aac00",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "78c46f4548cdc02e1fde01a12be8cadefaf8cd55",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c067fb06e28ef593702cb28e6462a8f09a38db60",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "300f9b79e67a47a22bdd069364136c08d95c5f9a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "494d9471147fb8299813e068cf7f95d3e3d0e156",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "a8caf7f8f514ed60f7a8f252acb13b05d164cfc1",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "3ecbdba6c11c1ae1ce197e937a3cefcf871e3a96",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "acbbdd636873ccdeb7180e206d190613d1876417",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "7d2b4ac489a793e968c76096cbf12216b054cc78",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2b632b7e403b01b73a620d9d8155948407e372dd",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "95a2cc6dc5a99c1efed465374037e7d67efed1d8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9ed1e145b2d534202d94d806e3b311dbcdb1b51b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b4e303ab286ffde9dbee65e9c9a504b5852c0776",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "bc4518c2cb167be3fa2fcb0a328580b5760e8cdb",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "3c5ba6eabc773705a4d626bb527aeda0c1bfc31f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "da06f269a7b8c70dfe094fa79480773f0a6d4cfe",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "491d0f9647ab215434c74e7145859d02542deeec",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4f5fd491949127be1d4584df8444d1c4ac8772b5",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "25d5ea45dfa717f182f8773eea227aef470876f6",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2b79b0efbad2d1082a0869011de1e8395bbc88a4",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "508c39112c8859aa074ae87a88a5e31e82bb15ab",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "74fbde48a7bcf87b86d4dca496c1ded6e9ee69a9",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "8b4624a09312d59c98a14e1ab6157a2eccbc307e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "43382fa07e542d10fdc93c4b296f15999d6b0268",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1992b41e65dc456f958876093385dac083bbe996",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "8be58c89910cfbef95531bd6b14ab47a04efe065",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "767dd930b3285065db6091957e38c8831cf1e24d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4ee8d9e37885595710dc3a3f4d28d4aedc39f51a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "3d9cdd5b7bcdf502651099848fde60b1c25aae97",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "3042cf9166c2f7645ea48a16257bd46aa267ae42",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f2efcb10a4e9083238c3111df820c5ddea956582",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e3b6d4410036d4af2ee8fa6a0329bcf5b43f8adb",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "311ee927f9c51e8e56671a4bb8728421a5534d9f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0c7285c279d340703c9bcdbfe4d99e3ad14bdea8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6c4eecd84bddc5d51d29fb96323b3383f383cf5b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "508ac678d8aa9a28a48af6bd014b11e1b9d26b20",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "8c169f77e88417cad657f3714bcc08234c33db76",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "bc2d4458fc537afc4cabd1a59975e92e092e90e6",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "46189416954b4422936ffd41fc3c740bb21fa0ea",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "a539ff032d6bb10629dc88cfd9d27a87db53c2be",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4352b0f481a33c19d9488b87847ce2dd58ad3286",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "45985afb3596399ba722f08464ddf7e80c2809e2",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "5896fa623ff6b0beeffe4c5da7a33f223c38e69c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "62ebeeeaf7c2e8b69203c8cab12c69579b65d632",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e4554796a25b919595c17632259a8de02664276d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "455491582eaf8e744514e393c90d8a8fb9f2c04c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "a9c7671cdd2b6d7c8c9c2031aac41b325cac91e1",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c7a5820a61b1faa9285ec788391e699282618cac",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d1c3b58d4a3bc468cdda20108ca6afdf58ae5198",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "3ea2542c307a491071e9ee113841ea2c44f30334",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6be12e58327e15c0e4b48a7dd8df6c4699946352",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c08530fc4a0ba7894ae948ac2b241bedff64bf89",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "17a2537bbe5fe7858e1d854c690e72a0108bd532",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c61071b97e173e1f2fa401fe7f5d330954491987",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "82bc9cca941cb45399eb06e87d04bc3e7d6b89f9",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f61b21d1a0664867c0d0bc49977c73f5eb6d65b3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f63051778da9cedf6ac9b1f825346d0f228d46c2",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e54db9e7f241a12c1f769528c4e51d45e3ee8969",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e657cf53861feb377f2289bb2caf53c2a1e5ee28",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "bc37348521aa016a4481dea74ed884d720001920",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "183b2fca6cd1eec07c565511c96ad8d8129a262f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "37f9c8a103933d042b0565d5da37cd35c28df75b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c4860a3770442d3ac47af0f6d5825d3442c899dd",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "fedd30e115d414d088cd1efdfad0b99ea72e0f79",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0cfca0a304bd6d2c8b9f7318b48b590a6ec2170f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b8e125acccbb926a55b595d93081276abe226d7a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "90379b45d0da8c8ebd35dbc2292fc4517f18fad3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6aaed609b145a41330a938f41dfa015107b92186",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "78399cb9562fb9b637113b5b290c9202b574149b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "066d23ead8526aa433a0ec0bc6ded7b9eff38941",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "3984545df25a3b810946a312df7c87de0cfaa38d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c0d7a06de5e82f19fdc3193c187f3b3801ca8585",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "8532f01f41a016cb9ea1d27bfc25c9e13e5f6bbc",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "5d2c7b8d8fd7bdcf1d92f523df351143069b33ea",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "647b60c659315f847b2f9008a0097301bf3edb74",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "a7312ef94ec28b6c9ff1fb4dff127764e9232037",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6dc4e0957039f4ebfff0ab99a16d17b3e6d73e36",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "5b82ace8aa3512cf07d50bcaac6b33d6be74ac95",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "5162ba94adfd5dc4b4f00e57bdcb77ae4a9ae048",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0552eca02bdb99adbf00144f6d4374879807beae",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6564eb3c18d1987f1064292d582b42650387ab46",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "87f0fa5f9ca739d1e575ecf2878f19d5f3041fbf",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0f94eb7d3b8f2bbf77dcc379cf01c1ba505ab2cd",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "dca41a5937c4f55641a258ec98ffbc19e6ffaa81",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "88b284b99310cfe1fda222de441803c93487017f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "5f28540a36f568be89407e465e0670d0e1004a83",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2313ba7cb81e940f91e67b352a595ac17c14daea",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "96899a181594dfddee374df58b645ced52e002e7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "aa6015cc346f75f06f809030893390553371001e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e804130e33a0cd8dbb76f241dfdebc3844a1b130",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d2d4a9555e2dde71ee9801f816c283df1532c05e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "218b7625bfa1c7a14353f9452bb4d837fb9097eb",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "16b06eaa1dc192638d5963dca46c8a32a44d797f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b43b87ecbeb2838bfd5b6c6d5bfccfc05dfae582",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "cd79445519a4df789384d349c210227689dae06e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "064294536602cd4b9fc2a85d97649cf698d4dfda",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f5aeb9050262191f5fde0a693c81eeaf7dfa6bde",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "40a563624304e36f62f390f147ae0ed7cdc947a6",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "7d47dcee0e111d15fd08a7e580fd2f68f96079eb",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0461eb8e159f07bfd05025c268d3f60f098c5a10",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e910f9d607084ce44a693b143790ad83633a3410",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2b992e7218ee573c79a2c2a6c0970631a6d04e0a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1dd360d7525c630a3de0fa0df0124708286f9e22",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c587fc1e4cf87db95729c1d13e0c94d0581db02e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "244637bfd242d62cfab403e9d56e339d7c780c7e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "244bd1e73101e09441c48c7d88fd3d45f34e2577",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "7daa86b6eebc41261a8691947424cd76bbaffe80",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "791ea1a4d57a06e43b64cac0e57398beeaa51740",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ccfc6196f626e6d3c4989956641042450346b71d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c5f45d3ab6af2cb9836d51d4fd53a32b97add4e2",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ee716fb89de7a87c0eaa20bb044c1ef937661ade",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f9159480f34ffcc94ccb07556d33931339980d8d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e329bbd394e322885ccc59a4d7513a3994fa9c4f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b370d7ffadc7d3c97cb5638b6d1a30ff6e32f1f9",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "caa91a968f39b9b726214e42bbd84f6277d977e6",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "7b9e05183e4c259477eaea7678dd5871daff0f09",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "909f79569c7fbb8a293b57c9063f2ac338cd6364",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6106aaa5d24608d04c89ff84666305af69ef8d75",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "75b87891b00b219c721aca5ff5ed7437dfbfad2e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "60decccf385212e597cf5ed8bd1068a2537349c8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ea8bcc7a7ff9bc2c50f3f4c5118b09189fb960ed",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "46c9b81de0a8fbc0b562d7f4b808f71e725a8856",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6c31e1fd7e83b603fca8c6ebb38c5f49f13cfe5c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e334d56812191e02d1ec5cd9429838ef81aba53b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "059c3903ce622d61876354df4490e9366e91dcf2",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "cc9303a1ab0a2b76cfd8d7ca2d08dfe28457e96e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d83193cdf23210710e22dc7afd46b8bcd09328ca",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "583ddfcd89cb1dcf83484430410199f6c5e10b89",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "79bf6bf9f8728f2ec64959ef8f4fc4e7a2634e75",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "fcf0a962e95fc1adfcf2181b63041b8292d7f40a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4d905653b1f79a73d9478c8740071a7270cc3c4c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "11c155a8cb7a8ad3984969cb105af15571d96bda",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9e35afd9270413ebdf1e8ffa8aafcaa51013b30c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "57d9ad6b3273d74b86780960da2db3e953eab0f2",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "532d81454f68633227622318f0185b36d625534c",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d70d8f3db56900c383f8fea7b98f4203f3aa3b9a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c206bd6cbab5cab30b0754582a2157ec3df1ca0a",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b2f8766bd62c3d9d916514994d15b488f55751a2",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "73d9d9ed1380c76cc24ab9defe14f9227641c185",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c9a6c86692678c8639e61fe014bd1bb69f531bbb",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "8872ad2941464c36d8961bded5a8b3d2390597cb",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f633e81b89f7dab745a1b2bdb76a4971c9be2429",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "32fe4d0dcf012d3ee4cafc33576811cc22db3bef",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "fa112ded523e82a09ba24b9c46e2fc05b8ff4fff",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "20806c2738118cf11143ebb7db259aefa01e99b6",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "de984e45f58a1aef7cf8a630f9136fbab789f4c5",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "19bc1a38ca530d7eacd51e491d633867520acb8b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e2eb6a8bef3194d5bfd9e457d7699c8db1fb44de",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "312f259ff7554642f86b02bfd2c944b99ebf52a3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "42f6c8b51f177dfb7f344b9696b2d975e6fe0283",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2781153e8560871d99d0236b59f0b9579978cd44",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c3599c78fe09063eced24239624a09b47518b8dc",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4b0d50e5d4fcae4fe121df007f5c6ddedb9d6b5d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "926942bc497f443ca245eb557a62a752202b0633",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "8a1284a82dc8aa1caccc1c0ba9ae2abb1ed84560",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "01372dbc5e4b9f2ebb56c8ecac54540890b51def",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "fe058c441d817d9395f054a368afa66d60d3a736",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "708c238c8f489a95f11930115fd47824deca4348",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f4f957a2c5610ade59087166559e96229b9a96a8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "faf556f7261a8954e4df4f8297e2c8145d96f3b8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "26492885eafc47eb88f4c1a89e10ce21ccd58937",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "78844acec8ab17055123287fe7c74e032a5776da",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9ff71f10f39454c57c370d9888e435c1b8dd16c9",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e6a4a89016f45ccfa9970d7ce16c3df0ec2179a7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "954c3c007627a3ba7d9a5a855637001bb635cbc4",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e28e772b672cc589c75eaa723e7bef54ce7b8734",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "332bb6957044e411c2879aa58f2bac47b6714485",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "23d6d691c9daffe57d9dba0df5735a917587795b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6196dbd8712124d81f2956b7485df35c063e6138",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "bd5299b4d5a3d5886e9d5383e0559eb1be4dbc3d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f59f3331c371e5d0c7f3280f12fb1aa478c653c0",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4e8885f95efb0eeb0d3966912bf12eedf89839c7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "37a1aa2104d70a3f04c11aba03d525e62c5e69d0",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "da6ef64697d3d794a0184b9b2e92b155c075bf82",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "14f1d4ac91a11be0c11fc52dae6db33cd1f947e0",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "eb28e9b3d439141d2d92f3afb192580c23687199",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "eac62a1466c973dca84a98ed86b1841b3e150887",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d477c0a243a95253bbe8f21eda8a8d57cdc28d52",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b0e878dcfd747778e6807d567694dff2d1a55802",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "a74124edac845b91b74e25874783cb9990cbbebc",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "dadd741be4a223040b9863917d29140c4e33e50d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c9a30900d78118d65355cf9c73577ec1ad3335a9",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "7a49993bd2b13246cf1afda820ea5a88cc051a2b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "de53045b7a94c719de8866d25eb9d573a11f5958",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "07a8eb5fe111878be1aa524f2757ed795e42ffec",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "b6c561380442d8860ceedaa16a6f5f129e475515",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e319adfc50be9bb54a0d1b965614ac6341a31ccb",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "678f7ede370ffdc399c4137accbd279590cee150",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "266f5a5706ab16d01a29ef05c0ad548a64fa5f75",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2f43dd4be209b93f5a2d9ba737e5db82f62dad02",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "979d1c2653af2c0b1b8d12ececb0788e3606df9e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "aa8ee2c50cd0a5d4c46f9b066acbaadd1b50a97b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "95cb40a4ac2b0bb0c04a949f6e2c75f92604cb8f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ca3345bb53e4915f97bc3dc879eb0c82d28bef12",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ebf781929e93c77386f0ac72ef6b1301dc935d6b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "046adf1cc5279b67f662c13260ce051ee1253ba5",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "e6456507550f609fec74a987fb3b55e4109695ff",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "10eef048a0b047b4cb4a6fe84c1a4241767191d4",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "a1405252ae606f472e96bdf30a45e1f0d6519561",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "863d73222f5ee2238bb53fc24673f04a42874841",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1bebd232f6b8dcf7f0599c9d2d2c49c030ee6a5d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "100f82865c54e67352fc04ff8d1ca3c6085e5bb5",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1761be720985688cacac9ecddd1b195b36055679",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2c08f3eea00b2a141301302bdea0a6d765798605",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d64b8f0879210bb52f92802790960db4ed75ca3e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "35c1c76bbfa1c0d418b8ee9eb53b73504bbadba3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "8bf38dbbb4fc25de7dd2b994113c0eae49b47380",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4390746d025c282de0b96c158a56d154c1755656",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "95b929416a88f0a0ccf18800af1ab0d9fbebad26",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "ff533061c08ed43ea28575a797bd3ebd18f2ed81",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "27893ac314568044fa3f218184f339e720135bd8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "9776b561bf4a26ccbc87622592b62687d5361ec4",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d2f58c37e9545ad5afd128d600928b56d9567704",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "5fdb7efe96065f1dfa9551393b901d742ccf4ac6",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "2bd331e3bd7ed82b755f2c9486118d089972aa53",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "0629efddef861ca299cae557a33f6f66c5a8878b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "41eacd61c43e14f1b3a3cc4645ec69a6bc5efcd3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "285a92e9343f789a251aa71ff0c4c10d872fd8a5",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "783743b2c9601c7a3ab4e7304c748ac42ffa232f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "c95e72a39b8ffa720e11d9f25777d22df05c18e7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f6d09cd15962893c77b1e6fd4b5903a7c7d59c64",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "45c48891468f28f4f380113f20ed820e5be2a64b",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "acb20d459af15ebe04932d62fe0378b5f522b5c7",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "32af32e1b80164699445f9e8f776451eceb7e794",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "50cfa82d7153bbc038006fb0dc37eb3c9afeb5a8",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "912e48696ba661807e49c7a7e8d057387a87b9ea",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1de59be0f657a76cd5dd3a9c81ed3a974212c3a2",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "1420b087ad4980b1e9f5b9a82407eb4698c7f26d",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "55c572f8c1f6b5c4f3abf6fc70b0a399c5e5983f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "8e7dba4e9030977bd2cb5cd0d91c6074b05b22eb",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "de01732d3f3e5fb78ea7d467d696c4577a677edf",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "4b2e54fedb8b9b6818c47b0083d40ce635546019",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "07e29bcc77723a99ee1ed046102286ce6bcfa032",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "f5edc98c4985ce6407c12dfbd77e7e482972531f",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "327b2af16f2ecadcd78b1cba08fd90ea02128be3",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d44ece72fa1b6f3f57a0a0056acba49cc1b871af",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "d052873a3a01bab83b8a74421523d3633ce3cffb",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "6531319a20d5f125a2f88071618947684654e89e",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "8fae77b1dbc9231fc69a33e2aa697b5a3a382aaa",
+        "repo_name": "apache/jena"
+    },
+    {
+        "fix_commit_hash": "db12814b71f98b1c6f6ff622a5f8d305f2fdba86",
+        "repo_name": "apache/jena"
+    }
+]

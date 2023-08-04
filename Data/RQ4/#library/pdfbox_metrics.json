@@ -1,0 +1,201 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#library--pdfbox--THausherr": "2014-02-06 00:00:00",
+        "#library--pdfbox--lehmi": "2009-01-05 00:00:00",
+        "#library--pdfbox--": "2008-08-15 00:00:00",
+        "#library--pdfbox--tballison": "2016-09-19 00:00:00",
+        "#library--pdfbox--jahewson": "2014-02-13 00:00:00",
+        "#library--pdfbox--jmaerki": "2008-08-08 00:00:00",
+        "#library--pdfbox--jukka": "2008-02-10 00:00:00"
+    },
+    "commiter_end_time": {
+        "#library--pdfbox--THausherr": "2023-01-04 00:00:00",
+        "#library--pdfbox--lehmi": "2023-01-01 00:00:00",
+        "#library--pdfbox--": "2022-02-26 00:00:00",
+        "#library--pdfbox--tballison": "2019-12-17 00:00:00",
+        "#library--pdfbox--jahewson": "2018-05-10 00:00:00",
+        "#library--pdfbox--jmaerki": "2014-06-01 00:00:00",
+        "#library--pdfbox--jukka": "2012-05-22 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#library--pdfbox--tballison": 1184,
+        "#library--pdfbox--jahewson": 1547,
+        "#library--pdfbox--jukka": 1563,
+        "#library--pdfbox--jmaerki": 2123,
+        "#library--pdfbox--THausherr": 3254,
+        "#library--pdfbox--": 4943,
+        "#library--pdfbox--lehmi": 5109
+    },
+    "commiter_contribute_time1": {
+        "#library--pdfbox--jmaerki": {
+            "start": "2008-08-08 00:00:00",
+            "end": "2011-08-10 00:00:00",
+            "bug_num_per_commit": 0.4444444444444444,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--pdfbox--jahewson": {
+            "start": "2014-02-13 00:00:00",
+            "end": "2015-05-14 00:00:00",
+            "bug_num_per_commit": 0.2894736842105263,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--pdfbox--jukka": {
+            "start": "2008-02-10 00:00:00",
+            "end": "2010-06-24 00:00:00",
+            "bug_num_per_commit": 0.2542372881355932,
+            "bug_commit_num_rate": 1.0
+        },
+        "#library--pdfbox--lehmi": {
+            "start": "2009-01-05 00:00:00",
+            "end": "2020-09-05 00:00:00",
+            "bug_num_per_commit": 0.10204081632653061,
+            "bug_commit_num_rate": 1.0
+        }
+    },
+    "commiter_contribute_time2": {
+        "#library--pdfbox--jmaerki": {
+            "start": "2011-08-10 00:00:00",
+            "end": "2010-09-21 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.4444444444444444
+        },
+        "#library--pdfbox--jahewson": {
+            "start": "2015-05-14 00:00:00",
+            "end": "2014-10-31 00:00:00",
+            "bug_num_per_commit": 0.29473684210526313,
+            "bug_commit_num_rate": 0.6789473684210526
+        },
+        "#library--pdfbox--jukka": {
+            "start": "2010-06-24 00:00:00",
+            "end": "2010-02-10 00:00:00",
+            "bug_num_per_commit": 0.23728813559322035,
+            "bug_commit_num_rate": 0.01694915254237288
+        },
+        "#library--pdfbox--lehmi": {
+            "start": "2020-09-05 00:00:00",
+            "end": "2015-03-08 00:00:00",
+            "bug_num_per_commit": 0.20037105751391465,
+            "bug_commit_num_rate": 0.43042671614100186
+        }
+    },
+    "commiter_contribute_time3": {
+        "#library--pdfbox--jmaerki": {
+            "start": "2009-10-24 00:00:00",
+            "end": "2009-01-04 00:00:00",
+            "bug_num_per_commit": 0.4444444444444444,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--pdfbox--jahewson": {
+            "start": "2014-10-31 00:00:00",
+            "end": "2014-07-02 00:00:00",
+            "bug_num_per_commit": 0.3736842105263158,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--pdfbox--jukka": {
+            "start": "2010-02-10 00:00:00",
+            "end": "2008-12-31 00:00:00",
+            "bug_num_per_commit": 0.23728813559322035,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--pdfbox--lehmi": {
+            "start": "2015-03-08 00:00:00",
+            "end": "2012-05-26 00:00:00",
+            "bug_num_per_commit": 0.3302411873840445,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#library--pdfbox--jmaerki": {
+            "start": "2008-11-08 00:00:00",
+            "end": "2008-08-08 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--pdfbox--jahewson": {
+            "start": "2014-07-02 00:00:00",
+            "end": "2014-02-13 00:00:00",
+            "bug_num_per_commit": 0.3507853403141361,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--pdfbox--jukka": {
+            "start": "2008-12-30 00:00:00",
+            "end": "2008-02-10 00:00:00",
+            "bug_num_per_commit": 0.1724137931034483,
+            "bug_commit_num_rate": 0.0
+        },
+        "#library--pdfbox--lehmi": {
+            "start": "2012-05-25 00:00:00",
+            "end": "2009-01-05 00:00:00",
+            "bug_num_per_commit": 0.3271375464684015,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#library--pdfbox--jmaerki": {
+            "bug_num_per_commit": {
+                "time1": 0.4444444444444444,
+                "time2": 0.3333333333333333,
+                "time3": 0.4444444444444444,
+                "time4": 0.25
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.4444444444444444,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--pdfbox--jahewson": {
+            "bug_num_per_commit": {
+                "time1": 0.2894736842105263,
+                "time2": 0.29473684210526313,
+                "time3": 0.3736842105263158,
+                "time4": 0.3507853403141361
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.6789473684210526,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--pdfbox--jukka": {
+            "bug_num_per_commit": {
+                "time1": 0.2542372881355932,
+                "time2": 0.23728813559322035,
+                "time3": 0.23728813559322035,
+                "time4": 0.1724137931034483
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.01694915254237288,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#library--pdfbox--lehmi": {
+            "bug_num_per_commit": {
+                "time1": 0.10204081632653061,
+                "time2": 0.20037105751391465,
+                "time3": 0.3302411873840445,
+                "time4": 0.3271375464684015
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.43042671614100186,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#library--pdfbox--jmaerki",
+        "#library--pdfbox--jahewson",
+        "#library--pdfbox--jukka",
+        "#library--pdfbox--lehmi"
+    ],
+    "number_daily_long_time_error_prone_developer": 4,
+    "improved_daily_long_time_error_prone_developer": [],
+    "number_improved_daily_long_time_error_prone_developer": 0
+}

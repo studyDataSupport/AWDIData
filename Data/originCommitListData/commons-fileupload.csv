@@ -1,0 +1,61 @@
+hash,authors,committer,changes_FileNum,changed_files,message,bug_id
+c6a859e0f5e79649b68a238e6a6f2119e95056a7,dependabot[bot],web-flow,1,['.github/workflows/scorecards-analysis.yml'],"Bump actions/upload-artifact from 3.1.0 to 3.1.1 (#178)
+
+* Bump actions/upload-artifact from 3.1.0 to 3.1.1
+
+Bumps [actions/upload-artifact](https://github.com/actions/upload-artifact) from 3.1.0 to 3.1.1.
+- [Release notes](https://github.com/actions/upload-artifact/releases)
+- [Commits](https://github.com/actions/upload-artifact/compare/3cea5372237819ed00197afe530f5a7ea3e805c8...83fd05a356d7e2593de66fc9913b3002723633cb)
+
+---
+updated-dependencies:
+- dependency-name: actions/upload-artifact
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+* Match comment to version
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Co-authored-by: Gary Gregory <garydgregory@users.noreply.github.com>",
+0101bb1a08cf53d0b7daef53276a63eea3e7cdc1,garydgregory,garydgregory,2,"['.checkstyle', '.github/workflows/scorecards-analysis.yml']",Bump Scorecards from 1 to 2,
+c3a2cff7ece3d22dc5a5d58e40e1b6449bd44f74,dependabot[bot],web-flow,1,['.github/workflows/scorecards-analysis.yml'],"Bump ossf/scorecard-action from 2.0.4 to 2.0.6 (#177)
+
+Bumps [ossf/scorecard-action](https://github.com/ossf/scorecard-action) from 2.0.4 to 2.0.6.
+- [Release notes](https://github.com/ossf/scorecard-action/releases)
+- [Changelog](https://github.com/ossf/scorecard-action/blob/main/RELEASE.md)
+- [Commits](https://github.com/ossf/scorecard-action/compare/e363bfca00e752f91de7b7d2a77340e2e523cb18...99c53751e09b9529366343771cc321ec74e9bd3d)
+
+---
+updated-dependencies:
+- dependency-name: ossf/scorecard-action
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+edb8f412bf11fd4f8e950a0799f8a1c5c8e26c21,garydgregory,web-flow,1,['src/changes/changes.xml'],Bump actions/setup-java from 3.5.1 to 3.6.0 #175,
+48efc65c55646667e17162abc3c0d5eaf886b9a9,dependabot[bot],web-flow,2,"['.github/workflows/coverage.yml', '.github/workflows/maven.yml']","Bump actions/setup-java from 3.5.1 to 3.6.0 (#175)
+
+Bumps [actions/setup-java](https://github.com/actions/setup-java) from 3.5.1 to 3.6.0.
+- [Release notes](https://github.com/actions/setup-java/releases)
+- [Commits](https://github.com/actions/setup-java/compare/v3.5.1...v3.6.0)
+
+---
+updated-dependencies:
+- dependency-name: actions/setup-java
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com>
+
+Signed-off-by: dependabot[bot] <support@github.com>
+Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>",
+74d94c2955340ed7fdebdde38b21cdfc6e9195c2,garydgregory,web-flow,1,['src/changes/changes.xml'],Bump spotbugs from 4.7.2 to 4.7.3 #174,

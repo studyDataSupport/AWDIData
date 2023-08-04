@@ -1,0 +1,224 @@
+hash,authors,committer,changes_FileNum,changed_files,message,bug_id
+520c3e441996f58a31351692b472f8189e26aa21,gaozhangmin,web-flow,1,['bookkeeper-server/src/test/java/org/apache/bookkeeper/replication/AutoRecoveryMainTest.java'],"[test] Fix flaky test testAutoRecoverySessionLoss (#3576)
+
+Fix flaky tests:
+https://github.com/apache/bookkeeper/actions/runs/3279561577/jobs/5399266347
+
+Use `Awaitility.await()` wait until the election is done.
+
+
+```
+org.apache.bookkeeper.replication.AutoRecoveryMainTest.testAutoRecoverySessionLoss  Time elapsed: 1.65 s  <<< ERROR!
+java.lang.NullPointerException
+	at org.apache.bookkeeper.replication.AutoRecoveryMainTest.testAutoRecoverySessionLoss(AutoRecoveryMainTest.java:119)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+
+```",
+4c79215af5ec02bd99729f4964d87e70755bcc67,Shoothzj,web-flow,7,"['bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/storage/ldb/DbLedgerStorage.java', 'bookkeeper-server/src/main/java/org/apache/bookkeeper/client/LedgerHandle.java', 'bookkeeper-server/src/main/java/org/apache/bookkeeper/client/api/ReadHandle.java', 'site3/website/src/pages/bps/BP-31-durability.md', 'site3/website/src/pages/bps/BP-41-bookieid.md', 'stream/clients/python/bookkeeper/common/timeout.py', 'stream/distributedlog/core/src/main/java/org/apache/distributedlog/ZooKeeperClient.java']","Fix the typo of double the (#3552)
+
+### Changes
+Fix the typo of double the",
+b7af1e9240d1430366c05de11963d41d91885064,poorbarcode,web-flow,1,['site3/website/src/pages/community/contributing.md'],"[doc]Fixed incorrect checkstyle configuration prompts (#3571)
+
+### Motivation
+
+The property name of `checkstyle suppressions` already changed in the PR https://github.com/apache/bookkeeper/pull/2817/files#diff-f295bca9ef0353572bbaeaeaa17061f524e9236ac46763c836ed779dee99935e, but web site still recommends the old
+
+<img width=""855"" alt=""截屏2022-10-25 10 36 05"" src=""https://user-images.githubusercontent.com/25195800/197669021-6c6e0a59-3ee3-4800-bb32-b83cd091cba1.png"">
+
+
+
+
+
+<img width=""1354"" alt=""截屏2022-10-25 10 33 46"" src=""https://user-images.githubusercontent.com/25195800/197668603-d1faac1e-393b-4328-9eb8-039b9c2346e9.png"">
+
+### Changes
+
+Since this configuration has a default setting, change the doc-line to ""Click Next -> Finish"".",
+e50cf06ce208989c3c295a518f3e0a2da8e5abc9,hangc0276,web-flow,2,"['bookkeeper-http/http-server/src/main/java/org/apache/bookkeeper/http/HttpRouter.java', 'conf/bk_server.conf']","Add example for multiple server list in metadataServiceUri configuration (#3580)
+
+### Motivation
+When users configure multiple servers for `metadataServiceUri`, they will be confused about how to separate the server list.
+
+### Changes
+Add an example to explain how to configure multiple servers for `metadataServiceUri`",
+da4583e9390352d3414cc1b954591926034431bb,zoltar9264,web-flow,1,['conf/bk_server.conf'],[configuration] fix typo in bk_server.conf (#3574),
+3a4af4a806821eb6a4040458332bb8e98b1cb4eb,HQebupt,web-flow,1,['bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/BookieImpl.java'],remove unused variable in checkEnvironment (#3572),
+e169cbd3f5785d107beff115056ce2068e0e45ba,gaozhangmin,web-flow,14,"['bookkeeper-http/http-server/src/main/java/org/apache/bookkeeper/http/HttpRouter.java', 'bookkeeper-http/http-server/src/main/java/org/apache/bookkeeper/http/HttpServer.java', 'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/GarbageCollectorThread.java', 'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/InterleavedLedgerStorage.java', 'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/LedgerStorage.java', 'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/SortedLedgerStorage.java', 'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/storage/ldb/DbLedgerStorage.java', 'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/storage/ldb/SingleDirectoryDbLedgerStorage.java', 'bookkeeper-server/src/main/java/org/apache/bookkeeper/server/http/BKHttpServiceProvider.java', 'bookkeeper-server/src/main/java/org/apache/bookkeeper/server/http/service/ResumeCompactionService.java', 'bookkeeper-server/src/main/java/org/apache/bookkeeper/server/http/service/SuspendCompactionService.java', 'bookkeeper-server/src/test/java/org/apache/bookkeeper/bookie/MockLedgerStorage.java', 'bookkeeper-server/src/test/java/org/apache/bookkeeper/server/http/TestHttpService.java', 'site3/website/docs/admin/http.md']","Add new api resumeCompaction and suspendCompaction to support resume and suspend compaction through api (#3509)
+
+### Motivation
+Compaction would bring high disk io util, It would better allowing to control suspending and resuming compaction through api
+
+### Changes
+Add two apis to control resuming and suspending compaction.
+`/api/v1/bookie/gc/suspend_compaction`
+`/api/v1/bookie/gc/resume_compaction`",
+1704ca43d6be0a49c7a311e9c42cd696f76c59ff,hangc0276,web-flow,1,['bookkeeper-server/src/main/java/org/apache/bookkeeper/replication/Auditor.java'],"skip replicasCheck when replication disabled (#3563)
+
+Descriptions of the changes in this PR:
+
+
+
+### Motivation
+When disabled replication by the BookKeeper shell, the `replicasCheckTask` doesn't check the `replication disabled` flag and keeps checking the ledger replicas, which will lead to more disk IO.
+
+### Changes
+Check the `replication disabled` flag before running `replicasCheckTask`
+
+(Describe: what changes you have made)",
+ec79daa6c7c55ce0f1f50a8231aea18b80787937,merlimat,web-flow,4,"['bookkeeper-common/src/main/java/org/apache/bookkeeper/common/collections/GrowableMpScArrayConsumerBlockingQueue.java', 'bookkeeper-common/src/main/java/org/apache/bookkeeper/common/util/SingleThreadExecutor.java', 'bookkeeper-common/src/test/java/org/apache/bookkeeper/common/collections/GrowableArrayBlockingQueueTest.java', 'bookkeeper-common/src/test/java/org/apache/bookkeeper/common/util/TestSingleThreadExecutor.java']","Single thread executor should not have max capacity by default (#3575)
+
+* Single thread executor should not have max capacity by default
+
+* Fixed checkstyle
+
+* Fixed throwing interrupted exception
+
+* Same on poll()",
+a58f11ff13b7690fbb1e7da92be4b65cded5d4bf,StevenLuMT,web-flow,13,"['bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/BookieImpl.java', 'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/GarbageCollectorThread.java', 'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/InterleavedLedgerStorage.java', 'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/LedgerStorage.java', 'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/LedgerStorageNotificationListener.java', 'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/SortedLedgerStorage.java', 'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/storage/ldb/DbLedgerStorage.java', 'bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/storage/ldb/SingleDirectoryDbLedgerStorage.java', 'bookkeeper-server/src/test/java/org/apache/bookkeeper/bookie/MockLedgerStorage.java', 'bookkeeper-server/src/test/java/org/apache/bookkeeper/bookie/SyncThreadTest.java', 'bookkeeper-server/src/test/java/org/apache/bookkeeper/meta/GcLedgersTest.java', 'bookkeeper-server/src/test/java/org/apache/bookkeeper/meta/LedgerManagerTestCase.java', 'bookkeeper-server/src/test/java/org/apache/bookkeeper/util/collections/ConcurrentLongHashMapTest.java']",Change masterKeyCache to dynamic size (#3522),
+c97b57635bb65551ebf149ba458a73a056129bb9,zhaohaidao,web-flow,1,['bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/storage/ldb/SingleDirectoryDbLedgerStorage.java'],"Flush time started moved to after lock (#3570)
+
+### Motivation
+
+In BP-44(Ledger storage metrics enhancement), ledger flush start time is moved to after lock to avoid 200% time
+  utilization calculations.
+However, 200% time utilization still happens in my test. After reading the source code, I found that this part was rolled back by #3160. 
+If I understand correctly, this change is not as expected
+
+### Changes
+
+Flush start time is moved to after lock again.",
+cfc6b9770f2189b17ac9ce61c763b4ce6a2d7e55,wenbingshen,web-flow,1,['bookkeeper-server/src/main/java/org/apache/bookkeeper/replication/Auditor.java'],"skipping placementPolicyCheck when ledger replication disabled (#3561)
+
+### Motivation
+
+When `placementPolicyCheck` is enabled and then `bookkeeper shell autorecovery -disable` is executed, `placementPolicyCheck` will detect ledgers that do not satisfy `placementPolicy` and write to zookeeper, but `ReplicationWorker` no longer obtains ledgers from zookeeper for replication work because autorecovery is disabled, which results in a large number of temporary nodes on zookeeper , when there are more ledgers that do not satisfy placementPolicy, the problem will get worse.
+
+The method of `ReplicationWorker` to get ledger:
+```java
+private boolean rereplicate() throws InterruptedException, BKException,
+            UnavailableException {
+        long ledgerIdToReplicate = underreplicationManager
+                .getLedgerToRereplicate();
+       
+       ...
+```
+
+So we should also disable `placementPolicyCheck`.",
+9d17efa431f1fbc5a4ffab15cb9dfc3394d543c3,zwOvO,web-flow,1,['site3/website/docs/getting-started/concepts.md'],[website][fix]Repair `sequential nodes` address (#3569),
+1966512a2168c27a07836c935821b9aa9974e9bd,zymap,web-flow,6,"['conf/default_rocksdb.conf.default', 'conf/entry_location_rocksdb.conf.default', 'conf/ledger_metadata_rocksdb.conf.default', 'site3/website/docs/reference/config.md', 'site3/website/src/pages/release-notes.md', 'site3/website/versioned_docs/version-4.15.2/reference/config.md']","Update website to record the RocksDB configuration changes (#3540)
+
+---
+
+*Motivation*
+
+Related PR: #3523
+Mailing discussion: https://lists.apache.org/thread/drh4p5prxbcs8gszhxnd1xsv0g48vvbt
+
+We introduce the new way to configure the RocksDB but we haven't
+mentioned it in the website and release-note.
+
+This PR add the document for the RocksDB configuration updates.
+And rename the RocksDB configuration files with the suffix `.default`
+to avoid loading them by default.
+
+*Modification*
+
+- Add the configuration changes in the 4.15.0 release notes.
+- Add how to configure the RocksDB with the new file in the website.
+- Rename the file with `.default` suffix to avoid loading it by default.",
+c76e549fc93efb290adac9f7e295f44145772670,wenbingshen,web-flow,1,['bookkeeper-server/src/test/java/org/apache/bookkeeper/client/SlowBookieTest.java'],"fix flaky-test testWriteSetWriteableCheck (#3555)
+
+### Motivation
+ `testWriteSetWriteableCheck` always failed. After investigation, it is found that `isWritable=false` is set when the simulated channel is not writable, but the unit test cannot fully perceive the channel establishment, because the channel is completely established asynchronously. The isWritable state of false is changed to true again.
+
+you can see the following logs:
+![image](https://user-images.githubusercontent.com/35599757/196625314-0ea5a305-9564-4738-8055-20baa6a5c5a2.png)
+
+The smallest change is that we can ensure that the channel is established before changing the channel state, such as executing `bkc.getBookieInfo()`, and then `setTargetChannelState`",
+d5e86038d88d176ee4afb99d73ba84e9d696bec9,zoltar9264,web-flow,1,['site3/website/docs/api/ledger-api.md'],[docs] fix mistake in ledger api docs (#3566),
+dff6d03a59b293019a3c1144515e6f931986f82f,merlimat,web-flow,5,"['bookkeeper-common/pom.xml', 'bookkeeper-common/src/main/java/org/apache/bookkeeper/common/util/OrderedExecutor.java', 'bookkeeper-common/src/main/java/org/apache/bookkeeper/common/util/OrderedScheduler.java', 'bookkeeper-common/src/main/java/org/apache/bookkeeper/common/util/SingleThreadExecutor.java', 'bookkeeper-common/src/test/java/org/apache/bookkeeper/common/util/TestSingleThreadExecutor.java']","Use SingleThreadExecutor for OrderedExecutor and drainTo() tasks into local array (#3546)
+
+* Use SingleThreadExecutor for OrderedExecutor and drainTo() tasks into local array
+
+* Added metrics to executor
+
+* Fixed checkstyle
+
+* Made the test more resilient
+
+* Made the tests not relying on thread.sleep()
+
+* Fixed testRejectWhenQueueIsFull
+
+* Ignore spotbugs warning
+
+* Fixed annotation formatting
+
+* Removed test assertion that had already been changed",
+16a4365d7dcaafb2b0fc5ae6d43b4bee0af78b98,merlimat,web-flow,1,['bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/Journal.java'],Use BlockingQueue.drainTo() in Journal thread (#3544),
+255416a8552f34e5fd50231bbeed77e0945b63e3,zwOvO,web-flow,1,['site3/website/docs/admin/upgrade.md'],"<Issue #3534>[website]fix website mailing_lists_url/slack_url (#3535)
+
+Descriptions of the changes in this PR:
+The community related variables are not replaced
+
+### Motivation
+Poor user experience
+
+### Changes
+1、modify Upgrade page template variables
+2、add  variables to config
+
+Master Issue: #3534
+
+![image](https://user-images.githubusercontent.com/18533252/195989997-63ac71d3-8d2a-425d-9c45-f0816f18cd80.png)",
+3083412b1ce8baa9ae03ecdef4f80bad72478657,zwOvO,web-flow,1,['site3/website/docs/reference/cli.md'],"[website]Declare the bookkeeper shell queryautorecoverystatuscommand on the web site #3536 (#3537)
+
+Descriptions of the changes in this PR:
+
+### Motivation
+The [bookkeeper shell queryautorecoverystatus](https://github.com/apache/bookkeeper/blob/b13dd20f0a905c615daef2e1ddcfa0e0979d1a07/bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/BookieShell.java#L1361) command is not publicly listed on the site
+
+### Changes
+
+Declare the bookkeeper shell queryautorecoverystatuscommand on the web site
+
+Master Issue: #3536",
+dbec4e91eca20566a4db1673e9db1d728f659960,wenbingshen,web-flow,1,['bookkeeper-server/src/main/java/org/apache/bookkeeper/replication/AuditorElector.java'],"fix close ledgerAuditorManager repeatedly (#3503)
+
+### Motivation
+this introduced in #2842, the `ledgerAuditorManager` will be close repeatedly.
+
+```java
+    private void submitShutdownTask() {
+        executor.submit(new Runnable() {
+                @Override
+                public void run() {
+                    if (!running.compareAndSet(true, false)) {
+                        return;
+                    }
+
+                    try {
+                        ledgerAuditorManager.close();   <- here has already closed LAM.
+                    } catch (InterruptedException ie) {
+                        Thread.currentThread().interrupt();
+                        LOG.warn(""InterruptedException while closing ledger auditor manager"", ie);
+                    } catch (Exception ke) {
+                        LOG.error(""Exception while closing ledger auditor manager"", ke);
+                    }
+                }
+            });
+    }
+```",

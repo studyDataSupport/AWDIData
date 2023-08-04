@@ -1,0 +1,10 @@
+{
+    "all_file_num": 492,
+    "error_developer_file_rate": {
+        "#library--commons-dbcp--scadgek": 0.0040650406504065045,
+        "#library--commons-dbcp--reda-alaoui": 0.012195121951219513,
+        "#library--commons-dbcp--robertPas": 0.02032520325203252
+    },
+    "daily_error_prone_developer": [],
+    "number_daily_error_prone_developer": 0
+}

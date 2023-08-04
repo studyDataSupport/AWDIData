@@ -1,0 +1,22 @@
+{
+    "cate": "#library",
+    "#library-cate_aver_bug_rate": 0.2318840579710145,
+    "#library-cate_aver_bug_commit_rate": 0.2,
+    "high_bug_rate_error_prone_developer_number": 2,
+    "high_bug_commit_rate_error_prone_developer_number": 2,
+    "high_bug_rate_error_prone_developer": {
+        "#library--commons-collections--neilotoole": 0.25,
+        "#library--commons-collections--psteitz": 0.23255813953488372
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#library--commons-collections--neilotoole": 0.5,
+        "#library--commons-collections--psteitz": 0.3023255813953488
+    },
+    "error_prone_developer_num": 2,
+    "error_prone_developer": [
+        "#library--commons-collections--neilotoole",
+        "#library--commons-collections--psteitz"
+    ],
+    "error_prone_developer_team_rate": 0.029850746268656716,
+    "team_developer_num": 67
+}

@@ -1,0 +1,622 @@
+[
+    {
+        "fix_commit_hash": "a7c5960d5c0dad860ac05c335a145bb6988c0fcd",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "ffd7f952e30984f32874b337eb0a957cf174f897",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "76230988c5bea13d6b80f7f1c882c7cb0f439630",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "50593cf6336149fc3a88bd7b4346cbc5d654118a",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "b635fe5d0d53a5b1bdc17ea5fc2f2ca86210af8f",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "5a1616d6da2f4c86a83fa0aa355627924cf73682",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "063be773433e8e684255099ff595f6ada46796eb",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "eaf324be9ebbe584432e060054b4ad6f3facdd6e",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "7334d30bf17b567f10e509b18b59ed4819875bfb",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "eb3b4cb657e8da1b53fdee6ff11e6ccf376a999f",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "1aa7fb1c1d7caf1014e924c2f41e8068a798d85c",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "aacc75a9bc38fed5352a871b587321fd637bedd1",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "25e16efe99eaa151431017f44c1556f30426e6d6",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "d80630ff3cb8420732e60e6ab140e36a824f3e37",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "76534f857aa4edd8dff62321b97f3e631da9b52e",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "412121a52a6f105e04e0520cbf9c017af82be2fe",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "199d26906c1d1abe864d621a457dbcc34ed3c0cc",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "b81ede73dcccf7420b5cc9fe104cd170c23767e6",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "3d5b136afbce7efcd9895a1e6eb5abc8f565cce8",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "431056098b3bd1805ec9554f5abd3d423485bd9b",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "1089d246bd50475157eb88beddf9689a389212fa",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "f6cd5452663f3a4c9c906d0709d851f4647733b5",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "76f47e7825112db2481a732b95ab37e00d249ca8",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "6446105d6fba669c7fd20e04060df399941029ff",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "2e5c7dc39711cf075144eef9cc41c412e38a1ce4",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "385b94c30f6bea2f8170d5446ff3a735327e8778",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "aae3ae9526dd7cd8e3c6d5d28e2097abecb96861",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "9be35924903230757b7c1b84374f33653c9bcf36",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "5f7d770c307a9245ca8385c5595c765d3de62636",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "f6e28145d08621998e2e65a90331498a25d80032",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "69a68d5bf619391c474d2baa327ccd8130b7de07",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "2c61548fcb0a7845f6b00c5826359c7de5e9be39",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "dadc07d96ad179e45b62348f680072c92afcef4e",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "ff9e067ff816a5a22b9e3b8e051d0dbcfd64e56d",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "8288e259766cc639ac5e17ef804455dc64e306b2",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "fa0e9ad053659d80a5f72793e518275f27727a55",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "78ca82b6a38f7286a21cec152bcdec1f396c0f18",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "069bd11eb546c3d0e6e6e0b1080bc73a88363bb1",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "e5c8ca252046dd5f1c72c7a15ec30900aaa5b510",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "c28a4ef875453952fe7712686787bb80382dc24b",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "4283e4818ff1ddf1a5c649cfbc98d43195d6ed6a",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "373c544a51e68eb405b6c84380e1bde3a768b690",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "2738d9a34300cc4b1ed84e57f9836020c90cb2d0",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "d8fbe9b53d59516382b28edeb391a42a696da5ef",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "1bb32a90035813ce80d717e4525ac16c0b9bd1b9",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "8c3127c34b24ee97ce04c54d269c97b792f54b18",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "76541fcc6b4fa3e345d29a08a1cc8caa5e00965f",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "e6d6318da3c36e80c0adb0626f2ecb7ce936a7dd",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "31b0d3d3946126d5b5c03077f34a5798976d8545",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "1a702a3d145bda17c4b79dee07a55fcf505bf28f",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "c762d8a7d921c014b69f2d36d360f30f7a4d3556",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "d9c3bd4e0c7e2acb1174463dd577c10aaa80fbd3",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "3e3890d8fdd150d2a3cebbb780539d995447b67f",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "bd067d6d78af3eef6ff621af860c51af15b4e16f",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "e1ce0a50e1285a15bbf037fafd2079d53ed45b9d",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "9059afc7afe1cd630fea383d4120c06d277fdf47",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "e2fbe9ccc9386222a9922357caceee29a2f99182",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "3f1a3caf6e26c5f1bf9bb95a8b30bad7e18eb9e4",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "f22681f9b6b8b59674ed8e3a5c091936bc8addf5",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "390f7a1c69ced91f70c3bf1aa59de1d0c4585b26",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "2f1e56166d69861f39b366c68ef0da9cfee389c7",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "1d21199e95fb7d75ef1c39675fcaf0f988aef03a",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "b6e000ea4d8222f0d003ab71ff8670d6716d8df6",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "220ce7e58e9cd252c8bdd954a4580369395e459c",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "bbb14252da3711715525763344433dbbca838dd8",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "f021ab690c97cc81bdcc99fef77ca7d42eee3dc6",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "730eb859566cb813251ac9e2039f37885bbeda8a",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "267aa82680ed92227f36947a64bd5105a35686d7",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "102ed3dfb99557dbc5758e62902350eba4cd42f8",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "60acd9b10aff4de4bb12188ccc4d3e4ec1fbc55a",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "94d06a4fe07cc67fed7446608a226da7c36ffd7b",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "5c31247d996be62a824425e1a2a501462e63bec1",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "f1c75d05b3fd4b551a0f680bc40d5c2562c05b1e",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "abda34fc56df1ca94b7bd71aab796795dc39fe3f",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "2bbbc8a332ecb3847bae91c08cbfa1bb803a5add",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "d60cc183af30fc936b2eabf9af0ae356b6cf893d",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "009d4d07f3b7c212a8aa830598a59775d831db8d",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "9816d8aad9ca291b2e760811c6df0b40d3f98c55",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "8fab794c33a94530b1faf703d259cdfc3fff535c",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "744d3b8e38b013f8e0f4a0984a1e78cc26a24e44",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "0701b4602b6671f4e0f32d6846d88ac2fb1a1323",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "94eb727a070aaa18466b66070f354efa2de1b5ae",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "4030c391917ead8769680c75170b214fbb57d035",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "5cb3241fb65e4478685e46162a45b82f43bf40b2",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "4ac3f586d655bf39cdfbcb639c82109f53e47d37",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "294163477e98a1b3c31475a2893bf83f835148eb",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "cd20aa1c6e1355c61335a71f8cb6ff007728faee",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "f5d3a06574567defc120dcbc89f058abd4f0387d",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "d3076d6d0b63a182b21daf339cdd027a5eb16715",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "3f2fcd71f2e701db084789f480f8bd6603431d18",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "c8af60c45e626f31ff4ca4a4e921ad95d3f802e4",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "31f4cc95ce0140b0eb3534b3a37b516502a9cb07",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "18785199e2fb4d5cd5bff9893ac8cd68c34c3cd4",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "eb10b910a6d1bd8803a0806648ca3369a64619e1",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "3bee6a532aa2c5a43946f6466501696f7cad24e5",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "0034fa0d89d089d03a14a0a896b3cdab13d2d3c0",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "375390dcbfd4159f72bc615c285749ae0dc0bd41",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "9f20bf17a4fe8b1fc1837aef55400815623f07b2",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "da29b207602b74298f83d444c9a1c1e35cc10b0a",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "a6f17cb77d2d340a255fb381728e4b5abf8869bc",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "c88b9d1060d436674aee95eaf8e7d4ecdb67f35d",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "508c4391f3a80a49c20454bbeadc5b9592757e54",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "62a0b3aa330fe76a6eac5fbb7f270aab7b908b9b",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "40a61c83140532c72976a6615b244ec085d472b0",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "a14092b1f8106d019b1850ec7a220ad5b6f82fd2",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "44065a69b84cb7459ae275466ec882acf8524448",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "fc75f2a4e22823c752bda2bd150a101507e15eb3",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "c81280cd208847edb241b1b46a4a8e7a92dfa9e0",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "6a5c37c1ac7dc0d5336b195823cd3632f9fa1a6a",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "6a6ea23e102509892ba03bf589bfd10cabf5850d",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "12c3b6da7ede5f425b8ca983f26ec12623af2afd",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "a9aaeda1acfb570317e535cf4435c8f4d82b63a9",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "d534d7c741e598f3f186d73ff6d5d47df2a1bb6f",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "975a93bf250c00ef563716992189a93b77e4164d",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "dab8c7ead66fbf566dcf87ab974cfab00b54fec9",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "64c8b4d896ca5a649bc991932a89007c48edec0e",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "00967708c61c107b2242dc0ac063832912d02015",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "a1c9e0334d3425ef1ff99d61151f098e4b682d82",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "6042f3e32b224c5869413a501a2f9fca42bd0b84",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "21768da9fe4d706d5f4fe1b89d5da831ac4351c8",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "57c4c935e10b6e6a7e4263a3156326219e1a6640",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "f7e8218b6a88c33c71978f0b87354536306d90c9",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "7eff63eacd77a1c230680120d9f856cd2948d8eb",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "b51ec29a2bdccb4b4905d0276f9e8bc52c901918",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "bcb889f349519b4b7085abae1b372a2da38a62df",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "a52cc930ef61ca87e6827976528b163dfda0814c",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "7430fa69874f2ec5d81505b1700dc80bcb2f13cc",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "0ebc89d7ac5f22ce3533b1f31e2e8867497fd367",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "0c1e7f06f28170d15501ec7ec74d3eaa0d324a2e",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "be5fd5f4720f46e1fc74450d6627ca41d450e073",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "0906ddf696472554997933e977f6d76fee106336",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "7b655398f3f68c469f177fe26027450ef0b80aae",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "2a3205c2a0752b7b063f9ad5af83903806a8d7a2",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "e8f469c84604e2f523922fe62e3944addb6a5019",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "57fa16a12b2f77606bfd9cdd2602b31259e0acab",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "bda3dc1052f5a257dc2d4aa4bc6138c70b5e79cf",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "5520407a62f09128f0b8790c2c4053de64a12df4",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "8a8f2f50fc6ec2ba4bfaf12780c79866d788fe5e",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "569233eb45bcedb3fc17cc4491b4dd11eb5364a4",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "1988d3261482df33c2c5b4bda556dc1cca310ae0",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "d18ae5cbbf0a16376deda45bfe66ac0291c0bfd7",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "6e77acf5b10006ba1f380071011b379398729418",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "9e4e0202eae1e176c453645bcbf958c3bce242d8",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "a0935467856cb993c055e94348a371e5f6be6087",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "aeeefb1ac78985d1b570ccb960c1d56db2ec4ecb",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "e499c2b528a6f770bcf24272fce21b131b268e94",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "d67af4ae3aac6a9d6198837af68d58dc510c1132",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "d1545d23a09769b22dfea7148f521ed0e60c9b9d",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "808ed5779ececd542ca7506442231fb62200e11f",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "ad9955c6a4b69c6505bee7d45a4911e5449ea5da",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "ce89841fcc8cfe41a299377a6f8fbad7d50d4722",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "d4ae4aef59f40cf5df9c5f9531862d01cc8fd1c1",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "61d35eaf4cf170bbd1a00ba5a878b501019b9b04",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "3dcd8abf61530825b98dc2f9002e1f450dd07ada",
+        "repo_name": "apache/ctakes"
+    },
+    {
+        "fix_commit_hash": "971e85d8336ca7584618693138e01af8932b76ff",
+        "repo_name": "apache/ctakes"
+    }
+]

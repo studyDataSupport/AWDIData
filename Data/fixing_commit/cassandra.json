@@ -1,0 +1,202 @@
+[
+    {
+        "fix_commit_hash": "8960b4d8513e22c4c11c181c520380342935aee7",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "35dbcc2c2dbe1c826fd6ecd6e8357f0f5a9bab02",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "ce2a0a28bc9ca21e1fae29f2a38448a877db06c3",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "86aaf22f15290fac1b5f94843c9a2c9d1c6d56fd",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "b2e897f6a92b931f6f8595a2c0c8d12b04aaf601",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "6115a02021c86028c0cc5a510452454cc8b4d2c2",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "c1008cc1ea7fd797c0e9fe374dd36771d866728d",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "17ebee3186d1bfdee9a2b355cb8f139492d144e8",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "699a1f74fcc1da1952da6b2b0309c9e2474c67f4",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "6dad6600393f99c3d413dffefa1bf7f6ee12b79c",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "58141308ba661db641d405ae415b8f3e1c0ec11c",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "91ce0473833f87328e858001806b81c0686efe2a",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "cbf4da4397c2cec34d6a240b0e917a847c46b3d0",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "a3498d5eb7b5b5418b32491238524b33f20347dd",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "3c0c4620f2eb64a10d9e12fdea4c8a6b167f7165",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "6ed9134336bb48d04284cefd303d8374ed901c0a",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "f6a7057815e66ba75253510b3ef6bad492381d94",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "ff5c497d1fc553f3dcc57a5b0f1329d66082c1d3",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "f92f959eb319a04f6f2ae8766666f1e621383b95",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "fccded58a6f2ea03dd501c3889e0aa14b6571e16",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "a20a0f724bee67ccf010cfbb72dbc1f90a1d5b4a",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "20c5ea02c43810c0cf5e72ef3c9a83fc71af2faf",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "12a7a7ebfcdbcbde0fea244c3b9ab95cd7cf68e5",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "99de2ff6f60f95addc0ba6c1313d0200ce6fd512",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "974a3cc1288f2bf530fd440585ef43ee82e84b3a",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "146f813e56a97472c88d67d1917d78c4e0f3e81a",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "44925ac7ea3520bd414d06273cce0edf650d589f",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "03c3fec4c13e6c3214619efd6263dbd38a77ea90",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "cec4253ba83be62dff17894442dbd1bb0690aaed",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "c2f7af6e7e0eeaffb067bc665e8b5aabd2e9638a",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "2a5547981dad7e59be2c26aeb52f5d49d2195b9c",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "c49a1497eafc5ab5c16b03b3f97842c5ab1e64c8",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "739848602dc01b4f4d1893bf3aa38f5ddcf13267",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "c3ccf0878a8b1e37ee8abf62b2d6fc96be519dad",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "83843966bf232cde624903c593cd31543e2a450d",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "855d997cee3a24a99964f5e1604c5e1672ce1485",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "72163669fa8bb864394f216c891c1245f2393801",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "26ad322358df31a6f9d6f078e45ebfb2beb52b56",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "d3ec319f9fecaeaeda4cdbd8dc58f33f9f6fe5e5",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "2673caf5de70447d10f20a74fe4007ae77b5acfa",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "fe34d59766a84185c6d7943c556f59dc4635e04a",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "282c84ee0a41831b28a4c5b3d7ce451a765204e0",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "d6d4a4fe185c332e1e8f6de5e2f1385f89f74451",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "8648d3fa0125ac12f5e894f05f369479151d4b6a",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "f92915ffd53348415b848ba27729caffd917dbd3",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "242fa0231bd74fe09454e67c10a4af651dd8c4e2",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "34207f0a92e784322743e1fd2f04234d1fbdd2f7",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "5fd4ff77472ffd2d20c22b801d1c8d6ad37138f8",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "e741bebb1e29a9b0635b8c06395b7fa763f958ea",
+        "repo_name": "apache/cassandra"
+    },
+    {
+        "fix_commit_hash": "bf6236ddf661ebb896c069daf930abe3e9bb3b35",
+        "repo_name": "apache/cassandra"
+    }
+]

@@ -1,0 +1,22 @@
+{
+    "all_file_num": 9054,
+    "error_developer_file_rate": {
+        "#library--mahout--dweiss": 0.0014358294676386127,
+        "#library--mahout--drewfarris": 0.01181798100287166,
+        "#library--mahout--adeneche": 0.01811354097636404,
+        "#library--mahout--MaineC": 0.019880715705765408,
+        "#library--mahout--jakemannix": 0.036779324055666,
+        "#library--mahout--tdunning": 0.0583167660702452,
+        "#library--mahout--robinanil": 0.09984537221117738
+    },
+    "daily_error_prone_developer": [
+        "#library--mahout--dweiss",
+        "#library--mahout--drewfarris",
+        "#library--mahout--adeneche",
+        "#library--mahout--MaineC",
+        "#library--mahout--jakemannix",
+        "#library--mahout--tdunning",
+        "#library--mahout--robinanil"
+    ],
+    "number_daily_error_prone_developer": 7
+}

@@ -1,0 +1,47 @@
+{
+    "cate": "#library",
+    "#library-cate_aver_bug_rate": 0.2318840579710145,
+    "#library-cate_aver_bug_commit_rate": 0.2,
+    "high_bug_rate_error_prone_developer_number": 10,
+    "high_bug_commit_rate_error_prone_developer_number": 11,
+    "high_bug_rate_error_prone_developer": {
+        "#library--jena--paulhoule": 2.0,
+        "#library--jena--krosenvold": 2.0,
+        "#library--jena--JervenBolleman": 1.0,
+        "#library--jena--jfraudeau": 0.5,
+        "#library--jena--ehedgehog": 0.5,
+        "#library--jena--OyvindLGjesdal": 0.3333333333333333,
+        "#library--jena--cygri": 0.3333333333333333,
+        "#library--jena--dobrist": 0.3333333333333333,
+        "#library--jena--bimargulies": 0.3333333333333333,
+        "#library--jena--ramiromagalhaes": 0.25
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#library--jena--JervenBolleman": 1.0,
+        "#library--jena--paulhoule": 1.0,
+        "#library--jena--krosenvold": 1.0,
+        "#library--jena--jfraudeau": 0.5,
+        "#library--jena--ehedgehog": 0.5,
+        "#library--jena--OyvindLGjesdal": 0.3333333333333333,
+        "#library--jena--cygri": 0.3333333333333333,
+        "#library--jena--dobrist": 0.3333333333333333,
+        "#library--jena--bimargulies": 0.3333333333333333,
+        "#library--jena--ramiromagalhaes": 0.25,
+        "#library--jena--osma": 0.20930232558139536
+    },
+    "error_prone_developer_num": 10,
+    "error_prone_developer": [
+        "#library--jena--paulhoule",
+        "#library--jena--krosenvold",
+        "#library--jena--JervenBolleman",
+        "#library--jena--jfraudeau",
+        "#library--jena--ehedgehog",
+        "#library--jena--OyvindLGjesdal",
+        "#library--jena--cygri",
+        "#library--jena--dobrist",
+        "#library--jena--bimargulies",
+        "#library--jena--ramiromagalhaes"
+    ],
+    "error_prone_developer_team_rate": 0.11363636363636363,
+    "team_developer_num": 88
+}

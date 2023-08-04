@@ -1,0 +1,64 @@
+{
+    "developer": {
+        "#content--manifoldcf--rafaharo": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "manifoldcf"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "rafaharo",
+                "createdAt": "2011-06-07T17:00:09Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 1,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "rafaharo/gerev",
+                            "isFork": true,
+                            "url": "https://github.com/rafaharo/gerev",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "TypeScript"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Mako"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 0,
+    "deveper_mul_apache_item_error": {
+        "#content--manifoldcf--rafaharo": [
+            "manifoldcf"
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "cate": "#database",
+    "#database-cate_aver_bug_rate": 0.25,
+    "#database-cate_aver_bug_commit_rate": 0.2182410423452769,
+    "high_bug_rate_error_prone_developer_number": 1,
+    "high_bug_commit_rate_error_prone_developer_number": 2,
+    "high_bug_rate_error_prone_developer": {
+        "#database--gora--jnioche": 0.3333333333333333
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#database--gora--jnioche": 0.3333333333333333,
+        "#database--gora--rumesh-perera": 0.2857142857142857
+    },
+    "error_prone_developer_num": 1,
+    "error_prone_developer": [
+        "#database--gora--jnioche"
+    ],
+    "error_prone_developer_team_rate": 0.022727272727272728,
+    "team_developer_num": 44
+}

@@ -1,0 +1,1281 @@
+{
+    "developer": {
+        "#other--iotdb--rhmangmang": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "iotdb"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "rhmangmang",
+                "createdAt": "2015-10-23T10:50:53Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 12,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "rhmangmang/hade",
+                            "isFork": true,
+                            "url": "https://github.com/rhmangmang/hade",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Vue"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "rhmangmang/COLA",
+                            "isFork": true,
+                            "url": "https://github.com/rhmangmang/COLA",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "rhmangmang/CS-Notes",
+                            "isFork": true,
+                            "url": "https://github.com/rhmangmang/CS-Notes",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "rhmangmang/jeecg",
+                            "isFork": true,
+                            "url": "https://github.com/rhmangmang/jeecg",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "PHP"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "C#"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "FreeMarker"
+                                    },
+                                    {
+                                        "name": "Less"
+                                    },
+                                    {
+                                        "name": "ObjectScript"
+                                    },
+                                    {
+                                        "name": "Visual Basic .NET"
+                                    },
+                                    {
+                                        "name": "ASP.NET"
+                                    },
+                                    {
+                                        "name": "Classic ASP"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "rhmangmang/spring-framework",
+                            "isFork": true,
+                            "url": "https://github.com/rhmangmang/spring-framework",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Ruby"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Groovy"
+                                    },
+                                    {
+                                        "name": "Kotlin"
+                                    },
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "AspectJ"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Smarty"
+                                    },
+                                    {
+                                        "name": "PLpgSQL"
+                                    },
+                                    {
+                                        "name": "FreeMarker"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "rhmangmang/netty",
+                            "isFork": true,
+                            "url": "https://github.com/rhmangmang/netty",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Groovy"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "rhmangmang/istio",
+                            "isFork": true,
+                            "url": "https://github.com/rhmangmang/istio",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Smarty"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "rhmangmang/resilience4j",
+                            "isFork": true,
+                            "url": "https://github.com/rhmangmang/resilience4j",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Groovy"
+                                    },
+                                    {
+                                        "name": "Kotlin"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "rhmangmang/transmittable-thread-local",
+                            "isFork": true,
+                            "url": "https://github.com/rhmangmang/transmittable-thread-local",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "PowerShell"
+                                    },
+                                    {
+                                        "name": "Kotlin"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "rhmangmang/guava",
+                            "isFork": true,
+                            "url": "https://github.com/rhmangmang/guava",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "rhmangmang/exercises-in-programming-style",
+                            "isFork": true,
+                            "url": "https://github.com/rhmangmang/exercises-in-programming-style",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Ruby"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Scala"
+                                    },
+                                    {
+                                        "name": "Clojure"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "REXX"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "rhmangmang/mybatis",
+                            "isFork": true,
+                            "url": "https://github.com/rhmangmang/mybatis",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "SQLPL"
+                                    },
+                                    {
+                                        "name": "TSQL"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "#other--iotdb--yx-zhang": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "iotdb"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "yx-zhang",
+                "createdAt": "2016-10-06T08:18:15Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 1,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "yx-zhang/horse",
+                            "isFork": false,
+                            "url": "https://github.com/yx-zhang/horse",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "#other--iotdb--xuanronaldo": {
+            "attribute_apache_item_count": 2,
+            "attribute_apache_item_list": [
+                "iotdb",
+                "iotdb"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "xuanronaldo",
+                "createdAt": "2016-08-22T14:34:31Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 9,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "apache/nifi",
+                            "isFork": false,
+                            "url": "https://github.com/apache/nifi",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "GAP"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Groovy"
+                                    },
+                                    {
+                                        "name": "Ruby"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Clojure"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "Handlebars"
+                                    },
+                                    {
+                                        "name": "SCSS"
+                                    },
+                                    {
+                                        "name": "Mustache"
+                                    },
+                                    {
+                                        "name": "TypeScript"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 3917,
+                            "watchers": {
+                                "totalCount": 185
+                            },
+                            "forkCount": 2496
+                        },
+                        {
+                            "nameWithOwner": "apache/iotdb",
+                            "isFork": false,
+                            "url": "https://github.com/apache/iotdb",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Thrift"
+                                    },
+                                    {
+                                        "name": "Scala"
+                                    },
+                                    {
+                                        "name": "Roff"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "ANTLR"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "CMake"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "TypeScript"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "FreeMarker"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 3295,
+                            "watchers": {
+                                "totalCount": 97
+                            },
+                            "forkCount": 904
+                        },
+                        {
+                            "nameWithOwner": "edgexfoundry/community",
+                            "isFork": false,
+                            "url": "https://github.com/edgexfoundry/community",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 1,
+                            "watchers": {
+                                "totalCount": 12
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "TimechoLab/iotdb-snap",
+                            "isFork": false,
+                            "url": "https://github.com/TimechoLab/iotdb-snap",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 5
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "TimechoLab/diagnose-iotdb",
+                            "isFork": false,
+                            "url": "https://github.com/TimechoLab/diagnose-iotdb",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 4
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "TimechoLab/ImportIntoTsfile",
+                            "isFork": false,
+                            "url": "https://github.com/TimechoLab/ImportIntoTsfile",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 4
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "xuanronaldo/flink-sql-iotdb-connector",
+                            "isFork": false,
+                            "url": "https://github.com/xuanronaldo/flink-sql-iotdb-connector",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "xuanronaldo/iotdb",
+                            "isFork": true,
+                            "url": "https://github.com/xuanronaldo/iotdb",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Scala"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "TypeScript"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "ANTLR"
+                                    },
+                                    {
+                                        "name": "Thrift"
+                                    },
+                                    {
+                                        "name": "CMake"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Vue"
+                                    },
+                                    {
+                                        "name": "FreeMarker"
+                                    },
+                                    {
+                                        "name": "Roff"
+                                    },
+                                    {
+                                        "name": "SCSS"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "xuanronaldo/wowpaper",
+                            "isFork": false,
+                            "url": "https://github.com/xuanronaldo/wowpaper",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "#other--iotdb--zhanglingzhe0820": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "iotdb"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "zhanglingzhe0820",
+                "createdAt": "2017-01-03T04:51:53Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 7,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "thulab/IginX",
+                            "isFork": false,
+                            "url": "https://github.com/thulab/IginX",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Thrift"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "ANTLR"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 16,
+                            "watchers": {
+                                "totalCount": 6
+                            },
+                            "forkCount": 8
+                        },
+                        {
+                            "nameWithOwner": "thulab/iginx-client-go",
+                            "isFork": false,
+                            "url": "https://github.com/thulab/iginx-client-go",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 4
+                            },
+                            "forkCount": 2
+                        },
+                        {
+                            "nameWithOwner": "zhanglingzhe0820/iginx-client-go",
+                            "isFork": true,
+                            "url": "https://github.com/zhanglingzhe0820/iginx-client-go",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "IGinX-THU/IGinX",
+                            "isFork": false,
+                            "url": "https://github.com/IGinX-THU/IGinX",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "ANTLR"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Thrift"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 8,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 12
+                        },
+                        {
+                            "nameWithOwner": "RemHero/IGinX",
+                            "isFork": true,
+                            "url": "https://github.com/RemHero/IGinX",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "ANTLR"
+                                    },
+                                    {
+                                        "name": "Thrift"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "zhanglingzhe0820/IGinX",
+                            "isFork": true,
+                            "url": "https://github.com/zhanglingzhe0820/IGinX",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "ANTLR"
+                                    },
+                                    {
+                                        "name": "Thrift"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "zhanglingzhe0820/RaftDataset",
+                            "isFork": false,
+                            "url": "https://github.com/zhanglingzhe0820/RaftDataset",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 1,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "#other--iotdb--RYH61": {
+            "attribute_apache_item_count": 2,
+            "attribute_apache_item_list": [
+                "iotdb",
+                "iotdb"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "RYH61",
+                "createdAt": "2021-03-02T01:57:11Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 2,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "apache/iotdb",
+                            "isFork": false,
+                            "url": "https://github.com/apache/iotdb",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Thrift"
+                                    },
+                                    {
+                                        "name": "Scala"
+                                    },
+                                    {
+                                        "name": "Roff"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "ANTLR"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "CMake"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "TypeScript"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "FreeMarker"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 3295,
+                            "watchers": {
+                                "totalCount": 97
+                            },
+                            "forkCount": 904
+                        },
+                        {
+                            "nameWithOwner": "RYH61/thrift",
+                            "isFork": true,
+                            "url": "https://github.com/RYH61/thrift",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Ruby"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Perl"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "PHP"
+                                    },
+                                    {
+                                        "name": "Emacs Lisp"
+                                    },
+                                    {
+                                        "name": "Erlang"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "OCaml"
+                                    },
+                                    {
+                                        "name": "Lua"
+                                    },
+                                    {
+                                        "name": "Smalltalk"
+                                    },
+                                    {
+                                        "name": "D"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Haxe"
+                                    },
+                                    {
+                                        "name": "C#"
+                                    },
+                                    {
+                                        "name": "Rust"
+                                    },
+                                    {
+                                        "name": "Kotlin"
+                                    },
+                                    {
+                                        "name": "Dart"
+                                    },
+                                    {
+                                        "name": "TypeScript"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Pascal"
+                                    },
+                                    {
+                                        "name": "Swift"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Thrift"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CMake"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Yacc"
+                                    },
+                                    {
+                                        "name": "Lex"
+                                    },
+                                    {
+                                        "name": "M4"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Vim Script"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "#other--iotdb--little-emotion": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "iotdb"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "little-emotion",
+                "createdAt": "2015-07-06T14:45:54Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 0,
+                    "nodes": []
+                }
+            }
+        },
+        "#other--iotdb--fanhualta": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "iotdb"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "fanhualta",
+                "createdAt": "2017-03-06T02:11:44Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 1,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "ClickHouse/ClickHouse",
+                            "isFork": false,
+                            "url": "https://github.com/ClickHouse/ClickHouse",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "CMake"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Perl"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Assembly"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "PHP"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "ANTLR"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Cap'n Proto"
+                                    },
+                                    {
+                                        "name": "Clojure"
+                                    },
+                                    {
+                                        "name": "Jinja"
+                                    },
+                                    {
+                                        "name": "C#"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "GAP"
+                                    },
+                                    {
+                                        "name": "DIGITAL Command Language"
+                                    },
+                                    {
+                                        "name": "Vim Script"
+                                    },
+                                    {
+                                        "name": "Rust"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 30025,
+                            "watchers": {
+                                "totalCount": 677
+                            },
+                            "forkCount": 6022
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 0,
+    "deveper_mul_apache_item_error": {
+        "#other--iotdb--rhmangmang": [
+            "iotdb"
+        ],
+        "#other--iotdb--yx-zhang": [
+            "iotdb"
+        ],
+        "#other--iotdb--xuanronaldo": [
+            "iotdb"
+        ],
+        "#other--iotdb--zhanglingzhe0820": [
+            "iotdb"
+        ],
+        "#other--iotdb--RYH61": [
+            "iotdb"
+        ],
+        "#other--iotdb--little-emotion": [
+            "iotdb"
+        ],
+        "#other--iotdb--fanhualta": [
+            "iotdb"
+        ]
+    }
+}

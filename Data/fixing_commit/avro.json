@@ -1,0 +1,3574 @@
+[
+    {
+        "fix_commit_hash": "016323828f147f185d03f50d2223a2f50bfafce1",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3e3be73bdb7f42bb05babc9c89f38c0e08734e62",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6d90ec4b1c4ba47dba16650c54b4c15265016190",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "92d57060f98f60de2a5e6eb95a91bc2bc5a61db6",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b26fbee245e39fd1aed19c16711126979b311691",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "859645d4a55bd8d2890dafa1ce899ac990eaba9b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c78f12f91350c01ac8cdba3d61f5650c0a2668b3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "90b273ac6b038f319a7bcbfa4d7ba713a390c792",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "34845fd49af9cd00e98f5930c6ac6190da5ea6a3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0066daff46b66c0bd28b5525ba3d2f32f26046e3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d70b8470ba81c563e7fc82cc99b00d8a4de29560",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "864774b473202d11544cb869e9323de01c5ffe5c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9c91c4450643b2ae03f645977105bcc2a49ad0e1",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "68baaaefc16aac47d32c230f0240045087b4bc99",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "945820a9ce5a4ad67fb9a9cdacbddbaacfd2e5db",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9c144131f1887a69221e5b30101ed890c214c277",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "820ed6e5ea4417b5735078bfd26c99f1305ea363",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "1d72182fd6afc149d33b5de8e2c68492c116732f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "797cec66c4d4b2d4eaf909bfc2a7d98922e2b128",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "903fa84725ca5b2aaa1c740c9b0c3b4dcf24e023",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d17c5cc5c066297a09208098627bbed062549dd7",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f190f1e7d46f557881c3dc600df26d9d78a0233f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "990ed3eb8a7b10ebdbde709458c7754ca4972b9c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "41c5a3710d03b26bad5e90d04bfc51d6d9e20d65",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5a80e32e6bba7d44fef0edfe333ff62c55da1392",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "659917b08184528999e3307e69fabc6a66fd07b3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8c723173cfcd42a098e374cdcb2416776f61393a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a8ee8778dfdccbc9bf5c8423d0d7dbdf1c2c0cbf",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e1206ade30daca0cae5399fb1d88179bf3dbe7ec",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "1ade72037cbb1f356f10f64550e5f94ce1a7fcde",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "bed2ec96a8d8ecbffcf02f0ec73e4f4ecb886fb9",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3fafde2cf8dd4b3a34cf48347a346c436741ae91",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ce74e7726b33ac414299a924c63a7a7bc036f8bd",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "76e55d8775efb02b5248aadf0bd512b137b58443",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9dedb2b8f635a2545617a65b4fdf1f074c3fc1a0",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3312b986e43252963d567e3b1137b8de33220696",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "cf0cb14de5498cf420265217e8f4d3a84dd2f4a4",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3c3c05edf519ce41060c0534f0099c32f5bd8989",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7673e8da822a9e27d7ff3e6258f91e2369b9f620",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "52abb50949e8d1933c7209f97d7bff5d8a20075d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "65eb24a6275632d02eed8bca54c71314bfdb42e2",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7bbba423aeb25b4ffe9dde90be090a4311c32f92",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "fcc4e2dec64e8cbb011a388f5e612c2b09e4d3ef",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "17e5a4554f65f5c3cd3300d3f87344c3474f6f2b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8d0e53c3781e4fcfaac61e0bfd9c04b00115ad79",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c7fdf69d811b57e888f31ffa520ebeb2f055f55b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "128510c4e9c3a714279aa7cea22eda19080521f7",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8e11c613e0b0b57cf06cae3d37cb86536375770b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "80a9bf87b12c78c3db14b8d1419e7f77eb16f0d5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f4725ca1cdac1e7b9ef9c329caf5e4bfdc5b19c2",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4b8dac4d0f210dce0b37d9f5c990d265f4ffc20b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "aa22276152802a85cc628c418f304a164d82b3af",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "44b8cd23756b752bf9d0976574453c712dcd44d9",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a0d5b943ddb9452ecc8b0d9d9e804f039ec9df1f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5d3931b9ed94a6a4558432f4993948329be35357",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "57a8cafebabc10f22d8e2214fd7ac1eb9c5ccda5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5d3f9a687484aac766783442f45fc66d02df530e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4c24d9ddddc8cc7d507caf495a4f93f3c7255654",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b8e7d7d4134318ddd7713d610a339b0cea9e12a3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5c645aefadaadacaa19c268db46df5c20e7908af",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a5f8def249e7ee510d37bcf97fc60b3b87ae8001",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "11595499d6d410bf8663c365ad161e0c5d1e1358",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9f37f912e9bde481a14a27e5553fb61a4df1277b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8988196545a17e76a984b07313dd4a86497c9e02",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9ab5ae3cd60b8c38c330e9483140d1a6f8d254cc",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c35add7b29b5fab9229d79927a74f327bd56fa70",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8ce603b6317638847fa547f0d2c587cd019903db",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8cbbe84bbf5e6fc97eee99131cee2b4df8d705b5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9917a55d858dcd74d53176fad5341eb3f8846ae8",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "68484243164666833c03336b953c63c70a247b1a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c0bfb88abebff7ec754c20b7797cbbe6a548495b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e8200cd2d40d9cf4a702905e6d2eeb9d589ec57a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "36f34be4ae5a4c8b7a79867d6e082c5f608d5760",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "00969b71fb23a15a4741b4c8e906b243db5386db",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7584320142768612bc7a58242231a476404bbceb",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4209b14b8750c5d631a77e2b84906a449c43f706",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b76a437b970889255703ff48f7ee5981dfbcc17a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "74f9a51c354f986aae3efc8766d321a0939ec45f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "04e41fc2c8aa21e829f690e791e8aa2b0a049700",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e5a0e064d795be5efa1b05d50191c0d3441c5195",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "bbe3db4cc1ef68eaa129586beb5978e6315d598f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d97e81f96e11cf0b550234d7c76045bea1734ab3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "1aa963c44d1b9da3dfcf74acb3eeed56439332a0",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "28f54cb35af3fab56985b710892cf9469aa7022d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "57e0bbf961d0bffafe6dceddadc65f0defd84d80",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "895cdc8e2ebbf0341f292ff4ea684bf9cfbc68cb",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8a5fc3cd17bdf6211097daf237e1e149efa78b56",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c528cfd7582ccb67da5789bc6b114294f89805f4",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d568e6d618e87ce176ba4f4dce29f44dc6da0507",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c1dd47e9388bc30922f043877df15caedaff23af",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0332fdfdf07343f33e6c9e2c28c491cd80c0bb88",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "64267e1f4e54a12551d02ff85e41c18090917e69",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "99547e0ee2e0a4a839253848d7b34bac7f5e4cea",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a1fce29d9675b4dd95dfee9db32cc505d0b2227c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0f4197d94cb4672e756129d49af5c52591e2528f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "fb398e0ddbdd67ae50909533f55defe52488e5da",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "dee5e32f8581107c28f73dc95fff74c0b4efc6f1",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0789cb7d98608bc8ff8add3b395dddd464ba23c5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "753ff034cd853359ee1531a44d4ee8c4b85d8976",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a86dde293841a5f7856c11c799ca6561e6745419",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "14b381b576f9ceb86062f6e68708cc3343abf869",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3fe5e306eaa43bdc06cef291321a8c04058a6be9",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "00a4f5c486baf2876bb0aaa3d1978285f0cf1d0a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2a353f42c18169756d04750fc3d056f1f3e7a292",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4c9d326c9d8fc0320256034132fa6bbc90a37aa9",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b815566e0f3ad3840588019b4cad6f3b6fb54971",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "fe40576cd22e93776e7e48302f4d3358b0b4a4e3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b6491f3f9d196867f52393985d849af54f245fbd",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "444ea493f2f210f7d9839b153f97d72671e64a7a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5d9984ef07d821d40d70341e2848a3b312798e5c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "411b6b9cbe4046abdc9cc4293ebd9f2548f37b64",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0a5d4c99c21d588d83e2eca2e658b0533c65d391",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "fca3cb41b40a0b048a43ca33c74262e89afa278b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f468930a1e119517491ed4e64b1bbd2906446b49",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "72b3c51512752f471392e3e5eaa40f954a99b752",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0c96242bb7816cfe0d61ac8ff25c8572c3d9e2e6",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "72a0fef3e9247bd94621288fb2e6d88408e3c836",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "df51e78752030c5ac929bd9adbb6fe1739a28485",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "68708e718c8f3731768644305b15fcdca2e30a77",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "103477369fcb49a5372f9f5c1353fcd575119287",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "1ac15edc8609d700aa0ed5ece207ab904f1a8623",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4961457f91d08a5907ebd71ca9ed088cea30f342",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "89efb8dd7bef28945d0e9598d913aa9ec843593c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4d3da1107b8c22b0b6a3b0853fa676553d35188c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5b6e75cd29d7e78fd0422bc71b1dfad0bebe47d3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f0ee46dbceb4327f50a552ff32ad8c7641b43781",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c030d4201e315f62f11ea9757017c38239fa6a17",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2459d95096a59559553bc4bd8c74cebf8a75d804",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "bfe1d03d683d67cdb9a984c02c6b1eb75ffe7689",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e90c0c5cd7740a948fa49172e921bc88573ed699",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "72654bf73c9eefec06001ab2d1181fbfb127922c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "552ee9e3c1679fec9ecb959c7c12ed7bd91827b0",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c7eef98ba68fc23df9a0256a0a93ac405fe3b948",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "36ef0b71c6c624bef8525704229a7791b51788d5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f4d2b0ddf51ea1bd8a8c0151ee7741ae1239eb53",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "21e39347f227516aa353ee84367a0d46d18420ab",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e8db541f0c343d5f5f0773f7cec687a83cee3698",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "75c4dd3436cbc8b86a04e9681ad83a2f2a22334e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "18b811aac4313e1ac67dab4048695bd0cf9e40ca",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "321d16deff543b2f07a9c1487a1dfccd8d25286e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b39848b75012efe6576aad7f1a013510e3baa9f0",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "942ec8e0cc011ec9fcfff7ba9f5c656bb54d51d1",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "328c539afc77da347ec52be1e112a6a7c371143b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9a6aa43c8699ccde7bef485206928acb35378bdb",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2a4d846e6e1cf3e5e8576e0be9a9698c97b9f606",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "322ba39e68893745f0d40fb5ccc642756507898a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "603319f79ca7db6a3b9f40e5270aa8f137d0fb25",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e7e5cfe44f662c5a1af4c550e76b7756ee7f5e60",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7791b348c979453bb071bcb5189dcd400b5521b8",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0394e1772e78d9b726bd015c9d02b146a1abaee0",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "dc2afc5d3bedefa0fa1dfe611adfaedd67418a51",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2c7b9af7d5ba35afe9cf84eae3b273a6df0612b1",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5ac4553c796712c8f5941c6b35d031a4bbce64ac",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b8ccc2f6451343c1da00b288ed4161d055e5daef",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "249db48c63a9ddf5bd736a8c020fa5ebb267c50d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2a766be2c417c71b42b49ed2898ad3e8ed0d0113",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ccbbb8353fcc168563c567580cb773d5fe442704",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a6a0346b4aae937f8e19e928d7c45f85cde09ba2",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3bf7356376ff176d17960814fad62f13f66c3a4d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ab83dcd6fee848cb0a82a9da328e114cc9e3568b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ad63705b30504ba385cde76c530a524843adf0fc",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9d6a4cf2d814d1efda5caf855b3a89d8a997c6e0",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e208f4b2d442bc14aaba3dad86e8122b83a0873c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3226f4ef7eab4e27b10b5a5266de15f78849c3db",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "61f162de6f441f65297cf8b57c0e8c36474be7d6",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3a098e8be4944216f811211c9e3240fd6f67a4ae",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ecc489ce5dc069a8fe8d047d9297ff11827010e6",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7347e25381f170a28d6ab081e08ddf4b3354b8fe",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b0c09361fe985fe57858f19485b43e1deeec8d89",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7baac0fbb5b8ff9d42e97e2dd65936318ae7f5c7",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ef85cd4099dc645bcd853ceb60e44ff93b4840f0",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b9bfc07c43140ef0aa58340430ab3c4909337f21",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5e8537c3363a8fe3076295e5c8f3ae229991314f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "833127d6ed09618babd1cce10053d5f183740dab",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "414a51fdc1856083bb16851f09a4c61a48796132",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2b398cf179330ef545f2cae0daecd86a4aa3ac89",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4898556ee5455231645fc9c4c2e9cc7014dec1c0",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e813aff84591724b237c1943e5d20b27d8d50bf4",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d916ca2c1ceaabb5fc002630171255dfcdf8d882",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9c80782e3df8f025726ef6d7ccbba4817482082d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "771c16b521e34e721e31bb2caf9f86699ea10dff",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "97c2aeb6ca5186524e8576febfe44b1a03a1b97e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6b0d470a79b4c4e10d9890183d6c913608a2a225",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9af218d3c060da103868cdc69d7b39fc8d50dcbc",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9d26540d9259f8e05d32e9f300f171f2530a17cd",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8288df87e69d9332caa7202901f321c88f06de86",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3812985c2d4219815c0521dc193fdf811afba0dc",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a439bf96f922fb065aed4fa8eb9f0fc43223482b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c50a87e1d4a92232b5ec13997549822b51a3c02e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "1430ccde8d7a7035138d45eb433941c5fdc50baf",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b31bf3133c641679741aca01f1ea61b4959d96bc",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "335acc5770f7ad6bd6fdf4caa305373a79912d70",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9bc2c62c6a82dbce260d4cc0277f1d0276063468",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4a1e3acdc09de0545cbb6bfd4554604e64ca1a35",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ce9032a4123e262341a3e746e6eb2b8476eae1ae",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "bcaa54576074a1f786f7ce88710502dd03ddc656",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2fba6f606b08140d0ef75b610c028f1b7872e06a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d6cf7c46c20973f4e2e4ef41c064a40fb616994d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e8f6b003aff981e6b96d069153b8cd79cc1b9ec2",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a4a0bccfaebcecce429acc78e7aab0b68cccaa45",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e3e41dcd27822ac3fd4692291d1bbea4f8a294dc",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "1238bdfad85e63becc53e21bb6dca506456264d2",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d28bf07d2da8dbddb561630ca69c0cee2d3f5b52",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3c10c361a788add7d7f27fb6102148d6106f2544",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "bda7d995ff7cb3079285c169b23064309ecda8b1",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "eaf11a8f0ce04b61b4f58cc071a29f82e4f23e5a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f0c6fe85ce3121c12b616d610f59aa6c6fdda169",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "96cfef55661fe2f29b89aa8b6813f94d06a62500",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "bf47ec97e0b7f5701042fac067b73b421a9177b7",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "62bdc83e46fbd65d34a1715c1bcc53fa5d1919fa",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "abe9ce706646b6bf43fa98cedccd3dd5ca6c6ab7",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "044572a8550a87cd04c5ce31bd9f737a0e8cd3c3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7d87cde06253913e9ef23c671e9ce092bc35dfe3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3e79dfec8461fb0157f068cff7ba24be8cdfa9d8",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "1f638fbad382881c5a7f0be7a29e29330e87e71f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e3219382f3fbc9c20bc851f56d4e56a0f73c7c52",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d5cc3ddf3068c32e3b6048d2312f5833478842cb",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0f9b051ce95c88f53cb3dd91d86479100ba6f698",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8d31e91f42390eb1cdc115c4a8e6cd7e70347805",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "097ff2d69b52cddb249ea27c89bea7059f6a79df",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "bfbd2d115aec576545b0673e876a652806b41986",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "85ce0227e427e5f7b5c84cfe59293e1b649b925a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "062ecbedd7ee9f29a5dae374eeba419f8ab23c0d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "410b00ab4af7131f7409d7cd1c2bcc845e103732",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0fe596a123d03e3a2ada9d34a79685bc9d4be9de",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "1bd62dde0e065a1527553e3abf36b305b7e4004c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e0171ea39c24624297159fb3bbe4a2ade0d18f73",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7a9f4aee4ffd97f9faffc9b417377a050f240a8f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "1be286e774761ab67dd97f2ad96fc9d7b3d7b738",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "02dbe25e35d5ffc644f049cf602f88c1b137ea29",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e305f0625be79753dd34d20a5bfbecf9f01e5b41",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4593c3651516a6ff5c30e43198285d6435e2ff49",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "1c5d3ff4ff78551edd4bab9824642d6918d3565d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f18d76af62d981bee21778af8872c736418f626e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "efc8f7d83c598fd61600d194ebb0aab7e5274ad4",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e0ae0cd8a36520907304d52f4a19668a3218d5ea",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c7a9b93246c6cccd4bfd210213141befc170990b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "413ab671864e399366e2b5e32bf464d1c0994ac0",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "72dfbf02b62df5d313ebfd9343c22b034214ee49",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0b7ac89771461dfd610a56a1463532eeac96c892",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8bffed2c95cefb062d1593f7c59eae62da012c52",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d7621a0ece3f6d326f018a9ccc0e27213af1e222",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f6417e88b9973e932b8bad66fa6894d42c43c663",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "aa972ced3c001e0d9d8de6cd5013a1cb3b989551",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e72aae63be4d5ceb2ad05822e85894e868c7b2d6",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "41759e6c92d1d2578db0e878ead822a7f1abef99",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d2d26f9ef9f498063484a001d64617e993bce751",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e250dcc0ae0e3b32ce9d1cad0e9f580dbd241b15",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "196777ccc2e698e9dba153d48a08ef4b68b144a1",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3f44b7c22e355e5fde239fd16b5105cf5804b70b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9839e2a67373a5cfd700182a15f949822ce3df99",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "df9ce91231d26655ea1fc11ece5132b389fdf860",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4c0e41cebc0804c563dffe98a58c06b1c39098e1",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a5e0f4ad01703eb4a724e71dfcf99306819c6bf3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4a3609cd854e9ef5bdda5b43e188a3309a93aef9",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "846a9a1bb85e9832b696970c96e6089d43c3ee6b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c62a8f9d11c85c18a9df1f28d23fe0396f7766b9",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e0ab6bd54ab632569782a577b7e9a1d419e08845",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "384061c05720287aa93a756a742aab2572b75e79",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "411cfb96db6126a06df9e8093106e690b7e35dfc",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0d997e5e5952546e0bdeab3080ef7c00d8caffc1",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "254ee8ff595c6c52580128aec9355394f96382d5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d55f5e152c288a2037d65d15a7169d76aa9be2be",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "595643cba16a2b4d7be68d46ee8f79c4e380cbf7",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5432cd09da963bb72796729dafa2bf5954d57772",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "67dbda933bb2e1286a28fd832ea4316d34906005",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c8436998ae107996c1c48c9b7efcbb98b8b92930",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "269d0ff7d3025cf3370023e353a373916dd67433",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4b1ab225fef8e8f66cb95d6605bdd4fd568929ed",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b597c3ab93ef1c6a37a9c1fa3584d86d20723784",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "eaa7cca922b916ab7ad0fac6e109330197f8c75f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "54fc3f53807f7cfa535100d826e19e66aa5cad8e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6583fcce6d32627c55faf9e1df35cc353b8c8841",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3e5cf4a94dd1f71e42a45c812f26a53c7b89e945",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0beb39d78f6bdccb803b8c6eb58af02b2cc80429",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "bbea1cec3ed6ffae631b4c0d975639a098687ab4",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d3c726fce8d5dd9632960939858af134895ff3ea",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e04c2c291395339b8eb488a5e045500d366553b6",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ca1ef06d87424630f80ade31afcd8a1108dd5fed",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6527d6d1d5081d38168b9ea14bd7d715c5e2af8d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a318a34d1f5f8146fb441c092c73b6170719e88a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "26700949812e39f6ddedc63c53f8cb5562fd7f15",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e83caaf341af5368cf39a461bb5a15fe6108a21b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e1c30a236a6b8244fc6e78e759c886617e9a05fb",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5e8168a25494b04ef0aeaf6421a033d7192f5625",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b71dcf24f252da5858bd95bfd4bd56402e3a458c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "26894395cb480790488e0db283f8a503bd093909",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "027d196fd3f6f990977a4e86c1c07464506cabc3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7f9cbca12af13d4b8b5709edba2bae4d4a808102",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a7a43da6de9bd44e57e057319127c64b2fca56a0",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "41653853c66143796e0bac503064e24cc0353a87",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "48b2abca0f3b7873519f3566eb46a49cb4d15db7",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c7a3c960902abffcbd3e9caf084f0dc5fae9f7f0",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ba11ddab1558f408905d0f730096e9963cb58f4c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "03a3d6f9affa0e70858725bccb11756f975784fb",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b84f64023c4a8e61d1274fc8a3e9c26acfb15c5b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b8c37b32256113bd64f35f0b97e673d74ef61db2",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "50eebb8a0b96565641bb56a0f11e326b3f5cc50b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "189368ed485f5577528824dd88856991a51b6918",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "15651fc95e058d1b3cc165a70c367d1dc2bad8b7",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5e852265ea7197efe809a8c37ec6a0c34811d3ba",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "21b369895cc6826b862605796bc35704bd142841",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d145b8b6463a7b0d1821d7ebdd561524f9d80914",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e5ae42e5703b8b193e5c2a61458e28a931c5774e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "528a1c8a997a0831e83b525173c6a70b08ee681a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c04a17c86078431d0ae33a3045520e3ec9d9787d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8336f7ece1dc65b1dc17edff5dab9d9ad7aa9666",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c9f2c49241397fb3967bd281225f7cce353c32fc",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "37ce7f72478fcd3dd15637efe25b422f9631bacc",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e9fd99ffa53e95ddbb1d136ddd6fabbfd2961f7f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "29129abeecd58d387fd8f8986fba052a4868fc7c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "94d15f4be1f4e25e5d6170ad32b5251ac14a4736",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "92b83f5a6ca234b2ac7e3323e3bd2e0b58c758f0",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ad42bb36c96e7dda17cc04900e3dedfd7b8ea9e7",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3ab93ca43aa2dbcac3c7b50c201bd3e297dc493b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d9338a4cf008b445ea3efbe2523288d07162ec71",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4f53fa933447865d7afb22c5d7d472d87fc2a4ae",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d559a7e877777096b3a2ad656606a5a2a88a2df9",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "152fa0954bb74e8e1e627751ccab55ada4f5b375",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a53a4fd10072471aa7c8170499a10792e61e0d95",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "cae491a6204b8167481fcc46e7f7eed061a44a82",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7a398e0f373fcbe4e9fe5e068c3e720530f0a849",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "23de4d0133f04fd9d33b54a7c304f92b6802049e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ecc2adb31a1bcd61d073d87de8be18b2a91f5e6d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b2cd78d549ad72cc1a1441562ea1bc5181116040",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "67bec06dbdc910856fdc33d149aece97c26a59b1",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e2d1073bf5095af38fc6ed194d92fc82de225fc9",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "420824c13381c4014d102c8e51e231c694ddacf2",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0a74e1e0fb45dae8785f204f17d05bd86d0a2d2b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ef0e1a1a011298ee77f1112ec9709ef03c5035ab",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e276aa5e40cf51e36b581750c135c9c3875cac84",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "bc3fffb067c93ebece18a80f455ea4662a240e0b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "1296ce9238a315b4323db351483dc66ec1a1afe3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "fcd0a65f64984fc4b469760f44e07e1bdf8d1644",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "be33922c03bd229b885fb9d664b55ce308f6ffaf",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "27cb9e271715b00ff5784164a9fb02de00e57203",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "33d495840c896b693b7f37b5ec786ac1acacd3b4",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "832512edcd7591c238c35b5a479e15ac0709e4cb",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4c992a58743b564fba831bb7349e3bc07fca4b8e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5acae5e10ee5d9d7d98b208e29a930f1e66f40ae",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "64f898c4322ec641379c9916007303acfe817f84",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d7e12314832f1ef58f87d2f5106ac6b49c5a0be9",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "17cfe99d72121fad1ead76e8bf80729c5c7f7e6b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "fa0059c55a31813634188eb85e53b68e33644489",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "749934f3cd13c413e293815e7f64848a688a6e60",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f01f61b96dce5b402939fd81f9247313b4b8da0c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5259f26ecee6c268f0ddc86ef45104fe967f267a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0376544cf47600eb1a23f0dc098051fbc75ec00c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "191badb80281498611ffcbc0e79b9b020a3d5096",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f793202c4b87ec258326513568dd62353850f1d0",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7e10babe3eaad11c90cfed41553fc0c1ff90c16a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4cac7c8980791856c3fb7d3377d249cf8dd44b86",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4c1463cba1bc268c2ccf2a506d27e6ee84030316",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b30b9e7a3365f50aa6f4481705937c462914764d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2875665a5bace62f4e7dfb01060cd50a08637b86",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e62b98c7c6ff0c38f142b72d3b3fed7f3d717710",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "54eefb8d780237a7108c2a0c91b12282686426ad",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "58daaf08a2637e0976cc124571200ce198b3143d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "683bc7135b6a69a8d524393f91ada8310a8f9f88",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "32067dec274ba93aa0775fcfe990eef3b87b534c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "482adcfa1857033f2a76b07b429a266b0231f433",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "62ad11dcf765d6735ef652f4252d19e4ded7afae",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5e6ffb8d444c0ed3fb6d0180718a9a7c131f2ce6",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "315d842148d57590a58fafecf6e5ea378e9e0d74",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4c9b159c3e03dc0965f5d0eac1884a04856c258a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "05f3fced7811cb5c6b3cb07361a4c4563bec5632",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7f2afa8df4167435f4e92c715d65519d01bda2f8",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "693ba378fc15ef8774cddd6ac11b8177a1d3e4f5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "60365c1b05181960e141b71ca035164137f2cf64",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f7ec67996b66444f9de2284d1ddfaa66297ba51e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2564afeb1fdc4792603f7ddc1a7b3b347d05b54e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "080cd772f235a8f490928ce512aa62089af0f203",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "cfa305bc381a8bc4d428ce88eb1a3ff6668d7953",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e747a43c3fbb5189175ddce143c1a587f1e8a26c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7ff749b8f26a3f3c90d3b480a35434fb0352b278",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "00b1c43740a78540c64c36731b4de64b3402d181",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "146c5285030aab67ac172b659e8b748335cd2275",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a3957200a86a4582c6622738caacd153f0ad7882",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4590538073b1b9cb8d4d471e082cfcfc3e1940ff",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5662cbbffa89fb8d363ccbee03fe85980e17ba15",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "bdc98484730275bebcc4f22d6e3ffd9f97616920",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4707d9abe1202c7266aa8d58711fd22907863cbd",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0f5758b2d0f75c8234443e72c43d2fd38fe1894d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4fdc75209ba54f60b2c5798cff731a11053fbcfd",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "069f00e0e849775a93c08a74e48fc10b34566d02",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "710a001a1b41d465db7a300bfcc03040fcef03b3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "82ee5b448983f5074e513c053258c6ed23c8701b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "fe306bf207ab4fd290893651a9c92caae611aff3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7fcfcf12648d322728da549a56994607baf989ae",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "74b444929bfdbdd0bcdf45a80dec7b507f805428",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4f7013b1465959d6c17e21c969dcb90b5a0d6a25",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "83cb47e04c057627ac839a16e03972ed7481ca02",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "60d9ef0ad24d91735210830b2481e884ec45c9e7",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "630562a0b16ae73c8cb8d85da723bca6b28de6db",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "42abe4f510cafa843d46805662a5b564e13f6aea",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6a80468a68de9bd035d5cc21d2ee664e1956c884",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a34ae84b27d7060fcbd41dd744d047d316ce449e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "005c7e0fd6377162a1bd7cc425cb35a23cdf9d52",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3414ca077b774e98db41d32b69128cd8a7ed12b2",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "510a61709411918fc7d4126b46176954189bb85f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7c0a16b8385c95c3e319de1aca9b7f20c7e61c46",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6501dd51fc3a910a4cdc3e5abc73f49ed47240bc",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d2cd7b84dccb647c9637074986edc0baec70e50d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5009caa85de9f61c3d8144713c5fecd0331eee61",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "fbaf3c399e2f34e57008d8625c76f0543a3cadf4",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ad27ed0d9430ea9b944ad6e70138a355aebe10e0",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3bb62d24aa90230d17da5ab612042799f5c2d7c9",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5b9b847fa099d2476ba497ad971ac36495add960",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "77e7fa0274b85742937026b95a839590368d2879",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4210b05960b6657b4f0ca98f97c49649e1de7139",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d84eef25161d31bcc69829810e7c00e730f45935",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "97165abbb62a558fe498c33999c34a73a35b6bd8",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2cfab13bb3cb9474745f1b34afeaed103def2999",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f426a75e9c8dc48fdc4901224313edbb9c4739a1",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4eec345521b9b7ec5a27e4f495a2e9a5b7d09efc",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "fb28910e926f1c442b90e650c3bd9e6ecfb80a79",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7c0f04e97f6b324ce2447afc4f05665bf83762a8",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "884c3fcbc57cc5d8afff87dccd4caf87ce478aed",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b8dec14716b112a07ffba2df39cee9da1ee08725",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0d577247ca54ca9f180d2902c5ce6cf182b67904",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "06d463b1a119c5d8bc4347fa9e280f4096551080",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "1de668f8390edef0ee135b1c02c490a40e1a165e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "082fb97eb5d1c29b12e41115e45be357553afc8e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "175a67d10cabb1672d4c966182432dec62e8d288",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3e997c3b63fd10ec27b1bc0061e14881da5e4dab",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "010091fc66a92292525c18713117a673bee14831",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b723741bfd071077c50d998131af1417c4371c26",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "cc7ec43e22f65fdea2bec9be04832f194c9bc6b8",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "070c430b72098481e544052d1dc116a624dbcce8",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a076f6f6f9848090776080b876fa0c1f2ca660a5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5c5e2ea98e792d8a09e5ba173818e02ba570aabc",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "30e914cf37160bfd0aa4daf97feadd8e57435a33",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "71c2fc608a443404d0872b12ea08269a84f02d41",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c3a67e5ad90ff19d7557eb627678a3d0a09446e5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c533aeff68af47a99f3f61d091451a4cff700e19",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c81303a746f4706b3c039635af37a81d6cfcc962",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4405ed978425b779a2e2fdd238af2e1a95bfd8b8",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6e1e0bcf4fb4a0466e0cedb4ac00a0d4bbfed8e1",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8dd83708d454f9dc7caebf2769b3f5c513ba242c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e0966a1ec55a6ca45baf5d3f53ad6b0e7a049452",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "706131388a81646d12a53ce31cf4c4557f93c017",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "06711d38a9a5913a3816c6eb8a5dc47b4b612e24",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7be037b56f722005ea568b5b19766538434bc1c0",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "1c43a60e65da433cf1d0f2e5088ed30f9f8d8bca",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9bae616d4f9948c6bb2c8d7b75a2c53d456a1646",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "86a642787c9bac4d608d053b9c7b3be1128368d9",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c069e284fa1afb7620b8a4b0d35503624c659432",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e4b9acafd627dc6771e4a49b028cef68b6ff2ab1",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ffe0bd8a8e6683e9129f7b9e1707bf0a3b869888",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6bb32463a05dac03e3bb4d15018e6bd55554edc5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0a576b82eb1fb2649e3c57e461a052131ad57d97",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "07b6a7cd3b6bef66d4fdff2b0199b823324db59a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0855eb7eb478632ad8f1192f64e81ded7694a343",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5b2098924b36e784bfb6a6efd798efc225030458",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f03f61883f32e110818e6592b345329fd90a9426",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7699e3d28d1596f29bb00483451cab3e392e992b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f91e32bb70d22f1a344b769403e5148d795d0205",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4498b9928857ac010b77274da8d060b54f95d912",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b0e6e0593931035b86e07bb4d88ce967cd18937e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "08c097bec5a8e078afa47810edbe0dccd9de8479",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ffaf716f2d4c65d90c5a6e7def47751a263b28d9",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "fe0c6c82566cdade205b62b0c223886bf799f716",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "35750393891c40f0ceb925a852162ec764bcae6c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9e3de75e27aef8feab9abcda090f27a36e2add55",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2c336d872d9fa863840ea753cfb92a978d6339e2",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4128159f67cdfe1e28fa375f36e120243aeb3919",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "50baf4cfb47fbdd29c311de756bbc503f0508dd5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "79d6b2b0ff5777faef685639ef2ef9f1fc83f532",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "fe114b90dff01f10d91055577e58c4325dd45a6e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b7897db6425377d3f0a6e6a9df169f65737b580b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9b0a633bca2f657e250ddd602468d1fccdc5c027",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "1579ab1ac95731630af58fc303a07c9bf28541d6",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6e79ea1e08f7ba0414934c7c65a3dad381a20562",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b6c2905a5e28233f824147242e40a3c7df52f7da",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9d9ab81eead6ad75ef182de58f0c0c421fc52237",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c979ba8577fa3d29bd7ebbcf5d8f083c4033f4e2",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ecee999e3be6ea7ffec8f3c7bce267efe9395d4d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d2a8de16fcafeb94b381c38dbe4110b83a16872f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "710684f733c19928f4e5132b25f0c858ea9dfa3f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "923b619a011733c9f0669556ab96322335568951",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b790897340eefc626c107c1578f26ee49a3de412",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "16c626006f3d29f65f4fb1b648e09531106405f5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9199bac9f99f1d5ec8d8f4c396b030c2ae08cd79",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "711a4ed4230c0ba1627670e7b89db88472575e1f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e10bd69255549a854d1ef178ab9df4dbd99dd2ac",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "82441729dd69fc5d431cabc8b1ffa25e924b8bbe",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c880210c65d0289d96ca6472ad333fc8068f4e03",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3eb36b556128ddcc237489366996b8c237ecdcb8",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "eb7a72136b48a827aae62296b1ba65d63ad0ead5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ebe57473f9a64f540cd4f0dd977313f21de42f6f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c56c4366f80f95a095090e30c511ed0ad4acf2a5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0d22770de46e3aad404dff8901264067cdfdc714",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0820a9e0e2442730395da77ece1c6a550a86383d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "48c7b54ccf006935df64853f5c6443b8430b3c75",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8e8de3360c93cca2b6e2877f96423cdf0b48e747",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a78127b2356b9f6c2efab7e36cee442be5be90f4",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f5c61dab3264c77e5ec12d7b1ddb95bd2239b51f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e32e2198384ed0c887c8d96f30c791dc0cfd91dc",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c6d00c7462eaef15703f1b4ac635ac278263a6fe",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "68bdc4317ef2c5e33ad23bbc78f0b0690350e459",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "57c9811a1695761d3e0f224b7e89e8174d927e43",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e73d18ddd3554dcaf36063ce7bc26f418155cff2",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d84d4df196746d00c85657672b64e20be3c0d2e8",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ed8c6144f8fd716203a933fab8b43a9cb79e71e2",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "dc0d13f9456637e26b4e977bc187453d584d87e8",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "77c48330740108e658cb3fcc94c4d8e04324e547",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "53fa2dcc0773985912ce5ced3c1dea1e5b2d0a45",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a4769d950af7074c060d7f962fada88352620dbe",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "588288be89c3d8aeca79f6aa41d09f3efe5a0918",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a77d713671e7a53a3c7ebed1d3f5b843b224a6da",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f0e4e90568d40992c78e0b2e5e2367d33b1d05e1",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "dc1eadb8806821000412fa77963e86a60f78267b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8e33d6c26000e31ee22e1f32e73324582f669ebc",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "23c2acf93231095ae5f7eb58c08748b62c83d9b5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "fb165e6ec812d4d03ea89de09ca1b758a7cdab6c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2efa6cee3abd81f2816cff9631606647ed5998fb",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "fab6363adf4cf07db4004017c8e1dc5968850475",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a2a7aeae62aa0eb9f3225ce0befde7a7bedfbad2",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c8fe3e085e7afb5ee7de69561f0578a8ca2f046c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "1638ebb5ea88f277fe065babd90551fbf74439df",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "121b98ddc5a9db44040260bf5a6ec7bb106ad3de",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9e5e0462b1957c372bd7351b7f5e6c68d4a41b5d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "01f774f28153d220f59bff026ade4982d20ace2d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c3577650285efd083a22a86670e33137d0fc6cdf",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "1b896e1a8456c2320f3dba8eef43beffd15d2d91",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "828c61c5f40d39697cd4a72b5ce0ea279a65870f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a2589652eea0a321df6a4b9d60c43dc7a828112c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5f19b060591af1de2b09487ff464bea8bf0b498e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "cc6dce5eac8cf960f68175ffc13c99ea8217e00a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d2d05c3e5952bf56741c2cb8434292867c4a1096",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c41fc158d0f29ceea675ce7c9f8f277ddc51d87e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a6cc5ca284ab09563228129dd700fb33dcd12d51",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "124ed638b1472e67fd0efc21a5b2b77bedb78d35",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b85435944b6845dded6e512db2b25457e21aa830",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "850ca3cff4da4fc5f05072c27257b830fec5004c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "111b2f49cd1685217319ed90ec00ed547848cc41",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6f5327bf7fc0a62f7e1d737571780e20fcbfe4a2",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c0781539c1b155ed7b7a53303ec46f1200015e5c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a4994fdf861d381ea9c6496935a09646dfbf0116",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "bd0f7ef963c6a9537e23713129febe2d0f2a6fd9",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6d91cdfad4aeb24a82579ffb1e136e7c565a47b7",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "69c305b834818ba84b14a1b7f9636a6f80a41588",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "df362fa186cd0ed08737391f430e7068aff04f34",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6816e60f93ad02388b4fbcf4b9a0c70a7f640ef6",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9babffef5210c3d1621fb99c9b516cdd920d8821",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "31d32f47d50ffcf48f5e785212cc2140e7554681",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a76428f0e1e3d0fef6a596eb953a1a79facd5006",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "fa3db4e5b698ce3787ec3b0d7e60ee8410aec240",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "dd4db64fdcd29966924effefa747d50a1a256700",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f64893200b21f504c0bc291789de093728fae4ab",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "fdba5e0eb725230fc1cb55b653bb88f597015728",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6e9b037d4f4bcdfc955ffec71dea0f195d81c2a8",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "03f675f14810ae9341632a9b9d077afd74887473",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "98cffd10bbdb249a962e77ec6fbc993e56279b8e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f563913d15ec74a44ca86c8bd528b3573a4b031a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a39e6deea243dcd9a09df8f67af724003dec1d02",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3a7cc7ea565e8ff1a5dc6b106f7828e0922916c7",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ea125d9f3a7aaa3876bab84b08a0d7f1fa2e8904",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a581cf389f5d4ce82ff95f3d9d98efbe326cacae",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3c2cec4957178552c5e325e622da270d863815f6",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "fbb36181e2b30571b71d177986f0e75285736866",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "46726e0e5b5a722096a2594c83946ac5c996bd10",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b49babe09e3c2a83fee4d52b11822d500ebc67f1",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "78b172c040f934ad59635b69ff797a09ff039136",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "24673177ca18128f1c5dd137e5968ae4e8359e7f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e7619cc5dec31c6db342d341504635048d60afb1",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "aa24373e12a75bff689a543711391597d0e63e6b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "dc4d37dd6d5d69ea27ffff797d926b9042719643",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "91af47b9ef66965d1df524c555d29af24d9b75c4",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d4151ed11a8a0f2a5a2032d524951efb3d50560e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f84b9a4b6af31a7758f48f947e6a8fde1f126661",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2020c8a8cc19c58eaef2d9de75260e7341099038",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "1f3580f5d53746eaf8eb1d5d0fad00a18971666c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5be068e83656f026c68ebe78bb039b84165564e5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "02802d57b0698cacf72668fa50ca93e77c12b302",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7fb563982d6f44d05a6f3c578a6948e7c7d6f1e5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c6cf5d5fc36c69525dbf3712af42014a3da417e0",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "563afdbf1e35b7d12723d0c88562a8f277ddd353",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b50ab97269c4c52bf45db27d5b54e0d6e0e4154c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6eb2c5801e9029b22e5800a86986bde03d5541b9",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "34ece34c097347fd06b0e4f717d5d102266e25ff",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "acfa07feb6b47e554d14429c3c98a8810ac3be42",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "03dfcb3c4ce15896c12b39f96dbe3de1894dc172",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6fd751939e1759654c174b863637fad12ced9269",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5cac72e7c1173faae8da920eb9461b9ea958f96f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "36f9b467e714eff199edac938c00e017accefa5a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "66a34cf75e174d15451746f1b509993538603df3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c9dfafb695b7d7b3e4f637e0f9af862c6dad8a28",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "98b14a071b3e5b6aa7c694731099f72ae22a3473",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "523d2de7141ff2e6a3416a0e04a647a4283e3d8f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0ad579a6276a75f018d60be364534ad2d142db69",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8f779e177336039e695e4e4c97a8e152ed6ea815",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a77a88d8b2afbfd3bf57546aa03a0c4f56699426",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6de7a277f7c58af8f5d831176951291cd2d87d81",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "17aec14ebba7764fb20cf4745157788dfcfe78ab",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "61b059be57010a44023474ff40242a5c6e32ec75",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9869e9b5db2e54a072f46cebf7044fcfbd8ca166",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "753c54f0c060e098cce00a125f6ce022dfa86815",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6f117bde64f18e2b1920c732dbbf1e8ff16b1a0f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "abe9f8d8be7e75417a19c73e65bdab2c781a213b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "69e23098c6ef347ebdcd4cb0a83c22b2a70f4e72",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e99366aa5977c973a7be3ca96adf51b3bf52801f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "044c065e73bd04f639e7f26a9a8a3166fd3ab821",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "29f8701a42d172cf4b9a2a474000d509f34a2d46",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f36a3b4bb5e9bc58f9bbe4579f8db2dd60ae45a3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "dbab66b91b879c902e700a0ca9bbdd48696cbf5b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2681d58693dcf0c7987307e939e3c551880e93d3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "cef41283f2b5efd606d4a810e021218ee15a9fd9",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2af5295264a8d9fb13f5aa18ed860b67e51703b9",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b4ad6eb2375b93bfafde60fef3df4d1df021141b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "40b2a8672349cad661cf53f07d52d2219585e2fb",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ebbcdcacd48ecb210a165de2d149582c87baca85",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2874dfde27e4390f9b2510629dacff9d2db409d6",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "09e1155948e295b9fed27bf76d57125d75063726",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "940493f37adab4c3e0da3f7e98b04037836a18b5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0ba056f58b54d299fbe991102b5aa416ac3ab845",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f8e718ab54836079fe75ea1d0e60d0154d50448f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "480e5934ffba54a02361bd40a865cfc1ee80383c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0e6318c7415cfc5c814cc01e6bc037fa584adba3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "729385bed515560f2d2319e9c3519958a4114846",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8b58efb07e6613d3a11a9e7b8e04797ffbc82413",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2ce7e30f51cbaec49016bc592df88202e39745ea",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "14bad855be78ba3416a0ff477ca8c6ca688ec9a8",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b0da28f5ba067365251aa0964caf5f3baee6d1bd",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "cc434590d3e8970208bd60c822146b2e2a91382c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "cd30b485062b1920887276cc44552590d703f443",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "23c645641c0dcceff6515a2f00b3d7bc940aba9a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f6ddbe438d7f488314c50d536e2a1b2dd79adf8c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "db12764c2637364addfb835b783533460d49a159",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ee35b2176aa020353549c1877052094f0cbd35ac",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b4bd442ba87dddefa58143a9793b31df3cb7e708",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "35f6ce9cbc8cbba05efe70a3578bc78ef29da594",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5c7076df6a213fb62838a246fa061a34d24858fa",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8fad411325a514d8dbf782c2a15ec169f3e428e6",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "287f348e2e331ebfca808275413585dd99e6865f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6e774f574bc75ade354423dadacfa9dd6aa5ff2b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c4c44266b38bce822072c200343520c58b4b6902",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "eb895229861088c0b25dc0b23693920ccee5d593",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "844ea7709ce2ef022cca280b4376cefb6d579c4b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ff1e35fb0774691aa77ff47b196c5a1e7335240b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "85949e751323c72ed55af0a1ba1f47f3a55a318f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "fdc2c4899f2ba71a661a3b3f239cc17fa7221fb2",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a614a28bc9e2f90bf516577252863b8af1cd2e00",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c4fa8c58b9952951ba2307cc2ec796ad05e822e2",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d7dbac1ad7177bc8065298cc452466b2a39d7a9c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "748e8c1be6a8c44e2a5cda05d05c5668526a7b25",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "86fa1ce37647ccc27cf85365ace50aa593073394",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "126e9769f45f978f42321c4fc465198982df482b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2b4a20cddc3856755e1104775398c5d95d7570d5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "21223692e8066b2bdf2100641fb7befdae453e8e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d6d9116c6bfb31535491912f55a658d4f0291fb5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "471b3f5f896035f264f29cf4f6a136a23a0b40b3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "fe169ad3db467159b48da150c639c4ad7c06c0bf",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "72c9d6bb7aa23546a0bf82c2ce546fd1278bd72b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "174f5a8898511b7275a81a9b7e8f89ad6c7a40f4",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4f693b17f1065f1a688628af3578ee34c55bfbe8",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b61743eb5b604f50aeed13abcdd5164e2d71f706",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3dff33cb9b8bc5d4c8a1f94a964bc4e5c4d7e5ff",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "1fa65b7921fd9a718a70b53c9c2f61efbcbfc279",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "07c66f99ada606e5e832d0b9cad0eab776c98c83",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c4f243262392626c8a9e95ba1e4c355e21ab388a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5b88de9f8724e046c745869b335b82a4af439af3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2f5cdaf1a0d0003a01184ee201ca8e81bd8a9db0",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d4867eb2aba282ebc38d4a25631ea8cd802b2b18",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "452ed338b64e52116e0c0c3e24705ad09cb27584",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ea05ebd20d8ae1fc7e6cdfa64c6a40c204d728fe",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e05d7e823c8b05c18d4245b894eb43db66df21b6",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "85bc4f8916fa5db77b6ac3d78747e98844780d04",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "947bd7daab9ac512bba06f09d27f9dd29b55bef7",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "fbab55fdd499dae4736f099111aecf2bc8e488e3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7472d98289bcb9776339ad253285a6f6dfa939cf",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4601ccfd84bafa293d74ab4d2c9cd953652277c2",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3f9db28ce5abc7163e7b8a718136d1d0b7e54caf",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a02c5c2ce3edae38b70648b177a78cc7a64a7b25",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b7d0d2bdc56d4bc7b5514feb534a5194335445fc",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "16f9fbc19a28d6c22e6a8fe8550ff5801b853d0b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ad935798984a24a6e9e9d2c136ff06a93b761ead",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "196a252b6657068013d76e903b1f90ad33ad5c8e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6fccf353fcbf236c93f8afefdd20be5f7cd3fd5b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "1c5bbe95f612b841bfeec3880e660d1b6ec44fab",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f7e0c4a5c396077c936beedf145c6178167bc0ee",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b366fd1f242f160f86d473cf3c883e8a5d4ac8e5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9075618bf7890a8761107fa96da92dedf73d8a3e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9a34604d54723f44660d71d3e0ecd609fbf7d8a1",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7fedde60b8704c2715526f6da81d6c43c4ca03e3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "bd1c8fedb2c9566a9b161749fb6b49904b8caad8",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "335d72590281875b500f776afd3b43fc24c1e4dc",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "26ea6ca388642f96d4d0dfab28150d6b0f51aa33",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a1e801aadba4ba65ce54b078d6c02b8617a88774",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b4f29d127108be85af3ea0f856c4ef3b52a2a798",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c849a8f76708f8995c311396f3933421b80bdaa7",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a1eb97af3d931594b450321eb277817d186e1f50",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "914bdb53b61b9b65e3260459217bdf6063b9b83b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "309b4a3eddea7cf386d56c7371fc11159f0bb402",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6076010d1b73aa9061b3a2a44f4242b6ab1d2230",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d0985f9e601ba97754bf072ac77e754a6c0a8c92",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a0d444d9eb8ffac43ecabb7476f80cbae998170a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6cac5fe1283d797f62e40b1dd755e40f5b213d7b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "701473043802d2e54638df2c8c112af8d8d4504a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5a8078804ce08c49c2c5e5314fec94cb72415f2a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9ea51393c75b1ec5a47ce6ce4cd66a4169c9da3d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "1116da410809a4572e6134c01b1e8e4be6627647",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a612645c98b33802c70259bc9599e39afc32b385",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "69c78580f2a0862e90f69a79fc73b66b5e2dc75a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e0d56061638d04a592b7fcff2e1435182f4a4ec8",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "759ef5d44b57bc23ac86a4eaf94f7d76d6e79f11",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "bc55a1460c19c127d143736baef3e1881f22418c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0c52cf1c8f6ae6878787541fbc8973e8e71d9a8c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9ecce5d7f857f099bc3038e87c09974bae4b8b77",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c9e3bcf524da7c3618201aa2b7189ba54900e1e1",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ddf2947a0493dad44c4151689d20adc01a1870e0",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "954df1fc6c138b8213b7a8a3c6cb5a7888e51c7b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4dda8ddb4f6ca16d11b908f5597e299bb7fd8d76",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f7245d4546960c783d48d6bba27465a8bb99b04b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b5097567812c1e09e91cc610bd0860c7cd16df4b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4bcde0be98a25e6246b8e56bd0786c75791401ec",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3efcc1ed043bc4f9866a34d9d9206f75a8e0b905",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "25dabab47a6dcdaee4c291b47467b0e63a850357",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9e3d6fd35ac79736f6339cedc5d94fe13d2f3fab",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a3d6e2d839e1c1eeb81a08fdd1d3ad199326aee0",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8fed51d2d0faf08c744611b6feef61f853d43244",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "73feedb2d246bc9e89259e96a35e869e166fe248",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "825c34115bfbd2e97fbd519ce9cb8e303c8a4e08",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3af2f76c6d3f62785d4017c127b0a0657870eb03",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "72d74a4d1548083846adc8f18fa53881b713df8c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "61a54e4487501db5ce5ce3447363560fb0d880d6",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4537345e599d764591ff4ccb2fd8e11efe5cbc67",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5355146c7a871aa70d4f8ed1ad6d82de516f1b96",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8c2d1e975ddb3516e2c42de73d78f3d40556c13b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e0bbd4f474776009648b4f8389deefccbefb39a9",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ce397913a36beaf1077aa2f98cab98f9b2a0a45a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "35bb270f96850e789372c9e68855a9727e64aa9c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "94c4c520a055d7e32dde19bdafac8c6ccfd72d08",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4d31386d2a9c184b349a6f50b45bcdf73e7bb3f7",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "bb4d21dec8fd0ab0ae233332197b90a783218082",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ec468882133c8ed33b3eeee9243b38f152727781",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7afee340172a95bf1d7df4038ce615448f719a0d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "d7041830569503ca674fe0600c0d18f3707779cd",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5aa8b0cccef971441fcda29b86eee652ee6884a3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "cc369c8d7ac793349eecf0fcdfe1ee82f79c6f88",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2dc24e02526e29a3bd385276d7db162f8624fc65",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "76088c6238f58ba05a5c891e3439b288ef0d0bc5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7f5901e8bdc281305ab29a32fd5630c5024b4feb",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "bbb830dff638cb1e80395941db1d0e0b58103eff",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2bce9ea43fada2e40501477af25c94c0f5fa771e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "50755b27a23a8ae8968f1126dbcff5ad91dd0a9f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "05cc368353d72c798b261d9dbfcee05d8c7cdaa5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5949f5e5a36e47dc613b250a9b7f279f306240d0",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a2365d95f8b7a8d20730a44654b2a20215bf9156",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c2d9f070a66e2dd4203a8474ff8d53e4a6e0f406",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0d274c9617ee25f51abfcef572e881b93e8216b7",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3f7443f350516b697e9e409c757c432be4540662",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "00c23392cc9a6a902217d58a5f20360163b61450",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3b1b3f0d79608c32df9acebcac1dd757ea3fef24",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "1857557df701c5c27093dd2762cd60110f06a5f3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "9e422555234952d9d7090d14d86eb25e8114c586",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "48da0df6c57ad2fd51ed91a971b44b415e17de4d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8c1db2821e3a0e87e7ab96498d4be14cb75f49d7",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "87b64a3b0530a433520bd32ca81858207bd64588",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ff664ef8a34de6dac9044875d4059c1493ce6528",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5c7b7486d1cbedbc006d5e9a7dfbcea7678a8311",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a23505906e4fe76706365ff7aa92f386fb6fcf97",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ed9239ee042925d1d37949e7954ae971fe391fc6",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e18f9ca99b848f301b6349869d2512f706dc73f3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "be73ec7ae269c3f503e55211add6b8cf9cb1fe50",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "492dc3b8f8a1b5dbf98b6c30b79b18ec87e7e89e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e3123126b5b07d7a71e2e15f838d98f047597554",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3432fe2379f3d9a808a4f7bf02945f5303633b24",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6e01d187db9e6afa423f40779cf8f2ca7597a3a6",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "69d6017b4de1b0d449b7cf0f7a958546ba1ba897",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3c8d3aa06e74b586b8c83d37c110445b4a7e88ee",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a1368aa02fd7a5882cc0bb916742fcc9d5f0bdb1",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4313c25bb307d1c79f64cdb54104ba86a80edc60",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5dac18f3862ee12ab03f2a94be0f675d7101b40d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "65a762048fdf4ece99ebe105466f37861e89d0b2",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "306ab962e91355e5d5843f787550ce748d732a38",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "15bc535766bc375840b7f70915f68c1aad71b803",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2b1580376f7ad813683a981657e9a88615397568",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "be98c2990d9d557e77424c0ea5d7b4b5a279a463",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5d523b4d7f0f99cb0d231c05f847cda331d0fb4f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "674deee1e61c6ef21041951ad8db0771b4547a75",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "281f46ff26ed61d76d65cdfbd6e79382a804d236",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6595bb6610b4a43060471b4d54d53c1b874fa851",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c221b63f52afd4d2b2c75b45360eb41bb9e55b7b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "02b9415b1d31f0c4a5d8c52ca9821e18dd060d31",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3e3f0fbe27d319893393f34a887b2ab427a038c0",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f4e4771f13fc9bc7921f71c1b9e094d5a4309134",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e1c17e745462a8ac3d93ddef0bdaba3cdfac0a71",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "340c58f3c11c90d1b678bd0ceea8dd4fdc90ff94",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8c3259ba2089f1af607e60296a8de56292ea91b9",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f86e0305115fdf9aaa90b19e3bb8ee58324a1406",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6c7b0e1396e9e6326f80a82515f4de44d4f0ebf9",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "bf7db0c2ecb2104fb087f0eea560a7d36935929c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "1167caf735140964f5dcba441b76d99e7c9ceed1",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "3dfd487bf2a7b4f83b33f5ef9a9ed3e101bfe369",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b73d4499cb85dda67ba432ce156a22a74e78f142",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8f3ad160ce8c452bfbafc4ca09ab263a2e6aa06a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8a4ddb52579070a3744a2bb9a0baf42d5da6b0a5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8cbe31ef59354a9eff47aa82b13fd72650874b89",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "26f53a11450952dc17b2248d6d08d18cb106acf7",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "fbc0ac7c6c17e991e1dd6c3079df84efcbf3c0e7",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "61aad5477d396fcb9dfa27ae660e05fcac0b2dc8",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8590c10521e043f068999d182d616c80cd8b34e2",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "015b9bc7c86d8eba331ebc2dc1aea05325444151",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e3ddec6f5a87984a5d5358734f8ee5e26a6682df",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ca085246f097b19ba44b84768568fc56e8dfbb87",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c11181848af28d91162a4f87647400eacaafcff5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "771a96e26cab64a37d8dbbbcc898a2f0132db1c3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "76315b92e96ff9ed61183d81124fc3acf6998249",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "aaa7f4764b7396fd2d1cb63058fbdf6209e829cb",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b6bd22843bec5f28b5c44af91c4e5fb2b1187f2b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e2619a8330a83f8a4f88a5dc055fa9cc2c606873",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e10a0be31a2495dcc9205a681e8401003e2a5bea",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "801eb60caf59f2af13fcc7edceb00787840716f6",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "56794b99650ef9343e7e7fd5b518391cfeaff032",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "820d85de389914cd414a0dac60ca4e9cca359b02",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7c85a78d59b838852273934706bd394df56c23ee",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8697acfffac7f9d677793ea65ad3d66143b6963d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8fc362ad49300d2aa145c0e0e118851fbcc563b6",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "853d0a7c72fbecb76748ea0ff7f4bf31f6529e6a",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "fee963d618d493bf630fc0afdfbc1eb8d74b5362",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8911c848b1625d911a99ab846c4000985c74758c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "939eb8a8a6f5fb7239432eb0bc42730153d46c92",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "39c4b9c04f2232e71cca1e2f29dbc4e3319c9edf",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a87b0c1be09e0449a2c941ea542ce0f22639fdb1",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "cfd4b63a8bb9244e3c1cdd48fffe2dd429f8e48d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "47646602d304105ec8edac22be3ac8dd9b0bbe38",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7c655949f7bd1bc0896181545204665ff0a8ed87",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e0839ab5642e57853443d7388565c5acd6311ee3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "91856e0e927a07b4e6940cdb48d99261b1dbaa18",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "56d154f53715a3234a7cafd5fca4bbeb15999f6c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "234893c3d0ff9c18fd2b90e5c7ea0b0a9a0b2762",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e0c709a3b29bdd335a9b604fb94580003f54c6af",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "148436898364857155f03278e3eff328403f7226",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e2d1051e95de6628da5758bb91f2511e588d3eb1",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "dd75906e473d7df696bb73ebfea4207992444629",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "43884c872df6d638d67a4584391bd79802dbbaa2",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8fa1312a50ec65a250de8df72794c061654cd9c9",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "21bb13cd6122a926b670945bb11cde8bc0d973a3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7ae507b40fd3493e02438165f1d0c982e6e79914",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2185314c78c943fa3e5369e747c6807bc3b9d960",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "76c6762906b4802dd9e41b647a7a5146a08e180b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "39e6d507642777ab6ac2db0903775fbf094257a9",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8d27b88ec0c3ff374952f56519896f0c932f2967",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a45e938a1c59fb4f1fdc66252bdafac6aa9f2069",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "6c6a0cb898b7b4182ebe6ee9ee41ae5c83206075",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "de86bbe9b92fda06368889a9554cb71fbb03bace",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "4d2c4381dc5019ec721b525dafec3e6197b7e972",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "62e4e5bc62c1716224f60e61813103ec54704459",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "fac2b0477cba4cd01a56c635459a949f81680a84",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a7bfbd4b56d99655062c069e26ab6d476f5f06a0",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2af1f70cdad4fb612bc22634ae183bd11e6e96e6",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c1e75de882bf7e9eb669f2d6b8c23330b7c3313e",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "35776f85ca9b658fb187a988966c259781759ed7",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "dc0107bc2ed79e4c17b8ddbb178fd14357d47147",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "fdd0b8cb52af8256e5691d3065b256a387d17718",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8289fbdb37bb10b52d772327cb124555e1dfb020",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "aa7305fcb283a28841eb1f03959c0c1550c187f5",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b397dd7b6f952bd1d2f34a09127661cee1b3e679",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e0c27e12a33b282eb0036e8c5c95a338a7977c0c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "78983ffcfbf719ee6d190c486074c87779c6663f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "7c346f7ae726fd3213a9974752a3c4739469f79b",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "86614561e4d1dd43a1e508f169c091e7cc935a4c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0c2a837bb14eab720fef8a25409a8e489897b507",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "fc44dd5d2201fae7208660c0bfb5d4847f452c87",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "1dbb683d17f571213a8367d8e1306019063325d3",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "acba0fcdc047d14f0a28a88aec0a9b8b0cf524f8",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "97a5793f050400d38b07d4fbab0539809ce579ff",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c529c6d5821d89bfb3f37e2c6bb0ec9b83635899",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "b9821a460520ea9c7f5bcc6cb35a33c725295f44",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "73b69bc59c61294a6689b695342e7f9d6b48db90",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "f736dfd4dd6089d9323cf7290ca7852c9dd045cd",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e1d53e342f55f7ee51b8f4b04fc03aaa287712dd",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "79d571847ca673a23733377fdfd9a489017c499c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "eeb1023f9630a576bf8ea2d5b0e485f565e90e42",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e2e7fd906abe882be5d9ffa6f8ce0ef9025f7107",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "751a179769ed29c686558cd618a7934754b6691f",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "41d08b5cfd94954f5d663d3a091d0aba5f5e2c87",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "a63515ce5863262afedc1f77d83d43185e86809d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ffe3481808405433362a0377354aec6d553e3f5c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "98eb9203b65eb452bd2a1ff3559ccbca6f97f670",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "33037ded0106608d9485934ba2ad21a1fe31df59",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "8a714f4aeb5c723c6aafb98714bed027cddf8749",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0282ee3550dd4d7c3ea05ad816a16c1bb125005c",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c787721da830d7fc22cc49da4843f60685231b2d",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c5aa64581b100d2e7d6ab7ab4e29734551f3c1ce",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "c4c9689155ae22f1cab7f9f9bb9f23abbd807fac",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "ac3528e555e4d896d275f9213c755ace0f549a15",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "2b7ea9cc6054a9408457fdd01a5a82181144c992",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "32a1fcb5682049aacfbd06c32b630f166c23f643",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "0abe6d6ae36cc5f9cffd9047ed76baf13f2d0ca1",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "5183bd9feb3a288632337de3533d36558248de61",
+        "repo_name": "apache/avro"
+    },
+    {
+        "fix_commit_hash": "e2b3d669da0efd84d73805d0fe11383b049ca3de",
+        "repo_name": "apache/avro"
+    }
+]

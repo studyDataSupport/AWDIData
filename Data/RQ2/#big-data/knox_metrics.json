@@ -1,0 +1,39 @@
+{
+    "cate": "#big-data",
+    "#big-data-cate_aver_bug_rate": 0.5,
+    "#big-data-cate_aver_bug_commit_rate": 0.3333333333333333,
+    "high_bug_rate_error_prone_developer_number": 8,
+    "high_bug_commit_rate_error_prone_developer_number": 9,
+    "high_bug_rate_error_prone_developer": {
+        "#big-data--knox--ZacBlanco": 1.5,
+        "#big-data--knox--apiloqbc": 1.0,
+        "#big-data--knox--nxverma": 1.0,
+        "#big-data--knox--rlevas": 0.6666666666666666,
+        "#big-data--knox--sumitg": 0.5365853658536586,
+        "#big-data--knox--moresandeep": 0.5076142131979695,
+        "#big-data--knox--harshiljhaveri": 0.5,
+        "#big-data--knox--nixonrodrigues": 0.5
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#big-data--knox--apiloqbc": 1.0,
+        "#big-data--knox--nxverma": 1.0,
+        "#big-data--knox--ZacBlanco": 1.0,
+        "#big-data--knox--harshiljhaveri": 0.5,
+        "#big-data--knox--nixonrodrigues": 0.5,
+        "#big-data--knox--rlevas": 0.4444444444444444,
+        "#big-data--knox--": 0.3593220338983051,
+        "#big-data--knox--pzampino": 0.3473684210526316,
+        "#big-data--knox--twmarshall": 0.3333333333333333
+    },
+    "error_prone_developer_num": 6,
+    "error_prone_developer": [
+        "#big-data--knox--ZacBlanco",
+        "#big-data--knox--apiloqbc",
+        "#big-data--knox--nxverma",
+        "#big-data--knox--rlevas",
+        "#big-data--knox--harshiljhaveri",
+        "#big-data--knox--nixonrodrigues"
+    ],
+    "error_prone_developer_team_rate": 0.08571428571428572,
+    "team_developer_num": 70
+}

@@ -1,0 +1,503 @@
+{
+    "developer": {
+        "#library--commons-vfs--jwcarman": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "commons-vfs"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "jwcarman",
+                "createdAt": "2010-07-29T12:58:21Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 24,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "jaxxy-rs/jaxxy",
+                            "isFork": false,
+                            "url": "https://github.com/jaxxy-rs/jaxxy",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 3,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 5
+                        },
+                        {
+                            "nameWithOwner": "jwcarman/homebrew-config",
+                            "isFork": false,
+                            "url": "https://github.com/jwcarman/homebrew-config",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Ruby"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "jwcarman/adventofcode2021",
+                            "isFork": false,
+                            "url": "https://github.com/jwcarman/adventofcode2021",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "jwcarman/kubert-cluster",
+                            "isFork": false,
+                            "url": "https://github.com/jwcarman/kubert-cluster",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "jwcarman/gomicro",
+                            "isFork": false,
+                            "url": "https://github.com/jwcarman/gomicro",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "callibrity/bakeoff-spring-mvc",
+                            "isFork": false,
+                            "url": "https://github.com/callibrity/bakeoff-spring-mvc",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "callibrity/bakeoff-benchmark",
+                            "isFork": false,
+                            "url": "https://github.com/callibrity/bakeoff-benchmark",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Kotlin"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "callibrity/bakeoff-go-gin",
+                            "isFork": false,
+                            "url": "https://github.com/callibrity/bakeoff-go-gin",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 1,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "callibrity/bakeoff-quarkus",
+                            "isFork": false,
+                            "url": "https://github.com/callibrity/bakeoff-quarkus",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "callibrity/bakeoff-micronaut",
+                            "isFork": false,
+                            "url": "https://github.com/callibrity/bakeoff-micronaut",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "callibrity/bakeoff-kotlin-micronaut",
+                            "isFork": false,
+                            "url": "https://github.com/callibrity/bakeoff-kotlin-micronaut",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Kotlin"
+                                    },
+                                    {
+                                        "name": "Gherkin"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "callibrity/bakeoff-node-express",
+                            "isFork": false,
+                            "url": "https://github.com/callibrity/bakeoff-node-express",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "TypeScript"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "callibrity/bakeoff-python-fastapi",
+                            "isFork": false,
+                            "url": "https://github.com/callibrity/bakeoff-python-fastapi",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "PowerShell"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 1,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "callibrity/bakeoff-kotlin-ktor",
+                            "isFork": false,
+                            "url": "https://github.com/callibrity/bakeoff-kotlin-ktor",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Kotlin"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "callibrity/bakeoff-python-django",
+                            "isFork": false,
+                            "url": "https://github.com/callibrity/bakeoff-python-django",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "callibrity/bakeoff-asp-dotnet-core",
+                            "isFork": false,
+                            "url": "https://github.com/callibrity/bakeoff-asp-dotnet-core",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "C#"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 1,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "callibrity/bakeoff-php-laravel",
+                            "isFork": false,
+                            "url": "https://github.com/callibrity/bakeoff-php-laravel",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "PHP"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Blade"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "callibrity/bakeoff-akka-http",
+                            "isFork": false,
+                            "url": "https://github.com/callibrity/bakeoff-akka-http",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "callibrity/bakeoff-rust-actix",
+                            "isFork": false,
+                            "url": "https://github.com/callibrity/bakeoff-rust-actix",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "PLpgSQL"
+                                    },
+                                    {
+                                        "name": "Rust"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "callibrity/dining-gophers",
+                            "isFork": false,
+                            "url": "https://github.com/callibrity/dining-gophers",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "jwcarman/adventofcode2022",
+                            "isFork": false,
+                            "url": "https://github.com/jwcarman/adventofcode2022",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Kotlin"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "jwcarman/aoc-2021-kotlin",
+                            "isFork": false,
+                            "url": "https://github.com/jwcarman/aoc-2021-kotlin",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Kotlin"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "jwcarman/spring-native-demo",
+                            "isFork": false,
+                            "url": "https://github.com/jwcarman/spring-native-demo",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "jwcarman/hello-fluxcd",
+                            "isFork": false,
+                            "url": "https://github.com/jwcarman/hello-fluxcd",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 0,
+    "deveper_mul_apache_item_error": {
+        "#library--commons-vfs--jwcarman": [
+            "commons-vfs"
+        ]
+    }
+}

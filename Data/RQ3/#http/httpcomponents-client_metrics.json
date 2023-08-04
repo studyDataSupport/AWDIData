@@ -1,0 +1,28 @@
+{
+    "all_file_num": 3788,
+    "error_developer_file_rate": {
+        "#http--httpcomponents-client--xiaohu-zhang": 0.00026399155227032733,
+        "#http--httpcomponents-client--smashtakov": 0.00026399155227032733,
+        "#http--httpcomponents-client--jeromedemangel": 0.0007919746568109821,
+        "#http--httpcomponents-client--serkanturgut": 0.0010559662090813093,
+        "#http--httpcomponents-client--sermojohn": 0.002375923970432946,
+        "#http--httpcomponents-client--artem-smotrakov": 0.0026399155227032735,
+        "#http--httpcomponents-client--jsedding": 0.00395987328405491,
+        "#http--httpcomponents-client--fxbonnet": 0.013727560718057022,
+        "#http--httpcomponents-client--rschmitt": 0.028511087645195353,
+        "#http--httpcomponents-client--michael-o": 0.05464625131995776,
+        "#http--httpcomponents-client--": 0.15971488912354806,
+        "#http--httpcomponents-client--sebbASF": 0.19297782470960928,
+        "#http--httpcomponents-client--ok2c": 0.9456177402323126
+    },
+    "daily_error_prone_developer": [
+        "#http--httpcomponents-client--jsedding",
+        "#http--httpcomponents-client--fxbonnet",
+        "#http--httpcomponents-client--rschmitt",
+        "#http--httpcomponents-client--michael-o",
+        "#http--httpcomponents-client--",
+        "#http--httpcomponents-client--sebbASF",
+        "#http--httpcomponents-client--ok2c"
+    ],
+    "number_daily_error_prone_developer": 7
+}

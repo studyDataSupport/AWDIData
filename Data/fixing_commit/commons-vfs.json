@@ -1,0 +1,910 @@
+[
+    {
+        "fix_commit_hash": "c20f88a3512b7ef3316f58599cf19a7b9819f726",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "fffdf96bccd3a19e3e47bb7b76f31ad49d721ea6",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "d97d0f08ae55ac5beef14c35e7ef0da4634c3cf7",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "2911ed060faee5240fb7bc7dc0855e83aeb63f1d",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "9abc7355ea4de3712fe2e79945ec48c1cd3462d7",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "21013ec42101aa6907431756e1763fb3d6f7ce56",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "6c580b58b634f0aa98e91b438e2f9b3a4344a63a",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "5a0eba8f6fcba07194ccc1ce68c61429e634870c",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "499982eaf2ebd7a32df68fb2f9f90d30d853aad4",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "80a920ed8be5750810ff66db726318c416176c76",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "8b60a892d4ac6428362aa2b307c4a8143987429f",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "6c39b5fd54646096c10343e16faa3541ae912708",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "c7ffb1f8b8ea0ae863b282fe0fb699a71f18622f",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "da04fa6157ed890c96021ba2ce69eed6e296e27c",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "b05da82dfc33bcf590fe5b21bc55023b0c6fb27d",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "4bc7b4431ade64f000b56867b9b4fcf4eaf6be4a",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "1887559eb510abb420ccd96823f21f16eb77c691",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "5339baf932d64959ffed01ea0577109b4490825c",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "60eccbcade62092600d6c1a1ef69a8b5e543dd0e",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "0a7ae04379b344b6def8faa93ffb8de042c6cad9",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "0b96da51e7dcb1ba4fc12a8c7a3e5f53f7c24e86",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "a5795236c5b02198be4f4dca39f3b8e284a40b54",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "c9b82855b79f44c12d8b19b7d37be40015674c11",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "8bbaed2c9c4c8cd8505f29907b54594e75e48e75",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "adfcf0a1488b1154775ec6eaf1e7157a9c78a654",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "5ff704a30cc1d30e6c0ecff165ac997e2fc77546",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "6aa2260d900d47c69d07de7f7b8a67786b0d9dc8",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "36873b4fe07dee2c095e5c74ba3c87a8a20efb68",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "46037404b6460490b756fe156b7df5d42ae7bed8",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "523a7b2b0624d21b3d4ee6938fe190b8ade6c69d",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "d73305ac2e6c199d1f13b3ebf6525872e726435e",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "f8380e7e3832cb64dd3fdcdf78fe38ce7f3d3ab7",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "9e3dd89418cf3e5e4e408864daf366612005bbab",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "d915d2f70bfebe486fb1a635b9826c9becd8da23",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "5c15d776b2ea82c4df72741873bb6833d4813de3",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "08b5de760579f7f27d5757958588029ba439f42c",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "6d9df9be841107e42e7f6e3ee1c044716fd914cf",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "6e1b4ffe37e682e6a3ee8cdfd9d6b37fa2f20449",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "8c1e2a24a53745b7e80547ce8b6aa6b858828281",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "b1030e61013b55cacff82a2354b1c9b3456fd2a7",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "d79524d567f4bbd9e9b8e056451ede70e89abd35",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "2b89f423a4af3ecd4577f86fe2dc1bc8ba33a32c",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "28b30cecddbdd358bb720b6b8749110eae3ad4e6",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "63fc222ab9352097c2bfd57ae79ad9106602ce3c",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "add1a771a73c830378eca440f0e7a249c3638faf",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "0bdbd2f2037fdbf22cba71f8e28fbc8f054cf3e9",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "b5d59c4dd50c8164bc4f5d4a38592b794a383813",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "8e6c7a6210764a07e3b0802b11a9c067dae2b598",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "037517cfdd902db7e2f4f5123aeda606d8c284e2",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "f294a35535bc2a88299fa54297ffc029c6ccba4a",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "0f69e9aef069cc816a6e4f8b012224e264bdb0ce",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "049c7f7e9eb56c973bea3af8c259bb0e6b988a9a",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "e9b2a8ec356148399a01c354d74ddf95fcc36a0f",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "f6c3569add0d1d9398caf4f9fed3788471962c7d",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "8d1787fabe3829c069aead27e910fc4ac91acc90",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "5c93c3c02a52518420d0b00c7d06778564c2daaf",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "58f8acf597da7f3db06bd3ff8cbfc1c639f92afd",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "953aa407df78f0d10da54e29323d404cda3e4f6b",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "a8cd5b889fa79abd3a4faa1de9dc74ebd7278054",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "fda72273a74ab3fe4ebc4cf19aa888ffe9997a27",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "cba96e9c4551104d2fe0c2fe621b0ecc4691a691",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "32d6a01fce33493afa6d413d501aa1afce98b66f",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "db7aff4a7354c8a97b9ce050dcb9736610d43516",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "ee4a0b0f9cc15d0d60bb42cc1bd5d54c238f9f7d",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "af4ee73bc2afdb76d7aedc8f2ceeb3eee9c2813b",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "b1c99ad390657365b6c6b0895fa38b84dd3eede4",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "6692adaffd99f432007490032d33dce25874ef36",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "d9a5529b39ebffc3f59414e7af82178be58c019d",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "c4fff865759159596d7dde6566cf019af2ea64a5",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "f8e21d32210a7fee66867cf6214fa1c3705dac05",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "80310fc6a2734f5b01adc79afb17b6d7510a2132",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "5a2bdb6521208b66635ac9cd431eda12976490af",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "a8f9164b85ab0145725713b6018863d338ff6230",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "8573fa0e8f8e44898eb84a8f0e8fe9c1ef2d540e",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "505c4c0921c651a910c4e56c1729a028df9cce32",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "4e289c2b9c1270d6c09b4c2c3a7bd552556c8635",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "1c1e9c4612b65a32590c219a5113045b4e9ab94a",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "e3176d67ed9f0d9ef9b71897322ea8575b98207d",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "174d017fdd341d623a5e8e9af269f1685d7d4611",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "9be6eac8611bcddcd0a4d94ccd105fe7406883ff",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "4517113e2381f98734a0df8cedef7c113b94d335",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "d93eed30c8fae2f157cf8a2a821fa6a89b6ac6df",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "cf8718655d7b37d56e77cb8f902f332c518e3eb2",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "04244366959d7a8f63c375a909fd0f8b95ef9104",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "653ffe15ad341350015201a1ec3188faffb4b9ef",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "3e1cc8f9b982bce46c6471475bae47c281be41dc",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "cef7edb3028a11c60be8f9dd676587e97fab7e3d",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "e9999fd04a6338058d27421f427304699dc53c29",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "38d899e0f288a24173a6c4c5898bb176102ca9b9",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "3fffb43ecffcd08fea1f28f6106d5c3c8cd97091",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "4cdbee9efeade254ad0a8b03dbca33086525c6f8",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "80844dd103128664b945f09b61f05d636acff8f2",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "d3d180e84143f0e801bf73494b1a71f77d2c25f7",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "eb4e834b6ae3a17756bd2732ced075ad4a0e5ba6",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "4c3b552c6d3e8f08e0cd41577292103a5c549142",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "621d0f57e3fdd279ef1e8e0e9beda859e9d7be74",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "1cf57633c98f5559c203bb48f1d8e2b22dc459ba",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "0c2ef833d7b45bd444ea513ea0c5946eec475085",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "f052896ac6ece2b36c36706604780dbda90b7f41",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "16e434606776d7961f8b67b7d1062e15f23facf0",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "a95559e5276e56649fd6390154750a1106e2f005",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "60a93ed02072dc99395ba261725747c1a2c4fdab",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "805f5ff26a689d3d89c64b13b9034d1292b7d3b0",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "84807b12a9c579c98d296972e9f08802be9ff42f",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "ca6cabdc42c3394d55a2a20d5c6f8b6fd9f7446c",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "15aca89b0c1308137f66f4e1fa479a4673287335",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "f69ebbb0e8323cb635ded0d56bd5ff4b60f631c6",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "b3028cfc9922fb266b2d0da59989b7782532f24d",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "f09035290b1cdcf54f40c331e8c84d925eb454b7",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "e81d716573a9c986081254aae1526883c37ef498",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "0ac6c73dbdb75e156a3e5c06ea443f371749e144",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "563c0c459497a5f07a970068d4e84c835b20a4e0",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "0535fc054080c5d9b8667da41b2dbb3dc88fdd77",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "0729366497d231d045502806847116324e0b5434",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "48e3356c09213b9a0139c206a1b28bb756cac817",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "46a7f8d8b7bc205e7308c2ba561e60acfd0ab95e",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "607627168519405b3727ae869e5f491f65a33163",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "9aea59329362a8100237a0076e1f071237eb76bd",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "9f473e3dd85f448f5c3e76aaa7671cadc70546cb",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "7440d7886c633fd99a994c34f261c2890b3897c0",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "fa2875b53071a837c52a6e6a72bc229176210227",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "bd92d7a90f2ac86632f45e91a43068d6b98cecec",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "d8f85358851e6f59a50112958c91da7ba5c31c30",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "4779067fb3cea6527ea4fb9aef97b8497c516912",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "8862e06dc4d4f47e3d7e9e06e8f0581fc4767c61",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "47bc6d9f42c91c7a32c3e4451f381e47a65ec93d",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "bd2d4a000c4d5b4377e9a28bb225d3f61d45de31",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "ebfa9238effab582f48400c371a4b8c07e8d3bf3",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "b4bf3478b454c4c6ce6d9f859904c0d901beab4e",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "0b2102cfc42afb2629973a3c0f2b9d614f33be7e",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "ff06f383954af8b9b11131a5a876214d065c97f6",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "2b9dd184be2aa29b7876b15436e9967a1683d8e1",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "32ab76c1cf4ff1f762364fe10f08a54e43f0cb42",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "59ad8e35f9c1c5e024fda05d52397318219a6307",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "294f0d5783e4abb5f85b69ccc861f8d1f48414a0",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "4ae3df0472f0a146daaa36b640304ae7a41715b1",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "53726a4c7a75abc6c8ae3b956dd527f8183f03d1",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "5903fb5aad8fcb57baa15ae74af54ce38857719c",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "0ba58c6a39b7fcc04676436235725884fc2dee10",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "05cf5add4877cab893d308461ba6bab3ef033d38",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "78f5525f94033ed7923da204bf6bf6ded471a0fe",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "ac79155c97e1b10cd17d221960312cbf2ce8d511",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "d50ee44790e992023a55d5cf71aa1d64194df8aa",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "b8edfdabbcae176292b3cefad74806007f8c4fee",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "7106b1f9844d21d8235c088819c58e028c52d416",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "4dd15792d35de74499584f776278d10f16c28960",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "c4d3e14584fa170dc3e4e4e8fa13b23344de967a",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "d2cabb3883e5847f39f41ad8cc7ce5adf8c6959d",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "83a0723080b79d6009019db2780b62bc46b4de6f",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "ae1e4c3704cb315c241e4512f101fd101e64069f",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "813dd748cf354deedaf6b5625a766b4db7d2ad13",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "232a7324e926588477875409b6a6bccf46a36ec6",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "17d2e66113f77f8dcf2da598d9cdf29b17974956",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "f5ebaa8b78649c6e0c12a463df9bdfed0575becf",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "03a87b73e88f30f01fe1d578cae1dde039a475d4",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "c96560e1a011d0205498fcde5d4cb7c799e69c23",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "6cb335c15eedeca2bcf71bc79a05589c1a9a03d6",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "131402f29df1f22d98cf6fb532a1941519ab526f",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "7f6db61b22af293f1f40a3d40348967da85f0c91",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "0e681a785066d2bbecaed0deb9366586d156ca49",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "31232d340b3570c74a44fe7f3bf454ee51d2cffb",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "3d93fcbe54eb34a9e17f3098b6542b7d38385213",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "0ddcbf0ea3f2e494908c69b8bd64d4a45e2edd2e",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "5c81e7355dfead2da26406b1c787e8a449bb6beb",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "74b3a33258b529f04ba312b9f42700de75665e1a",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "1f7b7bad555c4bf2b05cd6406c1c60df1eb7b26c",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "ffc6adf7d493def070e26592bf828accbeecef2d",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "38ba51acbdf297a66e07597b45ed4dcd06796bfa",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "b65db51f729ca9c939db11bf229561c3033de683",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "9f6fc7ca5e4fc5e790c14900e478fab3f82db461",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "40e50c9024c4b0072b2a219fc1f15317de49ee26",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "32e6eb5d2963883b52132dad08e4ac0a402c5393",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "b9068577c6c94d1a850231162b4ed505d3bbce40",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "face5e98c6279eee16b522eda97b5f6642524dff",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "30179c868502fada7f7d0c38ed93f94bccf86d22",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "3a8869e65d0ff1880cc9797fc2a130780844defb",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "1066c96350da989e33db703618ca336c52fc7835",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "fe2e82e3b344fde32cd3563b61d169adf11c9441",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "be2fe8578a69b8687d01afdf245891f494cbdcde",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "b9b79d6d1a522c299d2ae12df396b69321490208",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "4b41d3272796fccc69087af720896049217760c7",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "ccfb4128b73fd9e889249c6f1be3bac0c5f672a5",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "dea7943d1f9c9cbc5abd537d135efd5d338d7448",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "464dc61a5153867d2b5105e1cde43d229ad0c1de",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "038ee4d10d4bb8508db6cc905b851b68f08644b0",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "62653b9101f80a2e6832ca5fb6830b7750612313",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "06695f79f0fe08a0b86191582734644e04f7b8af",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "8430c08eb653725f01868fb952cb12600b30f058",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "fe3a4ece1438845504c67584da3a7b36fdb5372f",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "b9938e323d0fbc9bfb3b5a25746a7c741ed19a94",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "89e91c960f095966972aff619a48b75bf473d344",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "8932019570fc1127fafe7cef1a07c370c176e9c5",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "fc4b28286916378bbcfd6143e1f8457446f53295",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "5aaa833394c90835881631e51c8ceef52444b485",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "84c5386d736344633e1020e04e14f963247445a5",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "e19d7a521c184c521aa31ccc2f72de3775541210",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "4360f78a803e60d7857be0c64b94f40867d11c79",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "f75475fadd43083db47912b7556db045297ec1d5",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "c263cabec40901ce653bc1de8e1235adda1b855b",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "e1e03c7b41650f1647c87f3f98a90db2f46d52eb",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "4334624e46a1fd6b51e7226a75e16fb3e6d76cb5",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "101315cfc9996e6a50665b118eb3c40d7c6fabca",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "9c95a92a5a515ddc6abe9e8efa0927d9489961cf",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "77c80c98674870a136f1087cbafb7658c1f1b4ae",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "79f8be9d026dc5b2aa73531f5d10d9a41a76d9a6",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "c830b993cbbfd460138ee3ce846e820a911d6a07",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "3b4ed5110b7c249a1577f77442b86fc5cec4ba79",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "dc614ec5e41590a84377728770a0684f985fb39e",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "b49d62d8196a5f6288ee49fc29eca1804a1f2a6c",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "c435354f3e1e8753abcdc6156e16d0a2c6b179da",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "d57060f6a7a345be121bb2f3b17bcb7a5292d87b",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "3cc47405994e2be519eabc24103ae89bd51dc262",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "0cee98d0e31548ca8d2ec48b4f754815ff10f6f3",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "f5af935d8f87fdc521ec962ce77b4dfc08a1ff37",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "35aee57a2b910d9d75c5d63e21e251558bda6387",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "d6dfa9a3011aa041f56c1afb79b9bf20878df4d5",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "70abf1063461a6eb4af872387f79ac07abb7c6e1",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "9fc99ec59cd3cc24d7ffce8ed562cdbf87c71e2a",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "ade32ac54654a63b461868ea3e020f5228b89a48",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "3a5a1555d825bacbfad87543743a30fc6e80f803",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "8e7187bdd80de6416d713988aae6f1845aaaf36a",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "c1d5da98ca97ad36ce3ffdb249df08f85f9929b9",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "c331b8c33d4b7983b548faf3b556cbb4e30929d0",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "c989b602a0d56ee3356f76f5b74d415dc5b314ba",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "e9f926a4bdc395b999f78dc76abef222849b9523",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "b4f618ceb729b993dfea5bc4163727af3ffd8d28",
+        "repo_name": "apache/commons-vfs"
+    },
+    {
+        "fix_commit_hash": "876d1c92516a46a0c25aacd2c4aabba9f7732cf8",
+        "repo_name": "apache/commons-vfs"
+    }
+]

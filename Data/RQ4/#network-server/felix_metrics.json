@@ -1,0 +1,353 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#network-server--felix--cziegeler": "2005-09-26 00:00:00",
+        "#network-server--felix--karlpauls": "2006-04-18 00:00:00",
+        "#network-server--felix--tjwatson": "2016-02-22 00:00:00",
+        "#network-server--felix--gnodet": "2009-04-27 00:00:00",
+        "#network-server--felix--oliverlietz": "2019-12-08 00:00:00",
+        "#network-server--felix--bosschaert": "2014-01-06 00:00:00",
+        "#network-server--felix--jbonofre": "2018-05-24 00:00:00",
+        "#network-server--felix--": "2005-08-01 00:00:00",
+        "#network-server--felix--ghenzler": "2018-12-18 00:00:00",
+        "#network-server--felix--stefanseifert": "2016-12-27 00:00:00",
+        "#network-server--felix--rotty3000": "2018-03-08 00:00:00",
+        "#network-server--felix--timothyjward": "2019-01-30 00:00:00",
+        "#network-server--felix--dulvac": "2018-05-08 00:00:00",
+        "#network-server--felix--cschneider": "2018-06-25 00:00:00",
+        "#network-server--felix--djencks": "2012-06-05 00:00:00",
+        "#network-server--felix--chetanmeh": "2013-03-06 00:00:00",
+        "#network-server--felix--bimargulies": "2015-10-24 00:00:00",
+        "#network-server--felix--cescoffier": "2007-06-24 00:00:00",
+        "#network-server--felix--srs": "2009-09-14 00:00:00",
+        "#network-server--felix--bobpaulin": "2014-10-24 00:00:00",
+        "#network-server--felix--ffang": "2009-05-14 00:00:00",
+        "#network-server--felix--m4rr5": "2006-03-25 00:00:00",
+        "#network-server--felix--ggezer": "2012-06-05 00:00:00",
+        "#network-server--felix--gertv": "2009-05-02 00:00:00",
+        "#network-server--felix--chirino": "2011-01-27 00:00:00",
+        "#network-server--felix--jgoodyear": "2010-05-20 00:00:00",
+        "#network-server--felix--ccustine": "2009-05-01 00:00:00",
+        "#network-server--felix--akarasulu": "2005-07-26 00:00:00",
+        "#network-server--felix--trustin": "2006-08-10 00:00:00",
+        "#network-server--felix--lsimons": "2005-08-17 00:00:00",
+        "#network-server--felix--royfielding": "2005-07-19 00:00:00"
+    },
+    "commiter_end_time": {
+        "#network-server--felix--cziegeler": "2020-03-04 00:00:00",
+        "#network-server--felix--karlpauls": "2020-02-27 00:00:00",
+        "#network-server--felix--tjwatson": "2020-01-30 00:00:00",
+        "#network-server--felix--gnodet": "2020-01-14 00:00:00",
+        "#network-server--felix--oliverlietz": "2019-12-08 00:00:00",
+        "#network-server--felix--bosschaert": "2019-11-11 00:00:00",
+        "#network-server--felix--jbonofre": "2019-11-10 00:00:00",
+        "#network-server--felix--": "2019-09-11 00:00:00",
+        "#network-server--felix--ghenzler": "2019-09-03 00:00:00",
+        "#network-server--felix--stefanseifert": "2019-08-15 00:00:00",
+        "#network-server--felix--rotty3000": "2019-06-03 00:00:00",
+        "#network-server--felix--timothyjward": "2019-06-03 00:00:00",
+        "#network-server--felix--dulvac": "2019-03-21 00:00:00",
+        "#network-server--felix--cschneider": "2018-10-11 00:00:00",
+        "#network-server--felix--djencks": "2017-07-31 00:00:00",
+        "#network-server--felix--chetanmeh": "2017-02-20 00:00:00",
+        "#network-server--felix--bimargulies": "2016-11-25 00:00:00",
+        "#network-server--felix--cescoffier": "2016-08-31 00:00:00",
+        "#network-server--felix--srs": "2015-10-01 00:00:00",
+        "#network-server--felix--bobpaulin": "2015-08-29 00:00:00",
+        "#network-server--felix--ffang": "2014-03-13 00:00:00",
+        "#network-server--felix--m4rr5": "2013-12-18 00:00:00",
+        "#network-server--felix--ggezer": "2013-02-04 00:00:00",
+        "#network-server--felix--gertv": "2012-11-13 00:00:00",
+        "#network-server--felix--chirino": "2011-02-01 00:00:00",
+        "#network-server--felix--jgoodyear": "2010-06-23 00:00:00",
+        "#network-server--felix--ccustine": "2010-05-16 00:00:00",
+        "#network-server--felix--akarasulu": "2009-04-04 00:00:00",
+        "#network-server--felix--trustin": "2006-08-10 00:00:00",
+        "#network-server--felix--lsimons": "2005-08-17 00:00:00",
+        "#network-server--felix--royfielding": "2005-07-19 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#network-server--felix--oliverlietz": 0,
+        "#network-server--felix--trustin": 0,
+        "#network-server--felix--lsimons": 0,
+        "#network-server--felix--royfielding": 0,
+        "#network-server--felix--chirino": 5,
+        "#network-server--felix--jgoodyear": 34,
+        "#network-server--felix--cschneider": 108,
+        "#network-server--felix--timothyjward": 124,
+        "#network-server--felix--ggezer": 244,
+        "#network-server--felix--ghenzler": 259,
+        "#network-server--felix--bobpaulin": 309,
+        "#network-server--felix--dulvac": 317,
+        "#network-server--felix--ccustine": 380,
+        "#network-server--felix--bimargulies": 398,
+        "#network-server--felix--rotty3000": 452,
+        "#network-server--felix--jbonofre": 535,
+        "#network-server--felix--stefanseifert": 961,
+        "#network-server--felix--gertv": 1291,
+        "#network-server--felix--akarasulu": 1348,
+        "#network-server--felix--tjwatson": 1438,
+        "#network-server--felix--chetanmeh": 1447,
+        "#network-server--felix--ffang": 1764,
+        "#network-server--felix--djencks": 1882,
+        "#network-server--felix--bosschaert": 2135,
+        "#network-server--felix--srs": 2208,
+        "#network-server--felix--m4rr5": 2825,
+        "#network-server--felix--cescoffier": 3356,
+        "#network-server--felix--gnodet": 3914,
+        "#network-server--felix--karlpauls": 5063,
+        "#network-server--felix--": 5154,
+        "#network-server--felix--cziegeler": 5273
+    },
+    "commiter_contribute_time1": {
+        "#network-server--felix--ffang": {
+            "start": "2009-05-14 00:00:00",
+            "end": "2010-04-21 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#network-server--felix--bobpaulin": {
+            "start": "2014-10-24 00:00:00",
+            "end": "2015-01-09 00:00:00",
+            "bug_num_per_commit": 0.16666666666666666,
+            "bug_commit_num_rate": 1.0
+        },
+        "#network-server--felix--srs": {
+            "start": "2009-09-14 00:00:00",
+            "end": "2009-11-16 00:00:00",
+            "bug_num_per_commit": 0.09090909090909091,
+            "bug_commit_num_rate": 0.8181818181818182
+        },
+        "#network-server--felix--djencks": {
+            "start": "2012-06-05 00:00:00",
+            "end": "2014-06-21 00:00:00",
+            "bug_num_per_commit": 0.24175824175824176,
+            "bug_commit_num_rate": 1.0
+        },
+        "#network-server--felix--gertv": {
+            "start": "2009-05-02 00:00:00",
+            "end": "2009-12-09 00:00:00",
+            "bug_num_per_commit": 0.125,
+            "bug_commit_num_rate": 0.75
+        },
+        "#network-server--felix--gnodet": {
+            "start": "2009-04-27 00:00:00",
+            "end": "2016-01-14 00:00:00",
+            "bug_num_per_commit": 0.0729483282674772,
+            "bug_commit_num_rate": 0.7264437689969605
+        }
+    },
+    "commiter_contribute_time2": {
+        "#network-server--felix--ffang": {
+            "start": "2010-04-16 00:00:00",
+            "end": "2010-01-28 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.0
+        },
+        "#network-server--felix--bobpaulin": {
+            "start": "2015-01-07 00:00:00",
+            "end": "2014-12-06 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.5
+        },
+        "#network-server--felix--srs": {
+            "start": "2009-11-16 00:00:00",
+            "end": "2009-09-30 00:00:00",
+            "bug_num_per_commit": 0.36363636363636365,
+            "bug_commit_num_rate": 0.0
+        },
+        "#network-server--felix--djencks": {
+            "start": "2014-06-15 00:00:00",
+            "end": "2013-05-28 00:00:00",
+            "bug_num_per_commit": 0.1978021978021978,
+            "bug_commit_num_rate": 1.0
+        },
+        "#network-server--felix--gertv": {
+            "start": "2009-12-09 00:00:00",
+            "end": "2009-10-16 00:00:00",
+            "bug_num_per_commit": 0.125,
+            "bug_commit_num_rate": 0.0
+        },
+        "#network-server--felix--gnodet": {
+            "start": "2016-01-14 00:00:00",
+            "end": "2011-02-02 00:00:00",
+            "bug_num_per_commit": 0.1519756838905775,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time3": {
+        "#network-server--felix--ffang": {
+            "start": "2010-01-28 00:00:00",
+            "end": "2009-10-21 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#network-server--felix--bobpaulin": {
+            "start": "2014-12-06 00:00:00",
+            "end": "2014-11-21 00:00:00",
+            "bug_num_per_commit": 0.16666666666666666,
+            "bug_commit_num_rate": 0.0
+        },
+        "#network-server--felix--srs": {
+            "start": "2009-09-30 00:00:00",
+            "end": "2009-09-26 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#network-server--felix--djencks": {
+            "start": "2013-05-28 00:00:00",
+            "end": "2012-12-20 00:00:00",
+            "bug_num_per_commit": 0.3626373626373626,
+            "bug_commit_num_rate": 0.7252747252747253
+        },
+        "#network-server--felix--gertv": {
+            "start": "2009-10-13 00:00:00",
+            "end": "2009-08-17 00:00:00",
+            "bug_num_per_commit": 0.125,
+            "bug_commit_num_rate": 0.0
+        },
+        "#network-server--felix--gnodet": {
+            "start": "2011-02-02 00:00:00",
+            "end": "2009-11-25 00:00:00",
+            "bug_num_per_commit": 0.08206686930091185,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#network-server--felix--ffang": {
+            "start": "2009-10-17 00:00:00",
+            "end": "2009-05-14 00:00:00",
+            "bug_num_per_commit": 0.2,
+            "bug_commit_num_rate": 0.0
+        },
+        "#network-server--felix--bobpaulin": {
+            "start": "2014-11-21 00:00:00",
+            "end": "2014-10-24 00:00:00",
+            "bug_num_per_commit": 0.16666666666666666,
+            "bug_commit_num_rate": 0.0
+        },
+        "#network-server--felix--srs": {
+            "start": "2009-09-26 00:00:00",
+            "end": "2009-09-14 00:00:00",
+            "bug_num_per_commit": 0.2,
+            "bug_commit_num_rate": 0.0
+        },
+        "#network-server--felix--djencks": {
+            "start": "2012-12-20 00:00:00",
+            "end": "2012-06-05 00:00:00",
+            "bug_num_per_commit": 0.33695652173913043,
+            "bug_commit_num_rate": 0.0
+        },
+        "#network-server--felix--gertv": {
+            "start": "2009-08-08 00:00:00",
+            "end": "2009-05-02 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.0
+        },
+        "#network-server--felix--gnodet": {
+            "start": "2009-11-23 00:00:00",
+            "end": "2009-04-27 00:00:00",
+            "bug_num_per_commit": 0.1276595744680851,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#network-server--felix--ffang": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.25,
+                "time3": 0.5,
+                "time4": 0.2
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#network-server--felix--bobpaulin": {
+            "bug_num_per_commit": {
+                "time1": 0.16666666666666666,
+                "time2": 0.3333333333333333,
+                "time3": 0.16666666666666666,
+                "time4": 0.16666666666666666
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.5,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#network-server--felix--srs": {
+            "bug_num_per_commit": {
+                "time1": 0.09090909090909091,
+                "time2": 0.36363636363636365,
+                "time3": 0.0,
+                "time4": 0.2
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.8181818181818182,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#network-server--felix--djencks": {
+            "bug_num_per_commit": {
+                "time1": 0.24175824175824176,
+                "time2": 0.1978021978021978,
+                "time3": 0.3626373626373626,
+                "time4": 0.33695652173913043
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.7252747252747253,
+                "time4": 0.0
+            }
+        },
+        "#network-server--felix--gertv": {
+            "bug_num_per_commit": {
+                "time1": 0.125,
+                "time2": 0.125,
+                "time3": 0.125,
+                "time4": 0.25
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.75,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#network-server--felix--gnodet": {
+            "bug_num_per_commit": {
+                "time1": 0.0729483282674772,
+                "time2": 0.1519756838905775,
+                "time3": 0.08206686930091185,
+                "time4": 0.1276595744680851
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.7264437689969605,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#network-server--felix--ffang",
+        "#network-server--felix--bobpaulin",
+        "#network-server--felix--srs",
+        "#network-server--felix--djencks",
+        "#network-server--felix--gertv",
+        "#network-server--felix--gnodet"
+    ],
+    "number_daily_long_time_error_prone_developer": 6,
+    "improved_daily_long_time_error_prone_developer": [
+        "#network-server--felix--gertv"
+    ],
+    "number_improved_daily_long_time_error_prone_developer": 1
+}

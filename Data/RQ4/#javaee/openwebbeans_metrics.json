@@ -1,0 +1,489 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#javaee--openwebbeans--struberg": "2009-01-19 00:00:00",
+        "#javaee--openwebbeans--rmannibucau": "2012-05-30 00:00:00",
+        "#javaee--openwebbeans--jeanouii": "2013-11-04 00:00:00",
+        "#javaee--openwebbeans--tandraschko": "2012-09-15 00:00:00",
+        "#javaee--openwebbeans--ArneLimburg": "2012-10-11 00:00:00",
+        "#javaee--openwebbeans--BuZZ-dEE": "2021-09-07 00:00:00",
+        "#javaee--openwebbeans--RealCLanger": "2021-07-19 00:00:00",
+        "#javaee--openwebbeans--melloware": "2021-05-09 00:00:00",
+        "#javaee--openwebbeans--dblevins": "2009-09-30 00:00:00",
+        "#javaee--openwebbeans--a-rekkusu": "2020-03-18 00:00:00",
+        "#javaee--openwebbeans--vrossellotravelc": "2020-07-23 00:00:00",
+        "#javaee--openwebbeans--philippkunz": "2020-06-13 00:00:00",
+        "#javaee--openwebbeans--gerdogdu": "2020-05-31 00:00:00",
+        "#javaee--openwebbeans--fpapon": "2020-02-11 00:00:00",
+        "#javaee--openwebbeans--": "2008-11-22 00:00:00",
+        "#javaee--openwebbeans--rsandtner": "2014-11-17 00:00:00",
+        "#javaee--openwebbeans--gpetracek": "2010-08-03 00:00:00",
+        "#javaee--openwebbeans--jbergmark": "2009-11-17 00:00:00",
+        "#javaee--openwebbeans--covener": "2009-12-08 00:00:00",
+        "#javaee--openwebbeans--djencks": "2010-11-12 00:00:00",
+        "#javaee--openwebbeans--matzew": "2009-01-11 00:00:00",
+        "#javaee--openwebbeans--gmcdonald": "2009-12-23 00:00:00",
+        "#javaee--openwebbeans--mnour": "2008-12-29 00:00:00"
+    },
+    "commiter_end_time": {
+        "#javaee--openwebbeans--struberg": "2022-10-11 00:00:00",
+        "#javaee--openwebbeans--rmannibucau": "2022-08-18 00:00:00",
+        "#javaee--openwebbeans--jeanouii": "2022-05-24 00:00:00",
+        "#javaee--openwebbeans--tandraschko": "2021-12-13 00:00:00",
+        "#javaee--openwebbeans--ArneLimburg": "2021-10-10 00:00:00",
+        "#javaee--openwebbeans--BuZZ-dEE": "2021-09-07 00:00:00",
+        "#javaee--openwebbeans--RealCLanger": "2021-07-19 00:00:00",
+        "#javaee--openwebbeans--melloware": "2021-05-09 00:00:00",
+        "#javaee--openwebbeans--dblevins": "2021-03-12 00:00:00",
+        "#javaee--openwebbeans--a-rekkusu": "2020-08-25 00:00:00",
+        "#javaee--openwebbeans--vrossellotravelc": "2020-07-27 00:00:00",
+        "#javaee--openwebbeans--philippkunz": "2020-06-14 00:00:00",
+        "#javaee--openwebbeans--gerdogdu": "2020-06-10 00:00:00",
+        "#javaee--openwebbeans--fpapon": "2020-02-11 00:00:00",
+        "#javaee--openwebbeans--": "2019-12-03 00:00:00",
+        "#javaee--openwebbeans--rsandtner": "2018-04-18 00:00:00",
+        "#javaee--openwebbeans--gpetracek": "2015-06-15 00:00:00",
+        "#javaee--openwebbeans--jbergmark": "2015-04-19 00:00:00",
+        "#javaee--openwebbeans--covener": "2013-02-15 00:00:00",
+        "#javaee--openwebbeans--djencks": "2011-08-04 00:00:00",
+        "#javaee--openwebbeans--matzew": "2010-08-25 00:00:00",
+        "#javaee--openwebbeans--gmcdonald": "2009-12-23 00:00:00",
+        "#javaee--openwebbeans--mnour": "2008-12-29 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#javaee--openwebbeans--BuZZ-dEE": 0,
+        "#javaee--openwebbeans--RealCLanger": 0,
+        "#javaee--openwebbeans--melloware": 0,
+        "#javaee--openwebbeans--fpapon": 0,
+        "#javaee--openwebbeans--gmcdonald": 0,
+        "#javaee--openwebbeans--mnour": 0,
+        "#javaee--openwebbeans--philippkunz": 1,
+        "#javaee--openwebbeans--vrossellotravelc": 4,
+        "#javaee--openwebbeans--gerdogdu": 10,
+        "#javaee--openwebbeans--a-rekkusu": 160,
+        "#javaee--openwebbeans--djencks": 265,
+        "#javaee--openwebbeans--matzew": 591,
+        "#javaee--openwebbeans--covener": 1165,
+        "#javaee--openwebbeans--rsandtner": 1248,
+        "#javaee--openwebbeans--gpetracek": 1777,
+        "#javaee--openwebbeans--jbergmark": 1979,
+        "#javaee--openwebbeans--jeanouii": 3123,
+        "#javaee--openwebbeans--ArneLimburg": 3286,
+        "#javaee--openwebbeans--tandraschko": 3376,
+        "#javaee--openwebbeans--rmannibucau": 3732,
+        "#javaee--openwebbeans--": 4028,
+        "#javaee--openwebbeans--dblevins": 4181,
+        "#javaee--openwebbeans--struberg": 5013
+    },
+    "commiter_contribute_time1": {
+        "#javaee--openwebbeans--rsandtner": {
+            "start": "2014-11-17 00:00:00",
+            "end": "2017-06-05 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#javaee--openwebbeans--covener": {
+            "start": "2009-12-08 00:00:00",
+            "end": "2010-09-10 00:00:00",
+            "bug_num_per_commit": 0.375,
+            "bug_commit_num_rate": 1.0
+        },
+        "#javaee--openwebbeans--gpetracek": {
+            "start": "2010-08-03 00:00:00",
+            "end": "2013-04-27 00:00:00",
+            "bug_num_per_commit": 0.38461538461538464,
+            "bug_commit_num_rate": 1.0
+        },
+        "#javaee--openwebbeans--djencks": {
+            "start": "2010-11-12 00:00:00",
+            "end": "2011-06-05 00:00:00",
+            "bug_num_per_commit": 0.375,
+            "bug_commit_num_rate": 1.0
+        },
+        "#javaee--openwebbeans--tandraschko": {
+            "start": "2012-09-15 00:00:00",
+            "end": "2018-12-11 00:00:00",
+            "bug_num_per_commit": 0.2,
+            "bug_commit_num_rate": 0.8666666666666667
+        },
+        "#javaee--openwebbeans--jbergmark": {
+            "start": "2009-11-17 00:00:00",
+            "end": "2012-09-03 00:00:00",
+            "bug_num_per_commit": 0.23076923076923078,
+            "bug_commit_num_rate": 1.0
+        },
+        "#javaee--openwebbeans--dblevins": {
+            "start": "2009-09-30 00:00:00",
+            "end": "2012-09-13 00:00:00",
+            "bug_num_per_commit": 0.3125,
+            "bug_commit_num_rate": 1.0
+        },
+        "#javaee--openwebbeans--ArneLimburg": {
+            "start": "2012-10-11 00:00:00",
+            "end": "2013-07-10 00:00:00",
+            "bug_num_per_commit": 0.21568627450980393,
+            "bug_commit_num_rate": 1.0
+        },
+        "#javaee--openwebbeans--rmannibucau": {
+            "start": "2012-05-30 00:00:00",
+            "end": "2019-05-09 00:00:00",
+            "bug_num_per_commit": 0.08333333333333333,
+            "bug_commit_num_rate": 1.0
+        },
+        "#javaee--openwebbeans--struberg": {
+            "start": "2009-01-19 00:00:00",
+            "end": "2015-05-06 00:00:00",
+            "bug_num_per_commit": 0.06334841628959276,
+            "bug_commit_num_rate": 1.0
+        }
+    },
+    "commiter_contribute_time2": {
+        "#javaee--openwebbeans--rsandtner": {
+            "start": "2017-06-02 00:00:00",
+            "end": "2017-05-26 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#javaee--openwebbeans--covener": {
+            "start": "2010-09-10 00:00:00",
+            "end": "2010-07-22 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.9375
+        },
+        "#javaee--openwebbeans--gpetracek": {
+            "start": "2013-04-23 00:00:00",
+            "end": "2011-08-28 00:00:00",
+            "bug_num_per_commit": 0.23076923076923078,
+            "bug_commit_num_rate": 0.46153846153846156
+        },
+        "#javaee--openwebbeans--djencks": {
+            "start": "2011-06-04 00:00:00",
+            "end": "2011-03-09 00:00:00",
+            "bug_num_per_commit": 0.75,
+            "bug_commit_num_rate": 1.0
+        },
+        "#javaee--openwebbeans--tandraschko": {
+            "start": "2018-12-11 00:00:00",
+            "end": "2018-10-16 00:00:00",
+            "bug_num_per_commit": 0.13333333333333333,
+            "bug_commit_num_rate": 0.0
+        },
+        "#javaee--openwebbeans--jbergmark": {
+            "start": "2011-11-18 00:00:00",
+            "end": "2011-03-02 00:00:00",
+            "bug_num_per_commit": 0.38461538461538464,
+            "bug_commit_num_rate": 0.6153846153846154
+        },
+        "#javaee--openwebbeans--dblevins": {
+            "start": "2012-09-13 00:00:00",
+            "end": "2011-05-22 00:00:00",
+            "bug_num_per_commit": 0.4375,
+            "bug_commit_num_rate": 1.0
+        },
+        "#javaee--openwebbeans--ArneLimburg": {
+            "start": "2013-06-17 00:00:00",
+            "end": "2013-01-24 00:00:00",
+            "bug_num_per_commit": 0.29411764705882354,
+            "bug_commit_num_rate": 1.0
+        },
+        "#javaee--openwebbeans--rmannibucau": {
+            "start": "2019-04-29 00:00:00",
+            "end": "2015-03-26 00:00:00",
+            "bug_num_per_commit": 0.14166666666666666,
+            "bug_commit_num_rate": 0.09166666666666666
+        },
+        "#javaee--openwebbeans--struberg": {
+            "start": "2015-05-06 00:00:00",
+            "end": "2013-01-10 00:00:00",
+            "bug_num_per_commit": 0.13574660633484162,
+            "bug_commit_num_rate": 0.07239819004524888
+        }
+    },
+    "commiter_contribute_time3": {
+        "#javaee--openwebbeans--rsandtner": {
+            "start": "2017-05-26 00:00:00",
+            "end": "2015-04-28 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#javaee--openwebbeans--covener": {
+            "start": "2010-07-22 00:00:00",
+            "end": "2010-04-28 00:00:00",
+            "bug_num_per_commit": 0.5625,
+            "bug_commit_num_rate": 0.0
+        },
+        "#javaee--openwebbeans--gpetracek": {
+            "start": "2011-08-14 00:00:00",
+            "end": "2011-02-13 00:00:00",
+            "bug_num_per_commit": 0.38461538461538464,
+            "bug_commit_num_rate": 0.0
+        },
+        "#javaee--openwebbeans--djencks": {
+            "start": "2011-01-11 00:00:00",
+            "end": "2010-12-30 00:00:00",
+            "bug_num_per_commit": 0.625,
+            "bug_commit_num_rate": 0.25
+        },
+        "#javaee--openwebbeans--tandraschko": {
+            "start": "2018-10-16 00:00:00",
+            "end": "2015-09-23 00:00:00",
+            "bug_num_per_commit": 0.2,
+            "bug_commit_num_rate": 0.0
+        },
+        "#javaee--openwebbeans--jbergmark": {
+            "start": "2010-11-18 00:00:00",
+            "end": "2010-06-02 00:00:00",
+            "bug_num_per_commit": 0.46153846153846156,
+            "bug_commit_num_rate": 0.0
+        },
+        "#javaee--openwebbeans--dblevins": {
+            "start": "2011-05-10 00:00:00",
+            "end": "2010-12-08 00:00:00",
+            "bug_num_per_commit": 0.5625,
+            "bug_commit_num_rate": 0.0625
+        },
+        "#javaee--openwebbeans--ArneLimburg": {
+            "start": "2013-01-24 00:00:00",
+            "end": "2013-01-06 00:00:00",
+            "bug_num_per_commit": 0.35294117647058826,
+            "bug_commit_num_rate": 0.19607843137254902
+        },
+        "#javaee--openwebbeans--rmannibucau": {
+            "start": "2015-03-20 00:00:00",
+            "end": "2014-07-01 00:00:00",
+            "bug_num_per_commit": 0.14166666666666666,
+            "bug_commit_num_rate": 0.0
+        },
+        "#javaee--openwebbeans--struberg": {
+            "start": "2013-01-10 00:00:00",
+            "end": "2011-03-02 00:00:00",
+            "bug_num_per_commit": 0.1832579185520362,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#javaee--openwebbeans--rsandtner": {
+            "start": "2015-04-28 00:00:00",
+            "end": "2014-11-17 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.0
+        },
+        "#javaee--openwebbeans--covener": {
+            "start": "2010-04-23 00:00:00",
+            "end": "2009-12-08 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.0
+        },
+        "#javaee--openwebbeans--gpetracek": {
+            "start": "2011-02-13 00:00:00",
+            "end": "2010-08-03 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.0
+        },
+        "#javaee--openwebbeans--djencks": {
+            "start": "2010-12-27 00:00:00",
+            "end": "2010-11-12 00:00:00",
+            "bug_num_per_commit": 0.3,
+            "bug_commit_num_rate": 0.0
+        },
+        "#javaee--openwebbeans--tandraschko": {
+            "start": "2015-09-23 00:00:00",
+            "end": "2012-09-15 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.0
+        },
+        "#javaee--openwebbeans--jbergmark": {
+            "start": "2010-05-19 00:00:00",
+            "end": "2009-11-17 00:00:00",
+            "bug_num_per_commit": 0.46153846153846156,
+            "bug_commit_num_rate": 0.0
+        },
+        "#javaee--openwebbeans--dblevins": {
+            "start": "2010-12-04 00:00:00",
+            "end": "2009-09-30 00:00:00",
+            "bug_num_per_commit": 0.625,
+            "bug_commit_num_rate": 0.0
+        },
+        "#javaee--openwebbeans--ArneLimburg": {
+            "start": "2013-01-06 00:00:00",
+            "end": "2012-10-11 00:00:00",
+            "bug_num_per_commit": 0.5384615384615384,
+            "bug_commit_num_rate": 0.0
+        },
+        "#javaee--openwebbeans--rmannibucau": {
+            "start": "2014-07-01 00:00:00",
+            "end": "2012-05-30 00:00:00",
+            "bug_num_per_commit": 0.3445378151260504,
+            "bug_commit_num_rate": 0.0
+        },
+        "#javaee--openwebbeans--struberg": {
+            "start": "2011-03-02 00:00:00",
+            "end": "2009-01-19 00:00:00",
+            "bug_num_per_commit": 0.20495495495495494,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#javaee--openwebbeans--rsandtner": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.3333333333333333
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#javaee--openwebbeans--covener": {
+            "bug_num_per_commit": {
+                "time1": 0.375,
+                "time2": 0.25,
+                "time3": 0.5625,
+                "time4": 0.3333333333333333
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.9375,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#javaee--openwebbeans--gpetracek": {
+            "bug_num_per_commit": {
+                "time1": 0.38461538461538464,
+                "time2": 0.23076923076923078,
+                "time3": 0.38461538461538464,
+                "time4": 0.3333333333333333
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.46153846153846156,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#javaee--openwebbeans--djencks": {
+            "bug_num_per_commit": {
+                "time1": 0.375,
+                "time2": 0.75,
+                "time3": 0.625,
+                "time4": 0.3
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.25,
+                "time4": 0.0
+            }
+        },
+        "#javaee--openwebbeans--tandraschko": {
+            "bug_num_per_commit": {
+                "time1": 0.2,
+                "time2": 0.13333333333333333,
+                "time3": 0.2,
+                "time4": 0.25
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.8666666666666667,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#javaee--openwebbeans--jbergmark": {
+            "bug_num_per_commit": {
+                "time1": 0.23076923076923078,
+                "time2": 0.38461538461538464,
+                "time3": 0.46153846153846156,
+                "time4": 0.46153846153846156
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.6153846153846154,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#javaee--openwebbeans--dblevins": {
+            "bug_num_per_commit": {
+                "time1": 0.3125,
+                "time2": 0.4375,
+                "time3": 0.5625,
+                "time4": 0.625
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.0625,
+                "time4": 0.0
+            }
+        },
+        "#javaee--openwebbeans--ArneLimburg": {
+            "bug_num_per_commit": {
+                "time1": 0.21568627450980393,
+                "time2": 0.29411764705882354,
+                "time3": 0.35294117647058826,
+                "time4": 0.5384615384615384
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.19607843137254902,
+                "time4": 0.0
+            }
+        },
+        "#javaee--openwebbeans--rmannibucau": {
+            "bug_num_per_commit": {
+                "time1": 0.08333333333333333,
+                "time2": 0.14166666666666666,
+                "time3": 0.14166666666666666,
+                "time4": 0.3445378151260504
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.09166666666666666,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#javaee--openwebbeans--struberg": {
+            "bug_num_per_commit": {
+                "time1": 0.06334841628959276,
+                "time2": 0.13574660633484162,
+                "time3": 0.1832579185520362,
+                "time4": 0.20495495495495494
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.07239819004524888,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#javaee--openwebbeans--rsandtner",
+        "#javaee--openwebbeans--covener",
+        "#javaee--openwebbeans--gpetracek",
+        "#javaee--openwebbeans--djencks",
+        "#javaee--openwebbeans--tandraschko",
+        "#javaee--openwebbeans--jbergmark",
+        "#javaee--openwebbeans--dblevins",
+        "#javaee--openwebbeans--ArneLimburg",
+        "#javaee--openwebbeans--rmannibucau",
+        "#javaee--openwebbeans--struberg"
+    ],
+    "number_daily_long_time_error_prone_developer": 10,
+    "improved_daily_long_time_error_prone_developer": [
+        "#javaee--openwebbeans--jbergmark",
+        "#javaee--openwebbeans--dblevins",
+        "#javaee--openwebbeans--ArneLimburg",
+        "#javaee--openwebbeans--rmannibucau",
+        "#javaee--openwebbeans--struberg"
+    ],
+    "number_improved_daily_long_time_error_prone_developer": 5
+}

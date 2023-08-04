@@ -1,0 +1,206 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#graphics--xmlgraphics-fop--simonsteiner1984": "2014-04-28 00:00:00",
+        "#graphics--xmlgraphics-fop--": "1999-10-31 00:00:00",
+        "#graphics--xmlgraphics-fop--jmaerki": "2002-05-05 00:00:00",
+        "#graphics--xmlgraphics-fop--vhennebert": "2006-10-25 00:00:00",
+        "#graphics--xmlgraphics-fop--spepping": "2004-05-27 00:00:00",
+        "#graphics--xmlgraphics-fop--bdelacretaz": "2002-10-31 00:00:00",
+        "#graphics--xmlgraphics-fop--chrisgt": "2002-03-01 00:00:00",
+        "#graphics--xmlgraphics-fop--dirkx": "1999-10-31 00:00:00"
+    },
+    "commiter_end_time": {
+        "#graphics--xmlgraphics-fop--simonsteiner1984": "2022-12-23 00:00:00",
+        "#graphics--xmlgraphics-fop--": "2022-11-10 00:00:00",
+        "#graphics--xmlgraphics-fop--jmaerki": "2016-09-09 00:00:00",
+        "#graphics--xmlgraphics-fop--vhennebert": "2014-08-01 00:00:00",
+        "#graphics--xmlgraphics-fop--spepping": "2011-12-06 00:00:00",
+        "#graphics--xmlgraphics-fop--bdelacretaz": "2007-04-09 00:00:00",
+        "#graphics--xmlgraphics-fop--chrisgt": "2007-01-08 00:00:00",
+        "#graphics--xmlgraphics-fop--dirkx": "1999-11-09 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#graphics--xmlgraphics-fop--dirkx": 9,
+        "#graphics--xmlgraphics-fop--bdelacretaz": 1621,
+        "#graphics--xmlgraphics-fop--chrisgt": 1774,
+        "#graphics--xmlgraphics-fop--spepping": 2749,
+        "#graphics--xmlgraphics-fop--vhennebert": 2837,
+        "#graphics--xmlgraphics-fop--simonsteiner1984": 3161,
+        "#graphics--xmlgraphics-fop--jmaerki": 5241,
+        "#graphics--xmlgraphics-fop--": 8411
+    },
+    "commiter_contribute_time1": {
+        "#graphics--xmlgraphics-fop--spepping": {
+            "start": "2004-05-27 00:00:00",
+            "end": "2010-07-12 00:00:00",
+            "bug_num_per_commit": 0.0784313725490196,
+            "bug_commit_num_rate": 0.43137254901960786
+        },
+        "#graphics--xmlgraphics-fop--simonsteiner1984": {
+            "start": "2014-04-28 00:00:00",
+            "end": "2021-01-11 00:00:00",
+            "bug_num_per_commit": 0.06060606060606061,
+            "bug_commit_num_rate": 0.7474747474747475
+        },
+        "#graphics--xmlgraphics-fop--vhennebert": {
+            "start": "2006-10-25 00:00:00",
+            "end": "2012-08-02 00:00:00",
+            "bug_num_per_commit": 0.08441558441558442,
+            "bug_commit_num_rate": 0.38311688311688313
+        },
+        "#graphics--xmlgraphics-fop--jmaerki": {
+            "start": "2002-05-05 00:00:00",
+            "end": "2008-02-29 00:00:00",
+            "bug_num_per_commit": 0.0626118067978533,
+            "bug_commit_num_rate": 0.39713774597495527
+        }
+    },
+    "commiter_contribute_time2": {
+        "#graphics--xmlgraphics-fop--spepping": {
+            "start": "2010-07-07 00:00:00",
+            "end": "2006-10-09 00:00:00",
+            "bug_num_per_commit": 0.0196078431372549,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--xmlgraphics-fop--simonsteiner1984": {
+            "start": "2020-12-29 00:00:00",
+            "end": "2018-04-03 00:00:00",
+            "bug_num_per_commit": 0.13131313131313133,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--xmlgraphics-fop--vhennebert": {
+            "start": "2012-07-24 00:00:00",
+            "end": "2009-10-21 00:00:00",
+            "bug_num_per_commit": 0.06493506493506493,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--xmlgraphics-fop--jmaerki": {
+            "start": "2008-02-28 00:00:00",
+            "end": "2005-12-12 00:00:00",
+            "bug_num_per_commit": 0.04114490161001789,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time3": {
+        "#graphics--xmlgraphics-fop--spepping": {
+            "start": "2006-10-07 00:00:00",
+            "end": "2005-10-12 00:00:00",
+            "bug_num_per_commit": 0.058823529411764705,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--xmlgraphics-fop--simonsteiner1984": {
+            "start": "2018-04-03 00:00:00",
+            "end": "2016-06-24 00:00:00",
+            "bug_num_per_commit": 0.20202020202020202,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--xmlgraphics-fop--vhennebert": {
+            "start": "2009-10-21 00:00:00",
+            "end": "2007-12-13 00:00:00",
+            "bug_num_per_commit": 0.05844155844155844,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--xmlgraphics-fop--jmaerki": {
+            "start": "2005-12-12 00:00:00",
+            "end": "2005-02-15 00:00:00",
+            "bug_num_per_commit": 0.017889087656529516,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#graphics--xmlgraphics-fop--spepping": {
+            "start": "2005-10-11 00:00:00",
+            "end": "2004-05-27 00:00:00",
+            "bug_num_per_commit": 0.07692307692307693,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--xmlgraphics-fop--simonsteiner1984": {
+            "start": "2016-05-25 00:00:00",
+            "end": "2014-04-28 00:00:00",
+            "bug_num_per_commit": 0.2079207920792079,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--xmlgraphics-fop--vhennebert": {
+            "start": "2007-12-13 00:00:00",
+            "end": "2006-10-25 00:00:00",
+            "bug_num_per_commit": 0.032467532467532464,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--xmlgraphics-fop--jmaerki": {
+            "start": "2005-02-12 00:00:00",
+            "end": "2002-05-05 00:00:00",
+            "bug_num_per_commit": 0.0196078431372549,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#graphics--xmlgraphics-fop--spepping": {
+            "bug_num_per_commit": {
+                "time1": 0.0784313725490196,
+                "time2": 0.0196078431372549,
+                "time3": 0.058823529411764705,
+                "time4": 0.07692307692307693
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.43137254901960786,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#graphics--xmlgraphics-fop--simonsteiner1984": {
+            "bug_num_per_commit": {
+                "time1": 0.06060606060606061,
+                "time2": 0.13131313131313133,
+                "time3": 0.20202020202020202,
+                "time4": 0.2079207920792079
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.7474747474747475,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#graphics--xmlgraphics-fop--vhennebert": {
+            "bug_num_per_commit": {
+                "time1": 0.08441558441558442,
+                "time2": 0.06493506493506493,
+                "time3": 0.05844155844155844,
+                "time4": 0.032467532467532464
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.38311688311688313,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#graphics--xmlgraphics-fop--jmaerki": {
+            "bug_num_per_commit": {
+                "time1": 0.0626118067978533,
+                "time2": 0.04114490161001789,
+                "time3": 0.017889087656529516,
+                "time4": 0.0196078431372549
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.39713774597495527,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#graphics--xmlgraphics-fop--spepping",
+        "#graphics--xmlgraphics-fop--simonsteiner1984",
+        "#graphics--xmlgraphics-fop--vhennebert",
+        "#graphics--xmlgraphics-fop--jmaerki"
+    ],
+    "number_daily_long_time_error_prone_developer": 4,
+    "improved_daily_long_time_error_prone_developer": [
+        "#graphics--xmlgraphics-fop--simonsteiner1984"
+    ],
+    "number_improved_daily_long_time_error_prone_developer": 1
+}

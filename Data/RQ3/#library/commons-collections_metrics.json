@@ -1,0 +1,11 @@
+{
+    "all_file_num": 3175,
+    "error_developer_file_rate": {
+        "#library--commons-collections--neilotoole": 0.001889763779527559,
+        "#library--commons-collections--psteitz": 0.026456692913385826
+    },
+    "daily_error_prone_developer": [
+        "#library--commons-collections--psteitz"
+    ],
+    "number_daily_error_prone_developer": 1
+}

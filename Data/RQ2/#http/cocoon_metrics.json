@@ -1,0 +1,20 @@
+{
+    "cate": "#http",
+    "#http-cate_aver_bug_rate": 0.08166666666666667,
+    "#http-cate_aver_bug_commit_rate": 0.07947368421052631,
+    "high_bug_rate_error_prone_developer_number": 2,
+    "high_bug_commit_rate_error_prone_developer_number": 1,
+    "high_bug_rate_error_prone_developer": {
+        "#http--cocoon--SimoneGianni": 0.10526315789473684,
+        "#http--cocoon--jashaj": 0.08333333333333333
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#http--cocoon--jashaj": 0.08333333333333333
+    },
+    "error_prone_developer_num": 1,
+    "error_prone_developer": [
+        "#http--cocoon--jashaj"
+    ],
+    "error_prone_developer_team_rate": 0.05263157894736842,
+    "team_developer_num": 19
+}

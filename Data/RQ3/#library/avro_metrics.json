@@ -1,0 +1,29 @@
+{
+    "all_file_num": 4213,
+    "error_developer_file_rate": {
+        "#library--avro--sigand": 0.00023736055067647758,
+        "#library--avro--john-karp": 0.00047472110135295516,
+        "#library--avro--MickJermsurawong": 0.00047472110135295516,
+        "#library--avro--gkomlossi": 0.00047472110135295516,
+        "#library--avro--shijinkui": 0.00047472110135295516,
+        "#library--avro--tnine": 0.00047472110135295516,
+        "#library--avro--trompa": 0.00047472110135295516,
+        "#library--avro--aeroevan": 0.0007120816520294327,
+        "#library--avro--teabot": 0.0026109660574412533,
+        "#library--avro--kan-izh": 0.0026109660574412533,
+        "#library--avro--epalace": 0.0026109660574412533,
+        "#library--avro--srujann": 0.0028483266081177306,
+        "#library--avro--mkw": 0.0028483266081177306,
+        "#library--avro--yibing-shi": 0.004509850462853074,
+        "#library--avro--maccamlc": 0.004509850462853074,
+        "#library--avro--jacobtolar": 0.0059340137669119395,
+        "#library--avro--unchuckable": 0.006408734868264894,
+        "#library--avro--rstata": 0.008307619273676715,
+        "#library--avro--cutting": 0.444813671967719
+    },
+    "daily_error_prone_developer": [
+        "#library--avro--rstata",
+        "#library--avro--cutting"
+    ],
+    "number_daily_error_prone_developer": 2
+}

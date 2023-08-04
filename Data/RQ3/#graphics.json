@@ -1,0 +1,22 @@
+{
+    "all_file_num": 49836,
+    "error_developer_file_rate": {
+        "#graphics--cocoon--jashaj": 0.0008688376882481658,
+        "#graphics--cocoon--SimoneGianni": 0.0038615008366585145,
+        "#graphics--xmlgraphics-batik--simonsteiner1984": 0.11273841961852861,
+        "#graphics--xmlgraphics-fop--spepping": 0.06159565916398714,
+        "#graphics--xmlgraphics-fop--simonsteiner1984": 0.1194734726688103,
+        "#graphics--xmlgraphics-fop--vhennebert": 0.2177451768488746,
+        "#graphics--xmlgraphics-fop--jmaerki": 0.4074557877813505
+    },
+    "daily_error_prone_developer": [
+        "#graphics--cocoon--jashaj",
+        "#graphics--cocoon--SimoneGianni",
+        "#graphics--xmlgraphics-batik--simonsteiner1984",
+        "#graphics--xmlgraphics-fop--spepping",
+        "#graphics--xmlgraphics-fop--simonsteiner1984",
+        "#graphics--xmlgraphics-fop--vhennebert",
+        "#graphics--xmlgraphics-fop--jmaerki"
+    ],
+    "number_daily_error_prone_developer": 7
+}

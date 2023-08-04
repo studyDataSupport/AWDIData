@@ -1,0 +1,219 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#javaee--myfaces--pnicolucci": "2018-06-07 00:00:00",
+        "#javaee--myfaces--melloware": "2021-03-30 00:00:00",
+        "#javaee--myfaces--bohmber": "2006-01-17 00:00:00",
+        "#javaee--myfaces--tandraschko": "2015-09-22 00:00:00",
+        "#javaee--myfaces--werpu": "2008-11-21 00:00:00",
+        "#javaee--myfaces--volosied": "2020-11-03 00:00:00",
+        "#javaee--myfaces--KyleAure": "2022-12-09 00:00:00",
+        "#javaee--myfaces--cristof": "2022-11-16 00:00:00",
+        "#javaee--myfaces--dependabot[bot]": "2021-02-08 00:00:00",
+        "#javaee--myfaces--milansie": "2022-10-19 00:00:00",
+        "#javaee--myfaces--pzygielo": "2022-08-30 00:00:00",
+        "#javaee--myfaces--lofwyr14": "2011-04-27 00:00:00",
+        "#javaee--myfaces--arturobernalg": "2022-06-25 00:00:00",
+        "#javaee--myfaces--glynn29": "2022-04-01 00:00:00",
+        "#javaee--myfaces--exabrial": "2022-02-15 00:00:00",
+        "#javaee--myfaces--Marinell0": "2021-06-28 00:00:00",
+        "#javaee--myfaces--christophs78": "2021-03-14 00:00:00",
+        "#javaee--myfaces--benkard": "2020-07-04 00:00:00",
+        "#javaee--myfaces--wtlucy": "2018-11-29 00:00:00",
+        "#javaee--myfaces--rmpestano": "2020-04-21 00:00:00",
+        "#javaee--myfaces--": "2006-01-23 00:00:00",
+        "#javaee--myfaces--gastaldi": "2020-04-21 00:00:00",
+        "#javaee--myfaces--astappiev": "2020-04-11 00:00:00",
+        "#javaee--myfaces--XenoAmess": "2020-04-13 00:00:00",
+        "#javaee--myfaces--deki": "2015-05-15 00:00:00",
+        "#javaee--myfaces--JLLeitschuh": "2020-02-10 00:00:00",
+        "#javaee--myfaces--edewit": "2019-11-13 00:00:00",
+        "#javaee--myfaces--cnsgithub": "2019-06-13 00:00:00",
+        "#javaee--myfaces--jfmaurel": "2019-03-19 00:00:00",
+        "#javaee--myfaces--ebreijo": "2018-05-30 00:00:00",
+        "#javaee--myfaces--struberg": "2010-07-05 00:00:00",
+        "#javaee--myfaces--gpetracek": "2012-07-18 00:00:00",
+        "#javaee--myfaces--matzew": "2006-02-13 00:00:00",
+        "#javaee--myfaces--mbenson": "2011-10-20 00:00:00",
+        "#javaee--myfaces--aliok": "2010-10-19 00:00:00",
+        "#javaee--myfaces--ganeshjung": "2009-05-31 00:00:00",
+        "#javaee--myfaces--dennisbyrne": "2006-01-29 00:00:00",
+        "#javaee--myfaces--schof": "2006-01-17 00:00:00"
+    },
+    "commiter_end_time": {
+        "#javaee--myfaces--pnicolucci": "2023-01-03 00:00:00",
+        "#javaee--myfaces--melloware": "2022-12-30 00:00:00",
+        "#javaee--myfaces--bohmber": "2022-12-24 00:00:00",
+        "#javaee--myfaces--tandraschko": "2022-12-23 00:00:00",
+        "#javaee--myfaces--werpu": "2022-12-21 00:00:00",
+        "#javaee--myfaces--volosied": "2022-12-20 00:00:00",
+        "#javaee--myfaces--KyleAure": "2022-12-09 00:00:00",
+        "#javaee--myfaces--cristof": "2022-11-16 00:00:00",
+        "#javaee--myfaces--dependabot[bot]": "2022-10-25 00:00:00",
+        "#javaee--myfaces--milansie": "2022-10-19 00:00:00",
+        "#javaee--myfaces--pzygielo": "2022-08-30 00:00:00",
+        "#javaee--myfaces--lofwyr14": "2022-08-03 00:00:00",
+        "#javaee--myfaces--arturobernalg": "2022-06-27 00:00:00",
+        "#javaee--myfaces--glynn29": "2022-04-30 00:00:00",
+        "#javaee--myfaces--exabrial": "2022-02-15 00:00:00",
+        "#javaee--myfaces--Marinell0": "2021-06-28 00:00:00",
+        "#javaee--myfaces--christophs78": "2021-03-14 00:00:00",
+        "#javaee--myfaces--benkard": "2021-02-16 00:00:00",
+        "#javaee--myfaces--wtlucy": "2021-01-13 00:00:00",
+        "#javaee--myfaces--rmpestano": "2020-08-16 00:00:00",
+        "#javaee--myfaces--": "2020-08-13 00:00:00",
+        "#javaee--myfaces--gastaldi": "2020-04-21 00:00:00",
+        "#javaee--myfaces--astappiev": "2020-04-18 00:00:00",
+        "#javaee--myfaces--XenoAmess": "2020-04-13 00:00:00",
+        "#javaee--myfaces--deki": "2020-02-11 00:00:00",
+        "#javaee--myfaces--JLLeitschuh": "2020-02-10 00:00:00",
+        "#javaee--myfaces--edewit": "2019-11-13 00:00:00",
+        "#javaee--myfaces--cnsgithub": "2019-06-13 00:00:00",
+        "#javaee--myfaces--jfmaurel": "2019-03-19 00:00:00",
+        "#javaee--myfaces--ebreijo": "2019-02-01 00:00:00",
+        "#javaee--myfaces--struberg": "2018-04-13 00:00:00",
+        "#javaee--myfaces--gpetracek": "2013-12-02 00:00:00",
+        "#javaee--myfaces--matzew": "2011-11-28 00:00:00",
+        "#javaee--myfaces--mbenson": "2011-10-28 00:00:00",
+        "#javaee--myfaces--aliok": "2010-10-19 00:00:00",
+        "#javaee--myfaces--ganeshjung": "2009-06-20 00:00:00",
+        "#javaee--myfaces--dennisbyrne": "2007-10-04 00:00:00",
+        "#javaee--myfaces--schof": "2006-06-05 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#javaee--myfaces--KyleAure": 0,
+        "#javaee--myfaces--cristof": 0,
+        "#javaee--myfaces--milansie": 0,
+        "#javaee--myfaces--pzygielo": 0,
+        "#javaee--myfaces--exabrial": 0,
+        "#javaee--myfaces--Marinell0": 0,
+        "#javaee--myfaces--christophs78": 0,
+        "#javaee--myfaces--gastaldi": 0,
+        "#javaee--myfaces--XenoAmess": 0,
+        "#javaee--myfaces--JLLeitschuh": 0,
+        "#javaee--myfaces--edewit": 0,
+        "#javaee--myfaces--cnsgithub": 0,
+        "#javaee--myfaces--jfmaurel": 0,
+        "#javaee--myfaces--aliok": 0,
+        "#javaee--myfaces--arturobernalg": 2,
+        "#javaee--myfaces--astappiev": 7,
+        "#javaee--myfaces--mbenson": 8,
+        "#javaee--myfaces--ganeshjung": 20,
+        "#javaee--myfaces--glynn29": 29,
+        "#javaee--myfaces--rmpestano": 117,
+        "#javaee--myfaces--schof": 139,
+        "#javaee--myfaces--benkard": 227,
+        "#javaee--myfaces--ebreijo": 247,
+        "#javaee--myfaces--gpetracek": 502,
+        "#javaee--myfaces--dennisbyrne": 613,
+        "#javaee--myfaces--dependabot[bot]": 624,
+        "#javaee--myfaces--melloware": 640,
+        "#javaee--myfaces--wtlucy": 776,
+        "#javaee--myfaces--volosied": 777,
+        "#javaee--myfaces--pnicolucci": 1671,
+        "#javaee--myfaces--deki": 1733,
+        "#javaee--myfaces--matzew": 2114,
+        "#javaee--myfaces--tandraschko": 2649,
+        "#javaee--myfaces--struberg": 2839,
+        "#javaee--myfaces--lofwyr14": 4116,
+        "#javaee--myfaces--werpu": 5143,
+        "#javaee--myfaces--": 5316,
+        "#javaee--myfaces--bohmber": 6185
+    },
+    "commiter_contribute_time1": {
+        "#javaee--myfaces--matzew": {
+            "start": "2006-02-13 00:00:00",
+            "end": "2009-10-22 00:00:00",
+            "bug_num_per_commit": 0.12195121951219512,
+            "bug_commit_num_rate": 0.5853658536585366
+        },
+        "#javaee--myfaces--struberg": {
+            "start": "2010-07-05 00:00:00",
+            "end": "2012-11-14 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.7058823529411765
+        }
+    },
+    "commiter_contribute_time2": {
+        "#javaee--myfaces--matzew": {
+            "start": "2009-10-22 00:00:00",
+            "end": "2007-07-15 00:00:00",
+            "bug_num_per_commit": 0.12195121951219512,
+            "bug_commit_num_rate": 0.0
+        },
+        "#javaee--myfaces--struberg": {
+            "start": "2012-11-13 00:00:00",
+            "end": "2011-10-25 00:00:00",
+            "bug_num_per_commit": 0.11764705882352941,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time3": {
+        "#javaee--myfaces--matzew": {
+            "start": "2007-07-13 00:00:00",
+            "end": "2006-07-21 00:00:00",
+            "bug_num_per_commit": 0.14634146341463414,
+            "bug_commit_num_rate": 0.0
+        },
+        "#javaee--myfaces--struberg": {
+            "start": "2011-10-25 00:00:00",
+            "end": "2011-10-24 00:00:00",
+            "bug_num_per_commit": 0.23529411764705882,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#javaee--myfaces--matzew": {
+            "start": "2006-07-20 00:00:00",
+            "end": "2006-02-13 00:00:00",
+            "bug_num_per_commit": 0.14634146341463414,
+            "bug_commit_num_rate": 0.0
+        },
+        "#javaee--myfaces--struberg": {
+            "start": "2011-10-24 00:00:00",
+            "end": "2010-07-05 00:00:00",
+            "bug_num_per_commit": 0.2777777777777778,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#javaee--myfaces--matzew": {
+            "bug_num_per_commit": {
+                "time1": 0.12195121951219512,
+                "time2": 0.12195121951219512,
+                "time3": 0.14634146341463414,
+                "time4": 0.14634146341463414
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.5853658536585366,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#javaee--myfaces--struberg": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.11764705882352941,
+                "time3": 0.23529411764705882,
+                "time4": 0.2777777777777778
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.7058823529411765,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#javaee--myfaces--matzew",
+        "#javaee--myfaces--struberg"
+    ],
+    "number_daily_long_time_error_prone_developer": 2,
+    "improved_daily_long_time_error_prone_developer": [
+        "#javaee--myfaces--matzew",
+        "#javaee--myfaces--struberg"
+    ],
+    "number_improved_daily_long_time_error_prone_developer": 2
+}

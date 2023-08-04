@@ -1,0 +1,30 @@
+{
+    "all_file_num": 3469,
+    "error_developer_file_rate": {
+        "#javaee--openwebbeans--rsandtner": 0.012107235514557509,
+        "#javaee--openwebbeans--covener": 0.022773133467858173,
+        "#javaee--openwebbeans--gpetracek": 0.028250216200634188,
+        "#javaee--openwebbeans--djencks": 0.028826751225136928,
+        "#javaee--openwebbeans--tandraschko": 0.03315076390890746,
+        "#javaee--openwebbeans--jbergmark": 0.03343903142115884,
+        "#javaee--openwebbeans--dblevins": 0.08129143845488614,
+        "#javaee--openwebbeans--ArneLimburg": 0.1173248774863073,
+        "#javaee--openwebbeans--rmannibucau": 0.17324877486307294,
+        "#javaee--openwebbeans--": 0.5696166042087056,
+        "#javaee--openwebbeans--struberg": 0.7639089074661286
+    },
+    "daily_error_prone_developer": [
+        "#javaee--openwebbeans--rsandtner",
+        "#javaee--openwebbeans--covener",
+        "#javaee--openwebbeans--gpetracek",
+        "#javaee--openwebbeans--djencks",
+        "#javaee--openwebbeans--tandraschko",
+        "#javaee--openwebbeans--jbergmark",
+        "#javaee--openwebbeans--dblevins",
+        "#javaee--openwebbeans--ArneLimburg",
+        "#javaee--openwebbeans--rmannibucau",
+        "#javaee--openwebbeans--",
+        "#javaee--openwebbeans--struberg"
+    ],
+    "number_daily_error_prone_developer": 11
+}

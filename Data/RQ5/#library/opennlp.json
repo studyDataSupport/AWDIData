@@ -1,0 +1,166 @@
+{
+    "developer": {
+        "#library--opennlp--ragerri": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "opennlp"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "ragerri",
+                "createdAt": "2010-09-28T15:03:37Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 8,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "ixa-ehu/ixa-pipe-pos",
+                            "isFork": false,
+                            "url": "https://github.com/ixa-ehu/ixa-pipe-pos",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 17,
+                            "watchers": {
+                                "totalCount": 9
+                            },
+                            "forkCount": 15
+                        },
+                        {
+                            "nameWithOwner": "ragerri/ixa-pipe-convert",
+                            "isFork": false,
+                            "url": "https://github.com/ragerri/ixa-pipe-convert",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 5
+                        },
+                        {
+                            "nameWithOwner": "ixa-ehu/ixa-pipe-ml",
+                            "isFork": false,
+                            "url": "https://github.com/ixa-ehu/ixa-pipe-ml",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Lex"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 4,
+                            "watchers": {
+                                "totalCount": 5
+                            },
+                            "forkCount": 9
+                        },
+                        {
+                            "nameWithOwner": "ixa-ehu/cometa",
+                            "isFork": false,
+                            "url": "https://github.com/ixa-ehu/cometa",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 3,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "ragerri/antidote-projections",
+                            "isFork": false,
+                            "url": "https://github.com/ragerri/antidote-projections",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Perl"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 1,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "ixa-ehu/conan-e",
+                            "isFork": false,
+                            "url": "https://github.com/ixa-ehu/conan-e",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "ragerri/evaluation-spanish-language-models",
+                            "isFork": false,
+                            "url": "https://github.com/ragerri/evaluation-spanish-language-models",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "ixa-ehu/antidote-casimedicos",
+                            "isFork": false,
+                            "url": "https://github.com/ixa-ehu/antidote-casimedicos",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 0,
+    "deveper_mul_apache_item_error": {
+        "#library--opennlp--ragerri": [
+            "opennlp"
+        ]
+    }
+}

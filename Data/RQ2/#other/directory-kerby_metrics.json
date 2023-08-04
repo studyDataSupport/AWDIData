@@ -1,0 +1,22 @@
+{
+    "cate": "#other",
+    "#other-cate_aver_bug_rate": 0.5,
+    "#other-cate_aver_bug_commit_rate": 0.4,
+    "high_bug_rate_error_prone_developer_number": 2,
+    "high_bug_commit_rate_error_prone_developer_number": 2,
+    "high_bug_rate_error_prone_developer": {
+        "#other--directory-kerby--farhan5900": 1.0,
+        "#other--directory-kerby--ftarlao": 1.0
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#other--directory-kerby--farhan5900": 1.0,
+        "#other--directory-kerby--ftarlao": 1.0
+    },
+    "error_prone_developer_num": 2,
+    "error_prone_developer": [
+        "#other--directory-kerby--farhan5900",
+        "#other--directory-kerby--ftarlao"
+    ],
+    "error_prone_developer_team_rate": 0.1111111111111111,
+    "team_developer_num": 18
+}

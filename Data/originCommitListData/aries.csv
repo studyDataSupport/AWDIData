@@ -1,0 +1,16 @@
+hash,authors,committer,changes_FileNum,changed_files,message,bug_id
+d160da838303128463dd4dcc9da34f3e4c4c72b3,jbonofre,jbonofre,1,['proxy/proxy-impl/pom.xml'],[maven-release-plugin] prepare for next development iteration,
+7b0d9d4550f01f9438dc5273a0c0b48901793acc,jbonofre,jbonofre,1,['proxy/proxy-impl/pom.xml'],[maven-release-plugin] prepare release org.apache.aries.proxy-1.1.13,
+12d322043e5c3c2bc7e907662ad37ff06c1a711e,jbonofre,jbonofre,1,['proxy/proxy-impl/src/main/java/org/apache/aries/proxy/impl/ProxyUtils.java'],[ARIES-2086] Add JDK19 support,ARIES-2086
+8d81d46046c9c1e4771a84837a405f15a83e9841,jbonofre,jbonofre,1,['proxy/proxy-impl/pom.xml'],Cancel Aries 1.1.13 release,
+d79914cc697d468682f338cd31b9883beeee9c6b,jbonofre,jbonofre,1,['proxy/proxy-impl/pom.xml'],[maven-release-plugin] prepare for next development iteration,
+50dacaadd79e1840f0c8ff86e5e808dd77aadd1f,jbonofre,jbonofre,1,['proxy/proxy-impl/pom.xml'],[maven-release-plugin] prepare release org.apache.aries.proxy-1.1.13,
+396d72f223462f06f5ddd80db90a7c6e5ea06b43,jbonofre,jbonofre,1,['proxy/proxy-impl/pom.xml'],[ARIES-2084] Upgrade to ASM 9.4,ARIES-2084
+46e8662265b332157357b06360833bf4bc6ce547,jbonofre,web-flow,1,['proxy/proxy-impl/pom.xml'],"Merge pull request #144 from holger-at-work/trunk
+
+ARIES-2070 changed asm minimum version to 9",
+ec09810b879e5913358da50d775eeaf30b95a34d,gnodet,gnodet,1,['transaction/transaction-blueprint/pom.xml'],[maven-release-plugin] prepare for next development iteration,
+ef8bc92edfb051eb29a0284d6087dc8a6ed23fc1,gnodet,gnodet,1,['transaction/transaction-blueprint/pom.xml'],[maven-release-plugin] prepare release org.apache.aries.transaction.blueprint-2.3.1,
+9579cf3e4ee5bccf06191c750184f02785fd20a0,grgrzybek,web-flow,2,"['transaction/transaction-blueprint/src/main/java/org/apache/aries/transaction/TransactionAttribute.java', 'transaction/transaction-blueprint/src/main/java/org/apache/aries/transaction/TxInterceptorImpl.java']","Merge pull request #151 from grgrzybek/ARIES-2073
+
+[ARIES-2073] SUPPORTS TX attribute should not create additional coord…",

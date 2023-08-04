@@ -1,0 +1,44 @@
+{
+    "cate": "#http",
+    "#http-cate_aver_bug_rate": 0.08166666666666667,
+    "#http-cate_aver_bug_commit_rate": 0.07947368421052631,
+    "high_bug_rate_error_prone_developer_number": 10,
+    "high_bug_commit_rate_error_prone_developer_number": 9,
+    "high_bug_rate_error_prone_developer": {
+        "#http--thrift--vihangk1": 1.0,
+        "#http--thrift--punwinger": 1.0,
+        "#http--thrift--thomaslee": 0.5,
+        "#http--thrift--toddlipcon": 0.2857142857142857,
+        "#http--thrift--roshan": 0.25,
+        "#http--thrift--dmvolod": 0.2,
+        "#http--thrift--tjake": 0.17857142857142858,
+        "#http--thrift--belugabehr": 0.13793103448275862,
+        "#http--thrift--bgould": 0.125,
+        "#http--thrift--qinghui-xu": 0.1
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#http--thrift--vihangk1": 1.0,
+        "#http--thrift--punwinger": 1.0,
+        "#http--thrift--roshan": 0.25,
+        "#http--thrift--thomaslee": 0.25,
+        "#http--thrift--dmvolod": 0.2,
+        "#http--thrift--toddlipcon": 0.14285714285714285,
+        "#http--thrift--bgould": 0.125,
+        "#http--thrift--belugabehr": 0.10344827586206896,
+        "#http--thrift--qinghui-xu": 0.1
+    },
+    "error_prone_developer_num": 9,
+    "error_prone_developer": [
+        "#http--thrift--vihangk1",
+        "#http--thrift--punwinger",
+        "#http--thrift--thomaslee",
+        "#http--thrift--toddlipcon",
+        "#http--thrift--roshan",
+        "#http--thrift--dmvolod",
+        "#http--thrift--belugabehr",
+        "#http--thrift--bgould",
+        "#http--thrift--qinghui-xu"
+    ],
+    "error_prone_developer_team_rate": 0.022613065326633167,
+    "team_developer_num": 398
+}

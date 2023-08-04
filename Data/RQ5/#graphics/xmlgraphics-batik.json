@@ -1,0 +1,180 @@
+{
+    "developer": {
+        "#graphics--xmlgraphics-batik--simonsteiner1984": {
+            "attribute_apache_item_count": 3,
+            "attribute_apache_item_list": [
+                "xmlgraphics-batik",
+                "xmlgraphics-fop",
+                "xmlgraphics-batik"
+            ],
+            "is_error_developer_apache_item_count": 2,
+            "item_info": {
+                "login": "simonsteiner1984",
+                "createdAt": "2016-03-23T10:13:48Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 5,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "apache/xmlgraphics-fop",
+                            "isFork": false,
+                            "url": "https://github.com/apache/xmlgraphics-fop",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "PostScript"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 157,
+                            "watchers": {
+                                "totalCount": 27
+                            },
+                            "forkCount": 124
+                        },
+                        {
+                            "nameWithOwner": "apache/xmlgraphics-commons",
+                            "isFork": false,
+                            "url": "https://github.com/apache/xmlgraphics-commons",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 17,
+                            "watchers": {
+                                "totalCount": 10
+                            },
+                            "forkCount": 21
+                        },
+                        {
+                            "nameWithOwner": "apache/xmlgraphics-batik",
+                            "isFork": false,
+                            "url": "https://github.com/apache/xmlgraphics-batik",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 183,
+                            "watchers": {
+                                "totalCount": 20
+                            },
+                            "forkCount": 131
+                        },
+                        {
+                            "nameWithOwner": "apache/xmlgraphics-fop-pdf-images",
+                            "isFork": false,
+                            "url": "https://github.com/apache/xmlgraphics-fop-pdf-images",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 10,
+                            "watchers": {
+                                "totalCount": 8
+                            },
+                            "forkCount": 5
+                        },
+                        {
+                            "nameWithOwner": "apache/xmlgraphics-website",
+                            "isFork": false,
+                            "url": "https://github.com/apache/xmlgraphics-website",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 2
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 1,
+    "deveper_mul_apache_item_error": {
+        "#graphics--xmlgraphics-batik--simonsteiner1984": [
+            "xmlgraphics-batik",
+            "xmlgraphics-fop"
+        ]
+    }
+}

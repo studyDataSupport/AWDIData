@@ -1,0 +1,23 @@
+{
+    "all_file_num": 4213,
+    "error_developer_file_rate": {
+        "#big-data--avro--sigand": 0.00023736055067647758,
+        "#big-data--avro--john-karp": 0.00047472110135295516,
+        "#big-data--avro--MickJermsurawong": 0.00047472110135295516,
+        "#big-data--avro--gkomlossi": 0.00047472110135295516,
+        "#big-data--avro--shijinkui": 0.00047472110135295516,
+        "#big-data--avro--tnine": 0.00047472110135295516,
+        "#big-data--avro--trompa": 0.00047472110135295516,
+        "#big-data--avro--aeroevan": 0.0007120816520294327,
+        "#big-data--avro--teabot": 0.0026109660574412533,
+        "#big-data--avro--epalace": 0.0026109660574412533,
+        "#big-data--avro--kan-izh": 0.0026109660574412533,
+        "#big-data--avro--srujann": 0.0028483266081177306,
+        "#big-data--avro--mkw": 0.0028483266081177306,
+        "#big-data--avro--yibing-shi": 0.004509850462853074,
+        "#big-data--avro--jacobtolar": 0.0059340137669119395,
+        "#big-data--avro--unchuckable": 0.006408734868264894
+    },
+    "daily_error_prone_developer": [],
+    "number_daily_error_prone_developer": 0
+}

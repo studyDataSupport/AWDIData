@@ -1,0 +1,21 @@
+{
+    "all_file_num": 97349,
+    "error_developer_file_rate": {
+        "#web-framework--isis--joonatan-r": 5.1361595907508036e-05,
+        "#web-framework--isis--bkalbfus": 6.163391508900965e-05,
+        "#web-framework--isis--blaugold": 6.163391508900965e-05,
+        "#web-framework--isis--lamberken": 9.245087263351446e-05,
+        "#web-framework--isis--sanderginn": 0.0001335401493595209,
+        "#web-framework--isis--DImuthuUpe": 0.0002568079795375402,
+        "#web-framework--isis--bibryam": 0.00034925885217105466,
+        "#web-framework--isis--jcvanderwal": 0.0011196827907836752,
+        "#web-framework--isis--martin-g": 0.011083832396840234,
+        "#web-framework--isis--andi-huber": 0.2631973620684342
+    },
+    "daily_error_prone_developer": [
+        "#web-framework--isis--jcvanderwal",
+        "#web-framework--isis--martin-g",
+        "#web-framework--isis--andi-huber"
+    ],
+    "number_daily_error_prone_developer": 3
+}

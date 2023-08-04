@@ -1,0 +1,19 @@
+{
+    "all_file_num": 14492,
+    "error_developer_file_rate": {
+        "#big-data--spark--misha-cloudera": 0.0002070107645597571,
+        "#big-data--spark--jamesthomp": 0.0002760143527463428,
+        "#big-data--spark--mike0sv": 0.0002760143527463428,
+        "#big-data--spark--samelamin": 0.0002760143527463428,
+        "#big-data--spark--vofque": 0.0004140215291195142,
+        "#big-data--spark--sumansomasundar": 0.0004140215291195142,
+        "#big-data--spark--lovexi": 0.00048302511730609994,
+        "#big-data--spark--mrkm4ntr": 0.00048302511730609994,
+        "#big-data--spark--agsachin": 0.0005520287054926856,
+        "#big-data--spark--davidnavas": 0.0009660502346121999,
+        "#big-data--spark--ooq": 0.0011730609991719568,
+        "#big-data--spark--leoluan2009": 0.003105161468396357
+    },
+    "daily_error_prone_developer": [],
+    "number_daily_error_prone_developer": 0
+}

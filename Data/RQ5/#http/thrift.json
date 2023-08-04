@@ -1,0 +1,882 @@
+{
+    "developer": {
+        "#http--thrift--bgould": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "thrift"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "bgould",
+                "createdAt": "2011-05-04T01:38:34Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 5,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "tinygo-org/tinygo",
+                            "isFork": false,
+                            "url": "https://github.com/tinygo-org/tinygo",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Assembly"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 13238,
+                            "watchers": {
+                                "totalCount": 167
+                            },
+                            "forkCount": 767
+                        },
+                        {
+                            "nameWithOwner": "tinygo-org/tinyfs",
+                            "isFork": false,
+                            "url": "https://github.com/tinygo-org/tinyfs",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 20,
+                            "watchers": {
+                                "totalCount": 4
+                            },
+                            "forkCount": 4
+                        },
+                        {
+                            "nameWithOwner": "bgould/keyboard-firmware",
+                            "isFork": false,
+                            "url": "https://github.com/bgould/keyboard-firmware",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 10,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 2
+                        },
+                        {
+                            "nameWithOwner": "bgould/tinygo-rotary-encoder",
+                            "isFork": false,
+                            "url": "https://github.com/bgould/tinygo-rotary-encoder",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 1,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 2
+                        },
+                        {
+                            "nameWithOwner": "bgould/tinygo-thrift-test",
+                            "isFork": false,
+                            "url": "https://github.com/bgould/tinygo-thrift-test",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Thrift"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "#http--thrift--qinghui-xu": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "thrift"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "qinghui-xu",
+                "createdAt": "2013-09-17T16:17:33Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 2,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "apache/iceberg",
+                            "isFork": false,
+                            "url": "https://github.com/apache/iceberg",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "ANTLR"
+                                    },
+                                    {
+                                        "name": "Scala"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 4552,
+                            "watchers": {
+                                "totalCount": 148
+                            },
+                            "forkCount": 1691
+                        },
+                        {
+                            "nameWithOwner": "qinghui-xu/flink-kubernetes-operator",
+                            "isFork": true,
+                            "url": "https://github.com/qinghui-xu/flink-kubernetes-operator",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Smarty"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "#http--thrift--belugabehr": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "thrift"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "belugabehr",
+                "createdAt": "2015-05-23T23:35:18Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 16,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "apache/hive",
+                            "isFork": false,
+                            "url": "https://github.com/apache/hive",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Perl"
+                                    },
+                                    {
+                                        "name": "PigLatin"
+                                    },
+                                    {
+                                        "name": "SQLPL"
+                                    },
+                                    {
+                                        "name": "PLpgSQL"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "PHP"
+                                    },
+                                    {
+                                        "name": "GAP"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Thrift"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "ANTLR"
+                                    },
+                                    {
+                                        "name": "PLSQL"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "M4"
+                                    },
+                                    {
+                                        "name": "Roff"
+                                    },
+                                    {
+                                        "name": "HiveQL"
+                                    },
+                                    {
+                                        "name": "q"
+                                    },
+                                    {
+                                        "name": "TSQL"
+                                    },
+                                    {
+                                        "name": "ReScript"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 4995,
+                            "watchers": {
+                                "totalCount": 334
+                            },
+                            "forkCount": 4504
+                        },
+                        {
+                            "nameWithOwner": "aws/aws-sdk-java",
+                            "isFork": false,
+                            "url": "https://github.com/aws/aws-sdk-java",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 3984,
+                            "watchers": {
+                                "totalCount": 297
+                            },
+                            "forkCount": 2846
+                        },
+                        {
+                            "nameWithOwner": "testng-team/testng",
+                            "isFork": false,
+                            "url": "https://github.com/testng-team/testng",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Kotlin"
+                                    },
+                                    {
+                                        "name": "Groovy"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 1870,
+                            "watchers": {
+                                "totalCount": 183
+                            },
+                            "forkCount": 985
+                        },
+                        {
+                            "nameWithOwner": "apache/accumulo",
+                            "isFork": false,
+                            "url": "https://github.com/apache/accumulo",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Thrift"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "FreeMarker"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 987,
+                            "watchers": {
+                                "totalCount": 88
+                            },
+                            "forkCount": 431
+                        },
+                        {
+                            "nameWithOwner": "moby/moby",
+                            "isFork": false,
+                            "url": "https://github.com/moby/moby",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Assembly"
+                                    },
+                                    {
+                                        "name": "PowerShell"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "HCL"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 66365,
+                            "watchers": {
+                                "totalCount": 2946
+                            },
+                            "forkCount": 18804
+                        },
+                        {
+                            "nameWithOwner": "docker-java/docker-java",
+                            "isFork": false,
+                            "url": "https://github.com/docker-java/docker-java",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2595,
+                            "watchers": {
+                                "totalCount": 100
+                            },
+                            "forkCount": 1037
+                        },
+                        {
+                            "nameWithOwner": "apache/ranger",
+                            "isFork": false,
+                            "url": "https://github.com/apache/ranger",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "PLpgSQL"
+                                    },
+                                    {
+                                        "name": "PLSQL"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "TSQL"
+                                    },
+                                    {
+                                        "name": "Less"
+                                    },
+                                    {
+                                        "name": "Jinja"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 771,
+                            "watchers": {
+                                "totalCount": 77
+                            },
+                            "forkCount": 846
+                        },
+                        {
+                            "nameWithOwner": "apache/hadoop",
+                            "isFork": false,
+                            "url": "https://github.com/apache/hadoop",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "CMake"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "TeX"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "TLA"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "TSQL"
+                                    },
+                                    {
+                                        "name": "SCSS"
+                                    },
+                                    {
+                                        "name": "Handlebars"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 13710,
+                            "watchers": {
+                                "totalCount": 998
+                            },
+                            "forkCount": 8493
+                        },
+                        {
+                            "nameWithOwner": "apache/orc",
+                            "isFork": false,
+                            "url": "https://github.com/apache/orc",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "CMake"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Ruby"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "SCSS"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 611,
+                            "watchers": {
+                                "totalCount": 48
+                            },
+                            "forkCount": 474
+                        },
+                        {
+                            "nameWithOwner": "testng-team/testng-team.github.io",
+                            "isFork": false,
+                            "url": "https://github.com/testng-team/testng-team.github.io",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "PHP"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 6,
+                            "watchers": {
+                                "totalCount": 4
+                            },
+                            "forkCount": 12
+                        },
+                        {
+                            "nameWithOwner": "aws/aws-sdk-java-v2",
+                            "isFork": false,
+                            "url": "https://github.com/aws/aws-sdk-java-v2",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Scilab"
+                                    },
+                                    {
+                                        "name": "Gherkin"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 1830,
+                            "watchers": {
+                                "totalCount": 94
+                            },
+                            "forkCount": 731
+                        },
+                        {
+                            "nameWithOwner": "aws/aws-sdk",
+                            "isFork": false,
+                            "url": "https://github.com/aws/aws-sdk",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 60,
+                            "watchers": {
+                                "totalCount": 29
+                            },
+                            "forkCount": 12
+                        },
+                        {
+                            "nameWithOwner": "semver4j/semver4j",
+                            "isFork": false,
+                            "url": "https://github.com/semver4j/semver4j",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 36,
+                            "watchers": {
+                                "totalCount": 4
+                            },
+                            "forkCount": 10
+                        },
+                        {
+                            "nameWithOwner": "belugabehr/docker-java",
+                            "isFork": true,
+                            "url": "https://github.com/belugabehr/docker-java",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "belugabehr/testng-team.github.io",
+                            "isFork": true,
+                            "url": "https://github.com/belugabehr/testng-team.github.io",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "PHP"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "belugabehr/aws-sdk-java-v2",
+                            "isFork": true,
+                            "url": "https://github.com/belugabehr/aws-sdk-java-v2",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Scilab"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Gherkin"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "#http--thrift--toddlipcon": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "thrift"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "toddlipcon",
+                "createdAt": "2008-06-18T03:04:16Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 1,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "janestreet/magic-trace",
+                            "isFork": false,
+                            "url": "https://github.com/janestreet/magic-trace",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "OCaml"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 4135,
+                            "watchers": {
+                                "totalCount": 30
+                            },
+                            "forkCount": 69
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 0,
+    "deveper_mul_apache_item_error": {
+        "#http--thrift--bgould": [
+            "thrift"
+        ],
+        "#http--thrift--qinghui-xu": [
+            "thrift"
+        ],
+        "#http--thrift--belugabehr": [
+            "thrift"
+        ],
+        "#http--thrift--toddlipcon": [
+            "thrift"
+        ]
+    }
+}

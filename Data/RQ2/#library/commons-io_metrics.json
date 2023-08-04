@@ -1,0 +1,45 @@
+{
+    "cate": "#library",
+    "#library-cate_aver_bug_rate": 0.2318840579710145,
+    "#library-cate_aver_bug_commit_rate": 0.2,
+    "high_bug_rate_error_prone_developer_number": 10,
+    "high_bug_commit_rate_error_prone_developer_number": 10,
+    "high_bug_rate_error_prone_developer": {
+        "#library--commons-io--Isira-Seneviratne": 2.0,
+        "#library--commons-io--boris-unckel": 1.3333333333333333,
+        "#library--commons-io--ebourg": 1.0,
+        "#library--commons-io--Mixpa": 1.0,
+        "#library--commons-io--netomi": 0.5,
+        "#library--commons-io--jochenw": 0.4166666666666667,
+        "#library--commons-io--Marcono1234": 0.3333333333333333,
+        "#library--commons-io--XenoAmess": 0.25,
+        "#library--commons-io--adamretter": 0.25,
+        "#library--commons-io--jmaerki": 0.23255813953488372
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#library--commons-io--boris-unckel": 1.0,
+        "#library--commons-io--ebourg": 1.0,
+        "#library--commons-io--Isira-Seneviratne": 1.0,
+        "#library--commons-io--Mixpa": 1.0,
+        "#library--commons-io--netomi": 0.5,
+        "#library--commons-io--jochenw": 0.4166666666666667,
+        "#library--commons-io--Marcono1234": 0.3333333333333333,
+        "#library--commons-io--XenoAmess": 0.25,
+        "#library--commons-io--adamretter": 0.25,
+        "#library--commons-io--jukka": 0.21428571428571427
+    },
+    "error_prone_developer_num": 9,
+    "error_prone_developer": [
+        "#library--commons-io--Isira-Seneviratne",
+        "#library--commons-io--boris-unckel",
+        "#library--commons-io--ebourg",
+        "#library--commons-io--Mixpa",
+        "#library--commons-io--netomi",
+        "#library--commons-io--jochenw",
+        "#library--commons-io--Marcono1234",
+        "#library--commons-io--XenoAmess",
+        "#library--commons-io--adamretter"
+    ],
+    "error_prone_developer_team_rate": 0.0989010989010989,
+    "team_developer_num": 91
+}

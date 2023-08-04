@@ -1,0 +1,451 @@
+{
+    "developer": {
+        "#web-framework--myfaces--struberg": {
+            "attribute_apache_item_count": 4,
+            "attribute_apache_item_list": [
+                "myfaces",
+                "openjpa",
+                "openwebbeans",
+                "deltaspike"
+            ],
+            "is_error_developer_apache_item_count": 2,
+            "item_info": {
+                "login": "struberg",
+                "createdAt": "2009-04-29T20:35:45Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 11,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "apache/openjpa",
+                            "isFork": false,
+                            "url": "https://github.com/apache/openjpa",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "SQLPL"
+                                    },
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "Groovy"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 121,
+                            "watchers": {
+                                "totalCount": 28
+                            },
+                            "forkCount": 116
+                        },
+                        {
+                            "nameWithOwner": "apache/maven-site",
+                            "isFork": false,
+                            "url": "https://github.com/apache/maven-site",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 83,
+                            "watchers": {
+                                "totalCount": 33
+                            },
+                            "forkCount": 240
+                        },
+                        {
+                            "nameWithOwner": "apache/openwebbeans",
+                            "isFork": false,
+                            "url": "https://github.com/apache/openwebbeans",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 55,
+                            "watchers": {
+                                "totalCount": 20
+                            },
+                            "forkCount": 57
+                        },
+                        {
+                            "nameWithOwner": "jakartaee/cdi",
+                            "isFork": false,
+                            "url": "https://github.com/jakartaee/cdi",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 183,
+                            "watchers": {
+                                "totalCount": 29
+                            },
+                            "forkCount": 71
+                        },
+                        {
+                            "nameWithOwner": "jakartaee/cdi-tck",
+                            "isFork": false,
+                            "url": "https://github.com/jakartaee/cdi-tck",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Standard ML"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 33,
+                            "watchers": {
+                                "totalCount": 16
+                            },
+                            "forkCount": 42
+                        },
+                        {
+                            "nameWithOwner": "apache/deltaspike",
+                            "isFork": false,
+                            "url": "https://github.com/apache/deltaspike",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 145,
+                            "watchers": {
+                                "totalCount": 27
+                            },
+                            "forkCount": 129
+                        },
+                        {
+                            "nameWithOwner": "apache/openwebbeans-meecrowave",
+                            "isFork": false,
+                            "url": "https://github.com/apache/openwebbeans-meecrowave",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Groovy"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Ruby"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 55,
+                            "watchers": {
+                                "totalCount": 19
+                            },
+                            "forkCount": 28
+                        },
+                        {
+                            "nameWithOwner": "apache/geronimo-batchee",
+                            "isFork": false,
+                            "url": "https://github.com/apache/geronimo-batchee",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 4,
+                            "watchers": {
+                                "totalCount": 13
+                            },
+                            "forkCount": 9
+                        },
+                        {
+                            "nameWithOwner": "apache/openwebbeans-site",
+                            "isFork": false,
+                            "url": "https://github.com/apache/openwebbeans-site",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 9
+                            },
+                            "forkCount": 2
+                        },
+                        {
+                            "nameWithOwner": "struberg/macports-ports",
+                            "isFork": true,
+                            "url": "https://github.com/struberg/macports-ports",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Ruby"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "Scheme"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Perl"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "PHP"
+                                    },
+                                    {
+                                        "name": "Emacs Lisp"
+                                    },
+                                    {
+                                        "name": "Objective-C"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "OCaml"
+                                    },
+                                    {
+                                        "name": "Common Lisp"
+                                    },
+                                    {
+                                        "name": "Haskell"
+                                    },
+                                    {
+                                        "name": "Tcl"
+                                    },
+                                    {
+                                        "name": "C#"
+                                    },
+                                    {
+                                        "name": "AppleScript"
+                                    },
+                                    {
+                                        "name": "Pike"
+                                    },
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "M"
+                                    },
+                                    {
+                                        "name": "Pascal"
+                                    },
+                                    {
+                                        "name": "Pawn"
+                                    },
+                                    {
+                                        "name": "Objective-C++"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "PostScript"
+                                    },
+                                    {
+                                        "name": "QMake"
+                                    },
+                                    {
+                                        "name": "CMake"
+                                    },
+                                    {
+                                        "name": "DTrace"
+                                    },
+                                    {
+                                        "name": "Yacc"
+                                    },
+                                    {
+                                        "name": "M4"
+                                    },
+                                    {
+                                        "name": "Roff"
+                                    },
+                                    {
+                                        "name": "Vim Script"
+                                    },
+                                    {
+                                        "name": "Rich Text Format"
+                                    },
+                                    {
+                                        "name": "V"
+                                    },
+                                    {
+                                        "name": "Raku"
+                                    },
+                                    {
+                                        "name": "NASL"
+                                    },
+                                    {
+                                        "name": "Sieve"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "struberg/avr-libc",
+                            "isFork": true,
+                            "url": "https://github.com/struberg/avr-libc",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Perl"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Assembly"
+                                    },
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "Pawn"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "M4"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 1,
+    "deveper_mul_apache_item_error": {
+        "#web-framework--myfaces--struberg": [
+            "myfaces",
+            "openwebbeans"
+        ]
+    }
+}

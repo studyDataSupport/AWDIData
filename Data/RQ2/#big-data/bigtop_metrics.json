@@ -1,0 +1,20 @@
+{
+    "cate": "#big-data",
+    "#big-data-cate_aver_bug_rate": 0.5,
+    "#big-data-cate_aver_bug_commit_rate": 0.3333333333333333,
+    "high_bug_rate_error_prone_developer_number": 1,
+    "high_bug_commit_rate_error_prone_developer_number": 2,
+    "high_bug_rate_error_prone_developer": {
+        "#big-data--bigtop--Bhashit": 0.5
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#big-data--bigtop--Bhashit": 0.5,
+        "#big-data--bigtop--afomenko": 0.4
+    },
+    "error_prone_developer_num": 1,
+    "error_prone_developer": [
+        "#big-data--bigtop--Bhashit"
+    ],
+    "error_prone_developer_team_rate": 0.0072992700729927005,
+    "team_developer_num": 137
+}

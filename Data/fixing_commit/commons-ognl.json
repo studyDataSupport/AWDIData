@@ -1,0 +1,386 @@
+[
+    {
+        "fix_commit_hash": "9567483b496dc704203c6ecd4f531640743a74f1",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "99f0034b03939c6b8d8a88581bc45a94f025dec1",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "9f86a3c5bc4871648c2e1ad029d400ae6ae272c3",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "38afb452758ee99bc1c7c7827feaaf5ae99fa604",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "8ef4bdc6ac383f60f56556b01521dbca26aae7d3",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "6d9fcdde8cf2690428f344fc7b7051733fe4d12b",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "fae1584e54fdfe07ce86e381ba9e551c7922aa8c",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "c59029df5bf468cceee2d4bc759b75668546b329",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "4a6491d15605750d1df3b9b3c3337d421088bb6a",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "4341ea8e82bb6974d2d472499d36a888ab62144e",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "c77ea1b357dc4d63189be9bbc1466dfed67d6505",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "b7337789ccd5b01f9d63682627ef4c91e52111e1",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "9eff1c013a1a970637242e2a948ef813013d5c73",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "b2a27ab6a9b40e4fb7ceef8605dc06918243af87",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "a207fb346d09bb2ef96b426566f5e3175d682f93",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "f2224b5611baf66ec99c72817b22ed4a3261f3d0",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "259d3770ddac879e7a00d376fcbf1b6e0fa9fdc7",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "9959e84b4dc4c04851ab34ad6f18e3855a47fc2b",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "82505eee8b505ed188436dbc6482be282e8960a2",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "1983524ead2b0d75fa44272e777fc4d0a2cdc509",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "64e372b026dd6a8b6cd07013c2264d8eaee3ff3b",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "14dc11b5db8b858723cdd6e4abf7e44b06396630",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "15ec0c0f3587ab44593a40adc4d37af31996f3a6",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "2f2a22728cb73aaa42be4a5824298ba28df36df4",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "66ca35f51336985f6dc1006db378787091065ebd",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "e7ee1a8752a84b64ef613fe7dfc5e3f4a4de5fb5",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "1b442a436f63e15fc7a661ff018b2fa370521c79",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "d967479ad53da239adacee02046ea2ba04b79ffc",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "fc0c4119778602dec5d77b2c57359bef12f244b3",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "1461364bdfabddffa2a61182d87794e4b18f81a1",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "25291b1c9791e4439bda4f533ade90e2d3039d34",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "7158b239d552ea30978cf9cd0facbdce71fe14cc",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "ac70c1fb86858783b55957545914656bd05692c7",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "6e276e4e79373b0b3cc3682096e42352bce62a17",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "84f53f59321de6bee1d1b53c4098eebeb4ab70d2",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "7dfb8a93b8f8f90852f0d976ae68a4de5238e40d",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "2ae558e9b3bdc05d2c7c7f9171c3ac20ef1cf751",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "842dbcc9e070b48491fc320d4f3a6a7d76bc31f3",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "4ef5a72930683bfd4e198eb4c93f07fe4187ea99",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "aa827a7677a5dd94be97c42becf2732255abb086",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "98d382c997e7fa1c933487ee6b31039b6afd9fe6",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "3c7e1af58d7c1b77f4eef53e1facee83ade58d5f",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "33da597d1ae7cc9bec8653630b2410f1879addbb",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "69c11c78fce8e1a2146d659302fd13c97c970303",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "120b167f292a1f2cdc4f2d83bb3cfe6a7303bb92",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "5ed97a606c01a42348e47817edb59e2329868b8b",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "c3c74d4d21fe4d44a4823641c686e259a4182533",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "bc47ab2d49e4435a86156a04897c013c77b03a73",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "80d3c2b28f172f6d066eb3c65edf158ed38e6fdd",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "3074d3a100bf47885158c6a25557c3c770cb312c",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "45e3eada084dffcead7404a06611e7a6568e6002",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "91b1266173f813a590990fbae2faac8c5ef626cf",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "801d5c080859a3eb8289ed814a7ec0c21ce601a2",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "74c038678c0b0f287ef245118eccb6bb4b3e41e7",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "f5fa03b31f869f9ba5bf073e137db9186546b064",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "1a54656d662ed6fc4f46208ad26ed30e6d866bcb",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "324358239b5cfd944ec1295ea786db4d4a96af36",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "be14d84aae0dbc440672f632465f2576d44b69ab",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "69c9cb6f20946ce6e6819e79f72216341b920f1e",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "03b9d30d5194deff79c99a00619be5e47743178a",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "29e4531036eda4219b0dfef642b3537ae968b63d",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "b76e694e25372876eeb674af67da0cda7dc4e8dc",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "7e3b9fa64edf9972172620c44529ae7c1cd657b5",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "93006133d8072bc098720c522a3533fd31b402e6",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "118bf06785926bc19d34fea70d94527e81419b88",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "e08c8bc59b61668d49219e106979b2d786e64c03",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "d3aca56bd5aa822f6830bebbe81ae040d7f060b4",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "c5e395d00d584b3b232e0ab5b5fa9b9da0093295",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "636a14478c944b6b85a840ff3b59ab1d894c4637",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "0402cf8d5c9cbdea1ad9a69fb2bd98e856021fd1",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "f8fd8880e2882b763d52f951a05edb5cc53d9fce",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "b961a9cd9c00f1a8858fad85ac48828de78890f2",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "4625d2ee0c0ceaf45e8c61be57462ba36695d188",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "ff853a278abddd6965c71dbd3a442cd7e0091cd6",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "fb6b68674b738d5914ec65a07ad5aadf03a38e59",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "510fe91de8a0758ad923993969135ac556de25cc",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "94523ba38c181828f99e26beb0a6ac892e795454",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "35cfb1606f4a8ba7354e8302e8d536ba43230363",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "6531a766514aa2e73dc367939be92537ad17a844",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "aebf47f8214991ce8e0ce17da4229ae7de0618b0",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "4be41c59fa23488fc3458ef50e8a6cd0d710368c",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "0f187b65f3735863110fd3f6f04de442e4b63f40",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "f6714dd41b7a477e758bef5e15e3df6a135efcf1",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "34f806e57ef48f7239023fc9ca06c2c8c8cf37ab",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "6587abc4cb8d9c0481c3a5eb57b74162f2134378",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "822fc09db8d194824dbdf5f570bfc7ca2403cfc5",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "32a544cfa38060bc33615dc746628da45ac06058",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "9cd7c619e5a731e9f80c6269be800b2004411879",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "81cb2eb191c9a8cd116e15740f6456957ea33b50",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "999256e5b4a17c362c3ba6cce52956fd457718ab",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "b08b8197a3a4c07f75467bdcaddcf2f2035ebf77",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "a3ea6625d8960d3dec16f3649ff929f8e0751a0f",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "c34992201979472625dee78b4309f7ac6a1e41e0",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "19477b963bf3005276fef9c7dc537b5c48aa9b57",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "09ba0e64d1da32ba9210effed816f5e5f08acf61",
+        "repo_name": "apache/commons-ognl"
+    },
+    {
+        "fix_commit_hash": "a42fc7c52d24eafe3702e3bcfde0cf69c35a5fe3",
+        "repo_name": "apache/commons-ognl"
+    }
+]

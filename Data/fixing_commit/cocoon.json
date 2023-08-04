@@ -1,0 +1,310 @@
+[
+    {
+        "fix_commit_hash": "ed1500b1e5c0247ef96837c8533115e440681e54",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "584f43500c1537becf147e26b476d4393a031890",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "afee4ee2856b1f248c73d48cd3e3eb9e6d9977a4",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "2e40a6e5e7c43d55944470d5479b48fb99d1046e",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "2fb3941d5f23a421cdf047c42469b4b43bcc2fd8",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "9e01f6580ed51d4f410fb1f3a4a8ac3d9c80add9",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "5fb5a83f9f75e826e57da28ab9496b457e103cff",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "4776512f8755a6431061fe50989b9c92e29efec6",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "59c2d2fa31bae41d38412c71afbc6bc147e7fa13",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "687abd425b6616928ac5c35c0b36515aeaf72632",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "be8081d10679a1162a95df1dfcfaa35f2ee8a49f",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "bdfcd190f2775ab5da6648ce472382d43b79874d",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "f0685e3e591bf20efea0156a98a4cbe7fe6bad86",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "3486de94c29a0ffecc362e127f5f1695aa89dd49",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "a278b1d070180ae5688938c65840d8314c732bed",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "36df0f14318a2151d454d5c1aeaf41d26c33401d",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "bed7c82f16d947a6500e6c568ae3b51af6ccc07a",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "4203a32215014d98f279c51d403fe99f9d50010d",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "787057ce4c978d14f57dc31a3ccf85cbe2b3e72a",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "f169e8e6d05a6919345f355ddbf59f240e99930c",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "ef51e30b8a31c89e955e5c7ddee34cc3c16b96e5",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "74abfaac214b07f49631950ff3d7fd286cfdbb2d",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "8e88d43569645f980d54a2b5b5288f18d5f38128",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "d3e51194479befa72684779ca1afd6aea3be05d7",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "9d572ca4db7041b35e251cc757ebe71967b91766",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "c84efd89d4f178bb2b631212a6c7eefb17ce7ad3",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "d53941577fd5af91f527e874456c035cd640e385",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "74874db7c3e8fb62424cc1fbfec08cc56f8d2ccf",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "bee30bcafbe3057d2703dda788e3bfeed07cbb8b",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "d12d058aa56fadba605fb7aa63d621e2f017a2fc",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "b1cd4ffd0cff7149173cf675d579936ffb7b0839",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "b7f1d38d5faf756b645ad34d41284f2cf90d4a7c",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "4f14bacfafcf5648b68c038f7524d8ba470f4807",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "9b2d20863469e6faa21db3fafd17533e8570ac90",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "214300e51c70a114dc9b358d280bbcf8deb281db",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "ee5c4a8a5ce097a5b2bffc7e8b42243d26a491ce",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "f381fc65b76aab0a48ff9e954a4ac87895fed4a6",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "00aa00acdfc8f0666c2215952de34203427c61be",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "46127bf21ee93e8e4e7b0e11d9a81e8777a72b4e",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "4180f587089538dcbbe19874481f85d4a57cfa92",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "0297a9e09a335b55e8a8e2a0b8652b712efee013",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "8214a6750bdf6fbd0966328d5cc0c0df9f8cb2ce",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "f2a3b004a2a17cc77a8e141fc43703b3a089709c",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "92fb119f9673983f07927240cad20de83bac2f68",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "15a68c039c737d87d19248015880e8f3ae6f2390",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "6418b04fe151dbf7c7da1b155c11a9dc993ebbb6",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "da3747faa88b2daacff368a00e488182b08233e5",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "a186510bf1b68adf487b55c46fcb93f70e2ec0ea",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "c8f44aee3cdc9301682e4aecc69728ac63867793",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "667bc113e68b83d3c644e9feeba56222162e08e1",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "c439dd5db951b6c3c54f9d8e9f96603599f20936",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "95523676102f55405398cc645e43e8e0896196a6",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "f5a7348ecf0075532c207fa3839a6026b09164ba",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "6f90f0943b581eb37f5fec93a49cd10c7399e02e",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "710f5fe38300cf2ef9bf62511fae0715c71141bd",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "52c9a623c554e3e392a3b36e572fcb639a03fa03",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "21f2d11d3869c907674e771467a1dbca99e2224e",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "84d53f8efc0ecbbc435e42d73e154342725d6926",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "3f0eb0625900ac75877a8ae0cf79aeaedc90e558",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "c60a617772fb1859ecb58d366245427dc89a7895",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "cdc5685b6578accb8fe24a5c69daba4110fe67ff",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "c626c3fbfeea18bd604fbc13dc624fa69f1b293b",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "b5ee8e2e5501ebb3c5fdeb1580a32756ccf05378",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "558d6f042d149b4b8dec0623dde95a8a8bd32c51",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "6e005ebd9399ffcbe3fa655c72fb055dc1798651",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "4eef4a8533d6daec679e667d7a12fe629c617365",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "1db5816f55da36838520f64bda6c5ecd2661039e",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "8b6f9c811643521fe7253fe11394b16f0482d4a2",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "9cc50d0bcb61123160e72ca9a0bee7593df79d2a",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "d4274358a917816b761b0fd04f9b8cce4011df7c",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "f10758d5e2cad4a562d67657ec1c5a655d77e3e6",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "738d9a2186177edb12e71aaefc5f0fc0a64171b2",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "e7954a0c47d5c9f93f34c6193511d37bb47ef722",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "7f33514b75338f787ada0f6709b22cd165e578d9",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "1ec1ed8715d2733bb206a92ed51ceca570f70cc2",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "d7f4be35cc544bc65b6e99bdcec08235f1e9d1e8",
+        "repo_name": "apache/cocoon"
+    },
+    {
+        "fix_commit_hash": "5c170153ddce1e00d9f87b9f460ea6c7e23ed468",
+        "repo_name": "apache/cocoon"
+    }
+]

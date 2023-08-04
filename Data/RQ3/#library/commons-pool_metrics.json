@@ -1,0 +1,11 @@
+{
+    "all_file_num": 456,
+    "error_developer_file_rate": {
+        "#library--commons-pool--mswintermeyer": 0.0043859649122807015,
+        "#library--commons-pool--mebigfatguy": 0.02631578947368421,
+        "#library--commons-pool--kinow": 0.02850877192982456,
+        "#library--commons-pool--jvz": 0.03070175438596491
+    },
+    "daily_error_prone_developer": [],
+    "number_daily_error_prone_developer": 0
+}

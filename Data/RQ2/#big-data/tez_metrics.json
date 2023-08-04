@@ -1,0 +1,46 @@
+{
+    "cate": "#big-data",
+    "#big-data-cate_aver_bug_rate": 0.5,
+    "#big-data-cate_aver_bug_commit_rate": 0.3333333333333333,
+    "high_bug_rate_error_prone_developer_number": 12,
+    "high_bug_commit_rate_error_prone_developer_number": 11,
+    "high_bug_rate_error_prone_developer": {
+        "#big-data--tez--pgaref": 2.0,
+        "#big-data--tez--jshmchenxi": 1.0,
+        "#big-data--tez--sidseth": 0.8204283360790774,
+        "#big-data--tez--t3rmin4t0r": 0.7142857142857143,
+        "#big-data--tez--r0hini": 0.6666666666666666,
+        "#big-data--tez--hiteshs": 0.610032362459547,
+        "#big-data--tez--": 0.6002400960384153,
+        "#big-data--tez--rbalamohan": 0.5789473684210527,
+        "#big-data--tez--zjffdu": 0.5630252100840336,
+        "#big-data--tez--harishjp": 0.5,
+        "#big-data--tez--hagleitn": 0.5,
+        "#big-data--tez--acmurthy": 0.5
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#big-data--tez--jshmchenxi": 1.0,
+        "#big-data--tez--pgaref": 1.0,
+        "#big-data--tez--shameersss1": 0.6666666666666666,
+        "#big-data--tez--r0hini": 0.6666666666666666,
+        "#big-data--tez--hagleitn": 0.5,
+        "#big-data--tez--acmurthy": 0.5,
+        "#big-data--tez--sidseth": 0.4497528830313015,
+        "#big-data--tez--amahussein": 0.4,
+        "#big-data--tez--": 0.3457382953181273,
+        "#big-data--tez--srahman-qubole": 0.3333333333333333,
+        "#big-data--tez--tassapol-hortonworks": 0.3333333333333333
+    },
+    "error_prone_developer_num": 7,
+    "error_prone_developer": [
+        "#big-data--tez--pgaref",
+        "#big-data--tez--jshmchenxi",
+        "#big-data--tez--sidseth",
+        "#big-data--tez--r0hini",
+        "#big-data--tez--",
+        "#big-data--tez--hagleitn",
+        "#big-data--tez--acmurthy"
+    ],
+    "error_prone_developer_team_rate": 0.11475409836065574,
+    "team_developer_num": 61
+}

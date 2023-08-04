@@ -1,0 +1,370 @@
+[
+    {
+        "fix_commit_hash": "9e562545757ee49102935482dfbcdb0849c4d4ab",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "12be4daa3eb7eb140add818ec79ff7726c00fc50",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "310395799ed09a6b8848115b847bf0a49bc0ad45",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "0865b1571aac87f49e7f743eae00e32bc34b365f",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "1221a2c7eb3664af33aa4551d6a81379eb9d088f",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "0fb5942c2144f53a0291b8da0184ea9f1520e863",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "b6b4e9c739ffc22fa0cdad3d54dd203682a47960",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "e40f0db1dec673bf47f80d5827d87850ec0af0dc",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "3b275e54c017cf1e145fcead787acfd486f95aa3",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "2b0311a56fb68119dd8f22647e56e47dfb1f3f47",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "abac6c05136548ebe83dd93c978daa4a8bf6bd8f",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "a4a8f1c41b4e6c5e5593d0eef791b52b60f9e974",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "ef80e4776e487dfe6c46573e528ffaca35164c6d",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "070cc627f4e6d61913dc52d2caef798532d7da41",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "a7957bd6ce82f204a9135239aa207865b673d5b2",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "0a7c1c7367f81e4db9b79417695076369fc23598",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "5898b20030d0b5e8d975004f095e8532d13cd1e2",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "c376036f76af97f7aa6d6eaa9607e311aa3afb52",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "560e8d65252fb086f0aa9776488a7898a844acc9",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "00c2f34f13c7ad2d06aa38dd4659fbd5fb82adb8",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "a61676fa3594cff361436560fac788dd68658a1e",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "a70be70995679f482870413fcf135a0ed6397dd1",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "a2904178909e1db3157dbce131a0bf166cfbd8f5",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "b456b08be4a45ba7000c1c8c089039243544cdb4",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "6c0210b27cf29f6c5184199b826435a496be0f29",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "67239363cc7178b5f8eb2b677436db79602fcee1",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "e316559a406141dfdec3ffada669c3d61c02d18d",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "d53cdd94deb1fb09619b5189ec19ed2636f2bd1c",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "2de52d18830e6f5f194f7a76c6bf5af2ab04d811",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "0dd904a0d3b0f1949b6c91916d757f3264b998d1",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "68d39c7913ce16544a255e27fcaabebc08cdf5c9",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "788502bd1afbf94af946f6f8e80e3da982e62fc4",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "7524bed7a5232212b3c4a68d45c783293dbc4dfe",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "946a080e2c84ef37044caacaf8b9092da7868906",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "9565ae4a198b9938801fde6c88921ee5f8bfaa05",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "016c1352a1b9b26d4b955d5e5cf9c6937fde0982",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "1899ab5c32cc80651a8975086b1daeba3d6f978b",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "b4b249c64733e572c231f1891769062688cf3826",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "a91b03d59067260bb2818b52b8760db5f5786352",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "0aa5c81ac02481ff987bf88bcb3d0d73ea198dde",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "90efae3789aed0eb138355ba6f44aacf489818ca",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "02bd6c4fb271cbf69fe11554b3dbb69279428c6f",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "df6ae68ead603e39f827275b3055adf43c5f3145",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "70eae6cea40d2c80a13a73b66546f7e637d01077",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "a38f0e082fe095afbb09cef14e1e5d64e452667b",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "9ddc4c45847d48ab4835c3cf38b307d7083886e9",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "e9f975a8eb487369211dc83a84cd618c2214c2da",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "d328b7f1c3c7e597f4d0c5fa9adb01f8a5a1193a",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "f55035ac7fb451e85e3139c959a25f47f4ffd04a",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "f63a13d5f7113d29f6e60166e6a70c426d89335f",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "c14e995dfc8b41b13f83dc7c1a4c1cba2808dec3",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "77fb42a40220211dee941ed7e4faf57a26dd605a",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "dfb8f3c68d754f3f2718a61a7fea47c92ae51899",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "305e78a0aef8dc0cd267581ebc7a4a5f8316ee18",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "289ca5bb4cd6e75a51cffce9800c34f1441da0b9",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "6a79d35d6654d895d0a4b73b3a9282ec9aaeeb06",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "470217ebc26bc5cac5b121f30121b0a144893d83",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "f5574bfe285edd79207fe8c30f53cb0af06e26bb",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "d61792702a4680671d86b6c138912a3c36bd1755",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "d2e50af54ee89daae5907a3388cc6c83b10b2a74",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "d403648a5b5dfb2da3bb9978794bea8f35dd436d",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "b2eda69ec3e25a5c8a407707eba93453460ae9d4",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "170b6b90ed2a884219e24412d4081c0c0ba6275b",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "f108400a896828e785e61a51e10d17aea9dccdc2",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "023d9551d2177ed964fcef20bef18b63d09cdb94",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "f09697b7fdaaa114b1c93a6afd944607d1a32cb8",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "6228007aa81fb62e4c90e11d3a3efccf35f2df93",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "4701b96281124b9ccd6ecd35c3f16aa73345f315",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "a009a9a92b876d85d32441cb4b27b26628306e6d",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "fb0be4a4b561ddc3aa942f2929f734b0bdd9a035",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "ae548ab3347924d1047b38c44fa9725a746511bc",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "843730117351443d59ef3d15afeffda1920f5d42",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "529696137875b36f9bb64e247ff02739fd70da9b",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "4dc0d455ca0fbc1109ee6af22554aa2b40807c8f",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "2000ebc8be79733140face581be259278dd67071",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "2bf032e17a06000b8336519b3642a339e5c6d331",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "883f3a23e6c85e37b555a9d6fb7f955b9702b072",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "d280ca6b5437975b5a1ca09bbe91c0b8f381c882",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "ed6115b320aa309100ba2edabff22f5e0c51a71b",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "801a75dcf871914d243f585c8755140eda52c69f",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "efd53e5e9bbc3057586af8389a0b139b44af7a65",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "7d886c0bf06232096740c5066aaf5510d8e7abf5",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "44554f0549d174c139c614a5fd2553212648a015",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "347c203943b68a1dddede34185b0b3852c7d598b",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "b292fbd5d0b9143eeaf977cbdaa6e21cfbcdd820",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "780bfb95abefbc255f44175ae748be1f5ad9cebb",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "c09321c5287bc9adc063b65fbc8591cfa3688767",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "3ec83b0539edfee5a28fd93bb10edb8ae1f5577b",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "fd082cf502d52623b7f755d023f150b3326a0c94",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "110923de2f4024a623b52cde5b46b6b903dbbb9b",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "b4123bad4cd30ce8fb515a791b1d654bb838106f",
+        "repo_name": "apache/commons-imaging"
+    },
+    {
+        "fix_commit_hash": "268ec0e823d4255faf6233c2237cd3a0f8ed77e6",
+        "repo_name": "apache/commons-imaging"
+    }
+]

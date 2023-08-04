@@ -1,0 +1,242 @@
+[
+    {
+        "fix_commit_hash": "353a171299a889a99e8f81ef1fa684bb622d2eeb",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "1cc272210d60cd3b16c14ca6b8ad2a52b766f415",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "1d1d4e988afca3499224f785a2740f35d7cb6e1c",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "092f620af0fb01b9a533db0879d8557cd8bbb041",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "b716f90072e20c23ca39b44fa943497650a20c68",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "45e9190503e70ed4fbf9c6c08298bd5985c926cd",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "e89deb37d3bc681c2791b173592d16a3c7c3fdaa",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "2535b94a95c3a1b54b2612109e9ad1267c80ebae",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "f36c6feb34316198df840279bd80758e0475f1c0",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "33d93bf136e3916cfa193b151315b0eb8b3df58a",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "9480a5da8f553d351f744ac3d98287cbd97e1b85",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "1474ba327798ebfabbcf5ab1db01330851f3377c",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "0f30edc467a2ba03e7f2786e1088df624e0c3cf0",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "1918a4419cdb7a6776a8ec5121a070ea1f2277b9",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "35863aec26dca6ca6dd315962d9dd8d3a4a11ec2",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "f84bf38c0170f6b6b723293306a3a11df16d2d36",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "6e86e0de00af300293d2182e5395e17f4447f1ab",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "ba4ab03b1363182062b07d9f66083d38bd82edbf",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "1959a363cc8950ceb1959bf78d47f8d11e383243",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "15e3ba0f7bbf0adec8ca93d6acaf5f488582c949",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "558eeebcd08e07fb0bafafc660d82c22799ff824",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "afc2d3ddd57eedcb3242073067b8f7d089dcabca",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "f36ff599a7670c025010ed7d86ea0fbda7e26bee",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "91f7e267e61047614751763f6c5968a1ff65f82c",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "3449a42bbaeed0ff5b0d07998169ff2896bf45c7",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "81aea944160608838cb2d7cdfb0d9b6893a655d9",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "af598460ac9990c2a02823b3cfbdaf9f5429ad5e",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "bc7a3969c039f179d5a73c8aff19cfe19d511503",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "d7969ac934e752e7a7b258fa5a5af9a563c40a13",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "75965fd2aaa2ee1c5f34a0ea92b0a444be2cfc85",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "377dd0a46189c53b9af1f89c7e4e9e1bc7698646",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "131e4926b7a31fff3c6bead10bbe6dcd15e32bf9",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "c046e86395b4a1ededbd7595e9500528195c58ed",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "1a5b367ebabe8dfc3b37481472dca48f115cd261",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "c75b006dda746f7dd996664aacd3cfaf2bbe2f3e",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "6bcbadcc35c5f78cc04d6916beab6c5e10a1a016",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "3a1821ce1ea983f9b4853ad4c39a9f05b4ff8769",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "f82acf29b671027e598f8fd988b72b77bb691558",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "0e2cf5e8c3012e9475e0fe1dfa738e3208ce55b6",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "221072f6f2459741c4cccd9d48a49939da3874a5",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "78332b75daa1024dd5a72cdc79088876e06715c7",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "04e444f4be3fe3715b14f5d76759ff362809efef",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "1d962c59681e4f895c6b09723f50e2606fa916b3",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "9e7a1ff3e30bd14241c6f6e7602d1220b61ddbff",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "006d0566af0726b8ca5bdb07e28c4065b95238b6",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "9517650b162eb0843739a4dfe9d9c1aa16284822",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "d70c24733160cbc65329d9f68630230b681995bf",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "13d5958c79469d6657e614e2bb926ed21e4f4afc",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "708fe1ebdc0975f75ca22207dd55e3a86e90c1f4",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "c0a15dda151b0f19eb1499fa05688092941e8fc0",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "0f66b2682ebea556899326a2b5ec54415880b623",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "00f876e37fe96864656a329d44ef511763b8c477",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "9797e9f54fd4a292a21c304aae482d3c2c5bfb06",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "2ef52ac20a3c43d56fba4c02e86a9698cb2f2bc6",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "bc06d6eada2ea409c8ccd699bd3624cd1138f212",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "aa153ade0fc11ee7bf2c866e45b8411ae541c1c6",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "2ae3d4dddb2c7d3b9c33c7eab263bf592d68fcc7",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "afdba53781be321f89808e8d25fd21bcb6c73817",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "265aaffe456b7fbf4b29c0feb498581deddb90e7",
+        "repo_name": "apache/commons-dbcp"
+    },
+    {
+        "fix_commit_hash": "c66a306f410d3829796e554ace90ed5fd4df950f",
+        "repo_name": "apache/commons-dbcp"
+    }
+]

@@ -1,0 +1,802 @@
+{
+    "developer": {
+        "#graphics--cocoon--jashaj": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "cocoon"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "jashaj",
+                "createdAt": "2011-10-08T09:34:49Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 8,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "jashaj/TemplateDemo",
+                            "isFork": false,
+                            "url": "https://github.com/jashaj/TemplateDemo",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "FreeMarker"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 1,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 5
+                        },
+                        {
+                            "nameWithOwner": "jashaj/spring-boot-thymeleaf-fragments",
+                            "isFork": false,
+                            "url": "https://github.com/jashaj/spring-boot-thymeleaf-fragments",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "SCSS"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 36,
+                            "watchers": {
+                                "totalCount": 5
+                            },
+                            "forkCount": 25
+                        },
+                        {
+                            "nameWithOwner": "meanmail-dev/requirements",
+                            "isFork": false,
+                            "url": "https://github.com/meanmail-dev/requirements",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Kotlin"
+                                    },
+                                    {
+                                        "name": "Lex"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 69,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 16
+                        },
+                        {
+                            "nameWithOwner": "onewelcome/dotnet-mvc-oauth-example",
+                            "isFork": false,
+                            "url": "https://github.com/onewelcome/dotnet-mvc-oauth-example",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "C#"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 24
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "onewelcome/java-spring-oidc-example",
+                            "isFork": false,
+                            "url": "https://github.com/onewelcome/java-spring-oidc-example",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 32,
+                            "watchers": {
+                                "totalCount": 28
+                            },
+                            "forkCount": 15
+                        },
+                        {
+                            "nameWithOwner": "jashaj/weatherinfo",
+                            "isFork": false,
+                            "url": "https://github.com/jashaj/weatherinfo",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "onewelcome/identity-cloud-documentation",
+                            "isFork": false,
+                            "url": "https://github.com/onewelcome/identity-cloud-documentation",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 5,
+                            "watchers": {
+                                "totalCount": 21
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "onewelcome/react-lib-components",
+                            "isFork": false,
+                            "url": "https://github.com/onewelcome/react-lib-components",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "TypeScript"
+                                    },
+                                    {
+                                        "name": "SCSS"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "MDX"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 5,
+                            "watchers": {
+                                "totalCount": 12
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "#graphics--cocoon--SimoneGianni": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "cocoon"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "SimoneGianni",
+                "createdAt": "2011-11-29T18:06:20Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 6,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "SimoneGianni/tsMatchers",
+                            "isFork": false,
+                            "url": "https://github.com/SimoneGianni/tsMatchers",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "TypeScript"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2,
+                            "watchers": {
+                                "totalCount": 2
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "docker/for-mac",
+                            "isFork": false,
+                            "url": "https://github.com/docker/for-mac",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 2352,
+                            "watchers": {
+                                "totalCount": 217
+                            },
+                            "forkCount": 133
+                        },
+                        {
+                            "nameWithOwner": "ActivityWatch/aw-watcher-window",
+                            "isFork": false,
+                            "url": "https://github.com/ActivityWatch/aw-watcher-window",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Swift"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 73,
+                            "watchers": {
+                                "totalCount": 9
+                            },
+                            "forkCount": 40
+                        },
+                        {
+                            "nameWithOwner": "twihike/chat-ui-react",
+                            "isFork": false,
+                            "url": "https://github.com/twihike/chat-ui-react",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "TypeScript"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 79,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 22
+                        },
+                        {
+                            "nameWithOwner": "SimoneGianni/chat-ui-react",
+                            "isFork": true,
+                            "url": "https://github.com/SimoneGianni/chat-ui-react",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "TypeScript"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "SimoneGianni/LoggerTest",
+                            "isFork": false,
+                            "url": "https://github.com/SimoneGianni/LoggerTest",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "#graphics--xmlgraphics-batik--simonsteiner1984": {
+            "attribute_apache_item_count": 3,
+            "attribute_apache_item_list": [
+                "xmlgraphics-batik",
+                "xmlgraphics-fop",
+                "xmlgraphics-batik"
+            ],
+            "is_error_developer_apache_item_count": 2,
+            "item_info": {
+                "login": "simonsteiner1984",
+                "createdAt": "2016-03-23T10:13:48Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 5,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "apache/xmlgraphics-fop",
+                            "isFork": false,
+                            "url": "https://github.com/apache/xmlgraphics-fop",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "PostScript"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 157,
+                            "watchers": {
+                                "totalCount": 27
+                            },
+                            "forkCount": 124
+                        },
+                        {
+                            "nameWithOwner": "apache/xmlgraphics-commons",
+                            "isFork": false,
+                            "url": "https://github.com/apache/xmlgraphics-commons",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 17,
+                            "watchers": {
+                                "totalCount": 10
+                            },
+                            "forkCount": 21
+                        },
+                        {
+                            "nameWithOwner": "apache/xmlgraphics-batik",
+                            "isFork": false,
+                            "url": "https://github.com/apache/xmlgraphics-batik",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 183,
+                            "watchers": {
+                                "totalCount": 20
+                            },
+                            "forkCount": 131
+                        },
+                        {
+                            "nameWithOwner": "apache/xmlgraphics-fop-pdf-images",
+                            "isFork": false,
+                            "url": "https://github.com/apache/xmlgraphics-fop-pdf-images",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 10,
+                            "watchers": {
+                                "totalCount": 8
+                            },
+                            "forkCount": 5
+                        },
+                        {
+                            "nameWithOwner": "apache/xmlgraphics-website",
+                            "isFork": false,
+                            "url": "https://github.com/apache/xmlgraphics-website",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 2
+                        }
+                    ]
+                }
+            }
+        },
+        "#graphics--xmlgraphics-fop--spepping": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "xmlgraphics-fop"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "spepping",
+                "createdAt": "2010-08-27T07:51:24Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 0,
+                    "nodes": []
+                }
+            }
+        },
+        "#graphics--xmlgraphics-fop--simonsteiner1984": {
+            "attribute_apache_item_count": 3,
+            "attribute_apache_item_list": [
+                "xmlgraphics-fop",
+                "xmlgraphics-fop",
+                "xmlgraphics-batik"
+            ],
+            "is_error_developer_apache_item_count": 2,
+            "item_info": {
+                "login": "simonsteiner1984",
+                "createdAt": "2016-03-23T10:13:48Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 5,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "apache/xmlgraphics-fop",
+                            "isFork": false,
+                            "url": "https://github.com/apache/xmlgraphics-fop",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "PostScript"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 157,
+                            "watchers": {
+                                "totalCount": 27
+                            },
+                            "forkCount": 124
+                        },
+                        {
+                            "nameWithOwner": "apache/xmlgraphics-commons",
+                            "isFork": false,
+                            "url": "https://github.com/apache/xmlgraphics-commons",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 17,
+                            "watchers": {
+                                "totalCount": 10
+                            },
+                            "forkCount": 21
+                        },
+                        {
+                            "nameWithOwner": "apache/xmlgraphics-batik",
+                            "isFork": false,
+                            "url": "https://github.com/apache/xmlgraphics-batik",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 183,
+                            "watchers": {
+                                "totalCount": 20
+                            },
+                            "forkCount": 131
+                        },
+                        {
+                            "nameWithOwner": "apache/xmlgraphics-fop-pdf-images",
+                            "isFork": false,
+                            "url": "https://github.com/apache/xmlgraphics-fop-pdf-images",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 10,
+                            "watchers": {
+                                "totalCount": 8
+                            },
+                            "forkCount": 5
+                        },
+                        {
+                            "nameWithOwner": "apache/xmlgraphics-website",
+                            "isFork": false,
+                            "url": "https://github.com/apache/xmlgraphics-website",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Makefile"
+                                    },
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 2,
+                            "watchers": {
+                                "totalCount": 3
+                            },
+                            "forkCount": 2
+                        }
+                    ]
+                }
+            }
+        },
+        "#graphics--xmlgraphics-fop--vhennebert": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "xmlgraphics-fop"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "vhennebert",
+                "createdAt": "2012-06-22T16:55:35Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 0,
+                    "nodes": []
+                }
+            }
+        },
+        "#graphics--xmlgraphics-fop--jmaerki": {
+            "attribute_apache_item_count": 2,
+            "attribute_apache_item_list": [
+                "xmlgraphics-fop",
+                "pdfbox"
+            ],
+            "is_error_developer_apache_item_count": 2,
+            "item_info": {
+                "login": "jmaerki",
+                "createdAt": "2012-10-03T08:51:44Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 2,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "kairos-io/kairos",
+                            "isFork": false,
+                            "url": "https://github.com/kairos-io/kairos",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Go"
+                                    },
+                                    {
+                                        "name": "Earthly"
+                                    },
+                                    {
+                                        "name": "PowerShell"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 618,
+                            "watchers": {
+                                "totalCount": 12
+                            },
+                            "forkCount": 68
+                        },
+                        {
+                            "nameWithOwner": "jmaerki/wod-continuous-feed-printer-pack",
+                            "isFork": false,
+                            "url": "https://github.com/jmaerki/wod-continuous-feed-printer-pack",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 3,
+    "developer_mul_apache_item_error": {
+        "#graphics--cocoon--jashaj": [
+            "cocoon"
+        ],
+        "#graphics--cocoon--SimoneGianni": [
+            "cocoon"
+        ],
+        "#graphics--xmlgraphics-batik--simonsteiner1984": [
+            "xmlgraphics-batik",
+            "xmlgraphics-fop"
+        ],
+        "#graphics--xmlgraphics-fop--spepping": [
+            "xmlgraphics-fop"
+        ],
+        "#graphics--xmlgraphics-fop--simonsteiner1984": [
+            "xmlgraphics-batik",
+            "xmlgraphics-fop"
+        ],
+        "#graphics--xmlgraphics-fop--vhennebert": [
+            "xmlgraphics-fop"
+        ],
+        "#graphics--xmlgraphics-fop--jmaerki": [
+            "pdfbox",
+            "xmlgraphics-fop"
+        ]
+    }
+}

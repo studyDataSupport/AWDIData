@@ -1,0 +1,50 @@
+{
+    "cate": "#javaee",
+    "#javaee-cate_aver_bug_rate": 0.1859580931957289,
+    "#javaee-cate_aver_bug_commit_rate": 0.14415584415584415,
+    "high_bug_rate_error_prone_developer_number": 12,
+    "high_bug_commit_rate_error_prone_developer_number": 11,
+    "high_bug_rate_error_prone_developer": {
+        "#javaee--openwebbeans--dblevins": 1.2923076923076924,
+        "#javaee--openwebbeans--jbergmark": 1.1886792452830188,
+        "#javaee--openwebbeans--djencks": 1.1714285714285715,
+        "#javaee--openwebbeans--covener": 0.671875,
+        "#javaee--openwebbeans--gpetracek": 0.6538461538461539,
+        "#javaee--openwebbeans--ArneLimburg": 0.5922330097087378,
+        "#javaee--openwebbeans--": 0.4474370112945265,
+        "#javaee--openwebbeans--struberg": 0.25296442687747034,
+        "#javaee--openwebbeans--gerdogdu": 0.25,
+        "#javaee--openwebbeans--rmannibucau": 0.24583333333333332,
+        "#javaee--openwebbeans--rsandtner": 0.2,
+        "#javaee--openwebbeans--tandraschko": 0.1935483870967742
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#javaee--openwebbeans--ArneLimburg": 0.5436893203883495,
+        "#javaee--openwebbeans--djencks": 0.5142857142857142,
+        "#javaee--openwebbeans--dblevins": 0.5076923076923077,
+        "#javaee--openwebbeans--covener": 0.484375,
+        "#javaee--openwebbeans--jbergmark": 0.39622641509433965,
+        "#javaee--openwebbeans--gpetracek": 0.36538461538461536,
+        "#javaee--openwebbeans--": 0.3370981754995656,
+        "#javaee--openwebbeans--rmannibucau": 0.27291666666666664,
+        "#javaee--openwebbeans--struberg": 0.2676453980801807,
+        "#javaee--openwebbeans--tandraschko": 0.20967741935483872,
+        "#javaee--openwebbeans--rsandtner": 0.2
+    },
+    "error_prone_developer_num": 11,
+    "error_prone_developer": [
+        "#javaee--openwebbeans--dblevins",
+        "#javaee--openwebbeans--jbergmark",
+        "#javaee--openwebbeans--djencks",
+        "#javaee--openwebbeans--covener",
+        "#javaee--openwebbeans--gpetracek",
+        "#javaee--openwebbeans--ArneLimburg",
+        "#javaee--openwebbeans--",
+        "#javaee--openwebbeans--struberg",
+        "#javaee--openwebbeans--rmannibucau",
+        "#javaee--openwebbeans--rsandtner",
+        "#javaee--openwebbeans--tandraschko"
+    ],
+    "error_prone_developer_team_rate": 0.4782608695652174,
+    "team_developer_num": 23
+}

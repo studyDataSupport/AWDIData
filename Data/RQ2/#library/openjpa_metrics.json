@@ -1,0 +1,24 @@
+{
+    "cate": "#library",
+    "#library-cate_aver_bug_rate": 0.2318840579710145,
+    "#library-cate_aver_bug_commit_rate": 0.2,
+    "high_bug_rate_error_prone_developer_number": 3,
+    "high_bug_commit_rate_error_prone_developer_number": 3,
+    "high_bug_rate_error_prone_developer": {
+        "#library--openjpa--tandraschko": 0.75,
+        "#library--openjpa--bmarwell": 0.3333333333333333,
+        "#library--openjpa--mikedd": 0.25544554455445545
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#library--openjpa--bmarwell": 0.3333333333333333,
+        "#library--openjpa--": 0.2767189384800965,
+        "#library--openjpa--tandraschko": 0.25
+    },
+    "error_prone_developer_num": 2,
+    "error_prone_developer": [
+        "#library--openjpa--tandraschko",
+        "#library--openjpa--bmarwell"
+    ],
+    "error_prone_developer_team_rate": 0.10526315789473684,
+    "team_developer_num": 19
+}

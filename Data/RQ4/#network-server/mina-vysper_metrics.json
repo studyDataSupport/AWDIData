@@ -1,0 +1,42 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#network-server--mina-vysper--karimhm": "2021-01-07 00:00:00",
+        "#network-server--mina-vysper--JLLeitschuh": "2020-02-29 00:00:00",
+        "#network-server--mina-vysper--reda-alaoui": "2019-07-25 00:00:00",
+        "#network-server--mina-vysper--berndfo": "2013-06-03 00:00:00",
+        "#network-server--mina-vysper--": "2009-04-21 00:00:00",
+        "#network-server--mina-vysper--elecharny": "2009-05-14 00:00:00",
+        "#network-server--mina-vysper--mystic-lama": "2009-08-01 00:00:00",
+        "#network-server--mina-vysper--jvermillard": "2009-05-26 00:00:00"
+    },
+    "commiter_end_time": {
+        "#network-server--mina-vysper--karimhm": "2021-01-07 00:00:00",
+        "#network-server--mina-vysper--JLLeitschuh": "2020-02-29 00:00:00",
+        "#network-server--mina-vysper--reda-alaoui": "2019-09-08 00:00:00",
+        "#network-server--mina-vysper--berndfo": "2013-07-23 00:00:00",
+        "#network-server--mina-vysper--": "2012-12-18 00:00:00",
+        "#network-server--mina-vysper--elecharny": "2012-07-10 00:00:00",
+        "#network-server--mina-vysper--mystic-lama": "2011-09-19 00:00:00",
+        "#network-server--mina-vysper--jvermillard": "2009-05-26 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#network-server--mina-vysper--karimhm": 0,
+        "#network-server--mina-vysper--JLLeitschuh": 0,
+        "#network-server--mina-vysper--jvermillard": 0,
+        "#network-server--mina-vysper--reda-alaoui": 45,
+        "#network-server--mina-vysper--berndfo": 50,
+        "#network-server--mina-vysper--mystic-lama": 779,
+        "#network-server--mina-vysper--elecharny": 1153,
+        "#network-server--mina-vysper--": 1337
+    },
+    "commiter_contribute_time1": {},
+    "commiter_contribute_time2": {},
+    "commiter_contribute_time3": {},
+    "commiter_contribute_time4": {},
+    "commiter_time_trend": {},
+    "daily_long_time_error_prone_developer": [],
+    "number_daily_long_time_error_prone_developer": 0,
+    "improved_daily_long_time_error_prone_developer": [],
+    "number_improved_daily_long_time_error_prone_developer": 0
+}

@@ -1,0 +1,18 @@
+{
+    "all_file_num": 1316,
+    "error_developer_file_rate": {
+        "#library--commons-compress--weirdkid": 0.0007598784194528875,
+        "#library--commons-compress--rpreissel": 0.0022796352583586625,
+        "#library--commons-compress--DaGeRe": 0.0022796352583586625,
+        "#library--commons-compress--ctron": 0.003799392097264438,
+        "#library--commons-compress--pmouawad": 0.0060790273556231,
+        "#library--commons-compress--trixpan": 0.0060790273556231,
+        "#library--commons-compress--tballison": 0.015197568389057751,
+        "#library--commons-compress--tcurdt": 0.1580547112462006
+    },
+    "daily_error_prone_developer": [
+        "#library--commons-compress--tballison",
+        "#library--commons-compress--tcurdt"
+    ],
+    "number_daily_error_prone_developer": 2
+}

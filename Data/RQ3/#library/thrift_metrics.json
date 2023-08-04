@@ -1,0 +1,11 @@
+{
+    "all_file_num": 4849,
+    "error_developer_file_rate": {
+        "#library--thrift--vihangk1": 0.00020622808826562179,
+        "#library--thrift--punwinger": 0.00020622808826562179,
+        "#library--thrift--roshan": 0.0008249123530624871,
+        "#library--thrift--thomaslee": 0.0014435966178593523
+    },
+    "daily_error_prone_developer": [],
+    "number_daily_error_prone_developer": 0
+}

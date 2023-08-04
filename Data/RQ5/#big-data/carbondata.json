@@ -1,0 +1,163 @@
+{
+    "developer": {
+        "#big-data--carbondata--shardul-cr7": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "carbondata"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "shardul-cr7",
+                "createdAt": "2015-07-24T08:55:04Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 0,
+                    "nodes": []
+                }
+            }
+        },
+        "#big-data--carbondata--bhavya411": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "carbondata"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "bhavya411",
+                "createdAt": "2013-03-04T08:37:36Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 2,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "knoldus/dotnet",
+                            "isFork": false,
+                            "url": "https://github.com/knoldus/dotnet",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 5
+                            },
+                            "forkCount": 1
+                        },
+                        {
+                            "nameWithOwner": "knoldus/dotnetTestAutomation",
+                            "isFork": false,
+                            "url": "https://github.com/knoldus/dotnetTestAutomation",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 5
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "#big-data--carbondata--ravikiran23": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "carbondata"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "ravikiran23",
+                "createdAt": "2016-04-01T04:57:00Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 0,
+                    "nodes": []
+                }
+            }
+        },
+        "#big-data--carbondata--sujith71955": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "carbondata"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "sujith71955",
+                "createdAt": "2015-06-22T11:28:15Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 1,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "sujith71955/SparkExperiments",
+                            "isFork": true,
+                            "url": "https://github.com/sujith71955/SparkExperiments",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Scala"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "#big-data--carbondata--gvramana": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "carbondata"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "gvramana",
+                "createdAt": "2014-07-11T13:43:36Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 0,
+                    "nodes": []
+                }
+            }
+        },
+        "#big-data--carbondata--manishgupta88": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "carbondata"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "manishgupta88",
+                "createdAt": "2015-06-19T10:38:10Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 0,
+                    "nodes": []
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 0,
+    "deveper_mul_apache_item_error": {
+        "#big-data--carbondata--shardul-cr7": [
+            "carbondata"
+        ],
+        "#big-data--carbondata--bhavya411": [
+            "carbondata"
+        ],
+        "#big-data--carbondata--ravikiran23": [
+            "carbondata"
+        ],
+        "#big-data--carbondata--sujith71955": [
+            "carbondata"
+        ],
+        "#big-data--carbondata--gvramana": [
+            "carbondata"
+        ],
+        "#big-data--carbondata--manishgupta88": [
+            "carbondata"
+        ]
+    }
+}

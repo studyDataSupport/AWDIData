@@ -1,0 +1,15 @@
+{
+    "cate": "#java",
+    "#java-cate_aver_bug_rate": 0.3333333333333333,
+    "#java-cate_aver_bug_commit_rate": 0.2727272727272727,
+    "high_bug_rate_error_prone_developer_number": 0,
+    "high_bug_commit_rate_error_prone_developer_number": 1,
+    "high_bug_rate_error_prone_developer": {},
+    "high_bug_commit_rate_error_prone_developer": {
+        "#java--incubator-freemarker--woonsanko": 0.5
+    },
+    "error_prone_developer_num": 0,
+    "error_prone_developer": [],
+    "error_prone_developer_team_rate": 0.0,
+    "team_developer_num": 31
+}

@@ -1,0 +1,53 @@
+{
+    "cate": "#library",
+    "#library-cate_aver_bug_rate": 0.2318840579710145,
+    "#library-cate_aver_bug_commit_rate": 0.2,
+    "high_bug_rate_error_prone_developer_number": 12,
+    "high_bug_commit_rate_error_prone_developer_number": 13,
+    "high_bug_rate_error_prone_developer": {
+        "#library--commons-lang--juanpablo-santos": 2.0,
+        "#library--commons-lang--thiyagu-7": 1.0,
+        "#library--commons-lang--MaridProject": 1.0,
+        "#library--commons-lang--jbduncan": 1.0,
+        "#library--commons-lang--yasserzamani": 1.0,
+        "#library--commons-lang--MSaifAsif": 1.0,
+        "#library--commons-lang--thiagoh": 1.0,
+        "#library--commons-lang--Derek-Ashmore": 1.0,
+        "#library--commons-lang--big-andy-coates": 1.0,
+        "#library--commons-lang--ptemplier": 0.5,
+        "#library--commons-lang--Stzx": 0.3333333333333333,
+        "#library--commons-lang--chonton": 0.30357142857142855
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#library--commons-lang--thiyagu-7": 1.0,
+        "#library--commons-lang--MaridProject": 1.0,
+        "#library--commons-lang--jbduncan": 1.0,
+        "#library--commons-lang--yasserzamani": 1.0,
+        "#library--commons-lang--MSaifAsif": 1.0,
+        "#library--commons-lang--thiagoh": 1.0,
+        "#library--commons-lang--Derek-Ashmore": 1.0,
+        "#library--commons-lang--juanpablo-santos": 1.0,
+        "#library--commons-lang--big-andy-coates": 1.0,
+        "#library--commons-lang--ptemplier": 0.5,
+        "#library--commons-lang--Stzx": 0.3333333333333333,
+        "#library--commons-lang--chonton": 0.26785714285714285,
+        "#library--commons-lang--oheger": 0.2
+    },
+    "error_prone_developer_num": 12,
+    "error_prone_developer": [
+        "#library--commons-lang--juanpablo-santos",
+        "#library--commons-lang--thiyagu-7",
+        "#library--commons-lang--MaridProject",
+        "#library--commons-lang--jbduncan",
+        "#library--commons-lang--yasserzamani",
+        "#library--commons-lang--MSaifAsif",
+        "#library--commons-lang--thiagoh",
+        "#library--commons-lang--Derek-Ashmore",
+        "#library--commons-lang--big-andy-coates",
+        "#library--commons-lang--ptemplier",
+        "#library--commons-lang--Stzx",
+        "#library--commons-lang--chonton"
+    ],
+    "error_prone_developer_team_rate": 0.06818181818181818,
+    "team_developer_num": 176
+}

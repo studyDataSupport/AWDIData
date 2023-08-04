@@ -1,0 +1,44 @@
+{
+    "cate": "#network-client",
+    "#network-client-cate_aver_bug_rate": 0.19419043624161075,
+    "#network-client-cate_aver_bug_commit_rate": 0.17868692840004172,
+    "high_bug_rate_error_prone_developer_number": 9,
+    "high_bug_commit_rate_error_prone_developer_number": 10,
+    "high_bug_rate_error_prone_developer": {
+        "#network-client--httpcomponents-client--smashtakov": 2.0,
+        "#network-client--httpcomponents-client--jeromedemangel": 1.0,
+        "#network-client--httpcomponents-client--serkanturgut": 1.0,
+        "#network-client--httpcomponents-client--xiaohu-zhang": 1.0,
+        "#network-client--httpcomponents-client--sermojohn": 0.5,
+        "#network-client--httpcomponents-client--fxbonnet": 0.5,
+        "#network-client--httpcomponents-client--rschmitt": 0.25,
+        "#network-client--httpcomponents-client--": 0.20319634703196346,
+        "#network-client--httpcomponents-client--artem-smotrakov": 0.2
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#network-client--httpcomponents-client--smashtakov": 1.0,
+        "#network-client--httpcomponents-client--jeromedemangel": 1.0,
+        "#network-client--httpcomponents-client--serkanturgut": 1.0,
+        "#network-client--httpcomponents-client--xiaohu-zhang": 1.0,
+        "#network-client--httpcomponents-client--sermojohn": 0.5,
+        "#network-client--httpcomponents-client--fxbonnet": 0.4166666666666667,
+        "#network-client--httpcomponents-client--ok2c": 0.25609756097560976,
+        "#network-client--httpcomponents-client--": 0.2534246575342466,
+        "#network-client--httpcomponents-client--rschmitt": 0.25,
+        "#network-client--httpcomponents-client--artem-smotrakov": 0.2
+    },
+    "error_prone_developer_num": 9,
+    "error_prone_developer": [
+        "#network-client--httpcomponents-client--smashtakov",
+        "#network-client--httpcomponents-client--jeromedemangel",
+        "#network-client--httpcomponents-client--serkanturgut",
+        "#network-client--httpcomponents-client--xiaohu-zhang",
+        "#network-client--httpcomponents-client--sermojohn",
+        "#network-client--httpcomponents-client--fxbonnet",
+        "#network-client--httpcomponents-client--rschmitt",
+        "#network-client--httpcomponents-client--",
+        "#network-client--httpcomponents-client--artem-smotrakov"
+    ],
+    "error_prone_developer_team_rate": 0.125,
+    "team_developer_num": 72
+}

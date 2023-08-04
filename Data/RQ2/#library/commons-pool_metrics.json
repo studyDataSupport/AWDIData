@@ -1,0 +1,29 @@
+{
+    "cate": "#library",
+    "#library-cate_aver_bug_rate": 0.2318840579710145,
+    "#library-cate_aver_bug_commit_rate": 0.2,
+    "high_bug_rate_error_prone_developer_number": 4,
+    "high_bug_commit_rate_error_prone_developer_number": 5,
+    "high_bug_rate_error_prone_developer": {
+        "#library--commons-pool--mswintermeyer": 1.0,
+        "#library--commons-pool--kinow": 0.5,
+        "#library--commons-pool--mebigfatguy": 0.5,
+        "#library--commons-pool--jvz": 0.25
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#library--commons-pool--mswintermeyer": 1.0,
+        "#library--commons-pool--kinow": 0.5,
+        "#library--commons-pool--mebigfatguy": 0.5,
+        "#library--commons-pool--jvz": 0.25,
+        "#library--commons-pool--struberg": 0.2
+    },
+    "error_prone_developer_num": 4,
+    "error_prone_developer": [
+        "#library--commons-pool--mswintermeyer",
+        "#library--commons-pool--kinow",
+        "#library--commons-pool--mebigfatguy",
+        "#library--commons-pool--jvz"
+    ],
+    "error_prone_developer_team_rate": 0.08888888888888889,
+    "team_developer_num": 45
+}

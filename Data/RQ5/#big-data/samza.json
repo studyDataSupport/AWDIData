@@ -1,0 +1,481 @@
+{
+    "developer": {
+        "#big-data--samza--pdu-mn1": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "samza"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "pdu-mn1",
+                "createdAt": "2015-08-11T21:53:31Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 0,
+                    "nodes": []
+                }
+            }
+        },
+        "#big-data--samza--atoomula": {
+            "attribute_apache_item_count": 2,
+            "attribute_apache_item_list": [
+                "samza",
+                "samza"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "atoomula",
+                "createdAt": "2016-11-28T18:40:16Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 2,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "apache/samza",
+                            "isFork": false,
+                            "url": "https://github.com/apache/samza",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Scala"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Less"
+                                    },
+                                    {
+                                        "name": "Scaml"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 778,
+                            "watchers": {
+                                "totalCount": 61
+                            },
+                            "forkCount": 318
+                        },
+                        {
+                            "nameWithOwner": "linkedin/brooklin",
+                            "isFork": false,
+                            "url": "https://github.com/linkedin/brooklin",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Batchfile"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 840,
+                            "watchers": {
+                                "totalCount": 41
+                            },
+                            "forkCount": 133
+                        }
+                    ]
+                }
+            }
+        },
+        "#big-data--samza--srinipunuru": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "samza"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "srinipunuru",
+                "createdAt": "2012-05-27T23:51:07Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 3,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "linkedin/ambry",
+                            "isFork": false,
+                            "url": "https://github.com/linkedin/ambry",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 1678,
+                            "watchers": {
+                                "totalCount": 123
+                            },
+                            "forkCount": 282
+                        },
+                        {
+                            "nameWithOwner": "srinipunuru/ozone",
+                            "isFork": true,
+                            "url": "https://github.com/srinipunuru/ozone",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "C++"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "C"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "TypeScript"
+                                    },
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CMake"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Less"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "srinipunuru/ambry",
+                            "isFork": true,
+                            "url": "https://github.com/srinipunuru/ambry",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "#big-data--samza--sborya": {
+            "attribute_apache_item_count": 2,
+            "attribute_apache_item_list": [
+                "samza",
+                "samza"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "sborya",
+                "createdAt": "2011-08-04T19:27:33Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 2,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "apache/samza-hello-samza",
+                            "isFork": false,
+                            "url": "https://github.com/apache/samza-hello-samza",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 107,
+                            "watchers": {
+                                "totalCount": 23
+                            },
+                            "forkCount": 134
+                        },
+                        {
+                            "nameWithOwner": "apache/samza",
+                            "isFork": false,
+                            "url": "https://github.com/apache/samza",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "XSLT"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Scala"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Less"
+                                    },
+                                    {
+                                        "name": "Scaml"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 778,
+                            "watchers": {
+                                "totalCount": 61
+                            },
+                            "forkCount": 318
+                        }
+                    ]
+                }
+            }
+        },
+        "#big-data--samza--navina": {
+            "attribute_apache_item_count": 1,
+            "attribute_apache_item_list": [
+                "samza"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "navina",
+                "createdAt": "2012-06-30T19:02:08Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 4,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "apache/pinot",
+                            "isFork": false,
+                            "url": "https://github.com/apache/pinot",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Thrift"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Smarty"
+                                    },
+                                    {
+                                        "name": "TypeScript"
+                                    },
+                                    {
+                                        "name": "Scala"
+                                    },
+                                    {
+                                        "name": "NASL"
+                                    },
+                                    {
+                                        "name": "FreeMarker"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 4701,
+                            "watchers": {
+                                "totalCount": 239
+                            },
+                            "forkCount": 1102
+                        },
+                        {
+                            "nameWithOwner": "pinot-contrib/pinot-docs",
+                            "isFork": false,
+                            "url": "https://github.com/pinot-contrib/pinot-docs",
+                            "languages": {
+                                "nodes": []
+                            },
+                            "stargazerCount": 19,
+                            "watchers": {
+                                "totalCount": 12
+                            },
+                            "forkCount": 115
+                        },
+                        {
+                            "nameWithOwner": "KKcorps/incubator-pinot",
+                            "isFork": true,
+                            "url": "https://github.com/KKcorps/incubator-pinot",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "Thrift"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    },
+                                    {
+                                        "name": "Smarty"
+                                    },
+                                    {
+                                        "name": "NASL"
+                                    },
+                                    {
+                                        "name": "Scala"
+                                    },
+                                    {
+                                        "name": "TypeScript"
+                                    },
+                                    {
+                                        "name": "FreeMarker"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "navina/proto-playground",
+                            "isFork": false,
+                            "url": "https://github.com/navina/proto-playground",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 0,
+    "deveper_mul_apache_item_error": {
+        "#big-data--samza--pdu-mn1": [
+            "samza"
+        ],
+        "#big-data--samza--atoomula": [
+            "samza"
+        ],
+        "#big-data--samza--srinipunuru": [
+            "samza"
+        ],
+        "#big-data--samza--sborya": [
+            "samza"
+        ],
+        "#big-data--samza--navina": [
+            "samza"
+        ]
+    }
+}

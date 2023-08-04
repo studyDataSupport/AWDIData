@@ -1,0 +1,122 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#http--cocoon--ilgrosso": "2012-03-15 00:00:00",
+        "#http--cocoon--cdamioli": "2013-04-02 00:00:00",
+        "#http--cocoon--": "2003-02-27 00:00:00",
+        "#http--cocoon--simonetripodi": "2010-01-11 00:00:00",
+        "#http--cocoon--jashaj": "2008-08-25 00:00:00",
+        "#http--cocoon--reinhard": "2003-06-30 00:00:00",
+        "#http--cocoon--cziegeler": "2003-03-10 00:00:00",
+        "#http--cocoon--devkat": "2004-02-24 00:00:00",
+        "#http--cocoon--gkossakowski": "2007-03-10 00:00:00",
+        "#http--cocoon--lgawron": "2004-11-21 00:00:00",
+        "#http--cocoon--rgoers": "2004-11-07 00:00:00",
+        "#http--cocoon--SimoneGianni": "2006-04-18 00:00:00",
+        "#http--cocoon--swallez": "2003-03-09 00:00:00",
+        "#http--cocoon--bdelacretaz": "2003-03-25 00:00:00",
+        "#http--cocoon--tcurdt": "2003-03-11 00:00:00",
+        "#http--cocoon--stefanom": "2003-03-10 00:00:00",
+        "#http--cocoon--pfumagalli": "2003-02-27 00:00:00",
+        "#http--cocoon--osi": "2003-09-10 00:00:00",
+        "#http--cocoon--rubys": "2003-03-09 00:00:00"
+    },
+    "commiter_end_time": {
+        "#http--cocoon--ilgrosso": "2019-04-14 00:00:00",
+        "#http--cocoon--cdamioli": "2013-04-02 00:00:00",
+        "#http--cocoon--": "2012-10-02 00:00:00",
+        "#http--cocoon--simonetripodi": "2012-03-17 00:00:00",
+        "#http--cocoon--jashaj": "2012-01-05 00:00:00",
+        "#http--cocoon--reinhard": "2011-01-18 00:00:00",
+        "#http--cocoon--cziegeler": "2009-12-22 00:00:00",
+        "#http--cocoon--devkat": "2009-11-04 00:00:00",
+        "#http--cocoon--gkossakowski": "2009-03-30 00:00:00",
+        "#http--cocoon--lgawron": "2008-10-11 00:00:00",
+        "#http--cocoon--rgoers": "2008-01-09 00:00:00",
+        "#http--cocoon--SimoneGianni": "2007-07-16 00:00:00",
+        "#http--cocoon--swallez": "2007-04-26 00:00:00",
+        "#http--cocoon--bdelacretaz": "2006-12-19 00:00:00",
+        "#http--cocoon--tcurdt": "2006-11-06 00:00:00",
+        "#http--cocoon--stefanom": "2005-10-29 00:00:00",
+        "#http--cocoon--pfumagalli": "2004-12-17 00:00:00",
+        "#http--cocoon--osi": "2003-09-10 00:00:00",
+        "#http--cocoon--rubys": "2003-03-30 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#http--cocoon--cdamioli": 0,
+        "#http--cocoon--osi": 0,
+        "#http--cocoon--rubys": 21,
+        "#http--cocoon--SimoneGianni": 454,
+        "#http--cocoon--pfumagalli": 659,
+        "#http--cocoon--gkossakowski": 751,
+        "#http--cocoon--simonetripodi": 796,
+        "#http--cocoon--stefanom": 964,
+        "#http--cocoon--rgoers": 1158,
+        "#http--cocoon--jashaj": 1228,
+        "#http--cocoon--tcurdt": 1336,
+        "#http--cocoon--bdelacretaz": 1365,
+        "#http--cocoon--lgawron": 1420,
+        "#http--cocoon--swallez": 1509,
+        "#http--cocoon--devkat": 2080,
+        "#http--cocoon--cziegeler": 2479,
+        "#http--cocoon--ilgrosso": 2586,
+        "#http--cocoon--reinhard": 2759,
+        "#http--cocoon--": 3505
+    },
+    "commiter_contribute_time1": {
+        "#http--cocoon--jashaj": {
+            "start": "2008-08-25 00:00:00",
+            "end": "2010-06-30 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.3333333333333333
+        }
+    },
+    "commiter_contribute_time2": {
+        "#http--cocoon--jashaj": {
+            "start": "2010-04-12 00:00:00",
+            "end": "2010-04-10 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time3": {
+        "#http--cocoon--jashaj": {
+            "start": "2010-04-05 00:00:00",
+            "end": "2009-05-03 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#http--cocoon--jashaj": {
+            "start": "2008-08-31 00:00:00",
+            "end": "2008-08-25 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#http--cocoon--jashaj": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.5
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.3333333333333333,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#http--cocoon--jashaj"
+    ],
+    "number_daily_long_time_error_prone_developer": 1,
+    "improved_daily_long_time_error_prone_developer": [
+        "#http--cocoon--jashaj"
+    ],
+    "number_improved_daily_long_time_error_prone_developer": 1
+}

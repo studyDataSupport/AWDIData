@@ -1,0 +1,13 @@
+{
+    "all_file_num": 6492,
+    "error_developer_file_rate": {
+        "#javaee--myfaces--cnsgithub": 0.00030807147258163895,
+        "#javaee--myfaces--matzew": 0.041897720271102896,
+        "#javaee--myfaces--struberg": 0.13739987677141097
+    },
+    "daily_error_prone_developer": [
+        "#javaee--myfaces--matzew",
+        "#javaee--myfaces--struberg"
+    ],
+    "number_daily_error_prone_developer": 2
+}

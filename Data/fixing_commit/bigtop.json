@@ -1,0 +1,5706 @@
+[
+    {
+        "fix_commit_hash": "af902f49e7d0759e0d85c1759b5dcdbdae71453c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "59bc68901462a36ca74932ec60db15abf04896f5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9b5834fced0d4c3469338965732a1f2b28dc9596",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "33973cddec1ac9f51c57a87c6b511c2dd0aa7d63",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fe3b8b0519efbd35da8927a339cf1beaf4de12eb",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ecd693fb8ee627924ced5fd4144edf93ba747e7c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4cff7c59a60f0e204a1cca3042e96717363f9caa",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6699210efa8ea28e15f629674c4952d8dc7f49d1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "37f1d025d34034eec7c8da452ec2546b6cfd8e9a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8ba31619ccb37a29856ba182be31294a58c55535",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "31694c73785c0dd2145ba242f874c7c19e4b1aff",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "cf27c39ec76d7ed17711676e1f832fadcbf18c09",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "87fe66e30e00b5ea85adcf1398b2036480ec17b8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7d6f5a48c40321a3eef69d02bd7f68719666e517",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "60578d49e7a3000aedfdccc9c2d7cd63f97dbb6a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ff76878cef84415e932afee5b3c64fbc2fb0d541",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1b72ecf2413383ec95be4882d54ce01080092c7c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "22a0813b12f244bb9ba3df05532505dd7fed73e7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "11ae27a8125c3405229edef528b3b523c6cba35e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fb68617817d945a5f42d05626e3e2141b58ea397",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "11ffa31d24fe496796472f93b5dd78c1058c788c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "64f8d92181d1546d18c9c3c4e9c1b57477c2c9db",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "18a5445acf67ba6fbb02831a8428f2ab4569926b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8533740952ea15675e8ac94bb0d1f5b49aab38cb",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9519f17e29d8127bae6e2402eab1d6dd73039d44",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "20bd4716609d4b64109496ef98fd085800bde7f8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "31c8eef65c91a1666d8ca83c5f3009fc9ac469d1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "be8a42bb396dcb75c9fa25d5104ad71eefb409cd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3020ab58c66d2e04298efbfc3e326eab24c8f535",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e398329f3c503985e39ec70a10fdf738fb7d45ee",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "61b8e2d38cb61faab0d4a17ca4949a9c0004e1be",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8b5228d58909aad0078c46b2639542fed850370c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f5d59317e67c86b71112a86be14b3676378dcd38",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a2084afeec53f1e2faa6fdafa3f99aa097a82788",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1b299b4c0e1d605cd37ab3b06e7296d982567115",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1448d48b293442685c56dfdcc90519affeea39d4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8ab9971866e40f35cac19bd9c7a3aad76127bbe8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a21926df50fcd6167fd09224446d4c7fbcd96dc5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "556463f80f1022165cc222cbc07ccfe8afbe6947",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "02ca97bec055bb64d42b134a0110e19ef2277db2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "72e8939529e24e971a25ba16f8ef41b3a111adcc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "07ff60c0a97e4fd9b7557f45cc8ad4bc07fbc894",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e864973c2296084545452b336548199b83376a72",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4705a036add768543702ff9b368912af8f234e68",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "df400a3cd6b665d178dbe2977f5d0d675baa59d7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "950b534778bc9030564ac4843a67d2b24d8761a8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c4be81b957a174833f60230e4e708e151705b7d8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6094ff896a74030b60ba5ce436b582d2de16bbdb",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2584d0caeff221da3ad87d5f2e195605e802456f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "945c102d14a04023913354e8bec8c5ac2b6470e5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b296ae68de2e40c641361679439e05ba6df77f1b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d377c5968248612d147e4c6b43810b94b12e423b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "cfd45fa17c85ba74a4a26c224491bf4127603f78",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "42425b8126ec437706cb128249c9240a3d205be7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7702daf1cf0e3534e788fcf659c3c0060f1cd987",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4ab759fd227871d391550e9239a7c4d11ef9e266",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4648b7113cd88371b5ac74caad9fdc6323496fb6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d0abcc4318d7d2fcdf50bf10f412aa512114b741",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "78105fffd9902001c9c7ee79853912ba3690c47f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0d3b487ec3aa7c93845717bc220bfd9bb049cb79",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4aba1e4df8e606205e063e791473d884c0c088fa",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5a0a583f3a0d327b329e98061d27369b5eb60fe0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ebbf2f763149da2132a055c11d00d41a4ca01eff",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e3e1e0e70cda56153c0bbed87d8c40d4c36f06d7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6955a57dcededefc54ebb7f140ac91ab82fb4172",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e26b148f00774accb74ee80669a7081aa273a780",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bfbfbc4a064d698e5708d462f4dbb9db5f58d5e3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d9f163507e69fc46acdbcf4bb12f5ca22d10e8d3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "86ade65daa38946489eac5fc96d1687d62dd8acb",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8e213cd832b466ca6de73acd7b52fe81e15d1935",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7b8a8c00b91cfdf78e43398815f72b597a3ba792",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9142d97f644013d9f11cf27c1361864b91719216",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2c7c5daae569161840e739980585faac583b0894",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ee28ba8802c57fd2b9fa7f30ad8619999b8131c5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b612407a3e92fd164bce89d7519889943d8c2994",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9006b521b253ed46d402d788866ca53d0adc434d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f686adad92eb6636de1e63c4f265702d7535cce2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "56bb7d8d90a13d3264eb2fb7f8938a43459cb662",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "02b4be54ae3dd13dadc7d55a7aa704209bd1aa97",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "afa9c60f22167357f63eaa8ceaaed90913ce88f8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8c353ad84cc38202161de36c38a79904240ab447",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "01e5c42badb25417f0e1f8bafe3fdbc72e51c61d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "262739ec74642202b8be14ddf15ac3b2e3021adc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3cb84ddcff0f2a0e80b916ec71895b58b53c623e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6c5e3b9740b56b916dfe57e8689e0385423d964b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8d473b87312e556d8ad42d964579c2447d7ef47b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d105d6fa624bd3070bd4d6633c0b2e68f812a7b3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c10b7f45ec75107337ccef842e82e3dc927aebd4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "21dc9a0a6e1d84b0d6de3f131dd2a24a30565f42",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "589007a4763703cd02c68264755251707c3f4dab",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "88a24f36b55d16031e4f0a6d09a6950e463c7d5c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0cabb0791e430ec0f710371cecd20b10c9ae815c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ddf01df7c8487ea2d23f3b8d0cc63ed7afa7f715",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "89c5bb9a73caf8d8aa913720bdc115e7e041b71b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "16c1e1d81d7958418592c1a0461bdbf0e71a39fa",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4f4b2a9151caeed1e741d0c90202dd70ed4df906",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9c05ec6e8d737809f2b35fc89b2162e2c14996ef",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bb6441f774b586873b0afc7467a32df88d5a74e3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d95613658185285328f17e3622a4c8222030d586",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "03d6fdd093827310dd1823e8849936238d8d3796",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5673b4b23a5d4645f4bb7a08ac8a59b1a0ccbebc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b7256acbdc740cd3d93725dc98c8d8d48efa7156",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f1d1c4cf299a5272b01dab8e36c60f324888b086",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "71221d181b3dcc0127b8908278644a5431b23d3d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ff1a369aa35c4ac6aa3f03120d7fd2e72c55c3e1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "af9c0d622f1529ae8c10edd139bc2b089bacc260",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f50460e8e9f6b7a2e866a2a2d09db44b50a0f09f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d8271c900cc7a85ff03b438f27a05fd123b7c4d9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d483074a67df511c4d5b63ac5d82abb2e72b6ee7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "09dbe0fa94369415abf099102c9c4defe36365df",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4a9f6598321a61e2c4fb60da56ef54904b8dd4f2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8c81fcb1ca24a9e8cb3c50206cdd203439108c8b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7a8cca2311eb85e834a884044cd07c9fcfd69db6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "44a9b1f8853db0dd4251cc57ec1dc97106a1f498",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ef8866a9b12c92126478448e78568aa05d3201ac",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f95288011ded44adf0a929e40db57fbcb391c6ea",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0c7af5150129fbd6fbffeec061d86f1f8f4e45da",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fd4af860d476ccaff6f5c7202f2b25ffea1860ab",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e952272ed7aa28d7e2c36b26d81093ca01aa46a8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "36e035d2cf85ec239e01464511c8918598b2a1a6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7922b4713b0a59c9856b31b50bad3f191ab9809d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1d3443655c3ed77bef654603ed83b724d953a8f7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "77d41573bb4d8c41e5f4b606c905698dcc49ee81",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b622fc64d3b396df9678245d3e174364b6d48f27",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "67df377ab7c9f708916b2952018eb3acf72e9870",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c6afdccaa2ff5cf6909a7ac89b96842ecd6ec8e0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0469fa579c0b23a799e110a18c3fdf0f9e3ca639",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0b45e14fec8e17af4ae7b2660933783d6b71448c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bae3cd98538493dfa15a54e8c36786be255164d6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "26614ccbb10fce25f17a71f152ebb2a00590642d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b4784868fa9dc26f42d0e60271586e448486b754",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e2160e26ef803cdeeaa1e4a966c4ba4b13c83fd3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d661a5643471c9fd1057e7979670a08256659a41",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b22191d2253d69202573df6cdec8bbbbd05cd8a1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8e1bf51585ef78a914640d7d3eba367a174d2a76",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8225942c60ed0fa88907d88a2d8a2eff8d1ec279",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8eec66e1f9a7bc85dc74864cd7ef54f51d28c21e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3304f65bfa6f841f69a373ee02ef9353a337439b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "65890047c26d96c6e9f29a45427b2b118fb89863",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "41bd750b7efd49f6726843751ed0b184d9cd8eba",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e8d2f1335912e5cff3a4c997e4f53256b834e164",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9a10d5e00da3342d91cb117c48de5b1f051dcfa1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2604bd2673428970b07d8678ad896ed59be9f8dd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fd64a15b95d48b699cbe5b586ba365a226748565",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f72558f932c5c0fea2e1f33b078de0f4e606e68e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "41aaa98544989f863f73b06dad89b33f9576b74d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2c3ae35a0e9cde207523abac327285201349276a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ec836e01bda92fb8a0d861d6ca8dc73171469668",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5c1be501097bc722ed8b7aa30453970e55b2bd81",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6c059ecfac7c4202ae418c2d9d57a0758c9ae648",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "543f17e4faa8312812b732fe8d99d7b366f74868",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "81aaa749de451d3aea0118940a57ceda3f568b6b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0da9da4966f6ea22d12fad74949f470b4c280763",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "61189136ef6245fc60247daf9461b6998d25d6c5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "047b5cd36b4e2aa6be120f4e501f690df2ed1eba",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ce314d83be0dbda23b511ecee861ff1486e9f30a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a69e3f1a564bf33407456b73d5be9cc5d5a44020",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b7e70a25ae85c42313b466f1341c336c846fa4c9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "380041a0ec381b7567896be69d2f37392d9f3f21",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f3e76c5a6377f08a07cbb98657c9f9c971c5d411",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ab60f750a89766fd74b78757e90528834c4dff59",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f20434217d8d5e1a4712291693f39e65a7183210",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ea300b5f67912ffff86e255c6584c394f77cd50b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8673230751c9d2b8df3560b7070c4541823060b3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "75b02713566eb3603f486482215573274342d922",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0a7bc759de1917cbf8661438d6f8535298be6454",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "34e0bd7182c713b16dce9a4bdc803c8ed7fb9eb3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "955cdec96d264fb96be3262923a387c9e1ed9f36",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "00b394f8dcc54cc25d962c720c5fbcf8f88c5e07",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2e1654037f944d207edb7a0f0b37b1cf3a6a3fcc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9b66904274239c058833e792565823ca3152cf96",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "399a210dbd85270079945a13ae6f94dc84db52e4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0db0aafadac99363f41347c6a2d4010fd6959b1c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "20b7a14488902b74b3d74bd3cd6a46d8f0ea0702",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5795aea07fd3fd74e2865b60445ce18d39fa3da8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "85bf2eb35755712e914ba16373b961fff4738201",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5d77f12e6365e6a776791fc0fcf39adc171aff9e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d46b0e56e21b24f652efe0467c81e654c9e0f392",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f82d6fd9c568ea4741c723a5a452617fd3aa1551",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c8bd842e5117589d5130ec19c3550c001f57c53e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9d1010aa8cdc83dcddab7aec870ef745b67d02b3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5b0dd2e62886a3ed4d8d42183e186e541c5e9744",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2d6f3dd7b7241aa2191c9ebc5a502a1415932464",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b37aafaa2b7c8c1bfe4ef9057c040d14c4f59f08",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "720d6ae3e039e93e836171dfccbe16553a84ca5e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5a6a81aa4e541825e7fe61be9bebb8f32fbdb64b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "148675a77022606caaa0ec9338eb8ce66a700839",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e21d985b4a7aaa5c88824fe0cc410c5afa1b37ba",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2b70354a1529ee22087480eb04d4903e760f5199",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "99423aa68b90030e6972e0607111778ca248f397",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d57f467ed2ba3029491ba3c4d06917035b0d02f6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "93ac5405567e8d049a8b4fda66e9fccb68d114f2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7ce27ff022f9aa32690a140398be708334aa8b04",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8df4af1a8ee99f881b46b36b9c1a4cb02a901f60",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9285f219a98daa997d83180037bf7fc91cb52b94",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "031a8855354ffb2fce105ee544da899d2047060d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "eb9c9afc3713ad1461d4df8f80db84039f5c641f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "01df3c09abb78e286b45d043d1cc2918f37f4a60",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "93f79a17fe65cccbcb53d4cc93dc519889825e55",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9d296dff4cae23101ff4706c37bfba0216f7dc52",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bafe6abcf917bd0db991ccb8e5b95f090fadeba7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "42ec95088845c143f07e8047e8d9cbdaf3731c58",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f183d9430b7c8c98d475a379d6980b16bcbb6c0b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "30d3e0839a660084793c910cace6a61c98934845",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e3c98f0d61c0785d4a0a1af5a16a7ab024b77c2b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "383a190eb53785cea9d4232df061def7f60c0455",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1b0582384c06952ff796ae8743c7ffcf4e8c0451",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3134c0c0b883fbdf7d9254545f72722fe356c8f7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "09afb608c2f779fb5023bc8592856b2e97376191",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c8c0565841f2177dc37b9261be22b7d4808998bd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "56a35578be40bf3bb93aea157b1a1589df64c69d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "33128d0987d109290c3360b0a2f5867a344df886",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "aaffc1e2c52232ceadebdcd23a6dd47a190baa9f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ca1bcbf25d177c80a5733f3782b9bb659570594a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "cb1ddb941c8da9396e549f4b50c17030bd2dedb6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1187b5f2968fabdef885010de1442b6fffe20a8e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c9dd37b2ba1f62785d0675158fac84a62c77a62f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c4b721127d28c76d96bf37c7314fef85ac6e33f2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "215940dcf12453c40a66da8e666eab67811b8ee7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4d512e0817ea65490de26c6b9be239453bfd3f77",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fc97b9ee767222fa95ba012677637fb4569a6695",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "21351452352b7c4390cd0def817fe5b7c30ec5ac",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a86ab7919028e6a1f1293e19aaa6748c39c9322c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ab50bba4a61c655275b2a6a786f0836b849bc80e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "158e7e789dd9e9e35a02e37832f4a9682a111492",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "096d85842c6e13908279793181d7027c9e3eed92",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "83a2ab92f6a367dbb133384f167449ebac78f111",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4cfd5133297d9bca582e7e7b778c8ec7e2e8153a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "44835db5b156eeb7f67955ca877ea4e7654642ce",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "eef1846fefd4d127c5e5a2ece0cf72267b7ab0d3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7b37d45cbd038a027dc18863986df8971cb375e4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2c3490cc3a1c564354cfeb35601452beb7e41eba",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1381609af3f645b0802d0692e10e756cc5cc325c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f993cdb6db1135e3b1a1c7f001a95c256ac0155f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d16afea0bf23a3a31182c9101d2a06ab7f68e2c6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "11d46c4aaeec4d13907fcd23cb42d1f3be54c642",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "37a400254c637fcea4e8788781033391b71285a0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "980e1883a66256b904cdcd11419f5745880ec55a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "08af48ece38bc48b0552c4a4b453f0305c47c405",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5d8f9e341c4341c9d2d8503787ea6ace157de6e5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "19609d135924234d96a1922dbc8defc4162c0969",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2483b11b8e8b46284534348d9c5a511618e193ed",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "87c015d2a4f82ca62b87821c76e6eec3112d36a4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "11af728bee64455f4e1081d5cd9c27b9a06c53e3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d3c49e07867f2912dec80291ff0a9475683292e9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "23582dc063f13b29066cb64e6eaa5d134094b8e4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5031b6635f832e736de176ae84018f071f5c4b9b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d8d4408bccf6d4755927ae6b4788725661fd86ed",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9ff8354313cb3d2c469022d88df129a631223f08",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e9d3e3b9e9f5d702e89b21d267b9eeff53c5db8a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2b3331fb5cf9a81d652c09f8cf34f9db80027b63",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c9cb18fbc1befb944669f3577625803075b9e7fe",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "56d7077f4fb136abfdc47ddd719160c6461b2600",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6781b266decf905c1229bf36a36af14dc988e31c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c6aad207fb590e3a71d241104338bd61a0a2abc7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0b3feb4fc2b47592c93b23daef84394b3da87db2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bf2091aa9a64cda91f0f7c7e0e99625973016a28",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "943ea913de5ab7b6cbc4772d12e4347cd914950f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bce41ca817efc5f716625b692429b6dcb00ad850",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "51e751f78db4a157a2dfcf893a4616e5a31f190b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7007c026540d099ee32ec194163b3e4115540366",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "155a296b66323da39dea2e76366845926b4ed6c4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8597be490162bb23882ea6cde06c54d18f3bdcf9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "badd85ebf366a0c2a7b3c9537915cf655d06660c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "44aa7bb0f6abdd513f8a90fb78bf6ce9051cc487",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2e1795361d55c0a6f15f1bae7ff5cd6714367621",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7acce75fab8eb8acf168f43bcabfddf75209fd08",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a72e6514d89adca7b38374a2ac51093205b2b63e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0e7029fd7d2b0e21dbd8c0a092a708d1c53125ef",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6431a031e79d8293432f55f6d462d8d9c2ca8824",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e93f7e8ea7525f7072f67fd51ab8c7c0af503667",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "840ead997ac6cdff9511b1a63f3cf807995cdfd9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "cf2ca016e89827a1d69b3e91171a78d2326df780",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "be9a183b4db8f183c14cc9a4ed853cf7bbbab2e5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2cb431e68dab5d5cccbf902dde69c63fbea59717",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "925749d8d173721f7f6a20219c8bbb855e39af85",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "269be3f12ca514c39ba8a97a7df1b131286408b6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1a448555e517ca01bca58efe1996c9fa53baa0bf",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "19475d687048445c34503aabe0a2f9c82701dc30",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "406fa089275aca37f48d8d907bdba46164bb5a7f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a8f8a063101cb2ec1e6e7ed3e1af4253b9b2b64b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8d0cdf5cdbd5c814443426740dc92bd2d4f8c4a4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ae08802360f4edea5630b82327eaa91a5889350a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "761d28d216e55b540569d8b7ec29f9697708ca99",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "931c31317e91814c45eb20a51b9c00e2c422b8f8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1c29856d0f6b0c416a36f90b41fbf5bab88b7fdd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6fbd309e305a01e15b0c59ed80ae6fa9e16a052e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b7300f10f0128324fa9a9240cabecc15580efe90",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "057779884661464517ca7f82ff2ebd14e0eb82cd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f73171adc158b2fe2476903056e58dbd581e9b26",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "43de363995b306024b96015848f089d529b2cc11",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "08aa3a267aff2605a06e27c23368e5c17115b122",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b822a6c8ed77511d07bf512ba963b555e5fdff63",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "eb7506a52cda55c6d78852934ef62de1d7de900b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "feaf5fdb214f16ace74311db6ce42be5846a4aab",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b6bc853a0922bbdd2256b04babc0c809603347da",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "666a41800fbb061826f7539dd27810910639ad38",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "03050b2f8b604ef71713bb9cddf0cadd0a1f7c5f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9ded40b9766de8815845aa02a57e9265d4e4b683",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c90b9cf0759c295203e2994d687cf3226099fc0c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a9c37bdc6a732bdc2f36981073214a321c42dccf",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d210cbb246d9785b465d310f4f953b97e6df4a9e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2d2197d4be186df27e7f2c50b0339f3f1fa4918f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "602f15c0a31e678e09b6e3cc92fa81285915c651",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "adfb877e7dbbe1fd6b83ce074ee49d54af8d6f26",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "247e839c93cf9ac0c7cc422688490cd03105c2d2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7d574a512d3334f1ba20203f6727dbd8d02092fe",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5ff983d466523a9264da55c0955b514a25013e5e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c1a21037165334716ec2a22debcd011d89f1074d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c29e841d733ed1d8fb9c332ea772259136607b85",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "40e796bd693a8bc6243ee39a6540357e1d559ea8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9612b8f9ea80cbcb1f934bb4a5fabbfe14cbde96",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3bdfb7d3a8cb2aaa8b7e3aa06f71b13c02fa68fd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "047dd8d8e3878a273fe6c15143614e3e39c56ac3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "297cf3da616dc884ec4c587162c3dc83790af4f8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "32c353ef0531f2ccda2685a9d0e867e793e4e6b3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6f7e97e93393d7c078d8928cc666b2bb03147f32",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8054d01c503e6d04837cde246e43344d68f02014",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "aa3211245405b545af6bacd42568111fca749211",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "71842397a2a4cb034fed48bc9674bc6160bc64bf",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5ea264beee555c55816dc775981900e747025cca",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bf513ded37d0e60c1d9e47991e473cc3c9c1e227",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "097a430d1680f5f631c06df6d15036053fdef24f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2bfcd0404d7651f03b2050b8d5e6d701fbd720ce",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b732749b1bdf872a652e79cacdfc6378ff083c84",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e489faa631d3d3c199e7186c0d64ce09e6acb1e5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "062ae70500b73efd40a0d83cec035dbbb634bfc4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9b9a48f31f5a04da41e2e0d40b5ab2e557dd505a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2f681736459e59f4798ac3184fa6400d307d4203",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c44c68028dc77993b7b22ef0edba75f2874ce1da",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "09b54ee19a65a224586317e16852970edb4bb658",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "cd092d1bc9cf2fc884761e432a21fb859ecaa6ec",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d1c9c9d8663e620a0c043fb98b8c275ac5021573",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a41c485df44e4e80f10e8852a66bcbb418893f28",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "190af38f3ad158844a8114bd0660399e289b4b4c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "85666040008f5148973dc6a8b09195a1699a9d2f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "355588b004ae3eb65a6114d55d6a3a18c510a310",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "19826d50ed6fa861b56e84516416db32b35b82e2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b7f8b9d0aadbd2f839b2b55efcde912709e0553a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ca35f8d27394d707b4cf59b522f0c394e14c534d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "75eb043b0226549a18069a501479cee08644740d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fb081bb13223ccca80d9f4542f5517f40c2b8ffd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0b7e287ea250dde405abd1ce71fb73d779e8d059",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ddf97c85d3f3eef4c670226a37198854cc9ebd72",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "73864a30b29ee89655772ce82b4041c2564d0711",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "20bfd7d0a60bf9c4332484849fa24c0a3f4b5c24",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8bfc86690d900367930099188b17fff232d0e755",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4701d1599f7e6c7a38629a09132be2c6dda59aa6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "42eeb059e502e6e34a2b33ec582ed244985cd3cc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "914d2f9e92fe96ccdcbf2b5f995949991413d2b5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2f8311b184bf0c5d25756b098895e43b1dbc3c2e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a4e7d9ec819d171772ebca5d937aa46a94b95905",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "46048096f5f587a9ff746043ae8e41b6fe12f9e0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "905bfe464864c8d77393b6dcf6788f3866e887fa",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c6bd2a2d96c8e57167939abc65b7844931a26bc7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "da2c4292f081960653739d9db28d84930189be9c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c9a46f24f9a9fc9ca6a87cb45f719bc50abb4b1d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1fff67c749f70d3918e9763975f11e91acb862ed",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c22a2d4848c3fa074f12a2d4afe1d636e04cb672",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ebcdedf3dd24df38d8ed7b7ee547b11d8268db4e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "738ff07466a3ab7641eb165124448323c9159e00",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1cdb5ed52a21c0b13594e3b78279cc1cb45ed909",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "af762bd81d42ad16b3fc6672152f5b6b8c7b5f30",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "68dce399ac30a3b48b9f245e088efcc4c5502cfa",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "57984b6a9b8511d031ac6258d17d2aba2efb7a69",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c149934cd9779f01eb6632cd5e4432e1ee8f58ff",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "611a101aab9fcf64a74e0b35d4cc0dfd9f698889",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "31fa70d73af117407f00cf2ba473a76074f472ba",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4a865703529a5742ff4cdad092a8f4e91030b136",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b8959afe650365685bd95301cf567d9990f9856c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "599207ff8157b56e87f94623277fe345a3af57c7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0f2436b0113744b2449b195d0c93921bed0f3b21",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2a5a62e30fe49db7f9c43608595b6e963b6b0453",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c1cd696fe405e7b622d9ab14440053a79f825112",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4be5b98e6a4f931437897137dc10a2a36c7adc67",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3a987865cc403057efc8dd883b1c3c6c5f536c74",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "812f4d604746fb59ae07da067a4be3e2dcc5edda",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0c42012bbe23dd902a2cbcf35a80630b250e21f2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "22ca807de16b8da9bb0506f3dd3091ef3d986650",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8e9b0230347785df080d4e8ceabd1074d3ff88b2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bbe613d21d49efbeb911e16f91195c6e4972d4b0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e3485b9cbc2bcfa1350a27195320ee59992ee751",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ab38ef371a5d38bc8ee9c8b4c23c083baf3bb604",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d39fa855acfc0276c31e406d1af2651a4fa0ded7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "53c5ef7ccc3fe5494050a0c2bc98f1620ec6538f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8e4d9734ec42628263ca084d4e799619b53a8116",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9549a8e471cfbcb849ebee2f85aa8ea1ec69a1a8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2a6343ed3d16446d7521a636bb753603f2e5b459",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "11eb2d26f19b26cde7b015330abe6d4579833319",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "31de2c5170c9be487bf91b1db7d27f88c084a97b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "263af453a5b30935f067669d412b01c7f04cd0bd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f7a92168debe9c3095b08b2fdf16176060781c47",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3082e7303aec2c076f2bf7486e6b87f4b8046153",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "20d095a4c2ad8d3a2380f62ba18ad8b5c0ca54ab",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "55561bbfef861806b518134f4f38b61351e5ec11",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "dc6a0b3a957674c8cad09abca8e3bc495de35105",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fa197e4b15592e72cb67e30da9d824c563e1be37",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6d402170df6d02f74acf335b5cb2de5d87a84391",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "20a774e067ce46cbfdcd0bda84474640f988938d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3f8eb64850aaf91a9e6570105fe79deef07a9e5d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b7edb367cc51475a61863776b1fcb6f90df57f17",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "609d9aeee3256d820d79278af5deb1d30c21c568",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f92adc80b2b162307873264df72037a53365b4ca",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c37c86bcfacd353d9766811d2ad5ced86f9b2ff8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b42e016c10ea32ac59f3ecb8836958d29f6be403",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c6d1de5159bbc9532768109bc2b3bf09a528ace1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c26f6523571bcb8748a3ce7d04a160d3aead47e5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e7888cb37e2c72cf7540ba15c15a96fca9f9ba94",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "77f53ad5e72fa21b7cd201f5f72cca4563ea9f62",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a2c1853172a3064df4b22c4f278beadf4898d565",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7f787bc39d386a341a385218dab3af91aebe1a67",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1b34df0e87f347c01e0f2e56b0a835aff314e31a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "83677c156dd89ff3ce9a314bf00c9ca55413e440",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ca674d3685a13736f79bf2e08d550d8aa015a9b6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a90c971f022694f716365333ed98267cdfb9e557",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5bee2caeea2a13ff58fb08a04dceb358864825bc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3466b5f6e4883151f860f7f3341f6e501aa78fbe",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2625cde7367a8e5b66857545d131d749fc3bb5dd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "716a282aae5423e3ebefe46b4dfea4a6932fd500",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d4579f5e0bafac01487a3f69520e32d544ccccfd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7f01dd1da23ad3635c19fe18873023be60016f2e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e486e001a24889cc0e3bdbd71714c70b7fd1408c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "83d3fa5ea62bb7d2437db01645f0169b131aa396",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "431427695cc07f0f8bbe27b1f7136d979dbdcb72",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1b574950f1d7165337a651b503c5caaefd428fd2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4fa50e433a4e5ed460d13e4ae45c373074d15875",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d32a72666073c2ec53f25d03820cf25292171341",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e0ea7fe54ce5bc9e09b73126d7b3d3154d2bc3f4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ae7ab00cacdd58b4be11d2dc28a941c304f97be5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "666c0e530492912627732c55c34c29981af53a83",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "359d52a55ea7b67c86e63d487b6db520c9241913",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6b0adb5e260ad5bee25f209ad05b5ec0f28004cd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a7d45318dcfdfd10db5e8a8fef8f5da80fcd61c2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ace0d5c28b6fb84bacf098fb0e65e0b55be7f241",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "cf19b047f02cfdb019e47e881c58db82372cd810",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "71df9df1f8b1a60befb6da827cd743a52b62b424",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "014ee22ebdec9ed8b00d383795726ded2ef42326",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "cd5008db5599c281ae00c506d2f63204a5043f37",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7eb710b27e7bb4850be0cadf58391b085f2a2f29",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "febd9279386bf0f153e3ae9d45920b7209af85dc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bb2e69b1625edf11fe989a06e191f39f10b655f7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "dfd47eb51f4b642c6e39446d0d63a903a925eb9e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "25f5744881854bb858948040784cb9a70db55b6e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4425d0f8e4a010eb3042cdbfa8ca63c529b7f8c9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1038442ad862469c5fefe706e0db45f5725ddfaa",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e6e8102945bf89f2c8cf0308bdb7bab73eb66e6e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0096b3e644297f83f186377426d8a3fd60d41ed9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ea8561dfb370812a423efa3bc0131b3b025b8684",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9c454388c0ebb5cf90ae0655d2969b5f557f29f5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "41536b9beaf1f0a9b01e2fdab2d7746838238d8c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "84c46ca8302c3ec7b6de24b94fc8e72a1f80e6ad",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "062428f2f3f2bf4d0d74ac5e80595fc3ed2532cf",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "162f0a62f67c2f226ee12e0d4c9c03c6ca72c8e5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0f0e8842b735683617f934656c576a4e2ad0d1db",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2b0d4a56fdf8a2427470c3fa454bb18bd173884b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8c28dc439f819711f5034c989d39dfd514914282",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fa2a88b6f1da98dc2a8bc3f8e7978ebf44fc7acd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b9463727acdfd10c3a937957787eff1413773411",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f816347f81a02721ea09d92af5361a58b985b2d9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9b775291f71beda2f5463a46082ce6df38bf4514",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "df73ae61b3b1ce65ed1b6f3569a12b562540b68d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5b6079f0fedf6e7e0ee30a75869cea784c7037e0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "35e1a8ce2547c855f7efb0178086ff9db8a49250",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fc61d934dfe972339b7bf4e4cb6360979023efcd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f13db7a260f157394085ff4f2e07f225268962a7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "87e7d01da2558347f9ea64983506d9d8d944a4b2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4e97c4053428fc458f74ba50b81a5d9b135ec70f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3f3bc1a23375ed992b40b9a64c8bfcea27d8366f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1859c90fe713816e22de35917236a0f5e48d55f8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "699afb8c75248ac4f4af642d85aa16bdfb54a607",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b5d001d5e9e8a3beb5303cc4306ca0fa59654a76",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1f5c8a75c94f3031f85f97185e9bdaaa1c7216c1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8efa779116eae0430ac173c5f1c7d44d4e13ef0b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5aa519cd785938267b05c6953554f15018eb9564",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9299713a2c59b7c605ec8a3d118244562485bf59",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a1e97249caede1d7083c6256480757ee2da9c17e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "822905074d56fc38b150720d11df95ac9c820aba",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f2d91af336dd33d59db64c8f61b9a0f02b152590",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f612db1508aaf5af0fcc226d290cbb90fb0674e1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "898ba6a460d5754945dfbbf4362555d25d0381ec",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b09de3cba7eb83d83a86ca896f89113762b21782",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e4ad157762ddfccbbca7307bf6c9c76f4a46eb00",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "43fb4f9d0bce6252d4795ce0c3e021445857697c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f974496ff9e15492ff85b1c132dcf5c34ad0bf2a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "186ceb664b1457408c6a3a00d0ac808fbb00c386",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6e81da1e896338927af4160854794da489718a67",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b6f50e60a353d6cf92231f772eb19d8d49c147e7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "413347c97f5aeefb970b9a8bf72ddf195bc0e996",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7d7c4b6d1d6ac4a6f48f16574384c1ec0c31d45a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5e4bf8e23f4f220fe7247df9ee4126fa72bb0557",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d00485a77a056d34a82fac7342c40ed5eb1724ed",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ba5218d07b38f4b578e3168117bf268b0a675e5d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "04a71c23191e2d3f62b7010550cb8365cab26b05",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "868fd7e3a73aa074243cdeddd9c43653305fdaff",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d26984f7769a0c6493a9bc6c3d6e0f3db72285c9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e5480da42b9fe4db2cd26c578cc599cab81e06c6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c6033e96c255d482868f39f765d1f7384305d906",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "45ea264d037569e48929a9b88a5f872da9405036",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fe2c429447c49129633b48b91c91c26e45166cb0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f69597dc23c2cea0da83a6c1025930b886b8045b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ede88c375887c09dff9a19bd9a635b99e099de4a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1cfd55beb36832431d22f327e752b03632f75bdc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9555db0764b70e1cc4e308d7aa984656b7c90dd4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "83d54f47a6d708ff63091c7ca5e76132ea1f1d0f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9fa68d18f97d8519f2db57cfb2e67d3c03e35d27",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fe56d273c50eb1e5ed205ad5861f35e765c5d9d9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1e23e67d30409f3a780fa0ac131a8845fb0e8e6a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d401eda870a2abfed2b897ed488ee2a571678e68",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d9ff01c644e537767a7f1a72d3cff5741ee819b1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f9e4b93e96474f6096987950337f753013e92a59",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "84b7da8fbcee78f890326bc07b8850075accec13",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "37d3b5e4891014e05ee604d3614cd4f17c2c02f8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ce67355a74dcb004ffdda38fd0e631fca899a15c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "64c262fca053068ccca6b455e7a8804ec8b85163",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "87e3c42b0ae935a463fbe3740c5dbbe54bf1987b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bcf8b390f32d7f6baef2773ee75e8084536ea18f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "39c1c879c302a32a19b9cbf093ef9dc42c1b62d6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fa58b307a2dc6890a6fe46d98a5e9daf01a1b36c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bba8493faed56e71066642638881c11eff3f3535",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2805e17e077b7b6d8f894ba18da734e812ffd509",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "160681109cc7f1d464fddc0b3609f3e7de0f8186",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "72ee14cdb8565eb2749092cf70d3ba107f924ade",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "03a3f34942cd419f0332e93b376feaf576db42f7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9fbaed3ba488347f872cb763c924cb3353321b7b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0bdf43735f299428915fe79e0cc526c1909db75f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3ff441726bc16d752a7532f06ca4e8293a9131af",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6a477395805aa5003cae6fda16a4d2284d965b9d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e42853d39544c1d1805c9dbb012faa24bd9e8736",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c13d0ec3915dba006fc82f204608585da16cc2e1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "804ed468cc2d683548050d842a47ce1db9bc8ce4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "36fa17504bb005cafa159383128217b16a710400",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1287372a5017ce5076a45cbc9bedaef41b4be65a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ea72a6466b18da1cdfa75b4184afebef6661cd21",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e7e32d889742015574e58115b2339f2e028667f2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6b386d2383676735eba1c2059b8069da42092e03",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b62020897b133e72c6c7940b9499e15d904664eb",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e57947049fcb8d2246ae5ec399568382602b7163",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2b0bd26b222c2774319d267883a520cc590dbe83",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "749c39452b08820db660c0db625d065b2484d9f4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "cae517153f25c5ddff613eedc53b39cd0a646f27",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a97479a9d37d7c94f5128f36df2bad8b3676d2c2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a05aab178348118c5fecc4329ae97c449598b1c8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fe435e16c1cabe7a719d20e73b4d2b7d2e35dea7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c75108871f8581a5c04d42d9436fe0126507f142",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2b228f0ce85f69a324999a39681459ece2bb03ad",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "07d9036052514a3172c96ebc2062e90cf9c47682",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6a1851824af5850c37c0d05d29d6a1663bdbef68",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "670f5d8cbceaf8793e9132e89232b3cdb8662fbf",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "cf87e4ef068fb163084a0fb863f6fbe1529968e1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fd1c776957a077c9353c820fe5adbe5fc3babe25",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "98f802a1320cbb43be2c2809593ba1c65d503ecc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "24bf42da798691b7e3c16493a349cc14a4e51e57",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7f1c58f05507b544dc29faf7f2731f345e16a473",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "208d153ed15c26339a7f87d36e4bfdddd672a32a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "894fb8bcf03a4f39b74c372db1b161de8b110a55",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e0a288d551d78f4cef38e877f14c3ee5ea4463cd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7a03abb7c0d284329ab74a0468f9dc2ad26a4daf",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "15f4fec4f3123905cac38d1d8515b6c6325a1f5b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1610271d5ff344f344bb649bd2a4442b063ae20a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "23ea10eccc9f652d7728dba1208d0de3cdb17a00",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "97e743e16fa058c2be3d564dd0705d8cc04c35bf",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6c9829e8bc3f8971b146c10f6d9df589db43c52a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "02baaf1d9d61f54d3122d2eaee95f42b3ed98bfe",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "12e0c3cf947fbc56fba6409712206c94d44c5b07",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3614d059123547df86034484881b15e7425c4dd5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "23a75655e3102bf27e19431fafba46929c1c7dcb",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b82edd06928d5609aed98544aac0134743b686a3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4d999d413649e5316dd38a85d4f79602e9edf818",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "27e0f2d04ac0e13af9fd7badb9ebea1b4f69e4ef",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9f57890052e125a426efe1eade5a30a64b106ebe",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "46aa0fb243851cd4cfbe0029efcc658ad089350f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9a85ba9e87749b6506d3ee6207586b0bcb5a22c2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f0192eff30dadf48d7c428e2c34e006bc72104f3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ac04aaf6705db42f092fe0194c82ee8d0f58cc15",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c78e635aea166e653b95f07bfd6d1c9b976e0a09",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "48c02c4929dd9928bd47d11103220b196306cb79",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bdc865cf56f706c8b1c7b84f3802252b8b646665",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7f624263a2bc9f9304a19f2b4da7c1ed4318663c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5a9419b139cfec1b6660a6b488a2c4128e78cecb",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0a7a72f9d7f829f16bec25a9c0dfb00fd0158a0e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f99ed527408821bb8345ca686b388cd3031c4613",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f4c07545db8a7f83031dd4b0c2850771340c56f4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3e826b6297b5780cb0ba342c6ef79dd303d2594c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "74ff3e964c0126654eae63b55dccaeed982a3a36",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "68304025b821fab6b72b6202ee94936e49a767b9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4ac6f736d81e9b790fad59aca235d53cb3a04fde",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a03c599076218981c8bfce3d64fb2df579d8d305",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bc6b065cb2e9cb113cd82a4534719d17f7ff45b4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5545eb599ab9549cd8b348c36bc401452236109c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a31bb6aca8a19bf088e60c70521cd79813e1a0d3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ec741b0203793036f2830444d38fe9879966844d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4bc79fafc327e076297d9319349159c463d8fa9f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "cb5983eedb04a6ce28b91d6a808af52135be9bac",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c26bc08ea1eba3a5485058e0083d20da18c7507d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "855c112e8171cd39b9ec84b64f6ba55c426d7612",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ffb048a95c9583bcc81d418fbf471528eb7fd3a5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "991d699ee89f7b1cb1989bce3a14d6cf176f752a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "38cf28a49e1cfc869e30859989584a2cebcfaa3c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e1c6d96c78c63e58d6adf9b6abd01e6b7bc2345b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fe6709bc9145f7e98ba690370c3493f9f9e4cc6a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4da611eb47736f24609442d6f2f048a8a516ac49",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "316471c78932737f029bff5dc293655ef331beec",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "49364d2e95e91c4753be80efd60d209a7dbb9817",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a387e08ae6225cb49eb0b3e55515ad347b7de7d4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1563815727e0bd23e2a2c6c858026c931babc5c9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b1afa8f08773d9947e43572c086b876202006ee7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b2d94ebecc4fe31fe2c343184ffc14167a4ccca2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e6261d80f71d2dcb15fed45c13c862bf1d9cb250",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a5990c0480aa0fb4976c4c6332f880376dd22ca5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f91e1c1e343b2f9d917b564f97a1e86445cc72f6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "564e7c308603ad9a697d497d29d6c251b2e848e6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8bea68ff04773e711a0e8f3a622bb48f082471a8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2c2579cf5d1a3dc8589543298318e5c2757bab67",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2bf76ff0fc8d3b9f78d3805f10cf9160be6263ec",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0b1a6ae4d86cd9b0aa69161a4d3f001116392ab6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "eab70662b03092383089007967afefd2647ac1f2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a8542618967dcba04b6871952e52306ad247971c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f436309e1d3b7553433b75da46986a0cd4cdcf90",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8048c8e960fab8db89f376646e08bd6c048a937b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2a6fa3adf64ad1c82e208d0279bc82e3c8344f77",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "266ab0c0e3f94ffd51db06396e705f502afb684b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "24e2be2ed3e18fb55ad995a6bd8beeabe441c20e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "601ebce019a32b8a8ab78b4004deca7a0f73f964",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "67348d00b060e0600b4aeaff4c945f9161d50be1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f13a8699b358d0c8ec504e70dc52831ed8b94ad2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fa2f09df398289ac656968bb1182b3d4e3b4e84e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b9255e18b3325d84f3f0b89cb35d48c7c1d58d5f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f75130d1f1bf1def4e241d7c172ae7969ebdd1c0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6d75d776097ca6f7cd87bdfa99509aabd8c26338",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e34fa661ce617a37f67ce7bc8492912bf9fccb3b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3a257119ddc8fbb1ff2317542832e491e05e1bdd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "724ddf1fcd85883fd98d1f41389600a0c36ff344",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c5ddbda813da796ecddce9c7f3fb6b443ed06b28",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "78c9316379eb0b2ab8b7375a334e674fc1bf89dd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f3edc60c65b567423599aa7ab3370ad4d874c953",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "68389448a53158fd808cff6b4343137eab54e5e1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0e2443bcfbdbd0c20c4e6e0b0ed20b113efe401f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "be796c98323573c7a3dff84a0a5115490c966a0f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8eef76a7384d1bb4a70975302aaf231663506e07",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "68f5844afd9d8d434692bb06862c91daa53102b9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fc6a424206cd3d84317d2640e52730eee3749b1b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "55a5f4f6de5ef6c86adafd21db960fb0834b9184",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fba7c1d4333d2855bf3225cd312fb8a143339de5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "723c1d9943e3d344c37093a936f975ca6566524e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b1f743af0885fb2e4d8c09b9fe6ead29b265a25f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c77c47894ba1223fdc30b7d15e9deb711f71075b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "70927c2bd470307f97f677b8cd8f5d36e62097b8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5228576c24e3d622a688aecea167f6cac6969e76",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "db3e38a78d854e11a51ef2f5dfa3049971010d76",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "96a2a4aca547d71eeab36094edff2159cc0bab4f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5efdbfbfae25b09f6a706f511abdf04943bb8057",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "49705dad195e95f763a1304a500775e16611ee70",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3f8216e1ef8e7aff8fe4b54b7aaca29c364c33c6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0648a2fe390c58c0d1826caaae5133709c2472bf",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8393a93c3e43e0e27452e164e97c491016017d4b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "dc6ad7e02b332fd0b75b52403313a0376e3bb0f0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4244b0ca1e1d99d1bc87efcaf6bff2a7ce9eb15e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b1c1e72f5c2db05b4b156473cb22ba7e5acbd4e0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f40c9abd1cdd91575a7dbba4040cf01bac686645",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7e5a9225f51314b697c6fb31194bdb659d9e0bde",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "810aef9d2b107f128dea600f5201f564fdd63ffd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6eb7e62f0b2c2d7f10f2ebda599e6748244e5e3e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "99f0630c98136f7996442da44c6617ae77a8670d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "924913011b0a1f6dc6bf7d222b812546d7bea7e3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0357220a8ae26b4afac9235a3ae0dc2c676dfe8b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "be1fbfccd5704bf77bb6f69acf06e8a7e0bdce56",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1715e03ab03accc0d66a53580a888531e0973c7e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0004b75cf9806d8d6d072732e873db5c659fb09c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ba92e3f0edf4e43fae63b5d130d92dd67e881dbb",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "880d474534fcb1072b2b12494e42e83591da20e7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9b5f531b19d8131b13c505a20d49afba8e2b44a5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "260b3dcfc3eed859f2da59950fca9d1f0fec1431",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "efdbc4550da201fc470f7fceb4f1136dbcd41e60",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e5e065a7f69cc68707b8dca396e43a782111f5d3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8bd519cd1c2979980ac36ce62b03d62a104b3fdd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e874ac7133e86a987be6b642cd28934fc30c2400",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9dd475820a9fac0796c9fc2eb499a206b32e47bb",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "73d4e98d29f9591b7cd3bebf1c9d07e7c06f5af5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d1eef86fb4dc4d4d165fa8e94e4a1f7d39b1b8dd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e7154397bc3ccdf9d3b552337d4c4963768da503",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "46d0a72399c12cca98e9bac7e354e5cb18ec78be",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d390686305c10783cb8576b2fb82b229716abb9a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "86f8929f0f9b0f3cf3a19eb77f27b8f4db7ffb22",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3ee4257de33a93ea499703ca56d864eadb8ac6ba",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "af8d003df86dc454832eb105d32402cbf8009c57",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0154e3c872b3b6e55d5350b54450c57f0b8f81c6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1f47e277302012b0f66286ad6f0e52c51658e969",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1540c4e28c5df593ec6101135eb288a76165ea04",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f83a9c48af6031015e175326a3a3e25bf749b2f2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d4965671700df504cf22cf5ccd029eb16f012947",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0c0e2fca427ec30952eccf2019a7b0efb6b68b45",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bc8a256dfdeb5f5dd2a4289dfe408bb63507fbea",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c2d39603b8148116e68e3d6a3036857fd5480cd4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "600d0c8686c8105843392e22803a73618b31eedc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f69e8f3d2b2972e7501f6b78275d8b07c20ef425",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "61a3f67aabeea6464c9db2f6c888bfcfe20b4ae4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0c1ed66b52d9948a3a417f13fb451f80ca7e3d54",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "66facb9187afd3f4cb3f6633274d3e3a64556da6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "63a8574644cd68ea34290ec8613f77e45953af98",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "84b088ca0ba61a44c2397f1366dd884608a042fa",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8190e32c6fd4fbc1e16785244837dd6e9147317c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "42a0f7c974045c884f647063cbdad7c87aac968a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "682a2a630b64dc24cbd7676ff83a681dc6918935",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a75cca4894335dd721efa3022d16cb67e8191e4f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "05abe61cb1a44488b58c82bf898aea43d570bcbb",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "32f55d776d8d67e26d4b36c0c024bcd21ba0d550",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e1d8d1c3a2fe673ad4c6386439b9fc83860bfd44",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8b79710491e48de3ea96121bf59d40c5291b489a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "083f61384af123695dac800395ee4f73ab60086f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "66b84e54759676f8da70222f41704d11253f24b7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c82359bb3418a96dc8dc18f5d2d45c8d37a80283",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "84fc898579cd5aacba974381589adbcaea461cbe",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "56e49d5fa38e4fc566d7cb8ca9dda31a8ae6f4fd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "527af71bc7691ad4d6707cb287662cbab6eb3ade",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d010ee383d49548080ec03b3c1935c334c154a76",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0bc0cb5243f337f0912241dda1c290fa2bedce4d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b60dbda997048c2620f02e00ead3fc33e8083d1e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "72b0f7903043cb9cec570ca775f049140bf07ec9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "26e4c7f6b6afafcabecdd0b14ad0e97bb3d22e40",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0deb12aefa6f9ed5815b5169e571bfd7cdb7c624",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fd87f808fb1ff54855f944c13dbab5550709e052",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7aa5fb1c08e5c6b4b73e5640332a15ab88db9f9d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "09931a37b70ff156173c1a2a4e30a16f4d09d963",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d01aaa52b860aff7d630b79c0b3bddedadd068a7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "11f0f905ccdadcbc6623b868dc3258cb6524f1dd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f07f952fa4eb70072be5dd5253c0b043d1ea88f6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4b9cb14e0ff29360ec80770fa7ff679cac207e47",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d9c6c83b111a743d280fc72da826a0e8ef345bfc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0aebd834a4777d0344da88d9391204934925cfb9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "eb7abe8c6322cb0df2afffa76489842a50299d91",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c4ebc72b70453c052c0b5b2dfbe4f73b5fc33d18",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "11c2e1a349089bb388983023749dd4701d949b4c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b32ac8bd66ad7e27ebcf09bfcee3a1403907312c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c1f3c8aa3e0bcd478e3cf27d9678b530e77d21c1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "92bd683065c7a07f7effc2effd0c3ca24c19ae13",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "85d9001ddea9cdf9ed1d72b9c828117d791ae800",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "10cfc36c782a1bf44e0a9c24aae6973270b4f5fa",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "91679c0e7a1c145858f7141354c8d0b6b2a96bd9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8da30935923a635f920bd0bb0f1bbae788778bb4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b2d18d1dfaf6e42282e44e1e74343322dd0dd886",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8df05e956b8b04270dcf9811ad5b8c5e149fe0a2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "aecc2244d6b7f24b1e7e47180ae69ec3248bff74",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e55414e9a7768ed98721404fc8cb7bdf3a535fcb",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2e30cf68ea967014772fe605593ad55f80c623b8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6356e70fa781df4c7c669dbb72215644b73786ee",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d07cf3369275582a39be2cc594e5d30c1e70f4d3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3becc79ae3b5849bcf5e9c8b58da4545fc28dfd1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fa7ce39778aee8ee546cd5b0e75cf98b16661f26",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8aac1b774379367d9b1d3f0e9f4d11dbe1476d25",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0dea64ac8db60c592c8cf72eea17ac3c10ee5e60",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9b064eb2ad5681d3cd854fa7c16a3f81e0a4c2ac",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bcce3c9a299859b1c1f74eed5bc4156d65f55873",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "85a2ca3dca60579db2ed04fde91436556686f99b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "90c7e43f03d0fa2b46273fe67a9f5066e96c4ecd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "abba9b4da23da213ba2dd2f4d796193d3754d0f7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "158af3d13f0ccfb695327138bf50c62a22926770",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e0d388ae7f21af87b8997c66d57c2fc9b1b3ad5a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8fafdd0c47162187d98685bb69e25fdac346c9bc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "32c5e7c36c8817bfc3e44431c935fb413ab48059",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "51ede841a7cf30f34f9fda10d712ccc16b740c3b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "651cf67ba53ddd0c34800e645c9e631725582889",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b8ea3e0de1d29b132a634ff29b593d29c717aef8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "22484c05018029959c90a2538eae8ebf76121e72",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "771ca5670a4f71bc88b5358f5c258289c49add23",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e2974452fb4bf42763c07059becc3daf7542fb99",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2ba712d149a9f54409263b2840ba3032661f90d8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "459e663bcd403ff5f3b185e5abbc3d67dcc4df85",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f506701c8e8cd1b9e596c3f728996c988705e7d0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c7e814b514e7ba8c6f43a6d6e5484a902c3dfb5e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a4850e641ff151f88b5815e632827a3e97e6e713",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ccc1181a038cc69e2c3a2698f36664758dd9f4dc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1577d964f0f179aac4ea5c3ab50021b8fcef4800",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "59fa03c0f18c06a0afd3ba570a5a42e74552f2e0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "34b92a145f3f3f6b96169198ad7b82f25cbd86f1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e392f6a1652652dfe1d4149f145b8b94e1d6fb85",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1357959c0442be196b22f5bf7f2742289560ff96",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8d2bc70eba95c08a31f230b528d00be68352f1d5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "122060c2ce2115246fad965f9df2ac0f82d13bab",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "42eeeee9e3b430b7a92b40d93b75e3c9ae7d02e8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6a70f45cdcd7d833811597ba9de09a0a57ffba23",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c6028e77a18d12f9f983f102d42b96c43a4d7624",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4158095e44bb601df99e50534ddfa41ea3e47993",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a0fc6fba021a324976ffd7763f25c3c034ddd6d6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3bc16d0d05d624596b082bcc5f14def22d10c58b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2d7d7ca6daded4955c0a46da03e1880e488bdada",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d8ea0541023a313728103e91ca52ced04c96e58b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5dd66619848fb87fd25410c6c0e19db908663dc4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4309762fb53fbb351a8a6a8f5bec4f27691578c2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "23b52ddf35dbb39989d674e03b70f66cd76d3bc4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3b13a811a8c6ad568a6a3a7b586be9f2fdf4e810",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b4a7a7a47c2ab582af93c5d267b2970f4555f934",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "76c25eaa811aa0b3916835ab0fa863cf34f4f95c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5fe581b22635267d8e3bf93f55fd079bc9368497",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d609e926a181d516f988f9793c07829dfe587a5c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4da87e1d312d5a0f841e9a348a30763b5fb99759",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "940b6fda26ad655d1f3972ff0b28d2d031a7ce44",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c8a61d98f96c23da3b0ae954abb753b1a36eaf52",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5e0d9f1b0c8422083bdc2feba16252d7ae316b60",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ce866e3399438a0bc5a1325ae3def38ed9b8946d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "40b6b2f62af083eae9cc0ff7c26f6b357f407484",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fe15ba18bc7ab06d3008eba9ae0485454b258069",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fce16188850143f3a2c8237ca1af909fd132452a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8025d01d3c2598f0cd2cd24c91d5e98a3957f289",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5aabbcea2f2076f3c024c0d19c54bc4f54111d06",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6bae4a32ba94598bd0f9a7015bc5e9af3e6180ef",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "977d7ac04b14c61177f5b87987fce721be95a63a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "82922353d2ee80bd08a4e9edad552b44fe0e38be",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3f64dfdcc88d25adbc1de4c3b2eadd0b7dbeca9f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "955931375786f58549c1cfea7f7cb89b1151d3dc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e1a646113b73491787a115e5bb6b04d1532e3fcb",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "204f01bf11dc9da1eced998181163796926bdfe3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1d31bfd579056678f4aac91406a5b281186adb04",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "10193c89f590fb4fc1fe988cd87c5755d0f69228",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ce604ca00e7fb584d660964d3d9692ef6b9791e8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4e93f5e6a9b21c90761fafbc45f5a5d9dbbf00fb",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "57f5900520d6208fd548cc08856514587294a4cd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8728c282424b40d43ee6480a827a161179553086",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a2d38959fd41e510fdf5eacd8affc880c750e281",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0b31139959b1eeeea000c2bcc51b612a6b59e6ab",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "95ff0128a05b0b1a99adc2e7abd6c481aa2458db",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0bbfd8bd561f2ab39b300c0a549f3cc954fab0f6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d6c5f77b459e05bdc8db149964040abcbb9a17d6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7d406eebed1dfb27d570a021c1b85ca83aea1727",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "70c8dec59d251d9344b0af17c6e702faa7e77326",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8766429f8c54964e7cd1777d2635e9831bc73661",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "84c2e093a5a349053d2f3e910f3b4280eab6830f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8cc9b80170fcfe65f023871f5607a9ed4fc256d2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "928c1d550c93f0a1b0b3327f36d648e6e8505d46",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f76a845ed2ac09c7857172f9a6796adf8ebb2079",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ad1c0a6bef2baed785beca83bb98dabe3e0dcdc2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1f209ba79bfaf0945d64eee324e860526e138da1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a991f5a1ecebd0d6e2602dccae5df459a6f0240d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "cff10fbe2a70a729591d5ab88a32917e4e858ab3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "abd4db2e8680073368abb1eb9b570577d4a02655",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6ba4971c1f6b8cd597d069132c58cecf7b5edbf1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0c3e64b19c652648a4159d901c5616f6d2012684",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4df9e69732321d8e4c4694e8db73aa5c84e08eb2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "42c72f60bf0ec058f121002757966d87c38b448a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "911f6e1ca3a10dcb82fa9c8d88b03d95e7732f89",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0493cbfee159e5f8fea4e5f4616b15488948b432",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8928bf946848ecf035d5da190c2fcbadcef7b994",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1b7dbd8fc26c90b39ec52ea5371a0ef52d3b4129",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ec62e971b835f9f6c839f8b5a8db0e1c3202d863",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3638b1964b65835ecf19bc5cc84d0509a8e82d9c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8171a361a9c7052332039dbdd2e818a50a693385",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "72afaf697625c41a9008aff8972f286f6fd8278f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3b3987787f31357589730d4d9d77e5eb1ba1d969",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9aaed1f4a4ee5c6845f6a3dec1a1bb191cba8a0f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f86a454918f39fc44b303b672c5afc25fbf98903",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e89889c6ae508977a75dc5c4da7a4ea65b817289",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "073304a3b17f72e90fb789f898cd864cb5de7ddf",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "731bb44099f5b663aad665ef4d6d0008cf775b8b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "848433ade33247e3ad3823003ced7f94c75c8ac9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "cd4df3ce8e99da53d56988501616817457e1596e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "016734fc22cb7c8351a5830c2a7d633296db3fdf",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0efc0fe604ca013320a349e91428dd1b33f9928a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e20b54ae554ad8c337832e2d4bf99ebab528cc1d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5cd44c4bab1b66b0b57f81917656184e5d4c38d9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "77fdb7b4cc0ce3cc92943a5c1129ff8f798b6cae",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e9771e6137abe00e16cd665cbaf5ab25007c04ae",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5b74d0fbbc1006f53e52fed3bc7c94d68fd15547",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "15df7049b2393f9e2c5c44eccf277b8247f7fdde",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "13e696846d643ddce54c24ff7d1812a3ca9df129",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "83d744c021ccc124e9f3bead6e34e0d0415aa4d4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e0eb86aaa46084b2383847c896e9226881d2a2ce",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3e320163438d451d41c1192496e79582c7929b86",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7ca693cd2faecc33bd15116643b289233795792c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "95dbb01347a237755c5def67e24d872e029192d9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f04ac45198b050169d3892f786ddda3f0eb766ca",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c765c3fde701293053c4a16c487827351fd236ad",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3c5b7546b4513ee7b19aa25e54d3c1f8987a57db",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c269b7a25bf5d134233bcece9d9e0859499fd44d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1bcf2e93ced11ea022a031c23fb6bf673413500d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0025ca395bbb78b4d2ec7f0ff39149a6940bce97",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1cbbb28cb50c2ba10f20333583d74bd2352205e5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "33dad631f186205252e7cbc28ff55e2e9c37a7f3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9a648f36e6b47dd732c23e0ad86179580f4bee34",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3daaf982cd1f435cdba419f4e2ba5a67cd5bece0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e32470a34c380e184df827604429effe46675ad0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9873cc2ba07cd98dc75df6d44e05a6e3c7087845",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f6e11f4dab79c5ec383b4f0c09b97b892a7d725a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2198f225748ecf3df3f846da4587ac9fbb3b2089",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2f036a2b356c2b10129cd131df80940b4a8985bb",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "005b0204ebd926ef26b69bfcf4f91f181ac4caba",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "30c8e69ae391ffa6569f92f9ae3da1b20e317b67",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5fbd715c76bf5cf906d86a09a2d39976b92c375e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e7f105341ed245515bab821b0dbde2b546179898",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c25a210b30d2c6b940ed841c62aa970bc92437ab",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fc0d0905fc2160c858f42571a61426b27216c1f4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2b75e0ffe0f40c8559f280169dfe81e10910215b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3f2184278fa77eb749e07ff789801b42325caa0a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "073c3306a1ff6a15893c65cf7cadf162a8148bb6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "98ed86e505be78cc378cc99bd497e8c8ce8a6d96",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ab12e7b800cddef088049cf5652673908356896e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "56eaefb7a86600552e4e64ae51b399e510bf2073",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "28999618e3cafa12d1c63c470f41aee3a1dafae0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9310e261551e72486d361a4458bc93f44c98aa31",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8fecd21726a60d23228e83e28a1d2458e382702e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "702712dd1e6738ec235deb847695f6a34787ecad",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "53a4b3637edaf15dc4eaf1e2db44e16a985864a5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "11a609801d4c943f25bfc9ad0a0b4c46dc6abf8d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9d08d2cc321e5464ecfcee8859bc12000c255f84",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f7127056a2ade0df855c983596a9d0d68f8320d1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5e140da0f35c580b6c2e8caa2633613c0c019ccd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9ff5abc94b1bcb9e22594c6182e1405b4bf8d53f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "221ac5d94ec1f6bc978bc10c43f668615da4c1ae",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "174664785bdf86310a75145392c2d1f3e80b2bcc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3e03dc00a1a98a98d7890ce424df636b25eb4cef",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6e936162ac33687003aad1e6c2d515d30974b673",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f8daf072e6fbe477f3216441cd049fe4c2f1c9e0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7c716c64443fe41aa86527de25ae794811008330",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1849e5809e87cb7c2041ee82f3547d14eb098115",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5cbbb7009fcf8a613c353f3a99e18acc01da22ac",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c6567a1f9fce4542c9cd9f938e51b981b253a92d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "06a0b005ed3b8e6b386f3784b1c988fc8ac260c0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "24277571a932763b70765fcfc363585473cac1a9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2a496034f98a47814bf2285d7febc55a9e0d3b1f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e636fbf41a082b57d7d84de34ed79156f0f3d249",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5d70fdbb1365a6f5a3cab09d5b5c4879d7248364",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8078a4c219496c2b20151f0845155e1402477854",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "70fee1290633959e45e31bae136b5c95a82c67c4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d2fbfbaa72d5ba86f8ac1fef3bb83014c4d99b71",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "26395ac242ea6aea0b083b7cb19b895a3e70a572",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fd63c4f9a6c70bf4ba0ad8a6bbe40c0e18a19ae1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1f92b84a8dcbc72020251fc428a394cc080b4dca",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f241a0d29aac950d0ee32c75522427cca4d9eeed",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f7a08bad0b006e0aa69bb582732aa376255a5ddb",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f91f87b3d4b1f7dad23f06e62822940d5aad5f1f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "305dfc8b69d1f558b28dc326e69859814c6db507",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "738fd94e95d52e344c2fd69f8c19bb6298cd6f6e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "553a6ca128dbb62862a0d456f765250dac7b8371",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "525da0a32dffa226296e59a32bd42bcb1c44214b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e8addc020013ca526a5038e56ff9d8e6f8f1170e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c8aa3557d1115b340d9a01956e885215073cb097",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4df01acd8eefce618d63cf65f3903f386b21298b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b96a237e8dbe6e22d6d5d05b8e36d3ed9ce77ce0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "690b59b7b1ce9eab3620044490505dee1614c1c4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d2112eaf146350b00da6ec00bdcad03636a13ef2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f921de44527d2697a690b63cb329c1be70ce2440",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b1425046e452f6cc176e36fc89443b19e87e69fc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "83906bb8e7fb03f32a188a198f94c59a3cc40d37",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "72555595caca3c306f8e5e7e86fdb44e86385f83",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c471b096ad2a643022d6e2853e57f1bebd93b05b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "715f0bf4fdb519517c62bfd659e4401ad7278a11",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "91a0a114bdf13fb7186c4820a6c94f3ff3183f6b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d83362bcc5f3af6169d021e5a9966409c797f633",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "83a7f8fde6512070e58d67d3dc828d3f1ffa6704",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2850fd8871d02193b9c518167b4deeef751ed3aa",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0febd6f772481ffa4ee86eb6717e842405211152",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6350308f6e422ff7277850ec6dde6bfd05210993",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ddae974d32bdcdff1ad90689f2fce62a96c6edac",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "cb8a5a1d6078f0541d9fa21b329df1732439811e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "920335c31b2798106eea5d78c500b560babd7c26",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ab34e542770246e4848b6d0e84f217eaa0d821ed",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8143f75f1991f2aab36ecec7136df7e12ae9d73a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d1ca16874acbe7ae75aaa7f2c9565e10b38f1a48",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1fd54869a3ce9a1a66eac517e4b11e99d80e346a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0b5f96d530240e0957313c7d739149cd2d721d46",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6368a5a883bd182c680bc04c38c99f006ce2129e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "dc1313c98da9664f2519ab9bff897345072a40c6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b4eda810534f964c70c201f853161ca80272b6d0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "93e435f158b7f4ad349ded5e96a477cb489ffc25",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d32156001287995ac2cdf29e49f611561a91f221",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8a6d72d72c33b86fe288624b5523cbeaf8d39ad3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "916a1878d618a98cf11f7b462e47cb615c091943",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "cccd9e822c276a5067e5c48c826b419f4653c3af",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b45692952096ef1b0c25b358c6749ed263c40498",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "822a6ea1ac7cd31368900758a4041a9a63531de5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a34142a7ea902f00c4e206387d42c32968bd463f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6a9bd8484d514fb76cb7519064bcfbc80d4511f2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "67f1508cc8f7a6e7b6ed18d2b573741a67cc2556",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "077d35f2ec9d1cb3b76f226d295788a95f7d5b28",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7188a9c48a4c09f6a7badcc3b1036aac5de38acf",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7d784385533352b3e6ba2c7a67d3de840840579b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2a1dda80d8fc029f3c0c37fdfd28ee859adf632e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3d5a79f9bc2eb39075d994f9c3ed5c79757bda1a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "40801baf0f9ad219a5d6c38872213ec7891eb489",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8ecc8e3a2ca93c9857490725a6dd7330cb413603",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "eb4d2b93519b8fd69ffb330ed867a3227e1bebfa",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "09e0b39f36279ac5f286b8a19744ef978f24e7a6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e0109d0de7d9dff00d6121a4f71b79248168b118",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e3778340616757a04fcba11054163fbdef080536",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "cda57ac27ac9a5648a0846706cbcb94ec9fa3ea0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ca519e0ead95937f1c53e5c0ed867a88ab78d7c4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d2a2f6de75115c7859ee92d12ef7d8e2b54f856c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5f8007587f6b745ebfc049603da0aa2e4966e477",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3b416f665c47e5c18b7f8e3fe0b8a94e72d6a9f7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2aa4877c1e1cd9dd177352ff0c99f106066f7b57",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0b8f6fdf2bf3a5a5e6303cee5492efdbc25f6666",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "07758fc0ba7683fa561b69a05c939f84bb9a511d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9ddee9b423c760eb019c543883278d21f82b5d16",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0d3f7c85aa9cc922c5dfa6acaffee4150df5d935",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ae257d12a488b22e37a4336a06c3bf190826a71d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "de6703ca549212c990dcc2b996dd0175b0e87d36",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4ab5a502fcd6895775576dc562ab96ae342e02a2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1b209d7d42ba7cbf629deba2285838c658016317",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c0beeb553c93fd24d8ae377eec65adddfb1b6a38",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "80e3710eb3bc2c5e419056a23063964e9366e213",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8b52cb2e55f022b2e90a682b47b609acc697292a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "234201d3b60a7b0eb8ae2dd585ee75d38ddcb6f2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "30de1c8ee1fb9eb4e87312c37d27655d660496b5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ae10430ebe36b0f31011fc99799eaa0e5b19f236",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bb171db67f080f8f275d7cbceca5ab6694183971",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e2a49bb8b9b1406a34a4cd0c684de806e1b8622e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "43467fee8601cc174a955ff368590948cc7f98c0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f06c0637bdc2c0ec4028aa42ba6c33384b0ef581",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0654affb55e3f8fba2570f6654ae1a39894caa48",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7d04b7cf632c4597837179c2ed7a429c76171286",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b10e974b128d9222ea24dafa9488a752f12e85f0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9483175eb7e91d47c363ddbcaf6c3b10498c5c91",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b0d5eb4e7afa5382155e7ed5e5b32af6d1a8cb5b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "67e0e85ecb8b32c67f86d5f8b28ce76487ceb607",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f1834bff20dd6cdc0b3e5f30a01fa36c81dc2124",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bfcc351f3411b29650f6c2c8a30f8e0609313630",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "040a29a4c8076247c9654bef21bae4910efb8f18",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5b42a777d905cc987a166f2a7547f4bb60fb0969",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0013eba3cfe1e42c8d345b38d632eb3d1ddf694a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3ab42b86b6097eb8f3a096ba13946cb6af013258",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c9726d6d3bf1b67c290da4dcddbccda0d1ba062f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c8293a4ff7f66da1864f88452858e8e42ffc4377",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2dfff513d1c5d1eaa1f1d7973a420245369eb70c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "04651d7800cbacbaf8eef6ff0fc368653c5f79f5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "29fa1b3d8b151536af27f78200557e9486225ccc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ce01e18f6f77896c9626927189274eea0c8076b1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "07059ec04539b265943732a1b799db3e643c9f21",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "91ffb14bc1a3f8a68078e2a3e1c72739de67a689",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fd0218ed55162461fc14fbae44e0606e7c6c619f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9a90bdf63ada7e51506897d1431444388e068fa3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "38eafa088167da44c26156f056623742e12aac01",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "95d8631d28c4635eb94095bcc2c9b76fb97146a2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "46fde118a05fb1b3a08e144968901014bc3381fd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a07ebbb34ee46295cc7e1ecbf97c1bf0c8981662",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "25463a4144b34e293778ee47569de2657be85a1e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d0aafdf23d62ba27f7629fe07dde0625146ede80",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a3537219bd0e6a880f23ed54f6db39f6bf58b96f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e4e85d125c20d686f565cf0b3b69b66fad51498b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "39af29da43fca8513a1ccca8aa01bc276c62d13a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a36d79efea604fb3a091ace8e888fcd6531d85d9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a4eb310b236314379aed4a82036d01fa8b51a992",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "10fb276aaab2e3a2fbae6cff241ee20c9eff684c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "341474850b8f76b3bfcb6a48493fcac06333fa40",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "786706ba7b6ff0106077ec48db7c4215f61a8a9b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bc49df0bf3ed71dbe7a8ded7857b6087d4df8fd0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "155f827fe6ed268a9278f5067bdb0a7accc21ea9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1271d5ee9413f8821f207f154e6a062eeb6938f2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "619c19a7ec8479bace59a23afb956b0b678718bf",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b86134d29607d511858d8a870607c87856249e18",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0f1525d14a02d4aeb3d5c2118473b4c22b3789f6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ea1779258ea3b68d9412baabc25f94960da62ffe",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "701e3715efc453fcf3e69c782e68474375bf2111",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8d32a92d04a4aeca41b56dc67f5bf4832eec392b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "860dff60b8768eb3a04992d47cdf666db55b3a54",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3df215d13ae61ab861d1e92a1104bd330d4cc12e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7cf57e8ad4eac8a18520ee25f9df155d51408b6d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b60fbb4f601e294d2992f187b06748d44b121f7a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c3741c4fa16221c6221a02f34fe91db885ca83d1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b871587a10969229ff5ef51edfd3a30859304ec6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "86760f29474dcc31ef28ab669d9fc0d3d2985d52",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a6b3d046cb4e6ba759a3f13f8072b07205b73b0f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c9b72e5d57e9b50743407e3ed2c31fc00253e950",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d0c229fde7fc5daad3bda225bcf61af3e5803233",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2477c139623ed69feb67a71006b78bec08f57b99",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9c71a73cc6b7d5546e7b37dc88e6c8d815820f4a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "005b5660c9d1c913bf21bde1741018ecfcec100b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ff09413451454d15c6d5dba3d79c8c6a5bece002",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8c15a1727e5cf771d728a1bac1dd73008b6bfa2f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "806e1b538a09f8d24f0ee35ab9d66b4ff08eb79d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7b2fcf4ce816215ccdcc675f954ed2b0542f022b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "de808080725d028a8c695d18ee654bc449e11165",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2b35a925556c97a7c78eaf355d8a7979a253738d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "aac44e9ad9b11257a726e7f2205a9a4a3c7bb599",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4c0e32185d35f692ffa0f1a718403b12451453d7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "faf13e296bafa09bcb67a6b6aec9633aaa8af8f6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d8c7412cc76058ef2670338aaac6838972875a36",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ef5db96277464b97ea0942202fe9929ea3c1da04",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4d3290d978beadccdd1567e1b2630f404e034bed",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "569554fc5c57e0a8ba19bd0882d27e6980d1f751",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "44b25ed6bb44d0ff6314fadc03537a19b7903a1c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b56b59be65dcf6dcc186b2c9936591618531b3b5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6a130ef6e43947c725f80bae3ff3d16f64cbc49e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2b16e48bb017eb83f578aee4f0d7bc1a502b1696",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b8e4e4ccc053cfc532b5b0a4261cb709db5f7902",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "920121c636e0ef185edf30717e9132c94ab8d4d0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "325bc08309cf57dd139e6aca117e69c6cc9d8480",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "59f069bc18d05f174e08aa961b55fee0547fc20b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "82068ca74841cc7071c54c8ca0339105315ff7bc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "847b27e70c7f2d9f3a54e310e1ad7293fb28f6c0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4b2117fce7311fd56be5958ba29d78954b735181",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6ef2d987f9cf56f846535e6d9400c82f0d47addf",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7c1e3c087a35a111a31861c913bc02c6e0f9d869",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4303e8421fe5fafcbd5303edc4ae8811bd1015ca",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "943566ade1846030586fb31b71531504ad0322b3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ebd4f688257f4fe8012e48a1ddc8aa48e4986c9a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b4e13f25f9145a2e8832d16a4251dc8e93fc4e1f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2c84ba57c9121fc1bf863d0d205ed645adc96015",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ab10ddf2f8b3e3320886724a2d431dd064aa27c8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b826647b0e0baf2cc4a137a20a40d35d81fc2ed4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "89f7117f207c0b643ae157e8992ae7e0ef0111c2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "97390e0707da400420d52322b55d9293cce620af",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b5f900efc17c616dc34704cd520285adcd814e9e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4d088f9bb1c4250ef1ab5efdfc427aa80eb906a4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "896a7fa47f8593eaad0194f168d34c05f1479700",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "79808f903be5d25054ff0d2f344519b030727d28",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d42c763953561d27cd82d6741afe35350bf29bd6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "96c4ce31cc0c05501780f89e34a40871d222043e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f5dbdef45f16697e89a9d7924f6b046e5e27e035",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "06d68c8bb5188ee1e463f5e1c4b7cbc427bce1cf",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d0508565cc4d19cc365352aa7e0420f8a21793f3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e37478572761dc5d27b1f66e7f070ff4b7bdb072",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b3d388b5984070509f6e0420e5f452f036f017a1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "029d6c4b4e5ea4f12b57193c1d6720cae5a720fe",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8f40ad7592e11b3f0d8deea7146b69f5d6bc60f6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ea94ffbff65c1f904011f26c366a188cf8ff5bdb",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4a3074149297ecb188d55bf05d8b4a751a7b92d1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9d15f3d8f8deefa247f90117e48f99611474323a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e39e9f68eebe1adcd15901b4b6bfb2b553186b01",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "87fb82e33481eda5384f55d4643ede9c30974f40",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a6ca5acd1e889d8e47521778f08732dbd9cc3db5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "aa7ba339bbfb5b9b58f5a3322613b0a14bec13fc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9478d0e9dfdeeabb3076fd0dacba86b71f1f4f4a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "381df456be3a74f45fe5a500a9f3b1443873caf1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "df7b3a744ad64c40a7344a83ff60e7fdde7869ca",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8e8c83e6ca6c28b071963f729c829c26de6ef02e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fc6c3fd5bcb651accac436b6af30248560e6be10",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "627ed1d7273f518db8f952db9ee9d1cd52fcc181",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fe1f77a9d48b6ac5e50e992930599218494fbc01",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f6bef0658597fe18615724d70f18ad133e348806",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d86f150b8d9ba903da94b6adc679dc9d29b348db",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "88076c27f6eff2f90264882b50bfa1d21dbbc137",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "66f7e9f3f8aaf717e92e6bd5ec83e23193ea288b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a9918b15faec8c102cc21f0bade497281c89315d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e1eb6a000fe41b143070f8b6807a418a8bc6b321",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8ed0da6f315a38dcd01c6f2611f392310fcb0931",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "88fb2d4485cc3289936da374fb7de8d5301487b0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "660aa70193cdbda325f40eb8d5b1ac224327d2bf",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "071455da4879bab4906bc74660827bafb2471af5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "180d2ed27e44f6a4e629f4b1a1d4230757215a41",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a893c8ec296d262a8dbdf444063fd9d528a0177a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "93b41c37b57d18d2e87c6d68b70d0678b497d5c0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1f584225b242a0cee139a3554fc4f4d69886a429",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "785aa9b2ec7f58fa24fed008c9b4130a6d793f63",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8de7dfc3a3c4b1c0b0dc4df9e3d3ae5dee757829",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7b3b755ae9f592795263ff956541c24704a559f9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "739a9fa9673f72984eada5dca9a81776b1a2fe6c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2339567af7abe32f694a55a75cb8ea4a5bec90a7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3434b93cf6d536d2261e6d53579560d17a46d8f6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c7f2ab3a51a825edbe623903a084e726ec9b7edc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "79e9d3dee3a4c5462054bc620acf5936db03cfcc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "eb4cefa50d2fe3cedeebf90012661a68f722772f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9df6f2e26ac12f4274cc4e97077fed17f76428cb",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "36a258fc494ebec916b240f5f6a5a0561b78a2b2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e958ae6c558aa826f5ad479b394512f3bfc93f69",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f2ce880edb2b8d8e18d13dc742d8ffa270246a2d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "35c6716efce2b769b98a2835c624d9dfd941ebb8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e31a9e39f893a6610247b4bbb21429ac391188db",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0e77fb6adaf58e3524d2bf00fd6d6d4e13224adf",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b46be1d160dffa5c233c4043a02428fe6740b19a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "abc51d807468ede86e9c80e5baf8c967beafbcff",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e460a7583db93433b56264b4c81cd7693ab397df",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "310e4886fd6c2a787c09b7789cdd7f6f2e277a2c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "39c7943768b1e42da93403dc02faa194c6662739",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "189f190990997b29886f16218dd44836935fb6ff",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "98e28cc013b519f63a948dd71b47d2c717c30e86",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "80296cbe7de7349b97d2a5ef0489fbb4af1495f5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "92cdf1bd5abb02e4fc5c0b43d37de8e8094a7fc2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c26ba4888f8e1265656f52399cc58fcee8559446",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "646e962f1cad3efb13efaf209edc850e54f6be33",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "55b3d1b9bd82a3d9dcf8743bdbe180b215346046",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6f7d27f591024908d1be3dc40803dca4fa7c8ecf",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8f4be1ce6dec2a75c21ee6471ea509abc4a8c8b0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "134919dbf8bbe5b3902e263cf8f68dbba368a5f2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "17a2a0514c71fd307a8f7e582947df3885e6771c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "de2c7c43192e15024653d56b139e6a0e44d59b5c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b13acccf3aa7725c4989cd6cd50064a5afb1b267",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d81cd2068070390458d7d265ac60d75d6c99ac5c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3a3d6882f0af143afb5512cce404a6613ccb070f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ee94c85f7e4a2cf70f274aaa4baa736fb6d886b6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a298e007172e1c53d3b56dfbc2d454fd3d7c4f33",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d36df2f8feb12c80e15cd3e70164cae5657dd694",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ffe46f1c0d2079c59682b71ecb4d02c8143d40ab",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "54f3e5ad2fa99845fe7822a89c878303a6d7ca8c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f51568984620abd20ab2dfef2e19d43f40d6790a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0d604ec12a87ff9de2048152a6937d32916eae76",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bdf3c7abaec4b3a57596ad570d4c7a4567db52ba",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "36c9e00419ffabc889d125f7a3a241d823aa34ad",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "62426305df1eb8e13844f3755af8cb9707ff92f3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3718066c6f8cb57ae6d0d81aa971a210e720da6e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "79cd0b4bad434355116aab0a25e14b711658f3d5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "01b27b04a458d57ad4d8fc55ece86a51ee06940f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1798b0490c8dcf7463cf8487cfaa87de1dde798d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f193df58515b49c9e81b8bb873c05d83a9468130",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f55b95f41e0c8b04277ebdceff01094b70c0aad5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "77a849c3c71c1b256b6b8aa0f1cb6a15c827afad",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "97fc5557e057c225bac180688d135f9b2d6bf3b1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c2093ce7c75b9d30d16ea34829e9b8b48c981db3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "528f5025b15b47a88ab4a5bed8eeb8da2aa677ee",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4e97c2de1f1ab318e10a536934606b7216d1d411",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d92dedafee6be62b4534d88a0d72e85a0f43b0fd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0dc2ba926e589317d09285899f9e6b99e6f974f0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c94e22b173a6d37a48f58cf415a3d2d32126f3aa",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "30c8fe2f1dc79fca840c5e3f29acfe0b301e8032",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bb40c06a0c629a7d78c6bb99662b4dc9758dd129",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c815df181c93b004cf9fab273b3fa83eb0a071c2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "70121eca2125b43a00e77b12bc848a423393efef",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "dd8c4919a7538fbc8783edf07dd19250b2637b96",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c53e26d4132021bc4b0c3cf5ad885640c5a29e48",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "475f2fe4a532629dfa0063ff5cc5aacff15f27b5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2ef8db921d8858999f59484e40d1a7de96cb20fc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9938578190a0051163e7e971d3bc80c7ff203eae",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "53da2a0c19003298e3895fce98039872f875d9c4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3579c8769ebb41cfabfc6a93ebb938fde67b4048",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "992f8fb68e8b9f6e1ee20063e9bc769282c68c87",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "161ae95215a2ff63160b74aa2f3e639829d5b217",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "313a16fe67efff9d9395957b77a65e48e16be623",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "68b44325074b9423ca56a7616b64944d10819ecf",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "255b9aa328517203ff4397500e1f8e9e0cbff3a6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f054d67edc7fd0795815f83179dfad24be3b059c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "38cdae8973ff9b80f64215b8d77164952abd51a2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8a579e7bcdfc083f2e23ffd0e29d88f646c3d826",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6a1c8c93374cf440aae0db26679fb384233035a3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d9b2ce35076aa8ce9c29519a0447b61b6b86d71b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e3df3031061437c30f7e746efd600a114a3afdf6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6f637c52c30cd4aaf1286a9464cfbc41bebd4e4f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c9c465521caa0f1f154c218f64091d9fe2023d29",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f3b06ac894f23fc11d3aba5482f44b203224bbc3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "191720298bfc95d532b63a67871a48716a9e4672",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "db289ffbb38ba4c3d7c4c8ac1b88ce1d1f0700d4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f839c580aff02b92d857bc522c09fc8f7b06f33e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "71099a09bbf49d972b6659bfee658c34105112c6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "512e23a94122de7380038eeb9084ed32f9f6b19d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4e7c800bf7d32f2ea6ba4f1396fab0889b0c4c35",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "87a2af27ca9839c2dd1144f37826c2ea57278385",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5d59e32ebf5f273fb3fbd8efc2299f5bfe9478a7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "be52b2f46021075397d8f6079c4ce597d7460542",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8a4950bd6020fe40b1bb22aaf62d421134a332b9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "95d7f2c553c8e54d56f7c4aabc24c28188ea0c94",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "062ebe37bf6fad619719368dad359cf45a46a44c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ceb1020dc15dd4daf9738dd2897544de3829ee26",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f1595c2b44942b1464f678d25d5dd439dc9cb8ab",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a2b360fefecdfa90d4c3f6e2e826586074f624fb",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "85f405a6154e403d63b0671d058f83a1e46dbd64",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "eca4c97ff826a6f41d769c286896cc8c31ac3836",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "520d1bd1e025db1e6ec18ae35729617688ddbb51",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "30ec8454c4a5175fbac3c7a6bf9fa6b2761ea3a7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c75417ae6e2108b26b36a1373b07fce297fc0ebe",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "069955ad772aa2d628b56b113ad77555b47d5f89",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "562d272b388e03194ef8ec25c8ceca4c8ce38c68",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "229e9f5ae4361f628cfb675243ab31b790f621fe",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e26545fb438475e498f3024ad3e0f9e199aebd8c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4683d3d22f97d33768d8eaaff62565d43d1e4635",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "81d59a7c7ca976d075cdbef94ea9e84114616581",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "72bc9e8bfca5bad022cea38c2f69d4c1e989936f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8dcbd2e1d14958f9f86eadc75b3e4ae7629f2594",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "575eb62a8b3c35986514482bac266f20d911fc99",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0ad75dbeb75616bf11ef77622e63a2aa9df45bb5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8b7dd68f5fe9faa1482c4fe33253cec26fc071dc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "57d88ae8dca542ad16fb9a3ae2a105600fc5d86f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "aaccc012d12b41ea4dad013ed561e43f08af97d8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1d2845820c01822deccbf5d8c1e149bf44702049",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "724db8753b158cfa53ecf988ab5c4c6ba0ad915c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "de84122b280a1ad909d87335bed2877996a1e7ac",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a8773e83b3ce5e3aeb08175faa2a4b973c555fc1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "4d9bfdb84ef3e8847dcae6ccbe1f6ae59db38120",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "59679ee6c35f2462800dbc9cf13c153d730d19a8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fa4c2c915c17aaaf2823988699cd8cb54619e104",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0a26766f7f7a6915abeb24c774706c9f44e01d07",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "82f393d4c2a95a14929a7ed20c12881badd2b07e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "071d4ac69da2bf3afad5466d7a1904b950c1715e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2065d33ea4fd880c9e9165b1bd21c696010b8103",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ddbc13d7b3c335c34e7d66b11f9febd4dbd062c3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "650a3668de92ee0d66223f0678552110edc0f178",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "133a0eec69596f9af0125f99d7b524e2e9e58b9d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2a5fea239671f3ff515b094d31a05b40d739ef36",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d56bb96348a4cf47417a7c349194c61cfdf022d0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a37b638f98b90dcf811eab1dba7168918359159c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "909f37972ab546344a7c5e57347891e3e4c04ee8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ce1d9d3c5dea28c269cb3f0e25ec7297607a73de",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d77e4fa1903986171bb0c84c972f4dbba4291c07",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b0bccc8d264a59a55f1a31e6e11849b1208b4d04",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1935d65435921eca265c617622a728587192e413",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bcef34ad800ba6b1843ab8e59992b8820058c263",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8fdf8e25798d747ef7dd3cf60a4a027a9f7f5c75",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "20b9958b717fc492712bbe0ed3a95fca12acfe49",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5294164907a61d69114ab299616e8f2e0bfd631a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f3a9e7db9b522c5526702fe831ce087822f0956f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ddead8d084eb24eacd98d859b30d3a3ea796dc17",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "891eaa23432fd9230351973e93b14f9acefbce93",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6827d3ae472307200e37f1a6f79da142a0d98b27",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e6b14d2dec1bd733afe86d1205f88bc71137486e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "26b73b983836ec317312b0c7dcc1f5b5e201849a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "27ff11afd9d3a5d0a7188fb044f4aa8f83fd2ad2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "442b0cb4163ea2bf2f394e4b4463827a4b64d98e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "254a081f64b29a3d0a3ca62b0d1b8cc3795a5621",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "01e26c1fdf43d50faa115686d1c6f1869ee14673",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c95f31b77f008169253b890c666838bed08beac4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "96d9889d9bf93b8b58606897da5556ec23ad3bc0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f962fbf577a7afbbcac8db4db42ba7cdd8c6bd3c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "68b2a1710befbf41e4d1ebf37f5c533a412f3dbe",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "360e342962566d96e48f15423b6b96d70161e9be",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "01079850d9423a2a489cba717e5cc3a443bfb14f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "33af1b3aa383c57b4b3308120cc2ea3a2a0ec651",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "577eb78467e2e7410fd2f37cd728b055f0e45c67",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0a02f59d6ec472a026e3e6f8c0ed539d9bc57646",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c1c169bfb7c7e430b23286c048f6e3833169e05e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "697f4b2ffc2162b4ee2ca301b64aae7499ac6c95",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "88006389d5d8432bedad65044c4686942b9bd604",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8eb5fa089c94a3daa74cbb27d4580af75c954dfa",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "06ae17445e44362b4972c40ca4a9ad37d64fd4fb",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ec053a53ded29c1f37bd26fc9b90fec2b054fcf2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "00bebb8a0757470eeffa29a4e859af991d396d64",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "eabe33f33015d3559ae86730fce87d5cc040e5bf",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "603a311f0e4cfcbc249fb18f97f5e16ae510ac9a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "263f90a7b5a5701174627ce87ef019957fe51311",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d6ecaf8c50bbf9aa6a5abe7fa750c659b7451351",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3ce9bb723620c7ba57d52e3502a221d0fd3dc5ef",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "16adef83721627fb6cb4c8da571f29f048b80b4c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "310f616e9ccf1447ee60dd1c2fc0789c4bcadaae",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e84b421b30ff70bdf88308508b56f6058c7ed4fa",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0b70cae0ab98d9b3bc0a8f0fb1816772559076b9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b42372fa20f6145ce570d91b1950e3e96ef9cf62",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "95633043ab986577e42a8d65681e788cf7ad698a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "44b7c76b21cdcf9d4c7e530a689b33aa941255e6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "63103b1f7390704be7b506a1735951ab5117f801",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bf44067c8727fdb2032224b4fdca3513b7c5be65",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bc16375655a4bc03b27a978be416b3aa3cba9694",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d9934321bc1b054101e1d33f679760507e97c68b",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "93e3a179e0734a5cc85cc8ddde5ebd05f73f51c6",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e3150c6e6b65b5be8e7375609eb6886b0eecb2cd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "937f5d2c697b14e8f0fd0caa90bc8ad7e0b62b07",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0f63db2dc7d8c1865967f5ac25983d405cc564e7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "912d2650ac3486b1afb77e84c77978b4c47352ab",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bc777ea1219cd10018c6a2e53a6657abab819ca8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "352a1be6654279ed37dddb24da421c453bde3486",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "956037a56ae240477d5a4774bae90365ed60ac81",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d0126317544977dd3bb8cf065a651ce6a80da752",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0f6a0c3571e4733f6986f5d9c1a8eef4a3a32743",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2394cb482d6ceb2127a21c9ca3421ab16461ff6f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "cb96189a3ff2923cb9ebd19248d6d8c71f5544b1",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9b18bf3d80781fdb024620e0ea7dde4399fe4762",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d9aa51909df77e227b3dfe62cef8e70e6522101c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "24cc3883d06cc183c47aee66b4b07be912bdd18a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7ac77de27c324d9ef484c7902c2084c6855bc357",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "9026a3422295755e35afddc114035991665ec001",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "951c1320c86d159e48f20045fa9b8368a26ac06d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "005e2fa13200391b89d2b1c8f0225061668863cc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6ef4c368cf7ff640588c2547fa18f8d63f4eab29",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "634ff1f8f9641932b9932da70fcb19e58b622122",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5557372db3f5307385713ecb8e3b920efd93ef05",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d38bd93ffaf6a6e312c16d262f760f825fa9753e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2e1d92415eda24e0b8c17c1a8061bdf2a5ab5b59",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8d8363315ccbce53c1665d22e7bfbe43c642bbb8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5b78c60fb4105f40f19fe27db8005877be7edab5",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "40e782aff5dddab1d7691f80e200e1b71b7f59b9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bbfe2df0d7611bc1a77f453cea158bd7da153b75",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3c7842a613a5a52409880fd246f68e8eae1c6408",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b995051fc11a287440b5eafa09d59be633d791ef",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ce3e695de161d37e6a0598de3f00fdc01104eea8",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5a9454a8192f049aa0fd212954a44fd5d4430fa4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "27c995804830f3255135a789bc513d70ef72316f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3afe84693ab4df0aafb73bca7ebe60bb25c33d52",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "28a2453ce1c89381b91b739843576226c3d19b14",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "22fc51864880700d99a67461aaf53c2f37c2aee7",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fde7d49a4bfee62915b2a71960e9e265db13110d",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3b65b0af624d844d1763bdde1c9c5aaef925dd8c",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ccfd90fd3289c2eb671637768cd40d7b89d0cb92",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "59e682a90dbdca13b583e27e25b9b6865adacf02",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6d5a93eb1a978a95291580f49b11b985e83b7d45",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3fcf8cc289dbbe299801ae19dc2ca7ba6dfebc41",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "45725d6483ffd18eaaf92028452f0254e35166c9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3ab402e156f438da548f575ccf987798908ca883",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "49dd42d3d91d7d424fccd4f652ec23b8d33674b3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d248334d7a2c8265960e774c58b94bd65b57dd5a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d3d5c6d84f2df3b7b1c48672fca1a3bc45d51b91",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8e0090192a64be5dc1feed17bc1e9140dcd37682",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3567699f5bb228f9783c03515ebbab14850bd2fe",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1c093f475a055ad296fd958921325c32095567a4",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c2a7a4398a6a3b78a67e93bd3822ec37cb62d2d9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "bef4514559ece70c6082530d564d5ef535fd76e0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f95feaf5060e6e6d1f21b62c8780679ebe9b3f68",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3de78d3693834e3864270b1861e07437f0972da0",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "6018e1e6dad21c484b20db67bf9d5d09442db30f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "94feaded856a036cda1a7116fe1ed423858f213a",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f0a642ac787b8641423e417ecbb38fd70ead0919",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "2fb4b8f46b0024a6c12217ff88180f5927be3f7e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f7b71112ce2094c6ad9f347513f92d2a095b15c9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fb189fbcd0c4d82d2169ea8f898259979ba5ef10",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d5ed693489269c6bfafc360ac3683a07d62421bb",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a380c10977650576e0df6e24cfe9e3193bb79846",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "dc9baeb08d31c905a17c2ab559f25e26e4685b25",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7a2a398003820e256b5ec4a3655122e382fa617e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "173feb910020d6846d11514fcc7441921f8c1d3e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e5a40adae10f35faab78bed3edad2606e4b8858f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "daf9e5b0d5ecf6d0103c4cd1c827fc12690157f3",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "3bbc07847b3d470e784e38951ee9405891e5c4af",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "ab7614651abead5fe021f704323247c3b06d7dff",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "5cf5b5483090679edd3ec093c3ffa388425fd991",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "a3e4437a09705b6e1977750ec1721b40f8f43258",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "604458146465b558e9a72ef739e32c6157b59f58",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f6130facf36d8c252321873e8c935ff53ae586be",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "49c3a8a1796eacf8949a7e26f2621a59ed698616",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "91f8ba55e6c313e971302a8a109c80df87f9f244",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1ca547660456b2031375949dd2b54c2d750c2934",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "fbbc3698d36762ac5081ee81a58fd24014c589af",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "561920ff5f97bac74bf8c72eed3e78e7ea6d7ddd",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "b53e3ad0891eb7eafcb257080f9897ee6366f027",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "d11138f0834227391c5f7dea5aed5f47ba71c288",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f67eee35f70aed0eff3078732aa6f8dd2147b260",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1257de47c38878ea153ed318d2985a84ad4e69e9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "82e294f57196d46a02789623d25d6dd632b1d523",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7ad11f9430773a6b0828b816f65d254cbf44e77f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "29250d7aa04b8c65865f359a6250bf58acdbb062",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "47acae071d7e8d9390b36855b1b9848bccd8a7fc",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "8afb0e21a98fcc1e36216a5e10cbbb67223e9ea2",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "dfc70d0fdb6abb01aef7d7cb9123c54018926a2f",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "7ad1b6ac4b758b8ddb2275bcc56307eec81ae0f9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "60f68d55180ec2eb65a2d7f95f5b5e3b50adef54",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "33a00b7887ba6f2da093cefd68aeaf69268d1ebb",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1c1c7cc5b8707e809e76c52c5cb73f3ec2900ea9",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "f6d2e8a65fa694c2c1a3ced2477ba7d068cfd2eb",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "0e6709644eafc2474a2aecb4809aecd22f938d44",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "e92b03dd0e1352e1ae4041526bbae247a6b94e46",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "040a8a35363998fe682c2512bcb301661f7a8243",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "328e0520caa2fe4d1d2fdba309df485f2469c83e",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "82e0bdbce12fcba046d28aab6857dde8a828ccae",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "1fb186d203906ed9a3631b8be3ee78ed6eadd311",
+        "repo_name": "apache/bigtop"
+    },
+    {
+        "fix_commit_hash": "c96a6d0c691194f79b5199753b10f111f9206f2b",
+        "repo_name": "apache/bigtop"
+    }
+]

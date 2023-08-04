@@ -1,0 +1,1799 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#big-data--drill--cgivre": "2016-10-05 00:00:00",
+        "#big-data--drill--jnturton": "2021-06-25 00:00:00",
+        "#big-data--drill--pjfanning": "2021-01-18 00:00:00",
+        "#big-data--drill--claire9910": "2022-10-16 00:00:00",
+        "#big-data--drill--denglunfuren": "2022-10-14 00:00:00",
+        "#big-data--drill--bitmasks": "2022-10-14 00:00:00",
+        "#big-data--drill--dependabot[bot]": "2022-07-19 00:00:00",
+        "#big-data--drill--hyoklee": "2022-10-07 00:00:00",
+        "#big-data--drill--rymarm": "2021-10-13 00:00:00",
+        "#big-data--drill--vvysotskyi": "2017-03-24 00:00:00",
+        "#big-data--drill--luocooong": "2021-01-20 00:00:00",
+        "#big-data--drill--kingswanwho": "2021-12-01 00:00:00",
+        "#big-data--drill--vdiravka": "2016-03-10 00:00:00",
+        "#big-data--drill--Leon-WTF": "2021-05-15 00:00:00",
+        "#big-data--drill--nielsbasjes": "2020-03-31 00:00:00",
+        "#big-data--drill--wojustme": "2022-04-24 00:00:00",
+        "#big-data--drill--paul-rogers": "2018-06-10 00:00:00",
+        "#big-data--drill--xy2953396112": "2022-03-25 00:00:00",
+        "#big-data--drill--estherbuchwalter": "2021-10-08 00:00:00",
+        "#big-data--drill--": "2013-06-05 00:00:00",
+        "#big-data--drill--agozhiy": "2018-03-27 00:00:00",
+        "#big-data--drill--cdmikechen": "2021-05-31 00:00:00",
+        "#big-data--drill--Z0ltrix": "2021-11-12 00:00:00",
+        "#big-data--drill--CuteKittyhoho": "2021-12-09 00:00:00",
+        "#big-data--drill--mehmetmalli": "2021-09-07 00:00:00",
+        "#big-data--drill--martin-g": "2021-05-05 00:00:00",
+        "#big-data--drill--jaltekruse": "2014-02-12 00:00:00",
+        "#big-data--drill--curiousleo": "2021-06-11 00:00:00",
+        "#big-data--drill--laurentgo": "2016-01-18 00:00:00",
+        "#big-data--drill--oleg-zinovev": "2018-04-10 00:00:00",
+        "#big-data--drill--DanielT504": "2021-04-11 00:00:00",
+        "#big-data--drill--invalid-email-address": "2021-01-19 00:00:00",
+        "#big-data--drill--prexio": "2021-03-09 00:00:00",
+        "#big-data--drill--mkusnir": "2021-02-12 00:00:00",
+        "#big-data--drill--rajeshguptaiiitm": "2020-12-17 00:00:00",
+        "#big-data--drill--dcmsurnyk": "2020-12-14 00:00:00",
+        "#big-data--drill--ArtTrush": "2020-11-11 00:00:00",
+        "#big-data--drill--pombredanne": "2020-11-06 00:00:00",
+        "#big-data--drill--jduo": "2020-10-09 00:00:00",
+        "#big-data--drill--gdubya": "2020-09-21 00:00:00",
+        "#big-data--drill--Agirish": "2017-04-09 00:00:00",
+        "#big-data--drill--nescohen": "2020-08-18 00:00:00",
+        "#big-data--drill--KazydubB": "2018-05-17 00:00:00",
+        "#big-data--drill--akkapur": "2019-10-26 00:00:00",
+        "#big-data--drill--arina-ielchiieva": "2016-02-02 00:00:00",
+        "#big-data--drill--justin-chen": "2020-04-13 00:00:00",
+        "#big-data--drill--ihuzenko": "2018-10-02 00:00:00",
+        "#big-data--drill--dobesv": "2020-02-07 00:00:00",
+        "#big-data--drill--andrewctate": "2020-01-22 00:00:00",
+        "#big-data--drill--arjuntheprogrammer": "2019-06-25 00:00:00",
+        "#big-data--drill--denysord88": "2018-11-01 00:00:00",
+        "#big-data--drill--sohami": "2018-06-26 00:00:00",
+        "#big-data--drill--Ben-Zvi": "2016-09-09 00:00:00",
+        "#big-data--drill--dgrinchenko": "2019-04-12 00:00:00",
+        "#big-data--drill--Fokko": "2019-06-20 00:00:00",
+        "#big-data--drill--dvjyothsna": "2018-02-22 00:00:00",
+        "#big-data--drill--HanumathRao": "2018-02-09 00:00:00",
+        "#big-data--drill--jcmcote": "2016-04-01 00:00:00",
+        "#big-data--drill--bitblender": "2016-10-20 00:00:00",
+        "#big-data--drill--kkhatua": "2017-02-03 00:00:00",
+        "#big-data--drill--sachouche": "2017-10-24 00:00:00",
+        "#big-data--drill--shimamoto": "2019-03-08 00:00:00",
+        "#big-data--drill--nareshgbhat": "2019-02-19 00:00:00",
+        "#big-data--drill--khurramfaraaz": "2019-01-15 00:00:00",
+        "#big-data--drill--abhidotravi": "2018-04-08 00:00:00",
+        "#big-data--drill--vlsi": "2019-01-28 00:00:00",
+        "#big-data--drill--lushuifeng": "2018-09-07 00:00:00",
+        "#big-data--drill--superbstreak": "2017-03-06 00:00:00",
+        "#big-data--drill--hrbrmstr": "2018-07-23 00:00:00",
+        "#big-data--drill--ilooner": "2017-08-17 00:00:00",
+        "#big-data--drill--kr-arjun": "2018-06-01 00:00:00",
+        "#big-data--drill--vrozov": "2017-08-29 00:00:00",
+        "#big-data--drill--vstorona-origin": "2016-11-25 00:00:00",
+        "#big-data--drill--okalinin": "2018-07-10 00:00:00",
+        "#big-data--drill--pkfoury": "2018-08-01 00:00:00",
+        "#big-data--drill--parthchandra": "2014-05-20 00:00:00",
+        "#big-data--drill--jbimbert": "2018-06-12 00:00:00",
+        "#big-data--drill--ppadma": "2016-10-17 00:00:00",
+        "#big-data--drill--nagix": "2018-06-05 00:00:00",
+        "#big-data--drill--chunhui-shi": "2016-03-15 00:00:00",
+        "#big-data--drill--pwong-mapr": "2014-03-12 00:00:00",
+        "#big-data--drill--xhochy": "2016-11-09 00:00:00",
+        "#big-data--drill--k255": "2015-10-08 00:00:00",
+        "#big-data--drill--hsuanyi": "2014-11-04 00:00:00",
+        "#big-data--drill--jiang-wu": "2018-05-01 00:00:00",
+        "#big-data--drill--Kui-Liu": "2018-04-30 00:00:00",
+        "#big-data--drill--daveoshinsky": "2016-02-09 00:00:00",
+        "#big-data--drill--vladimirtkach": "2017-10-23 00:00:00",
+        "#big-data--drill--rajrahul": "2017-12-12 00:00:00",
+        "#big-data--drill--tdunning": "2012-09-03 00:00:00",
+        "#big-data--drill--KulykRoman": "2016-10-04 00:00:00",
+        "#big-data--drill--milindt": "2018-01-17 00:00:00",
+        "#big-data--drill--reudismam": "2018-01-24 00:00:00",
+        "#big-data--drill--prasadns14": "2017-10-06 00:00:00",
+        "#big-data--drill--zhztheplayer": "2016-09-09 00:00:00",
+        "#big-data--drill--sindhurayavaram": "2017-09-11 00:00:00",
+        "#big-data--drill--akumarb2010": "2014-04-24 00:00:00",
+        "#big-data--drill--ChrisSandison": "2017-11-14 00:00:00",
+        "#big-data--drill--dprofeta": "2017-09-15 00:00:00",
+        "#big-data--drill--sudheeshkatkam": "2016-11-29 00:00:00",
+        "#big-data--drill--josiahyan": "2017-08-02 00:00:00",
+        "#big-data--drill--pmaciolek": "2016-05-31 00:00:00",
+        "#big-data--drill--jinfengni": "2015-02-11 00:00:00",
+        "#big-data--drill--darrenbrien": "2017-07-31 00:00:00",
+        "#big-data--drill--eskabetxe": "2017-05-06 00:00:00",
+        "#big-data--drill--liuliyun1": "2017-05-04 00:00:00",
+        "#big-data--drill--Serhii-Harnyk": "2016-09-01 00:00:00",
+        "#big-data--drill--lifove": "2017-02-10 00:00:00",
+        "#big-data--drill--davidhaller": "2017-01-20 00:00:00",
+        "#big-data--drill--nagarajanchinnasamy": "2016-12-15 00:00:00",
+        "#big-data--drill--harrison-svds": "2016-10-07 00:00:00",
+        "#big-data--drill--AdamPD": "2015-01-08 00:00:00",
+        "#big-data--drill--kingmesal": "2015-11-03 00:00:00",
+        "#big-data--drill--jacques-n": "2012-11-23 00:00:00",
+        "#big-data--drill--ssriniva123": "2016-06-10 00:00:00",
+        "#big-data--drill--fmethot": "2016-09-20 00:00:00",
+        "#big-data--drill--adityakishore": "2013-09-04 00:00:00",
+        "#big-data--drill--vkorukanti": "2014-01-31 00:00:00",
+        "#big-data--drill--anbangx": "2014-10-21 00:00:00",
+        "#big-data--drill--StevenMPhillips": "2013-07-31 00:00:00",
+        "#big-data--drill--adeneche": "2014-12-29 00:00:00",
+        "#big-data--drill--PythonicNinja": "2016-05-21 00:00:00",
+        "#big-data--drill--baunz": "2016-04-03 00:00:00",
+        "#big-data--drill--minji-kim": "2016-02-17 00:00:00",
+        "#big-data--drill--hnfgns": "2015-11-03 00:00:00",
+        "#big-data--drill--kameshb": "2014-04-22 00:00:00",
+        "#big-data--drill--mehant": "2013-10-23 00:00:00",
+        "#big-data--drill--amithadke": "2015-10-07 00:00:00",
+        "#big-data--drill--toddlipcon": "2015-11-19 00:00:00",
+        "#big-data--drill--rozza": "2015-12-17 00:00:00",
+        "#big-data--drill--cwestin": "2014-11-11 00:00:00",
+        "#big-data--drill--julienledem": "2015-08-18 00:00:00",
+        "#big-data--drill--abhipol": "2015-11-02 00:00:00",
+        "#big-data--drill--aleph-zero": "2015-10-01 00:00:00",
+        "#big-data--drill--dsbos": "2014-11-20 00:00:00",
+        "#big-data--drill--tgrall": "2015-10-13 00:00:00",
+        "#big-data--drill--ebegoli": "2015-08-30 00:00:00",
+        "#big-data--drill--spanchamiamapr": "2015-07-29 00:00:00",
+        "#big-data--drill--rinukonda": "2015-05-08 00:00:00",
+        "#big-data--drill--ppearcy": "2015-01-26 00:00:00",
+        "#big-data--drill--alzarei": "2014-08-07 00:00:00",
+        "#big-data--drill--norrislee": "2014-06-19 00:00:00",
+        "#big-data--drill--julianhyde": "2013-02-13 00:00:00",
+        "#big-data--drill--vsowrirajan": "2014-12-05 00:00:00",
+        "#big-data--drill--yssharma": "2014-05-06 00:00:00",
+        "#big-data--drill--xiaom": "2014-05-30 00:00:00",
+        "#big-data--drill--yashs360": "2013-11-13 00:00:00",
+        "#big-data--drill--tnachen": "2013-02-05 00:00:00",
+        "#big-data--drill--tshiran": "2014-09-19 00:00:00",
+        "#big-data--drill--hdost": "2014-06-03 00:00:00",
+        "#big-data--drill--pchanumolu": "2014-05-05 00:00:00",
+        "#big-data--drill--coyotebush1": "2014-01-31 00:00:00",
+        "#big-data--drill--vrtx": "2013-06-11 00:00:00",
+        "#big-data--drill--nmishra": "2013-09-10 00:00:00",
+        "#big-data--drill--witwolf": "2013-09-01 00:00:00",
+        "#big-data--drill--immars": "2013-03-22 00:00:00",
+        "#big-data--drill--dralves": "2013-04-17 00:00:00",
+        "#big-data--drill--mitnpatel": "2013-02-24 00:00:00",
+        "#big-data--drill--cmerrick": "2013-01-25 00:00:00",
+        "#big-data--drill--gerashegalov": "2013-01-24 00:00:00"
+    },
+    "commiter_end_time": {
+        "#big-data--drill--cgivre": "2022-10-24 00:00:00",
+        "#big-data--drill--jnturton": "2022-10-20 00:00:00",
+        "#big-data--drill--pjfanning": "2022-10-16 00:00:00",
+        "#big-data--drill--claire9910": "2022-10-16 00:00:00",
+        "#big-data--drill--denglunfuren": "2022-10-14 00:00:00",
+        "#big-data--drill--bitmasks": "2022-10-14 00:00:00",
+        "#big-data--drill--dependabot[bot]": "2022-10-13 00:00:00",
+        "#big-data--drill--hyoklee": "2022-10-07 00:00:00",
+        "#big-data--drill--rymarm": "2022-10-02 00:00:00",
+        "#big-data--drill--vvysotskyi": "2022-09-26 00:00:00",
+        "#big-data--drill--luocooong": "2022-09-05 00:00:00",
+        "#big-data--drill--kingswanwho": "2022-07-26 00:00:00",
+        "#big-data--drill--vdiravka": "2022-06-15 00:00:00",
+        "#big-data--drill--Leon-WTF": "2022-06-10 00:00:00",
+        "#big-data--drill--nielsbasjes": "2022-05-19 00:00:00",
+        "#big-data--drill--wojustme": "2022-05-11 00:00:00",
+        "#big-data--drill--paul-rogers": "2022-04-03 00:00:00",
+        "#big-data--drill--xy2953396112": "2022-03-25 00:00:00",
+        "#big-data--drill--estherbuchwalter": "2022-03-11 00:00:00",
+        "#big-data--drill--": "2022-02-27 00:00:00",
+        "#big-data--drill--agozhiy": "2022-02-21 00:00:00",
+        "#big-data--drill--cdmikechen": "2022-02-02 00:00:00",
+        "#big-data--drill--Z0ltrix": "2021-12-12 00:00:00",
+        "#big-data--drill--CuteKittyhoho": "2021-12-09 00:00:00",
+        "#big-data--drill--mehmetmalli": "2021-09-07 00:00:00",
+        "#big-data--drill--martin-g": "2021-07-11 00:00:00",
+        "#big-data--drill--jaltekruse": "2021-06-16 00:00:00",
+        "#big-data--drill--curiousleo": "2021-06-11 00:00:00",
+        "#big-data--drill--laurentgo": "2021-06-04 00:00:00",
+        "#big-data--drill--oleg-zinovev": "2021-05-21 00:00:00",
+        "#big-data--drill--DanielT504": "2021-04-11 00:00:00",
+        "#big-data--drill--invalid-email-address": "2021-01-26 00:00:00",
+        "#big-data--drill--prexio": "2021-03-09 00:00:00",
+        "#big-data--drill--mkusnir": "2021-02-12 00:00:00",
+        "#big-data--drill--rajeshguptaiiitm": "2020-12-17 00:00:00",
+        "#big-data--drill--dcmsurnyk": "2020-12-14 00:00:00",
+        "#big-data--drill--ArtTrush": "2020-11-11 00:00:00",
+        "#big-data--drill--pombredanne": "2020-11-06 00:00:00",
+        "#big-data--drill--jduo": "2020-10-09 00:00:00",
+        "#big-data--drill--gdubya": "2020-09-21 00:00:00",
+        "#big-data--drill--Agirish": "2020-09-05 00:00:00",
+        "#big-data--drill--nescohen": "2020-08-18 00:00:00",
+        "#big-data--drill--KazydubB": "2020-07-08 00:00:00",
+        "#big-data--drill--akkapur": "2019-10-26 00:00:00",
+        "#big-data--drill--arina-ielchiieva": "2020-04-18 00:00:00",
+        "#big-data--drill--justin-chen": "2020-04-13 00:00:00",
+        "#big-data--drill--ihuzenko": "2020-03-20 00:00:00",
+        "#big-data--drill--dobesv": "2020-03-10 00:00:00",
+        "#big-data--drill--andrewctate": "2020-01-22 00:00:00",
+        "#big-data--drill--arjuntheprogrammer": "2019-11-20 00:00:00",
+        "#big-data--drill--denysord88": "2019-11-05 00:00:00",
+        "#big-data--drill--sohami": "2019-10-22 00:00:00",
+        "#big-data--drill--Ben-Zvi": "2019-09-25 00:00:00",
+        "#big-data--drill--dgrinchenko": "2019-07-03 00:00:00",
+        "#big-data--drill--Fokko": "2019-06-20 00:00:00",
+        "#big-data--drill--dvjyothsna": "2019-05-03 00:00:00",
+        "#big-data--drill--HanumathRao": "2019-04-17 00:00:00",
+        "#big-data--drill--jcmcote": "2019-02-21 00:00:00",
+        "#big-data--drill--bitblender": "2019-03-14 00:00:00",
+        "#big-data--drill--kkhatua": "2019-03-23 00:00:00",
+        "#big-data--drill--sachouche": "2019-03-22 00:00:00",
+        "#big-data--drill--shimamoto": "2019-03-08 00:00:00",
+        "#big-data--drill--nareshgbhat": "2019-03-05 00:00:00",
+        "#big-data--drill--khurramfaraaz": "2019-01-15 00:00:00",
+        "#big-data--drill--abhidotravi": "2019-02-18 00:00:00",
+        "#big-data--drill--vlsi": "2019-01-28 00:00:00",
+        "#big-data--drill--lushuifeng": "2018-10-31 00:00:00",
+        "#big-data--drill--superbstreak": "2018-07-18 00:00:00",
+        "#big-data--drill--hrbrmstr": "2018-07-23 00:00:00",
+        "#big-data--drill--ilooner": "2018-10-18 00:00:00",
+        "#big-data--drill--kr-arjun": "2018-07-26 00:00:00",
+        "#big-data--drill--vrozov": "2018-08-22 00:00:00",
+        "#big-data--drill--vstorona-origin": "2018-06-21 00:00:00",
+        "#big-data--drill--okalinin": "2018-08-09 00:00:00",
+        "#big-data--drill--pkfoury": "2018-08-01 00:00:00",
+        "#big-data--drill--parthchandra": "2018-07-31 00:00:00",
+        "#big-data--drill--jbimbert": "2018-06-12 00:00:00",
+        "#big-data--drill--ppadma": "2018-06-28 00:00:00",
+        "#big-data--drill--nagix": "2018-06-05 00:00:00",
+        "#big-data--drill--chunhui-shi": "2018-06-06 00:00:00",
+        "#big-data--drill--pwong-mapr": "2018-06-11 00:00:00",
+        "#big-data--drill--xhochy": "2017-10-28 00:00:00",
+        "#big-data--drill--k255": "2015-11-16 00:00:00",
+        "#big-data--drill--hsuanyi": "2016-04-04 00:00:00",
+        "#big-data--drill--jiang-wu": "2018-05-01 00:00:00",
+        "#big-data--drill--Kui-Liu": "2018-04-30 00:00:00",
+        "#big-data--drill--daveoshinsky": "2016-06-09 00:00:00",
+        "#big-data--drill--vladimirtkach": "2018-04-27 00:00:00",
+        "#big-data--drill--rajrahul": "2018-03-14 00:00:00",
+        "#big-data--drill--tdunning": "2018-01-10 00:00:00",
+        "#big-data--drill--KulykRoman": "2018-02-15 00:00:00",
+        "#big-data--drill--milindt": "2018-01-17 00:00:00",
+        "#big-data--drill--reudismam": "2018-01-24 00:00:00",
+        "#big-data--drill--prasadns14": "2018-01-11 00:00:00",
+        "#big-data--drill--zhztheplayer": "2016-12-22 00:00:00",
+        "#big-data--drill--sindhurayavaram": "2017-09-11 00:00:00",
+        "#big-data--drill--akumarb2010": "2017-11-27 00:00:00",
+        "#big-data--drill--ChrisSandison": "2017-11-21 00:00:00",
+        "#big-data--drill--dprofeta": "2017-09-15 00:00:00",
+        "#big-data--drill--sudheeshkatkam": "2017-05-16 00:00:00",
+        "#big-data--drill--josiahyan": "2017-08-02 00:00:00",
+        "#big-data--drill--pmaciolek": "2016-05-31 00:00:00",
+        "#big-data--drill--jinfengni": "2017-05-17 00:00:00",
+        "#big-data--drill--darrenbrien": "2017-07-31 00:00:00",
+        "#big-data--drill--eskabetxe": "2017-05-06 00:00:00",
+        "#big-data--drill--liuliyun1": "2017-05-04 00:00:00",
+        "#big-data--drill--Serhii-Harnyk": "2017-03-03 00:00:00",
+        "#big-data--drill--lifove": "2017-02-10 00:00:00",
+        "#big-data--drill--davidhaller": "2017-01-20 00:00:00",
+        "#big-data--drill--nagarajanchinnasamy": "2016-12-15 00:00:00",
+        "#big-data--drill--harrison-svds": "2016-10-07 00:00:00",
+        "#big-data--drill--AdamPD": "2016-06-30 00:00:00",
+        "#big-data--drill--kingmesal": "2015-11-03 00:00:00",
+        "#big-data--drill--jacques-n": "2016-04-05 00:00:00",
+        "#big-data--drill--ssriniva123": "2016-06-10 00:00:00",
+        "#big-data--drill--fmethot": "2016-09-20 00:00:00",
+        "#big-data--drill--adityakishore": "2016-09-16 00:00:00",
+        "#big-data--drill--vkorukanti": "2016-07-18 00:00:00",
+        "#big-data--drill--anbangx": "2014-10-28 00:00:00",
+        "#big-data--drill--StevenMPhillips": "2016-03-04 00:00:00",
+        "#big-data--drill--adeneche": "2016-07-08 00:00:00",
+        "#big-data--drill--PythonicNinja": "2016-05-21 00:00:00",
+        "#big-data--drill--baunz": "2016-04-03 00:00:00",
+        "#big-data--drill--minji-kim": "2016-02-17 00:00:00",
+        "#big-data--drill--hnfgns": "2016-02-15 00:00:00",
+        "#big-data--drill--kameshb": "2016-01-01 00:00:00",
+        "#big-data--drill--mehant": "2015-12-15 00:00:00",
+        "#big-data--drill--amithadke": "2016-01-26 00:00:00",
+        "#big-data--drill--toddlipcon": "2016-01-10 00:00:00",
+        "#big-data--drill--rozza": "2015-12-17 00:00:00",
+        "#big-data--drill--cwestin": "2015-11-11 00:00:00",
+        "#big-data--drill--julienledem": "2015-11-23 00:00:00",
+        "#big-data--drill--abhipol": "2015-11-17 00:00:00",
+        "#big-data--drill--aleph-zero": "2015-11-16 00:00:00",
+        "#big-data--drill--dsbos": "2015-10-27 00:00:00",
+        "#big-data--drill--tgrall": "2015-10-20 00:00:00",
+        "#big-data--drill--ebegoli": "2015-08-30 00:00:00",
+        "#big-data--drill--spanchamiamapr": "2015-07-29 00:00:00",
+        "#big-data--drill--rinukonda": "2015-05-08 00:00:00",
+        "#big-data--drill--ppearcy": "2015-01-26 00:00:00",
+        "#big-data--drill--alzarei": "2015-04-27 00:00:00",
+        "#big-data--drill--norrislee": "2015-05-01 00:00:00",
+        "#big-data--drill--julianhyde": "2015-03-09 00:00:00",
+        "#big-data--drill--vsowrirajan": "2015-02-19 00:00:00",
+        "#big-data--drill--yssharma": "2014-11-13 00:00:00",
+        "#big-data--drill--xiaom": "2015-02-10 00:00:00",
+        "#big-data--drill--yashs360": "2014-11-24 00:00:00",
+        "#big-data--drill--tnachen": "2014-09-21 00:00:00",
+        "#big-data--drill--tshiran": "2014-09-19 00:00:00",
+        "#big-data--drill--hdost": "2014-06-03 00:00:00",
+        "#big-data--drill--pchanumolu": "2014-05-05 00:00:00",
+        "#big-data--drill--coyotebush1": "2014-02-25 00:00:00",
+        "#big-data--drill--vrtx": "2013-12-01 00:00:00",
+        "#big-data--drill--nmishra": "2013-09-10 00:00:00",
+        "#big-data--drill--witwolf": "2013-09-03 00:00:00",
+        "#big-data--drill--immars": "2013-08-22 00:00:00",
+        "#big-data--drill--dralves": "2013-04-23 00:00:00",
+        "#big-data--drill--mitnpatel": "2013-02-24 00:00:00",
+        "#big-data--drill--cmerrick": "2013-02-24 00:00:00",
+        "#big-data--drill--gerashegalov": "2013-01-24 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#big-data--drill--claire9910": 0,
+        "#big-data--drill--denglunfuren": 0,
+        "#big-data--drill--bitmasks": 0,
+        "#big-data--drill--hyoklee": 0,
+        "#big-data--drill--xy2953396112": 0,
+        "#big-data--drill--CuteKittyhoho": 0,
+        "#big-data--drill--mehmetmalli": 0,
+        "#big-data--drill--curiousleo": 0,
+        "#big-data--drill--DanielT504": 0,
+        "#big-data--drill--prexio": 0,
+        "#big-data--drill--mkusnir": 0,
+        "#big-data--drill--rajeshguptaiiitm": 0,
+        "#big-data--drill--dcmsurnyk": 0,
+        "#big-data--drill--ArtTrush": 0,
+        "#big-data--drill--pombredanne": 0,
+        "#big-data--drill--jduo": 0,
+        "#big-data--drill--gdubya": 0,
+        "#big-data--drill--nescohen": 0,
+        "#big-data--drill--akkapur": 0,
+        "#big-data--drill--justin-chen": 0,
+        "#big-data--drill--andrewctate": 0,
+        "#big-data--drill--Fokko": 0,
+        "#big-data--drill--shimamoto": 0,
+        "#big-data--drill--khurramfaraaz": 0,
+        "#big-data--drill--vlsi": 0,
+        "#big-data--drill--hrbrmstr": 0,
+        "#big-data--drill--pkfoury": 0,
+        "#big-data--drill--jbimbert": 0,
+        "#big-data--drill--nagix": 0,
+        "#big-data--drill--jiang-wu": 0,
+        "#big-data--drill--Kui-Liu": 0,
+        "#big-data--drill--milindt": 0,
+        "#big-data--drill--reudismam": 0,
+        "#big-data--drill--sindhurayavaram": 0,
+        "#big-data--drill--dprofeta": 0,
+        "#big-data--drill--josiahyan": 0,
+        "#big-data--drill--pmaciolek": 0,
+        "#big-data--drill--darrenbrien": 0,
+        "#big-data--drill--eskabetxe": 0,
+        "#big-data--drill--liuliyun1": 0,
+        "#big-data--drill--lifove": 0,
+        "#big-data--drill--davidhaller": 0,
+        "#big-data--drill--nagarajanchinnasamy": 0,
+        "#big-data--drill--harrison-svds": 0,
+        "#big-data--drill--kingmesal": 0,
+        "#big-data--drill--ssriniva123": 0,
+        "#big-data--drill--fmethot": 0,
+        "#big-data--drill--PythonicNinja": 0,
+        "#big-data--drill--baunz": 0,
+        "#big-data--drill--minji-kim": 0,
+        "#big-data--drill--rozza": 0,
+        "#big-data--drill--ebegoli": 0,
+        "#big-data--drill--spanchamiamapr": 0,
+        "#big-data--drill--rinukonda": 0,
+        "#big-data--drill--ppearcy": 0,
+        "#big-data--drill--tshiran": 0,
+        "#big-data--drill--hdost": 0,
+        "#big-data--drill--pchanumolu": 0,
+        "#big-data--drill--nmishra": 0,
+        "#big-data--drill--mitnpatel": 0,
+        "#big-data--drill--gerashegalov": 0,
+        "#big-data--drill--witwolf": 2,
+        "#big-data--drill--dralves": 6,
+        "#big-data--drill--invalid-email-address": 7,
+        "#big-data--drill--ChrisSandison": 7,
+        "#big-data--drill--anbangx": 7,
+        "#big-data--drill--tgrall": 7,
+        "#big-data--drill--nareshgbhat": 14,
+        "#big-data--drill--abhipol": 15,
+        "#big-data--drill--wojustme": 17,
+        "#big-data--drill--coyotebush1": 25,
+        "#big-data--drill--Z0ltrix": 30,
+        "#big-data--drill--okalinin": 30,
+        "#big-data--drill--cmerrick": 30,
+        "#big-data--drill--dobesv": 32,
+        "#big-data--drill--k255": 39,
+        "#big-data--drill--aleph-zero": 46,
+        "#big-data--drill--toddlipcon": 52,
+        "#big-data--drill--lushuifeng": 54,
+        "#big-data--drill--kr-arjun": 55,
+        "#big-data--drill--martin-g": 67,
+        "#big-data--drill--vsowrirajan": 76,
+        "#big-data--drill--dgrinchenko": 82,
+        "#big-data--drill--dependabot[bot]": 86,
+        "#big-data--drill--rajrahul": 92,
+        "#big-data--drill--prasadns14": 97,
+        "#big-data--drill--julienledem": 97,
+        "#big-data--drill--zhztheplayer": 104,
+        "#big-data--drill--hnfgns": 104,
+        "#big-data--drill--amithadke": 111,
+        "#big-data--drill--daveoshinsky": 121,
+        "#big-data--drill--arjuntheprogrammer": 148,
+        "#big-data--drill--immars": 153,
+        "#big-data--drill--estherbuchwalter": 154,
+        "#big-data--drill--sudheeshkatkam": 168,
+        "#big-data--drill--vrtx": 173,
+        "#big-data--drill--Serhii-Harnyk": 183,
+        "#big-data--drill--vladimirtkach": 186,
+        "#big-data--drill--yssharma": 191,
+        "#big-data--drill--kingswanwho": 237,
+        "#big-data--drill--cdmikechen": 247,
+        "#big-data--drill--xiaom": 256,
+        "#big-data--drill--alzarei": 263,
+        "#big-data--drill--abhidotravi": 316,
+        "#big-data--drill--norrislee": 316,
+        "#big-data--drill--dsbos": 341,
+        "#big-data--drill--xhochy": 353,
+        "#big-data--drill--rymarm": 354,
+        "#big-data--drill--vrozov": 358,
+        "#big-data--drill--cwestin": 365,
+        "#big-data--drill--denysord88": 369,
+        "#big-data--drill--yashs360": 376,
+        "#big-data--drill--Leon-WTF": 391,
+        "#big-data--drill--ilooner": 427,
+        "#big-data--drill--HanumathRao": 432,
+        "#big-data--drill--dvjyothsna": 435,
+        "#big-data--drill--jnturton": 482,
+        "#big-data--drill--sohami": 483,
+        "#big-data--drill--superbstreak": 499,
+        "#big-data--drill--KulykRoman": 499,
+        "#big-data--drill--sachouche": 514,
+        "#big-data--drill--hsuanyi": 517,
+        "#big-data--drill--ihuzenko": 535,
+        "#big-data--drill--AdamPD": 539,
+        "#big-data--drill--adeneche": 557,
+        "#big-data--drill--vstorona-origin": 573,
+        "#big-data--drill--luocooong": 593,
+        "#big-data--drill--tnachen": 593,
+        "#big-data--drill--ppadma": 619,
+        "#big-data--drill--kameshb": 619,
+        "#big-data--drill--pjfanning": 636,
+        "#big-data--drill--julianhyde": 754,
+        "#big-data--drill--kkhatua": 778,
+        "#big-data--drill--nielsbasjes": 779,
+        "#big-data--drill--KazydubB": 783,
+        "#big-data--drill--mehant": 783,
+        "#big-data--drill--chunhui-shi": 813,
+        "#big-data--drill--jinfengni": 826,
+        "#big-data--drill--bitblender": 875,
+        "#big-data--drill--vkorukanti": 899,
+        "#big-data--drill--StevenMPhillips": 947,
+        "#big-data--drill--jcmcote": 1056,
+        "#big-data--drill--adityakishore": 1108,
+        "#big-data--drill--Ben-Zvi": 1111,
+        "#big-data--drill--oleg-zinovev": 1137,
+        "#big-data--drill--jacques-n": 1229,
+        "#big-data--drill--Agirish": 1245,
+        "#big-data--drill--akumarb2010": 1313,
+        "#big-data--drill--paul-rogers": 1393,
+        "#big-data--drill--agozhiy": 1427,
+        "#big-data--drill--parthchandra": 1533,
+        "#big-data--drill--arina-ielchiieva": 1537,
+        "#big-data--drill--pwong-mapr": 1552,
+        "#big-data--drill--tdunning": 1955,
+        "#big-data--drill--laurentgo": 1964,
+        "#big-data--drill--vvysotskyi": 2012,
+        "#big-data--drill--cgivre": 2210,
+        "#big-data--drill--vdiravka": 2288,
+        "#big-data--drill--jaltekruse": 2681,
+        "#big-data--drill--": 3189
+    },
+    "commiter_contribute_time1": {
+        "#big-data--drill--prasadns14": {
+            "start": "2017-10-06 00:00:00",
+            "end": "2017-11-16 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--AdamPD": {
+            "start": "2015-01-08 00:00:00",
+            "end": "2016-01-18 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--yssharma": {
+            "start": "2014-05-06 00:00:00",
+            "end": "2014-06-14 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--amithadke": {
+            "start": "2015-10-07 00:00:00",
+            "end": "2015-12-16 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--julianhyde": {
+            "start": "2013-02-13 00:00:00",
+            "end": "2013-06-04 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--vladimirtkach": {
+            "start": "2017-10-23 00:00:00",
+            "end": "2018-03-26 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--dvjyothsna": {
+            "start": "2018-02-22 00:00:00",
+            "end": "2019-04-11 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--akumarb2010": {
+            "start": "2014-04-24 00:00:00",
+            "end": "2017-11-27 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--kameshb": {
+            "start": "2014-04-22 00:00:00",
+            "end": "2015-10-20 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--kkhatua": {
+            "start": "2017-02-03 00:00:00",
+            "end": "2018-10-17 00:00:00",
+            "bug_num_per_commit": 0.42857142857142855,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--Serhii-Harnyk": {
+            "start": "2016-09-01 00:00:00",
+            "end": "2016-09-01 00:00:00",
+            "bug_num_per_commit": 0.6666666666666666,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--bitblender": {
+            "start": "2016-10-20 00:00:00",
+            "end": "2018-08-24 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--ppadma": {
+            "start": "2016-10-17 00:00:00",
+            "end": "2018-05-15 00:00:00",
+            "bug_num_per_commit": 0.4,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--hnfgns": {
+            "start": "2015-11-03 00:00:00",
+            "end": "2016-02-15 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--KulykRoman": {
+            "start": "2016-10-04 00:00:00",
+            "end": "2017-11-02 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--chunhui-shi": {
+            "start": "2016-03-15 00:00:00",
+            "end": "2017-11-03 00:00:00",
+            "bug_num_per_commit": 0.6666666666666666,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--vrozov": {
+            "start": "2017-08-29 00:00:00",
+            "end": "2018-04-30 00:00:00",
+            "bug_num_per_commit": 0.5714285714285714,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--sudheeshkatkam": {
+            "start": "2016-11-29 00:00:00",
+            "end": "2017-01-30 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--vrtx": {
+            "start": "2013-06-11 00:00:00",
+            "end": "2013-06-11 00:00:00",
+            "bug_num_per_commit": 0.625,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--tnachen": {
+            "start": "2013-02-05 00:00:00",
+            "end": "2013-11-19 00:00:00",
+            "bug_num_per_commit": 0.4,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--dsbos": {
+            "start": "2014-11-20 00:00:00",
+            "end": "2015-06-19 00:00:00",
+            "bug_num_per_commit": 0.4117647058823529,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--hsuanyi": {
+            "start": "2014-11-04 00:00:00",
+            "end": "2015-09-09 00:00:00",
+            "bug_num_per_commit": 0.5238095238095238,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--cwestin": {
+            "start": "2014-11-11 00:00:00",
+            "end": "2015-09-29 00:00:00",
+            "bug_num_per_commit": 0.5714285714285714,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--parthchandra": {
+            "start": "2014-05-20 00:00:00",
+            "end": "2017-08-28 00:00:00",
+            "bug_num_per_commit": 0.2903225806451613,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--adeneche": {
+            "start": "2014-12-29 00:00:00",
+            "end": "2015-09-21 00:00:00",
+            "bug_num_per_commit": 0.21052631578947367,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--jinfengni": {
+            "start": "2015-02-11 00:00:00",
+            "end": "2016-06-05 00:00:00",
+            "bug_num_per_commit": 0.4117647058823529,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--mehant": {
+            "start": "2013-10-23 00:00:00",
+            "end": "2015-02-18 00:00:00",
+            "bug_num_per_commit": 0.48148148148148145,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--jaltekruse": {
+            "start": "2014-02-12 00:00:00",
+            "end": "2015-09-09 00:00:00",
+            "bug_num_per_commit": 0.4166666666666667,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--vkorukanti": {
+            "start": "2014-01-31 00:00:00",
+            "end": "2015-06-12 00:00:00",
+            "bug_num_per_commit": 0.525,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--adityakishore": {
+            "start": "2013-09-04 00:00:00",
+            "end": "2015-05-14 00:00:00",
+            "bug_num_per_commit": 0.1509433962264151,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--StevenMPhillips": {
+            "start": "2013-07-31 00:00:00",
+            "end": "2015-01-16 00:00:00",
+            "bug_num_per_commit": 0.43333333333333335,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--arina-ielchiieva": {
+            "start": "2016-02-02 00:00:00",
+            "end": "2019-04-19 00:00:00",
+            "bug_num_per_commit": 0.09523809523809523,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--jacques-n": {
+            "start": "2012-11-23 00:00:00",
+            "end": "2015-03-26 00:00:00",
+            "bug_num_per_commit": 0.2872340425531915,
+            "bug_commit_num_rate": 1.0
+        }
+    },
+    "commiter_contribute_time2": {
+        "#big-data--drill--prasadns14": {
+            "start": "2017-11-09 00:00:00",
+            "end": "2017-11-08 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--AdamPD": {
+            "start": "2015-10-01 00:00:00",
+            "end": "2015-04-13 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--yssharma": {
+            "start": "2014-05-29 00:00:00",
+            "end": "2014-06-17 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--amithadke": {
+            "start": "2015-11-19 00:00:00",
+            "end": "2015-12-07 00:00:00",
+            "bug_num_per_commit": 0.75,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--julianhyde": {
+            "start": "2013-05-18 00:00:00",
+            "end": "2013-03-29 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--vladimirtkach": {
+            "start": "2018-03-17 00:00:00",
+            "end": "2018-03-14 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--dvjyothsna": {
+            "start": "2019-04-10 00:00:00",
+            "end": "2018-12-03 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.5
+        },
+        "#big-data--drill--akumarb2010": {
+            "start": "2015-12-13 00:00:00",
+            "end": "2015-12-13 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--kameshb": {
+            "start": "2015-07-15 00:00:00",
+            "end": "2015-08-28 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--kkhatua": {
+            "start": "2018-10-11 00:00:00",
+            "end": "2018-07-11 00:00:00",
+            "bug_num_per_commit": 0.42857142857142855,
+            "bug_commit_num_rate": 0.42857142857142855
+        },
+        "#big-data--drill--Serhii-Harnyk": {
+            "start": "2017-01-27 00:00:00",
+            "end": "2016-11-24 00:00:00",
+            "bug_num_per_commit": 0.6666666666666666,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--bitblender": {
+            "start": "2018-07-23 00:00:00",
+            "end": "2018-06-04 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.6666666666666666
+        },
+        "#big-data--drill--ppadma": {
+            "start": "2018-05-14 00:00:00",
+            "end": "2018-03-06 00:00:00",
+            "bug_num_per_commit": 0.4,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--hnfgns": {
+            "start": "2016-02-04 00:00:00",
+            "end": "2016-02-04 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--KulykRoman": {
+            "start": "2017-08-29 00:00:00",
+            "end": "2017-11-30 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--chunhui-shi": {
+            "start": "2017-12-22 00:00:00",
+            "end": "2017-01-13 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--vrozov": {
+            "start": "2018-04-21 00:00:00",
+            "end": "2018-03-20 00:00:00",
+            "bug_num_per_commit": 0.14285714285714285,
+            "bug_commit_num_rate": 0.5714285714285714
+        },
+        "#big-data--drill--sudheeshkatkam": {
+            "start": "2017-02-23 00:00:00",
+            "end": "2017-01-25 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--vrtx": {
+            "start": "2013-09-17 00:00:00",
+            "end": "2013-08-12 00:00:00",
+            "bug_num_per_commit": 0.625,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--tnachen": {
+            "start": "2013-09-24 00:00:00",
+            "end": "2013-08-19 00:00:00",
+            "bug_num_per_commit": 0.8,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--dsbos": {
+            "start": "2015-07-02 00:00:00",
+            "end": "2015-05-09 00:00:00",
+            "bug_num_per_commit": 0.47058823529411764,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--hsuanyi": {
+            "start": "2015-09-07 00:00:00",
+            "end": "2015-06-09 00:00:00",
+            "bug_num_per_commit": 0.42857142857142855,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--cwestin": {
+            "start": "2015-09-10 00:00:00",
+            "end": "2015-08-12 00:00:00",
+            "bug_num_per_commit": 0.42857142857142855,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--parthchandra": {
+            "start": "2017-10-11 00:00:00",
+            "end": "2015-10-28 00:00:00",
+            "bug_num_per_commit": 0.3870967741935484,
+            "bug_commit_num_rate": 0.7419354838709677
+        },
+        "#big-data--drill--adeneche": {
+            "start": "2015-10-22 00:00:00",
+            "end": "2015-07-13 00:00:00",
+            "bug_num_per_commit": 0.2631578947368421,
+            "bug_commit_num_rate": 0.8421052631578947
+        },
+        "#big-data--drill--jinfengni": {
+            "start": "2016-06-09 00:00:00",
+            "end": "2015-11-03 00:00:00",
+            "bug_num_per_commit": 0.5882352941176471,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--mehant": {
+            "start": "2015-03-17 00:00:00",
+            "end": "2014-08-06 00:00:00",
+            "bug_num_per_commit": 0.48148148148148145,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--jaltekruse": {
+            "start": "2015-07-09 00:00:00",
+            "end": "2015-02-06 00:00:00",
+            "bug_num_per_commit": 0.4166666666666667,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--vkorukanti": {
+            "start": "2015-05-29 00:00:00",
+            "end": "2015-02-14 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--adityakishore": {
+            "start": "2015-05-14 00:00:00",
+            "end": "2014-08-25 00:00:00",
+            "bug_num_per_commit": 0.2830188679245283,
+            "bug_commit_num_rate": 0.41509433962264153
+        },
+        "#big-data--drill--StevenMPhillips": {
+            "start": "2014-12-09 00:00:00",
+            "end": "2014-06-11 00:00:00",
+            "bug_num_per_commit": 0.4,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--arina-ielchiieva": {
+            "start": "2019-04-08 00:00:00",
+            "end": "2018-06-21 00:00:00",
+            "bug_num_per_commit": 0.23809523809523808,
+            "bug_commit_num_rate": 0.5238095238095238
+        },
+        "#big-data--drill--jacques-n": {
+            "start": "2015-03-24 00:00:00",
+            "end": "2014-06-10 00:00:00",
+            "bug_num_per_commit": 0.3617021276595745,
+            "bug_commit_num_rate": 0.6063829787234043
+        }
+    },
+    "commiter_contribute_time3": {
+        "#big-data--drill--prasadns14": {
+            "start": "2017-11-01 00:00:00",
+            "end": "2017-10-25 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--AdamPD": {
+            "start": "2015-03-24 00:00:00",
+            "end": "2015-02-09 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--yssharma": {
+            "start": "2014-06-27 00:00:00",
+            "end": "2014-06-17 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--amithadke": {
+            "start": "2015-12-07 00:00:00",
+            "end": "2015-12-02 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.75
+        },
+        "#big-data--drill--julianhyde": {
+            "start": "2013-03-28 00:00:00",
+            "end": "2013-03-08 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--vladimirtkach": {
+            "start": "2018-03-05 00:00:00",
+            "end": "2018-03-06 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--dvjyothsna": {
+            "start": "2018-10-31 00:00:00",
+            "end": "2018-04-16 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--akumarb2010": {
+            "start": "2015-07-06 00:00:00",
+            "end": "2015-07-06 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--kameshb": {
+            "start": "2015-07-15 00:00:00",
+            "end": "2014-10-29 00:00:00",
+            "bug_num_per_commit": 0.6666666666666666,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--kkhatua": {
+            "start": "2018-06-26 00:00:00",
+            "end": "2018-06-06 00:00:00",
+            "bug_num_per_commit": 0.42857142857142855,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--Serhii-Harnyk": {
+            "start": "2016-12-27 00:00:00",
+            "end": "2016-12-08 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.6666666666666666
+        },
+        "#big-data--drill--bitblender": {
+            "start": "2018-06-22 00:00:00",
+            "end": "2018-06-07 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--ppadma": {
+            "start": "2018-02-22 00:00:00",
+            "end": "2017-08-07 00:00:00",
+            "bug_num_per_commit": 0.4,
+            "bug_commit_num_rate": 0.9
+        },
+        "#big-data--drill--hnfgns": {
+            "start": "2015-12-15 00:00:00",
+            "end": "2015-12-15 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--KulykRoman": {
+            "start": "2017-09-29 00:00:00",
+            "end": "2017-07-20 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--chunhui-shi": {
+            "start": "2016-12-18 00:00:00",
+            "end": "2016-12-01 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.16666666666666666
+        },
+        "#big-data--drill--vrozov": {
+            "start": "2018-03-13 00:00:00",
+            "end": "2017-11-22 00:00:00",
+            "bug_num_per_commit": 0.42857142857142855,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--sudheeshkatkam": {
+            "start": "2017-01-25 00:00:00",
+            "end": "2017-01-25 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.75
+        },
+        "#big-data--drill--vrtx": {
+            "start": "2013-08-12 00:00:00",
+            "end": "2013-08-04 00:00:00",
+            "bug_num_per_commit": 0.375,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--tnachen": {
+            "start": "2013-08-20 00:00:00",
+            "end": "2013-08-10 00:00:00",
+            "bug_num_per_commit": 0.8,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--dsbos": {
+            "start": "2015-05-09 00:00:00",
+            "end": "2015-04-08 00:00:00",
+            "bug_num_per_commit": 0.7058823529411765,
+            "bug_commit_num_rate": 1.0
+        },
+        "#big-data--drill--hsuanyi": {
+            "start": "2015-06-12 00:00:00",
+            "end": "2015-03-27 00:00:00",
+            "bug_num_per_commit": 0.6190476190476191,
+            "bug_commit_num_rate": 0.7142857142857143
+        },
+        "#big-data--drill--cwestin": {
+            "start": "2015-08-03 00:00:00",
+            "end": "2015-03-25 00:00:00",
+            "bug_num_per_commit": 0.8571428571428571,
+            "bug_commit_num_rate": 0.7142857142857143
+        },
+        "#big-data--drill--parthchandra": {
+            "start": "2015-10-05 00:00:00",
+            "end": "2015-01-19 00:00:00",
+            "bug_num_per_commit": 0.41935483870967744,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--adeneche": {
+            "start": "2015-07-23 00:00:00",
+            "end": "2015-04-20 00:00:00",
+            "bug_num_per_commit": 0.5789473684210527,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--jinfengni": {
+            "start": "2015-10-19 00:00:00",
+            "end": "2015-06-30 00:00:00",
+            "bug_num_per_commit": 0.47058823529411764,
+            "bug_commit_num_rate": 0.47058823529411764
+        },
+        "#big-data--drill--mehant": {
+            "start": "2014-08-06 00:00:00",
+            "end": "2014-06-04 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.8148148148148148
+        },
+        "#big-data--drill--jaltekruse": {
+            "start": "2015-02-12 00:00:00",
+            "end": "2014-09-29 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.25
+        },
+        "#big-data--drill--vkorukanti": {
+            "start": "2015-02-12 00:00:00",
+            "end": "2014-06-11 00:00:00",
+            "bug_num_per_commit": 0.575,
+            "bug_commit_num_rate": 0.85
+        },
+        "#big-data--drill--adityakishore": {
+            "start": "2014-08-25 00:00:00",
+            "end": "2014-05-21 00:00:00",
+            "bug_num_per_commit": 0.3584905660377358,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--StevenMPhillips": {
+            "start": "2014-06-11 00:00:00",
+            "end": "2014-02-03 00:00:00",
+            "bug_num_per_commit": 0.36666666666666664,
+            "bug_commit_num_rate": 0.18333333333333332
+        },
+        "#big-data--drill--arina-ielchiieva": {
+            "start": "2018-06-12 00:00:00",
+            "end": "2017-06-15 00:00:00",
+            "bug_num_per_commit": 0.30952380952380953,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--jacques-n": {
+            "start": "2014-06-10 00:00:00",
+            "end": "2013-09-10 00:00:00",
+            "bug_num_per_commit": 0.43617021276595747,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#big-data--drill--prasadns14": {
+            "start": "2017-10-25 00:00:00",
+            "end": "2017-10-10 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.5
+        },
+        "#big-data--drill--AdamPD": {
+            "start": "2015-04-13 00:00:00",
+            "end": "2015-01-08 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.25
+        },
+        "#big-data--drill--yssharma": {
+            "start": "2014-05-18 00:00:00",
+            "end": "2014-05-06 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--amithadke": {
+            "start": "2015-12-01 00:00:00",
+            "end": "2015-10-21 00:00:00",
+            "bug_num_per_commit": 1.3333333333333333,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--julianhyde": {
+            "start": "2013-03-08 00:00:00",
+            "end": "2013-02-13 00:00:00",
+            "bug_num_per_commit": 0.16666666666666666,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--vladimirtkach": {
+            "start": "2018-02-27 00:00:00",
+            "end": "2017-10-23 00:00:00",
+            "bug_num_per_commit": 0.75,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--dvjyothsna": {
+            "start": "2018-03-29 00:00:00",
+            "end": "2018-02-22 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--akumarb2010": {
+            "start": "2015-04-15 00:00:00",
+            "end": "2014-04-24 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.6666666666666666
+        },
+        "#big-data--drill--kameshb": {
+            "start": "2015-03-03 00:00:00",
+            "end": "2014-04-22 00:00:00",
+            "bug_num_per_commit": 0.25,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--kkhatua": {
+            "start": "2018-05-29 00:00:00",
+            "end": "2017-02-03 00:00:00",
+            "bug_num_per_commit": 0.14285714285714285,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--Serhii-Harnyk": {
+            "start": "2016-11-18 00:00:00",
+            "end": "2016-09-22 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--bitblender": {
+            "start": "2017-12-07 00:00:00",
+            "end": "2016-10-20 00:00:00",
+            "bug_num_per_commit": 0.75,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--ppadma": {
+            "start": "2017-06-15 00:00:00",
+            "end": "2016-10-17 00:00:00",
+            "bug_num_per_commit": 0.5833333333333334,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--hnfgns": {
+            "start": "2015-11-16 00:00:00",
+            "end": "2015-11-13 00:00:00",
+            "bug_num_per_commit": 1.5,
+            "bug_commit_num_rate": 0.5
+        },
+        "#big-data--drill--KulykRoman": {
+            "start": "2017-07-06 00:00:00",
+            "end": "2016-10-04 00:00:00",
+            "bug_num_per_commit": 1.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--chunhui-shi": {
+            "start": "2016-10-18 00:00:00",
+            "end": "2016-03-15 00:00:00",
+            "bug_num_per_commit": 0.6666666666666666,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--vrozov": {
+            "start": "2017-12-17 00:00:00",
+            "end": "2017-08-29 00:00:00",
+            "bug_num_per_commit": 0.3333333333333333,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--sudheeshkatkam": {
+            "start": "2017-02-24 00:00:00",
+            "end": "2016-11-29 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--vrtx": {
+            "start": "2013-08-03 00:00:00",
+            "end": "2013-06-18 00:00:00",
+            "bug_num_per_commit": 0.5714285714285714,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--tnachen": {
+            "start": "2013-08-03 00:00:00",
+            "end": "2013-02-05 00:00:00",
+            "bug_num_per_commit": 0.5714285714285714,
+            "bug_commit_num_rate": 0.2857142857142857
+        },
+        "#big-data--drill--dsbos": {
+            "start": "2015-03-24 00:00:00",
+            "end": "2014-11-20 00:00:00",
+            "bug_num_per_commit": 0.6111111111111112,
+            "bug_commit_num_rate": 0.1111111111111111
+        },
+        "#big-data--drill--hsuanyi": {
+            "start": "2015-03-31 00:00:00",
+            "end": "2014-11-04 00:00:00",
+            "bug_num_per_commit": 0.6190476190476191,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--cwestin": {
+            "start": "2015-03-24 00:00:00",
+            "end": "2014-11-11 00:00:00",
+            "bug_num_per_commit": 0.7142857142857143,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--parthchandra": {
+            "start": "2015-02-11 00:00:00",
+            "end": "2014-05-20 00:00:00",
+            "bug_num_per_commit": 0.36666666666666664,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--adeneche": {
+            "start": "2015-04-14 00:00:00",
+            "end": "2014-12-29 00:00:00",
+            "bug_num_per_commit": 0.47619047619047616,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--jinfengni": {
+            "start": "2015-07-07 00:00:00",
+            "end": "2015-02-11 00:00:00",
+            "bug_num_per_commit": 0.6842105263157895,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--mehant": {
+            "start": "2014-06-04 00:00:00",
+            "end": "2013-10-23 00:00:00",
+            "bug_num_per_commit": 0.46296296296296297,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--jaltekruse": {
+            "start": "2014-09-15 00:00:00",
+            "end": "2014-02-12 00:00:00",
+            "bug_num_per_commit": 0.7391304347826086,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--vkorukanti": {
+            "start": "2014-06-11 00:00:00",
+            "end": "2014-01-31 00:00:00",
+            "bug_num_per_commit": 0.6341463414634146,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--adityakishore": {
+            "start": "2014-05-20 00:00:00",
+            "end": "2013-09-04 00:00:00",
+            "bug_num_per_commit": 0.37735849056603776,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--StevenMPhillips": {
+            "start": "2014-03-24 00:00:00",
+            "end": "2013-07-31 00:00:00",
+            "bug_num_per_commit": 0.4,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--arina-ielchiieva": {
+            "start": "2017-05-25 00:00:00",
+            "end": "2016-02-02 00:00:00",
+            "bug_num_per_commit": 0.4318181818181818,
+            "bug_commit_num_rate": 0.0
+        },
+        "#big-data--drill--jacques-n": {
+            "start": "2013-09-10 00:00:00",
+            "end": "2012-11-23 00:00:00",
+            "bug_num_per_commit": 0.1935483870967742,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#big-data--drill--prasadns14": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 0.0,
+                "time3": 1.0,
+                "time4": 1.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.5
+            }
+        },
+        "#big-data--drill--AdamPD": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 0.0,
+                "time3": 1.0,
+                "time4": 1.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.25
+            }
+        },
+        "#big-data--drill--yssharma": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 1.0,
+                "time3": 0.5,
+                "time4": 1.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--amithadke": {
+            "bug_num_per_commit": {
+                "time1": 0.25,
+                "time2": 0.75,
+                "time3": 0.25,
+                "time4": 1.3333333333333333
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.75,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--julianhyde": {
+            "bug_num_per_commit": {
+                "time1": 0.25,
+                "time2": 0.5,
+                "time3": 0.25,
+                "time4": 0.16666666666666666
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--vladimirtkach": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.75
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--dvjyothsna": {
+            "bug_num_per_commit": {
+                "time1": 0.25,
+                "time2": 0.5,
+                "time3": 0.25,
+                "time4": 0.25
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.5,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--akumarb2010": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 1.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.6666666666666666
+            }
+        },
+        "#big-data--drill--kameshb": {
+            "bug_num_per_commit": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.6666666666666666,
+                "time4": 0.25
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--kkhatua": {
+            "bug_num_per_commit": {
+                "time1": 0.42857142857142855,
+                "time2": 0.42857142857142855,
+                "time3": 0.42857142857142855,
+                "time4": 0.14285714285714285
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.42857142857142855,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--Serhii-Harnyk": {
+            "bug_num_per_commit": {
+                "time1": 0.6666666666666666,
+                "time2": 0.6666666666666666,
+                "time3": 0.3333333333333333,
+                "time4": 1.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.6666666666666666,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--bitblender": {
+            "bug_num_per_commit": {
+                "time1": 0.3333333333333333,
+                "time2": 0.3333333333333333,
+                "time3": 0.0,
+                "time4": 0.75
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.6666666666666666,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--ppadma": {
+            "bug_num_per_commit": {
+                "time1": 0.4,
+                "time2": 0.4,
+                "time3": 0.4,
+                "time4": 0.5833333333333334
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.9,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--hnfgns": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.0,
+                "time3": 1.0,
+                "time4": 1.5
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.5
+            }
+        },
+        "#big-data--drill--KulykRoman": {
+            "bug_num_per_commit": {
+                "time1": 1.0,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 1.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--chunhui-shi": {
+            "bug_num_per_commit": {
+                "time1": 0.6666666666666666,
+                "time2": 0.5,
+                "time3": 0.3333333333333333,
+                "time4": 0.6666666666666666
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.16666666666666666,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--vrozov": {
+            "bug_num_per_commit": {
+                "time1": 0.5714285714285714,
+                "time2": 0.14285714285714285,
+                "time3": 0.42857142857142855,
+                "time4": 0.3333333333333333
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.5714285714285714,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--sudheeshkatkam": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 1.0,
+                "time3": 0.5,
+                "time4": 0.5
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.75,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--vrtx": {
+            "bug_num_per_commit": {
+                "time1": 0.625,
+                "time2": 0.625,
+                "time3": 0.375,
+                "time4": 0.5714285714285714
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--tnachen": {
+            "bug_num_per_commit": {
+                "time1": 0.4,
+                "time2": 0.8,
+                "time3": 0.8,
+                "time4": 0.5714285714285714
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.2857142857142857
+            }
+        },
+        "#big-data--drill--dsbos": {
+            "bug_num_per_commit": {
+                "time1": 0.4117647058823529,
+                "time2": 0.47058823529411764,
+                "time3": 0.7058823529411765,
+                "time4": 0.6111111111111112
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 1.0,
+                "time4": 0.1111111111111111
+            }
+        },
+        "#big-data--drill--hsuanyi": {
+            "bug_num_per_commit": {
+                "time1": 0.5238095238095238,
+                "time2": 0.42857142857142855,
+                "time3": 0.6190476190476191,
+                "time4": 0.6190476190476191
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.7142857142857143,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--cwestin": {
+            "bug_num_per_commit": {
+                "time1": 0.5714285714285714,
+                "time2": 0.42857142857142855,
+                "time3": 0.8571428571428571,
+                "time4": 0.7142857142857143
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.7142857142857143,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--parthchandra": {
+            "bug_num_per_commit": {
+                "time1": 0.2903225806451613,
+                "time2": 0.3870967741935484,
+                "time3": 0.41935483870967744,
+                "time4": 0.36666666666666664
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.7419354838709677,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--adeneche": {
+            "bug_num_per_commit": {
+                "time1": 0.21052631578947367,
+                "time2": 0.2631578947368421,
+                "time3": 0.5789473684210527,
+                "time4": 0.47619047619047616
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.8421052631578947,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--jinfengni": {
+            "bug_num_per_commit": {
+                "time1": 0.4117647058823529,
+                "time2": 0.5882352941176471,
+                "time3": 0.47058823529411764,
+                "time4": 0.6842105263157895
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.47058823529411764,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--mehant": {
+            "bug_num_per_commit": {
+                "time1": 0.48148148148148145,
+                "time2": 0.48148148148148145,
+                "time3": 0.5,
+                "time4": 0.46296296296296297
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.8148148148148148,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--jaltekruse": {
+            "bug_num_per_commit": {
+                "time1": 0.4166666666666667,
+                "time2": 0.4166666666666667,
+                "time3": 0.5,
+                "time4": 0.7391304347826086
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.25,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--vkorukanti": {
+            "bug_num_per_commit": {
+                "time1": 0.525,
+                "time2": 0.5,
+                "time3": 0.575,
+                "time4": 0.6341463414634146
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.85,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--adityakishore": {
+            "bug_num_per_commit": {
+                "time1": 0.1509433962264151,
+                "time2": 0.2830188679245283,
+                "time3": 0.3584905660377358,
+                "time4": 0.37735849056603776
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.41509433962264153,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--StevenMPhillips": {
+            "bug_num_per_commit": {
+                "time1": 0.43333333333333335,
+                "time2": 0.4,
+                "time3": 0.36666666666666664,
+                "time4": 0.4
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.18333333333333332,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--arina-ielchiieva": {
+            "bug_num_per_commit": {
+                "time1": 0.09523809523809523,
+                "time2": 0.23809523809523808,
+                "time3": 0.30952380952380953,
+                "time4": 0.4318181818181818
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.5238095238095238,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#big-data--drill--jacques-n": {
+            "bug_num_per_commit": {
+                "time1": 0.2872340425531915,
+                "time2": 0.3617021276595745,
+                "time3": 0.43617021276595747,
+                "time4": 0.1935483870967742
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 0.6063829787234043,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#big-data--drill--prasadns14",
+        "#big-data--drill--AdamPD",
+        "#big-data--drill--yssharma",
+        "#big-data--drill--amithadke",
+        "#big-data--drill--julianhyde",
+        "#big-data--drill--vladimirtkach",
+        "#big-data--drill--dvjyothsna",
+        "#big-data--drill--akumarb2010",
+        "#big-data--drill--kameshb",
+        "#big-data--drill--kkhatua",
+        "#big-data--drill--Serhii-Harnyk",
+        "#big-data--drill--bitblender",
+        "#big-data--drill--ppadma",
+        "#big-data--drill--hnfgns",
+        "#big-data--drill--KulykRoman",
+        "#big-data--drill--chunhui-shi",
+        "#big-data--drill--vrozov",
+        "#big-data--drill--sudheeshkatkam",
+        "#big-data--drill--vrtx",
+        "#big-data--drill--tnachen",
+        "#big-data--drill--dsbos",
+        "#big-data--drill--hsuanyi",
+        "#big-data--drill--cwestin",
+        "#big-data--drill--parthchandra",
+        "#big-data--drill--adeneche",
+        "#big-data--drill--jinfengni",
+        "#big-data--drill--mehant",
+        "#big-data--drill--jaltekruse",
+        "#big-data--drill--vkorukanti",
+        "#big-data--drill--adityakishore",
+        "#big-data--drill--StevenMPhillips",
+        "#big-data--drill--arina-ielchiieva",
+        "#big-data--drill--jacques-n"
+    ],
+    "number_daily_long_time_error_prone_developer": 33,
+    "improved_daily_long_time_error_prone_developer": [
+        "#big-data--drill--vladimirtkach",
+        "#big-data--drill--akumarb2010",
+        "#big-data--drill--ppadma",
+        "#big-data--drill--hnfgns",
+        "#big-data--drill--jaltekruse",
+        "#big-data--drill--adityakishore",
+        "#big-data--drill--arina-ielchiieva"
+    ],
+    "number_improved_daily_long_time_error_prone_developer": 7
+}

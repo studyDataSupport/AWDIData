@@ -1,0 +1,590 @@
+[
+    {
+        "fix_commit_hash": "2a677f217b83916cbe662991cfa0a81d3ced45f0",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "157303e50673db6cb27fbb7134a90f3fdb807204",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "716dfbb6b8075f185dadb0efdb54c744efa9ba6f",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "5b86c7cbcdac48682bb1e3e201d2e4def44ff56a",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "bec28b3353fa5e158d72bf9c40c5020308e6ae40",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "a641dc4325a4526c537bf142e2983ef3c3b9ea84",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "4d9a57cdad3fb5f179328a898735cdd1a47091d6",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "dfc15a7472d0b641a19bc6e69f6bb90690eda4f0",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "0a5417c68a9722b40b36002f227ab799f7d4f94f",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "4b3d1ca57d64655fa6b669d7a9cbe87f494352ee",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "d1c0a050e1374f5d7ddf8efba163b11a94a6467e",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "38e1e99a685e8c91fc1acf881fcfd713fa6a9754",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "0e186325b2ee03dcc3e5d96aafff1f70b276ccd6",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "248b71de1c3c5f25b7ec8c7ff87d6cb18b0d1896",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "abd63473c899d98ce8e0f1ea236bc38a63806b3f",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "d81b04281cd01b8d656acbda382c856cd57c94b8",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "04da59b8ca751196e7493d681d52ef21455f9780",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "263e221a7a71b1b14469d6778b681f5100fa4e81",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "0d51800d90fb783a65d266ea41d0bdad1709edb4",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "44c434532f654d3a11230a66d0f488cb9ee434b0",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "62ed42fcdbd9a754a5349eb6408ee666b78c532e",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "8c385e3dee534fc497644dc1e8403cb42c668ee7",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "6a3f31af568ebba4f8d83470265845ccb14a608c",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "0028d9a5ae54046de8edcecd6aa11fc43e61f558",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "27190455411103ab6a64fb13450075d17a471155",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "2c7517ef24fc92c3c0ab892d8ba5867ddce5b419",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "c8fd05a5448581f6388aef27e2866da1b0c4438e",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "46c31721002fad0fd7f5b1115bf0016b292a0a35",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "01e1ae7557ef36cc12a1dce0d7eb403658c4ce74",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "1c2bdb466698e7dd7173c8ac52432188401f8296",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "27910a286c11313e62a71454dc6801b5e8fc712f",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "8e4f41de2f8407bc3b9e42bbbac7749944c1d538",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "8dee2ad6abe88213625dc126cf811d43925c6317",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "09db242b8cffbf63ad4a59d4e62f3ac358d4be24",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "ef8a3e3435e2948b2afd7972901eac5a45721b19",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "69f4bcc3802ed0b0bcda5e91d45d0ce372c3d1c1",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "c591d00af08b1bff8642e047c12e5c10c76428f3",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "1a304ae037c278ce2204989ecfdddf9ac449638c",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "c1be44c091fbd47d431c0b6045e555b0b4686b30",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "9dab666d3ecb09fc9ab2e9acd9486ac066e888c8",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "fc4b5a4d52c68c6f788526983a6df5bdd4f972b0",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "de8eb7d2897ebcbfa7d4ff61ed5fce5fa42e20f7",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "a70b3d8a75d5805a6daeedcf80ff44bf8b8cb276",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "12146f65fca5c24ac276c82e08b2ee52b3209225",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "1eefeb59e3f0d52aa011c29b1e18eee18e841049",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "bff5feb4e5680d8932155634e3adf989c8f17d8e",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "c46fb0d5084c17b648088b36cfdf648f67328d5c",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "71d185007d8ba0a935fe4ac084822784a19bcffa",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "9064d425b5e1d3e7cea1f5a6deeeb23effb66c2a",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "ca41392409e8e1fb6760d4b452d728edb5a06c6f",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "f7f3d85cc7ee071f90553eba13ca37080944ce3a",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "4ffa7acc032f58cdf484f4ceae1283111cf1c3b5",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "a10776a6afd3a9f2c07069cf56183a78e0a4ed76",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "c6fa248e6c51c36a61be9d7bc6b6b15d4013875e",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "a69782bea469a766f71f12f76e9d5154b7415be4",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "9ca1d67c316fa38652dc5376358e802d3336a285",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "a3c210cfc5eabd1bbb1d6ae4b009fe831e2f1d9b",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "041fcaf0b32e1316c578f971039e1632a01f8f79",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "66d5f6e69992a6473c94bff2cf17889a428ab622",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "a0ac2f42d8038e1572490d616a5f2fb94422476e",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "68d1b317f38e49a6cad3c283ad05c7d79f29b490",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "3f92ccf6daef14cb4d3640562f4139ad08ee89ca",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "ee40b6eeded0acd7057bf9fea75f89139ae4528a",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "2b271068c873c3bb9b08b7ee885a5fa6768a70b9",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "f9cd296856ec1373cf7b7492e231eb0208636aa0",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "bf6d0dd4c11221c13df11a364339765586fac18e",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "c39f4cf674000f45c23597fa945a0421aac79cbf",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "31eec803d83bab7fe157f40f932bab63aaee22aa",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "d23fc99a99ac44f2a4352899e2a6d12d26a74503",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "37f66c243b28b72dba2e14e4ce12b447762c089a",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "817224be9c2762c8a79c1f392522cc98001e5be1",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "4dc0dcf7a89a5cbfb613e64bb2e052984fd1a2a9",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "cb62702089f8a1eb68061b1498287a5088d1beb6",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "1b5472edd4b50a8c3d3b8ddc41e8e5387d76bad5",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "e0d1b84807af9829213654bf07d1a9d6b24bf860",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "889b4b01e7998c485661eca4eb3159fbe1840a5e",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "8de22fb4b4d7961e2f8163f22a8274400eda164f",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "d60c3f610420c5326adbbaa885aceabaf19a4363",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "3d648dbc3537eff3330ecf70677f22097ff68a9f",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "829a6d48d90b8f4e3d340f8a69f42180e002e7e3",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "f044b83f26e17ac448369b91f0d7cfd6aa0b2e93",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "23c45771d63da0746d86c83d20b8b2f4019d4598",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "1a9f28fb6992c641af1c12531716e18dcde4fad6",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "3b4a48485e691618d79b15c0e18190b06b1e2a7f",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "e7d212e423cd409bdd049864e77b0521ea5e4c10",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "51a58ed28ce0a530c7854aa863849e47de294356",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "ebc24e5f517efbc9d082d438f22818b0eeaf5d4b",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "1d2be49e6fc0fd8bf70a98cf633991c970657136",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "669ecfed0b22031d6e617c408e168a859f802628",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "006e45586ca7c29f8938ed6fcb745549d883b968",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "2f7d6e91261a7211e34efaa53e7e6eb860e1dc62",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "8bdde09be9a2e9abe2ee08bbd87f54d4871e602e",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "e51bcaa6084e92fbb3ad98e46bbc4d97a03264d9",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "2fdb4278d755b85c9c1d9f767a92bde1b9d098cb",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "cb4f54a0e3468e5b1f5336a47ea98308d163d605",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "b6c6db7c60726c1eeefe90da8506941ec1ad561b",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "3520002a25461a7b9de0da0ca1005326e2175e28",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "6c8f22a7a17f462f921ed07093d1eab0cdcf0968",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "f1f466dee130b42c1b422e312d96db3268612eea",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "d3e702149a3db297d6db2c0b7671807f5c7b98fc",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "bee0a8029d7314801b720049b14965dbc4f3863e",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "ddbbadee29df597a1d7a014ac2ebbb35776219cb",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "fc908e6a2f7fcfdb16f0cc37fc936e82478ca1f6",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "ce9d20c7ea9d137954b1b522cc134431609e4bc8",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "9c113b429bb47e6464450d413178242f9aafc935",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "7d99ebd91b4a9e64ea50da8637fe67974e7afa80",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "4c9fc5cf8ae1151de136c651cf514cc310ed474a",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "9d74a8d65f6839516258504c0771ea4bffed705a",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "5da7ced2924fb603aa48bcc317b1503facac4863",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "cbab00a026494a051193cf66f4d5eb0d5ed3002a",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "f99ed700bbf94d8035827ff029e5808ac8eab205",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "ff21e9dca93a8fecf57954dbd09b9c0dbef362b5",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "5045ceab035da9842527bbe22ff3a254483c4031",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "0702cf055d88ae8eaf377cbc2492cc79096dc415",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "bc346777ea7b40a5cd59a04a37754e4d2840af60",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "e96cc962f1377ac5134f5dcde7969bf565079b7d",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "2614ac0db774447492a14a1694ac911e9c5f4977",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "cc2678148e9ad843c36d124c99b359a214fe5f5f",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "f4c5f33b15274198130180ff456fa923c7b40411",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "66e44d1011fe43b69cabf01ca65c7e334bf692c5",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "8ff1c9093a8f54c2b40ed9a004f6cdf81ce5d18b",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "81d8cca9fbb5aefa434a5e6641a1050307381271",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "ac06b2498f351000ab3d5f937fbeef58df5f31e4",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "8281a4b7d815e78c9006dcf86ed7f7079d0235ee",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "0cf7572a5d1758b9b289bbaaebd1308dd5825e71",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "39524d79c30b800f89ab06619304c55ef557704f",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "94df265209b326835f7aeee56897f21af25a0a96",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "0aadce29ccc615c327e4d1ba19124d10e63fe980",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "310631501171e4319207efa57c55397ab256e800",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "ae470853b1d45e22ac73bcc04f53e831fdc29867",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "9f123642d9c2ecd5a31cb611283c1ff74b68205c",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "749538bdceead61b22d72633e4e4665547d64a4e",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "4bf225920bb190d5607418b445903505ad2b4713",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "b212c705dc6fe5ff612a5883e37fb8e8eef4f393",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "28014b83bd897ae7723dfc18a8c6ed3fcfa9b56c",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "9d6ade772d70f04573ae2508d3ca7e95fb5c9e2f",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "9e3650b65cd34061cd297020bc3329fc8e1ef341",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "1a0f95676d99c1bf346ee610ac708cbed8fb9828",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "a925d6d56b1268c776264c1e1cc37f7488b9747e",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "4e2684b3bf72c6b719bd141fe555553158548a6b",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "6e24fe536a661c117e0c836422f0356e690e5938",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "0364b7a65103a073dc19345cef2ef6285ec64f8a",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "4092e0b4b041c97f9eec6ec549f5a030dd81226d",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "cde56fecd72ea5d587d86664778b537aa478cfa2",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "86f5c69688fb627cd2907055cbeca16a6e5f88c1",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "410103d27c8d6d600f0d4e4e3ca9ab1f44108f3f",
+        "repo_name": "apache/commons-jexl"
+    },
+    {
+        "fix_commit_hash": "3ec5b852a78a0d9c2cdf7d4a13d292309e58a981",
+        "repo_name": "apache/commons-jexl"
+    }
+]

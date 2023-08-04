@@ -1,0 +1,27 @@
+{
+    "all_file_num": 2295,
+    "error_developer_file_rate": {
+        "#database--curator--estliberitas": 0.00043572984749455336,
+        "#database--curator--wsorenson": 0.00043572984749455336,
+        "#database--curator--dtrott": 0.0008714596949891067,
+        "#database--curator--arankin-irl": 0.0008714596949891067,
+        "#database--curator--julnamoo": 0.0008714596949891067,
+        "#database--curator--ramaraochavali": 0.0008714596949891067,
+        "#database--curator--hebelala": 0.0008714596949891067,
+        "#database--curator--joshng": 0.0008714596949891067,
+        "#database--curator--alexbrasetvik": 0.0008714596949891067,
+        "#database--curator--pixiaz": 0.0008714596949891067,
+        "#database--curator--gtully": 0.0008714596949891067,
+        "#database--curator--samuelgmartinez": 0.0008714596949891067,
+        "#database--curator--arrodrigues": 0.00130718954248366,
+        "#database--curator--Hendrik-H": 0.0017429193899782135,
+        "#database--curator--tdyas": 0.0030501089324618735,
+        "#database--curator--iocanel": 0.025272331154684097
+    },
+    "daily_error_prone_developer": [
+        "#database--curator--ramaraochavali",
+        "#database--curator--arrodrigues",
+        "#database--curator--iocanel"
+    ],
+    "number_daily_error_prone_developer": 3
+}

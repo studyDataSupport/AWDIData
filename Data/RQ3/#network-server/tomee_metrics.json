@@ -1,0 +1,12 @@
+{
+    "all_file_num": 17533,
+    "error_developer_file_rate": {
+        "#network-server--tomee--ivanjunckes": 0.0009696001825129756,
+        "#network-server--tomee--jgawor": 0.006216848229053784
+    },
+    "daily_error_prone_developer": [
+        "#network-server--tomee--ivanjunckes",
+        "#network-server--tomee--jgawor"
+    ],
+    "number_daily_error_prone_developer": 2
+}

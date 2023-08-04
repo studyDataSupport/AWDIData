@@ -1,0 +1,194 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#build-management--archiva--olamy": "2011-05-10 00:00:00",
+        "#build-management--archiva--dependabot[bot]": "2022-04-11 00:00:00",
+        "#build-management--archiva--pjfanning": "2022-05-31 00:00:00",
+        "#build-management--archiva--ebarboni": "2014-04-10 00:00:00",
+        "#build-management--archiva--kaiyaok2": "2022-04-22 00:00:00",
+        "#build-management--archiva--effrafax": "2016-09-08 00:00:00",
+        "#build-management--archiva--elukey": "2021-01-15 00:00:00",
+        "#build-management--archiva--jozefizso": "2020-05-08 00:00:00",
+        "#build-management--archiva--joestr": "2019-08-30 00:00:00",
+        "#build-management--archiva--jacobtolar": "2019-01-29 00:00:00",
+        "#build-management--archiva--": "2005-11-29 00:00:00",
+        "#build-management--archiva--dtrebbien": "2017-07-30 00:00:00",
+        "#build-management--archiva--CMoH": "2016-05-31 00:00:00",
+        "#build-management--archiva--mebigfatguy": "2016-09-17 00:00:00",
+        "#build-management--archiva--jmutawa": "2015-12-20 00:00:00",
+        "#build-management--archiva--ecki": "2015-10-13 00:00:00",
+        "#build-management--archiva--emsouza": "2015-06-11 00:00:00",
+        "#build-management--archiva--carlossg": "2006-08-24 00:00:00",
+        "#build-management--archiva--forjsharp": "2014-09-21 00:00:00",
+        "#build-management--archiva--brettporter": "2005-11-23 00:00:00",
+        "#build-management--archiva--svogt": "2014-04-23 00:00:00",
+        "#build-management--archiva--oching": "2006-06-01 00:00:00",
+        "#build-management--archiva--jbonofre": "2012-01-30 00:00:00",
+        "#build-management--archiva--dennisl": "2007-12-26 00:00:00",
+        "#build-management--archiva--mfncooper": "2008-12-11 00:00:00",
+        "#build-management--archiva--aheritier": "2006-09-07 00:00:00",
+        "#build-management--archiva--ndeloof": "2007-12-10 00:00:00",
+        "#build-management--archiva--jvanzyl": "2006-02-28 00:00:00",
+        "#build-management--archiva--neonics": "2006-08-11 00:00:00",
+        "#build-management--archiva--jdcasey": "2006-09-01 00:00:00"
+    },
+    "commiter_end_time": {
+        "#build-management--archiva--olamy": "2022-10-10 00:00:00",
+        "#build-management--archiva--dependabot[bot]": "2022-08-06 00:00:00",
+        "#build-management--archiva--pjfanning": "2022-08-06 00:00:00",
+        "#build-management--archiva--ebarboni": "2022-05-09 00:00:00",
+        "#build-management--archiva--kaiyaok2": "2022-04-22 00:00:00",
+        "#build-management--archiva--effrafax": "2022-04-15 00:00:00",
+        "#build-management--archiva--elukey": "2021-01-15 00:00:00",
+        "#build-management--archiva--jozefizso": "2020-05-08 00:00:00",
+        "#build-management--archiva--joestr": "2019-08-30 00:00:00",
+        "#build-management--archiva--jacobtolar": "2019-01-29 00:00:00",
+        "#build-management--archiva--": "2018-10-31 00:00:00",
+        "#build-management--archiva--dtrebbien": "2017-07-30 00:00:00",
+        "#build-management--archiva--CMoH": "2016-10-04 00:00:00",
+        "#build-management--archiva--mebigfatguy": "2016-09-17 00:00:00",
+        "#build-management--archiva--jmutawa": "2015-12-20 00:00:00",
+        "#build-management--archiva--ecki": "2015-10-13 00:00:00",
+        "#build-management--archiva--emsouza": "2015-06-11 00:00:00",
+        "#build-management--archiva--carlossg": "2014-12-01 00:00:00",
+        "#build-management--archiva--forjsharp": "2014-10-18 00:00:00",
+        "#build-management--archiva--brettporter": "2014-10-09 00:00:00",
+        "#build-management--archiva--svogt": "2014-04-23 00:00:00",
+        "#build-management--archiva--oching": "2013-05-20 00:00:00",
+        "#build-management--archiva--jbonofre": "2012-12-13 00:00:00",
+        "#build-management--archiva--dennisl": "2010-06-11 00:00:00",
+        "#build-management--archiva--mfncooper": "2008-12-11 00:00:00",
+        "#build-management--archiva--aheritier": "2008-08-14 00:00:00",
+        "#build-management--archiva--ndeloof": "2008-07-10 00:00:00",
+        "#build-management--archiva--jvanzyl": "2006-12-07 00:00:00",
+        "#build-management--archiva--neonics": "2006-11-22 00:00:00",
+        "#build-management--archiva--jdcasey": "2006-09-01 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#build-management--archiva--kaiyaok2": 0,
+        "#build-management--archiva--elukey": 0,
+        "#build-management--archiva--jozefizso": 0,
+        "#build-management--archiva--joestr": 0,
+        "#build-management--archiva--jacobtolar": 0,
+        "#build-management--archiva--dtrebbien": 0,
+        "#build-management--archiva--mebigfatguy": 0,
+        "#build-management--archiva--jmutawa": 0,
+        "#build-management--archiva--ecki": 0,
+        "#build-management--archiva--emsouza": 0,
+        "#build-management--archiva--svogt": 0,
+        "#build-management--archiva--mfncooper": 0,
+        "#build-management--archiva--jdcasey": 0,
+        "#build-management--archiva--forjsharp": 27,
+        "#build-management--archiva--pjfanning": 67,
+        "#build-management--archiva--neonics": 103,
+        "#build-management--archiva--dependabot[bot]": 117,
+        "#build-management--archiva--CMoH": 126,
+        "#build-management--archiva--ndeloof": 213,
+        "#build-management--archiva--jvanzyl": 282,
+        "#build-management--archiva--jbonofre": 318,
+        "#build-management--archiva--aheritier": 707,
+        "#build-management--archiva--dennisl": 898,
+        "#build-management--archiva--effrafax": 2045,
+        "#build-management--archiva--oching": 2545,
+        "#build-management--archiva--ebarboni": 2951,
+        "#build-management--archiva--carlossg": 3021,
+        "#build-management--archiva--brettporter": 3242,
+        "#build-management--archiva--olamy": 4171,
+        "#build-management--archiva--": 4719
+    },
+    "commiter_contribute_time1": {
+        "#build-management--archiva--ndeloof": {
+            "start": "2007-12-10 00:00:00",
+            "end": "2008-07-09 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#build-management--archiva--oching": {
+            "start": "2006-06-01 00:00:00",
+            "end": "2009-08-17 00:00:00",
+            "bug_num_per_commit": 0.07801418439716312,
+            "bug_commit_num_rate": 0.8085106382978723
+        }
+    },
+    "commiter_contribute_time2": {
+        "#build-management--archiva--ndeloof": {
+            "start": "2008-04-08 00:00:00",
+            "end": "2008-01-28 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 1.0
+        },
+        "#build-management--archiva--oching": {
+            "start": "2009-08-17 00:00:00",
+            "end": "2008-09-08 00:00:00",
+            "bug_num_per_commit": 0.11347517730496454,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time3": {
+        "#build-management--archiva--ndeloof": {
+            "start": "2008-01-28 00:00:00",
+            "end": "2008-01-10 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.25
+        },
+        "#build-management--archiva--oching": {
+            "start": "2008-09-04 00:00:00",
+            "end": "2008-03-27 00:00:00",
+            "bug_num_per_commit": 0.11347517730496454,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#build-management--archiva--ndeloof": {
+            "start": "2008-01-10 00:00:00",
+            "end": "2007-12-10 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#build-management--archiva--oching": {
+            "start": "2008-03-27 00:00:00",
+            "end": "2006-06-01 00:00:00",
+            "bug_num_per_commit": 0.14893617021276595,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#build-management--archiva--ndeloof": {
+            "bug_num_per_commit": {
+                "time1": 0.5,
+                "time2": 0.5,
+                "time3": 0.0,
+                "time4": 0.5
+            },
+            "bug_commit_num_rate": {
+                "time1": 1.0,
+                "time2": 1.0,
+                "time3": 0.25,
+                "time4": 0.0
+            }
+        },
+        "#build-management--archiva--oching": {
+            "bug_num_per_commit": {
+                "time1": 0.07801418439716312,
+                "time2": 0.11347517730496454,
+                "time3": 0.11347517730496454,
+                "time4": 0.14893617021276595
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.8085106382978723,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#build-management--archiva--ndeloof",
+        "#build-management--archiva--oching"
+    ],
+    "number_daily_long_time_error_prone_developer": 2,
+    "improved_daily_long_time_error_prone_developer": [
+        "#build-management--archiva--oching"
+    ],
+    "number_improved_daily_long_time_error_prone_developer": 1
+}

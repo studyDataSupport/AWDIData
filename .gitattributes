@@ -1,0 +1,5 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+RQ1-Data.zip filter=lfs diff=lfs merge=lfs -text
+RQ2-Data.zip filter=lfs diff=lfs merge=lfs -text
+RQ3-Data.zip filter=lfs diff=lfs merge=lfs -text
+RQ4-Data.zip filter=lfs diff=lfs merge=lfs -text

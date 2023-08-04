@@ -1,0 +1,30 @@
+{
+    "cate": "#graphics",
+    "#graphics-cate_aver_bug_rate": 0.0387591544667822,
+    "#graphics-cate_aver_bug_commit_rate": 0.037348500491180645,
+    "high_bug_rate_error_prone_developer_number": 5,
+    "high_bug_commit_rate_error_prone_developer_number": 5,
+    "high_bug_rate_error_prone_developer": {
+        "#graphics--xmlgraphics-fop--simonsteiner1984": 0.21052631578947367,
+        "#graphics--xmlgraphics-fop--spepping": 0.09223300970873786,
+        "#graphics--xmlgraphics-fop--bdelacretaz": 0.09090909090909091,
+        "#graphics--xmlgraphics-fop--vhennebert": 0.0713128038897893,
+        "#graphics--xmlgraphics-fop--jmaerki": 0.05046895935685574
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#graphics--xmlgraphics-fop--simonsteiner1984": 0.18546365914786966,
+        "#graphics--xmlgraphics-fop--spepping": 0.10679611650485436,
+        "#graphics--xmlgraphics-fop--jmaerki": 0.09915140687807057,
+        "#graphics--xmlgraphics-fop--vhennebert": 0.09562398703403566,
+        "#graphics--xmlgraphics-fop--": 0.04439397067933099
+    },
+    "error_prone_developer_num": 4,
+    "error_prone_developer": [
+        "#graphics--xmlgraphics-fop--simonsteiner1984",
+        "#graphics--xmlgraphics-fop--spepping",
+        "#graphics--xmlgraphics-fop--vhennebert",
+        "#graphics--xmlgraphics-fop--jmaerki"
+    ],
+    "error_prone_developer_team_rate": 0.5,
+    "team_developer_num": 8
+}

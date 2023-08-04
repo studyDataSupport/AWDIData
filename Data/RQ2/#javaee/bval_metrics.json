@@ -1,0 +1,15 @@
+{
+    "cate": "#javaee",
+    "#javaee-cate_aver_bug_rate": 0.1859580931957289,
+    "#javaee-cate_aver_bug_commit_rate": 0.14415584415584415,
+    "high_bug_rate_error_prone_developer_number": 0,
+    "high_bug_commit_rate_error_prone_developer_number": 1,
+    "high_bug_rate_error_prone_developer": {},
+    "high_bug_commit_rate_error_prone_developer": {
+        "#javaee--bval--": 0.2222222222222222
+    },
+    "error_prone_developer_num": 0,
+    "error_prone_developer": [],
+    "error_prone_developer_team_rate": 0.0,
+    "team_developer_num": 10
+}

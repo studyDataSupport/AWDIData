@@ -1,0 +1,161 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#graphics--cocoon--ilgrosso": "2012-03-15 00:00:00",
+        "#graphics--cocoon--cdamioli": "2013-04-02 00:00:00",
+        "#graphics--cocoon--": "2003-02-27 00:00:00",
+        "#graphics--cocoon--simonetripodi": "2010-01-11 00:00:00",
+        "#graphics--cocoon--jashaj": "2008-08-25 00:00:00",
+        "#graphics--cocoon--reinhard": "2003-06-30 00:00:00",
+        "#graphics--cocoon--cziegeler": "2003-03-10 00:00:00",
+        "#graphics--cocoon--devkat": "2004-02-24 00:00:00",
+        "#graphics--cocoon--gkossakowski": "2007-03-10 00:00:00",
+        "#graphics--cocoon--lgawron": "2004-11-21 00:00:00",
+        "#graphics--cocoon--rgoers": "2004-11-07 00:00:00",
+        "#graphics--cocoon--SimoneGianni": "2006-04-18 00:00:00",
+        "#graphics--cocoon--swallez": "2003-03-09 00:00:00",
+        "#graphics--cocoon--bdelacretaz": "2003-03-25 00:00:00",
+        "#graphics--cocoon--tcurdt": "2003-03-11 00:00:00",
+        "#graphics--cocoon--stefanom": "2003-03-10 00:00:00",
+        "#graphics--cocoon--pfumagalli": "2003-02-27 00:00:00",
+        "#graphics--cocoon--osi": "2003-09-10 00:00:00",
+        "#graphics--cocoon--rubys": "2003-03-09 00:00:00"
+    },
+    "commiter_end_time": {
+        "#graphics--cocoon--ilgrosso": "2019-04-14 00:00:00",
+        "#graphics--cocoon--cdamioli": "2013-04-02 00:00:00",
+        "#graphics--cocoon--": "2012-10-02 00:00:00",
+        "#graphics--cocoon--simonetripodi": "2012-03-17 00:00:00",
+        "#graphics--cocoon--jashaj": "2012-01-05 00:00:00",
+        "#graphics--cocoon--reinhard": "2011-01-18 00:00:00",
+        "#graphics--cocoon--cziegeler": "2009-12-22 00:00:00",
+        "#graphics--cocoon--devkat": "2009-11-04 00:00:00",
+        "#graphics--cocoon--gkossakowski": "2009-03-30 00:00:00",
+        "#graphics--cocoon--lgawron": "2008-10-11 00:00:00",
+        "#graphics--cocoon--rgoers": "2008-01-09 00:00:00",
+        "#graphics--cocoon--SimoneGianni": "2007-07-16 00:00:00",
+        "#graphics--cocoon--swallez": "2007-04-26 00:00:00",
+        "#graphics--cocoon--bdelacretaz": "2006-12-19 00:00:00",
+        "#graphics--cocoon--tcurdt": "2006-11-06 00:00:00",
+        "#graphics--cocoon--stefanom": "2005-10-29 00:00:00",
+        "#graphics--cocoon--pfumagalli": "2004-12-17 00:00:00",
+        "#graphics--cocoon--osi": "2003-09-10 00:00:00",
+        "#graphics--cocoon--rubys": "2003-03-30 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#graphics--cocoon--cdamioli": 0,
+        "#graphics--cocoon--osi": 0,
+        "#graphics--cocoon--rubys": 21,
+        "#graphics--cocoon--SimoneGianni": 454,
+        "#graphics--cocoon--pfumagalli": 659,
+        "#graphics--cocoon--gkossakowski": 751,
+        "#graphics--cocoon--simonetripodi": 796,
+        "#graphics--cocoon--stefanom": 964,
+        "#graphics--cocoon--rgoers": 1158,
+        "#graphics--cocoon--jashaj": 1228,
+        "#graphics--cocoon--tcurdt": 1336,
+        "#graphics--cocoon--bdelacretaz": 1365,
+        "#graphics--cocoon--lgawron": 1420,
+        "#graphics--cocoon--swallez": 1509,
+        "#graphics--cocoon--devkat": 2080,
+        "#graphics--cocoon--cziegeler": 2479,
+        "#graphics--cocoon--ilgrosso": 2586,
+        "#graphics--cocoon--reinhard": 2759,
+        "#graphics--cocoon--": 3505
+    },
+    "commiter_contribute_time1": {
+        "#graphics--cocoon--jashaj": {
+            "start": "2008-08-25 00:00:00",
+            "end": "2010-06-30 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.3333333333333333
+        },
+        "#graphics--cocoon--SimoneGianni": {
+            "start": "2006-04-18 00:00:00",
+            "end": "2006-12-03 00:00:00",
+            "bug_num_per_commit": 0.1111111111111111,
+            "bug_commit_num_rate": 0.3333333333333333
+        }
+    },
+    "commiter_contribute_time2": {
+        "#graphics--cocoon--jashaj": {
+            "start": "2010-04-12 00:00:00",
+            "end": "2010-04-10 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--cocoon--SimoneGianni": {
+            "start": "2006-12-03 00:00:00",
+            "end": "2006-09-24 00:00:00",
+            "bug_num_per_commit": 0.1111111111111111,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time3": {
+        "#graphics--cocoon--jashaj": {
+            "start": "2010-04-05 00:00:00",
+            "end": "2009-05-03 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--cocoon--SimoneGianni": {
+            "start": "2006-09-24 00:00:00",
+            "end": "2006-06-28 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#graphics--cocoon--jashaj": {
+            "start": "2008-08-31 00:00:00",
+            "end": "2008-08-25 00:00:00",
+            "bug_num_per_commit": 0.5,
+            "bug_commit_num_rate": 0.0
+        },
+        "#graphics--cocoon--SimoneGianni": {
+            "start": "2006-06-28 00:00:00",
+            "end": "2006-04-18 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#graphics--cocoon--jashaj": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.5
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.3333333333333333,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        },
+        "#graphics--cocoon--SimoneGianni": {
+            "bug_num_per_commit": {
+                "time1": 0.1111111111111111,
+                "time2": 0.1111111111111111,
+                "time3": 0.0,
+                "time4": 0.0
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.3333333333333333,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#graphics--cocoon--jashaj",
+        "#graphics--cocoon--SimoneGianni"
+    ],
+    "number_daily_long_time_error_prone_developer": 2,
+    "improved_daily_long_time_error_prone_developer": [
+        "#graphics--cocoon--jashaj"
+    ],
+    "number_improved_daily_long_time_error_prone_developer": 1
+}

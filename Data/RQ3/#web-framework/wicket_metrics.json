@@ -1,0 +1,36 @@
+{
+    "all_file_num": 24100,
+    "error_developer_file_rate": {
+        "#web-framework--wicket--laurenshop": 4.149377593360996e-05,
+        "#web-framework--wicket--noobymatze": 8.298755186721991e-05,
+        "#web-framework--wicket--tkruse": 0.00012448132780082987,
+        "#web-framework--wicket--jthomerson": 0.00012448132780082987,
+        "#web-framework--wicket--berniegp": 0.00012448132780082987,
+        "#web-framework--wicket--ams-tschoening": 0.0002074688796680498,
+        "#web-framework--wicket--gsmet": 0.00029045643153526973,
+        "#web-framework--wicket--dretzlaff": 0.00029045643153526973,
+        "#web-framework--wicket--mat128": 0.0004149377593360996,
+        "#web-framework--wicket--selckin": 0.0004979253112033195,
+        "#web-framework--wicket--shuraa": 0.0005809128630705395,
+        "#web-framework--wicket--CedricGatay": 0.0007053941908713693,
+        "#web-framework--wicket--mafulafunk": 0.000995850622406639,
+        "#web-framework--wicket--michaelmosmann": 0.001078838174273859,
+        "#web-framework--wicket--duesenklipper": 0.006431535269709543,
+        "#web-framework--wicket--ivaynberg": 0.008464730290456432,
+        "#web-framework--wicket--pedrosans": 0.00970954356846473,
+        "#web-framework--wicket--jesselong": 0.012821576763485477,
+        "#web-framework--wicket--svenmeier": 0.01991701244813278,
+        "#web-framework--wicket--papegaaij": 0.03763485477178423
+    },
+    "daily_error_prone_developer": [
+        "#web-framework--wicket--CedricGatay",
+        "#web-framework--wicket--michaelmosmann",
+        "#web-framework--wicket--duesenklipper",
+        "#web-framework--wicket--ivaynberg",
+        "#web-framework--wicket--pedrosans",
+        "#web-framework--wicket--jesselong",
+        "#web-framework--wicket--svenmeier",
+        "#web-framework--wicket--papegaaij"
+    ],
+    "number_daily_error_prone_developer": 8
+}

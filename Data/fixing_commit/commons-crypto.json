@@ -1,0 +1,298 @@
+[
+    {
+        "fix_commit_hash": "8fb98c2babd1239252b636bcba6cf550551cf561",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "fcdb39680498b7959567e8edbc4f970108d014d9",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "83f1a72e3fdc5e0faed548aece394b0410456e23",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "9456415cd185b17782507006013556c306441a23",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "eee2f509cef33ff6d56dc4faaecc551b4e7ce077",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "3466943e4552474ab681d7852dbfa62c74d8e1ce",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "c24b691ac4efadb8fa4c6beac63d58cb4a9faa6e",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "9f73f2fc1ec45d7c26cc36cd89fd5bf455d1de66",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "dc1769ed66b762646cdc7d2f5b268f274485f6b3",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "a760177b6d1b95bef512902c0b987ace614ab359",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "3adc20723b823bad58a39f7952300538450d3b7c",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "77af2da3d2cc871fbfc3c6a75d6848e45be33794",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "e230e30d51115696480f17596ab5b0f05898c287",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "3f6e549948fbb6584a21c2350e410cb834f28502",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "ed1b6097c6cfe79dc4e23ac4e9c75fa4b3ccbb04",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "5a3bf996afa6c7c44ed4aefd5e54b7629f56c075",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "7eac68da9407b31bcf318a53b928ceb835e88869",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "6488aa6e9a617b0f27af6c1c4a8febd4540f37b1",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "4ac4fedf1bbe662e8c485eee653f9dbe34f2b853",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "79502d4544d42c020520d7f6cdb69ff9c1631554",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "fd2b93472cc8438c17874635e674d1cf1a84864e",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "34df73069203e8647375e072b99c9538904a0e86",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "edbdf9185f45ce218c5b4b6ba18324d14aa8485d",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "079c158968bffa8c8ab8ea4e59592056c9af100a",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "b1d66b82a70f6ec68ae0604e64664c698c967fa5",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "3cd0564517a0a460556d4421dfbab1b60aa28471",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "7274287f3277a3e62bac8c2270ded0d82e32fef5",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "521615236a312ed98757493aa297d91c3ed8b241",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "977d40918affc8056474f673dc7737a7e0ea598e",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "5b44a0039bd2c7f3c303511806eb773c53774974",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "d06cb33d6e89975a905ff1c3a1b2b7674782d6ef",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "139c3f3c1a073076b7f73817016067845cfeced8",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "ae8e3506d40589962d4414b72cab53a9ca92212b",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "4a19325fdffef571cadd05000e8a2e9c376cd6af",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "859bdaa0489fe8e4e1e224b38975e73afceda506",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "4f356a7e477d258b7574aa5f2971c96a5b3cc012",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "ba14d801935decdb9399d6b2f038e0d1a71609e1",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "294d73b24a5a83d0848e7d9445acb3c03d72cd02",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "6154eb8e074f64c235f622ce15f9c7de70a30ba0",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "8139303dfab60226433601a94b599b2207b6a9b4",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "7c544f698592d370934a1eb97c0f0fa5c7300674",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "800c831ac90e17e214484e5e761df3ee1212a9fc",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "e90580a892a75ac6350a5a96c70a6a36b696879e",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "9f1e2015dfe93b472e265c3feac49ea5e6d62c85",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "7c328f25feef2c1bb3c63a6e0c377306bd01e91e",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "4d51ff11f0490c892d6f5a6d44acd0eb9817467c",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "0acc3423a36fc2fefbe14ea4ab857e6af6291e63",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "4bbb57a05d49dad0fd493c8fabfad3cf7991215a",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "2c57b118a30f91c182e8e6129fb25542ff2bdf43",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "0304a87074d8fee26a972642bf9665771421fff7",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "aef15f417882fca19219e7665fc95a4e268bbeb6",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "4117c569644cce4684528c35fdfcc2947233a680",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "2371dcd09339d6f483f7bf6eaf44165b62257645",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "18ac95b5e51e54221666262d64afe24b89cd0dc5",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "09d42c60cb5e64a8672800195a1e0df24bcacc30",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "4afa1ec81b6f51df8683144f79633a392dcb9264",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "f4513247a5ef176cf768c354f7099b4bc9e1373c",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "1cc85485736120e8920fe9dfce2410ce646ee8f4",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "6b3f3b54c7c1b7201c0569e673bb0dfc12ff2041",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "46f2dfce52847349acf6f84dfe02a77868f5f449",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "3f835c2f567c3ecb086b6ca0db84302c2b1fc63d",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "1e788102e18509b65d49aa42273f990f1281f3c0",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "ea89d8023ed7c2a88c468df15994bdd9db922242",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "b53228834059b6240326c56eee411b2808514956",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "98bec4c43e42ea68437d13c1137b148428562e2c",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "d1fb85f7cadf0447d82d38411552584f6d9a0f25",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "617318bf65cbd74fda7bab7ebedf2d2d24c680fa",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "90e67c99a5a02436622807095beab7c50a500cbf",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "e99c77b93d93dec2b5fcf3fec0bbeac76ef53e19",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "811826ee2c3da39650c9380ac94ae5cfbc205785",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "2bcfd1b670724f72f927f7eae17d63129c3bbaa8",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "c0df8158789327a4737b58769da2f321447ae18c",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "081284dce2be74f32502dec4a80e2fe28189dafb",
+        "repo_name": "apache/commons-crypto"
+    },
+    {
+        "fix_commit_hash": "7cefbf2a69ec133aa327f93d40dc307ee80df8b5",
+        "repo_name": "apache/commons-crypto"
+    }
+]

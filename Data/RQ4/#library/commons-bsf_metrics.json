@@ -1,0 +1,51 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#library--commons-bsf--garydgregory": "2016-01-19 00:00:00",
+        "#library--commons-bsf--dependabot[bot]": "2020-12-31 00:00:00",
+        "#library--commons-bsf--sebbASF": "2008-05-20 00:00:00",
+        "#library--commons-bsf--": "2002-11-01 00:00:00",
+        "#library--commons-bsf--nhojpatrick": "2020-10-14 00:00:00",
+        "#library--commons-bsf--chtompki": "2017-05-27 00:00:00",
+        "#library--commons-bsf--markt-asf": "2014-11-07 00:00:00",
+        "#library--commons-bsf--ebourg": "2013-07-31 00:00:00",
+        "#library--commons-bsf--olamy": "2013-02-26 00:00:00",
+        "#library--commons-bsf--rahu1": "2008-05-15 00:00:00",
+        "#library--commons-bsf--hgschmie": "2006-08-14 00:00:00"
+    },
+    "commiter_end_time": {
+        "#library--commons-bsf--garydgregory": "2022-10-23 00:00:00",
+        "#library--commons-bsf--dependabot[bot]": "2022-10-14 00:00:00",
+        "#library--commons-bsf--sebbASF": "2022-10-08 00:00:00",
+        "#library--commons-bsf--": "2022-09-22 00:00:00",
+        "#library--commons-bsf--nhojpatrick": "2020-10-14 00:00:00",
+        "#library--commons-bsf--chtompki": "2017-05-27 00:00:00",
+        "#library--commons-bsf--markt-asf": "2014-11-07 00:00:00",
+        "#library--commons-bsf--ebourg": "2013-07-31 00:00:00",
+        "#library--commons-bsf--olamy": "2013-02-26 00:00:00",
+        "#library--commons-bsf--rahu1": "2008-05-27 00:00:00",
+        "#library--commons-bsf--hgschmie": "2006-08-15 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#library--commons-bsf--nhojpatrick": 0,
+        "#library--commons-bsf--chtompki": 0,
+        "#library--commons-bsf--markt-asf": 0,
+        "#library--commons-bsf--ebourg": 0,
+        "#library--commons-bsf--olamy": 0,
+        "#library--commons-bsf--hgschmie": 1,
+        "#library--commons-bsf--rahu1": 12,
+        "#library--commons-bsf--dependabot[bot]": 652,
+        "#library--commons-bsf--garydgregory": 2469,
+        "#library--commons-bsf--sebbASF": 5254,
+        "#library--commons-bsf--": 7265
+    },
+    "commiter_contribute_time1": {},
+    "commiter_contribute_time2": {},
+    "commiter_contribute_time3": {},
+    "commiter_contribute_time4": {},
+    "commiter_time_trend": {},
+    "daily_long_time_error_prone_developer": [],
+    "number_daily_long_time_error_prone_developer": 0,
+    "improved_daily_long_time_error_prone_developer": [],
+    "number_improved_daily_long_time_error_prone_developer": 0
+}

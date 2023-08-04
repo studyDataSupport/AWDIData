@@ -1,0 +1,9 @@
+{
+    "all_file_num": 6337,
+    "error_developer_file_rate": {
+        "#database--openjpa--bmarwell": 0.0007890168849613382,
+        "#database--openjpa--tandraschko": 0.0011046236389458735
+    },
+    "daily_error_prone_developer": [],
+    "number_daily_error_prone_developer": 0
+}

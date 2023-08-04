@@ -1,0 +1,22 @@
+{
+    "cate": "#database",
+    "#database-cate_aver_bug_rate": 0.25,
+    "#database-cate_aver_bug_commit_rate": 0.2182410423452769,
+    "high_bug_rate_error_prone_developer_number": 2,
+    "high_bug_commit_rate_error_prone_developer_number": 2,
+    "high_bug_rate_error_prone_developer": {
+        "#database--cassandra--jorgebay": 1.0,
+        "#database--cassandra--spmallette": 0.3333333333333333
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#database--cassandra--jorgebay": 1.0,
+        "#database--cassandra--spmallette": 0.3333333333333333
+    },
+    "error_prone_developer_num": 2,
+    "error_prone_developer": [
+        "#database--cassandra--jorgebay",
+        "#database--cassandra--spmallette"
+    ],
+    "error_prone_developer_team_rate": 0.005681818181818182,
+    "team_developer_num": 352
+}

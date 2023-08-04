@@ -1,0 +1,25 @@
+{
+    "all_file_num": 14281,
+    "error_developer_file_rate": {
+        "#xml--cayenne--emecas": 0.00042013864575309853,
+        "#xml--cayenne--OlegKhodokevich": 0.0004901617533786149,
+        "#xml--cayenne--aplgithub": 0.0011203697220082628,
+        "#xml--cayenne--AlexandrShestak": 0.002310762551642042,
+        "#xml--cayenne--nismooooooo": 0.006092010363419929,
+        "#xml--cayenne--ollybondareva": 0.008682865345564035,
+        "#xml--cayenne--const1993": 0.00959316574469575,
+        "#xml--cayenne--AlexKolonitsky": 0.018906239058889433,
+        "#xml--cayenne--johnthuss": 0.019536447027519083,
+        "#xml--cayenne--": 0.11294727259995799
+    },
+    "daily_error_prone_developer": [
+        "#xml--cayenne--AlexandrShestak",
+        "#xml--cayenne--nismooooooo",
+        "#xml--cayenne--ollybondareva",
+        "#xml--cayenne--const1993",
+        "#xml--cayenne--AlexKolonitsky",
+        "#xml--cayenne--johnthuss",
+        "#xml--cayenne--"
+    ],
+    "number_daily_error_prone_developer": 7
+}

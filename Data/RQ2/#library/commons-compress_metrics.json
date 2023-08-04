@@ -1,0 +1,42 @@
+{
+    "cate": "#library",
+    "#library-cate_aver_bug_rate": 0.2318840579710145,
+    "#library-cate_aver_bug_commit_rate": 0.2,
+    "high_bug_rate_error_prone_developer_number": 9,
+    "high_bug_commit_rate_error_prone_developer_number": 9,
+    "high_bug_rate_error_prone_developer": {
+        "#library--commons-compress--weirdkid": 2.0,
+        "#library--commons-compress--DaGeRe": 1.0,
+        "#library--commons-compress--trixpan": 1.0,
+        "#library--commons-compress--tcurdt": 0.9,
+        "#library--commons-compress--ctron": 0.5,
+        "#library--commons-compress--pmouawad": 0.5,
+        "#library--commons-compress--rpreissel": 0.5,
+        "#library--commons-compress--tballison": 0.45454545454545453,
+        "#library--commons-compress--theobisproject": 0.27586206896551724
+    },
+    "high_bug_commit_rate_error_prone_developer": {
+        "#library--commons-compress--DaGeRe": 1.0,
+        "#library--commons-compress--trixpan": 1.0,
+        "#library--commons-compress--weirdkid": 1.0,
+        "#library--commons-compress--ctron": 0.5,
+        "#library--commons-compress--pmouawad": 0.5,
+        "#library--commons-compress--rpreissel": 0.5,
+        "#library--commons-compress--tballison": 0.45454545454545453,
+        "#library--commons-compress--tcurdt": 0.275,
+        "#library--commons-compress--kvr000": 0.2
+    },
+    "error_prone_developer_num": 8,
+    "error_prone_developer": [
+        "#library--commons-compress--weirdkid",
+        "#library--commons-compress--DaGeRe",
+        "#library--commons-compress--trixpan",
+        "#library--commons-compress--tcurdt",
+        "#library--commons-compress--ctron",
+        "#library--commons-compress--pmouawad",
+        "#library--commons-compress--rpreissel",
+        "#library--commons-compress--tballison"
+    ],
+    "error_prone_developer_team_rate": 0.11940298507462686,
+    "team_developer_num": 67
+}

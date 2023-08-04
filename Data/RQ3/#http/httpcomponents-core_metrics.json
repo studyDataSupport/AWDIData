@@ -1,0 +1,12 @@
+{
+    "all_file_num": 5114,
+    "error_developer_file_rate": {
+        "#http--httpcomponents-core--coxlinton": 0.00019554165037152912,
+        "#http--httpcomponents-core--pfrank13": 0.00019554165037152912,
+        "#http--httpcomponents-core--rferreira": 0.00039108330074305825
+    },
+    "daily_error_prone_developer": [
+        "#http--httpcomponents-core--coxlinton"
+    ],
+    "number_daily_error_prone_developer": 1
+}

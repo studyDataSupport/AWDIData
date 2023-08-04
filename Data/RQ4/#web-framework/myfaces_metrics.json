@@ -1,0 +1,179 @@
+{
+    "item_start_time": "",
+    "commiter_start_time": {
+        "#web-framework--myfaces--pnicolucci": "2018-06-07 00:00:00",
+        "#web-framework--myfaces--melloware": "2021-03-30 00:00:00",
+        "#web-framework--myfaces--bohmber": "2006-01-17 00:00:00",
+        "#web-framework--myfaces--tandraschko": "2015-09-22 00:00:00",
+        "#web-framework--myfaces--werpu": "2008-11-21 00:00:00",
+        "#web-framework--myfaces--volosied": "2020-11-03 00:00:00",
+        "#web-framework--myfaces--KyleAure": "2022-12-09 00:00:00",
+        "#web-framework--myfaces--cristof": "2022-11-16 00:00:00",
+        "#web-framework--myfaces--dependabot[bot]": "2021-02-08 00:00:00",
+        "#web-framework--myfaces--milansie": "2022-10-19 00:00:00",
+        "#web-framework--myfaces--pzygielo": "2022-08-30 00:00:00",
+        "#web-framework--myfaces--lofwyr14": "2011-04-27 00:00:00",
+        "#web-framework--myfaces--arturobernalg": "2022-06-25 00:00:00",
+        "#web-framework--myfaces--glynn29": "2022-04-01 00:00:00",
+        "#web-framework--myfaces--exabrial": "2022-02-15 00:00:00",
+        "#web-framework--myfaces--Marinell0": "2021-06-28 00:00:00",
+        "#web-framework--myfaces--christophs78": "2021-03-14 00:00:00",
+        "#web-framework--myfaces--benkard": "2020-07-04 00:00:00",
+        "#web-framework--myfaces--wtlucy": "2018-11-29 00:00:00",
+        "#web-framework--myfaces--rmpestano": "2020-04-21 00:00:00",
+        "#web-framework--myfaces--": "2006-01-23 00:00:00",
+        "#web-framework--myfaces--gastaldi": "2020-04-21 00:00:00",
+        "#web-framework--myfaces--astappiev": "2020-04-11 00:00:00",
+        "#web-framework--myfaces--XenoAmess": "2020-04-13 00:00:00",
+        "#web-framework--myfaces--deki": "2015-05-15 00:00:00",
+        "#web-framework--myfaces--JLLeitschuh": "2020-02-10 00:00:00",
+        "#web-framework--myfaces--edewit": "2019-11-13 00:00:00",
+        "#web-framework--myfaces--cnsgithub": "2019-06-13 00:00:00",
+        "#web-framework--myfaces--jfmaurel": "2019-03-19 00:00:00",
+        "#web-framework--myfaces--ebreijo": "2018-05-30 00:00:00",
+        "#web-framework--myfaces--struberg": "2010-07-05 00:00:00",
+        "#web-framework--myfaces--gpetracek": "2012-07-18 00:00:00",
+        "#web-framework--myfaces--matzew": "2006-02-13 00:00:00",
+        "#web-framework--myfaces--mbenson": "2011-10-20 00:00:00",
+        "#web-framework--myfaces--aliok": "2010-10-19 00:00:00",
+        "#web-framework--myfaces--ganeshjung": "2009-05-31 00:00:00",
+        "#web-framework--myfaces--dennisbyrne": "2006-01-29 00:00:00",
+        "#web-framework--myfaces--schof": "2006-01-17 00:00:00"
+    },
+    "commiter_end_time": {
+        "#web-framework--myfaces--pnicolucci": "2023-01-03 00:00:00",
+        "#web-framework--myfaces--melloware": "2022-12-30 00:00:00",
+        "#web-framework--myfaces--bohmber": "2022-12-24 00:00:00",
+        "#web-framework--myfaces--tandraschko": "2022-12-23 00:00:00",
+        "#web-framework--myfaces--werpu": "2022-12-21 00:00:00",
+        "#web-framework--myfaces--volosied": "2022-12-20 00:00:00",
+        "#web-framework--myfaces--KyleAure": "2022-12-09 00:00:00",
+        "#web-framework--myfaces--cristof": "2022-11-16 00:00:00",
+        "#web-framework--myfaces--dependabot[bot]": "2022-10-25 00:00:00",
+        "#web-framework--myfaces--milansie": "2022-10-19 00:00:00",
+        "#web-framework--myfaces--pzygielo": "2022-08-30 00:00:00",
+        "#web-framework--myfaces--lofwyr14": "2022-08-03 00:00:00",
+        "#web-framework--myfaces--arturobernalg": "2022-06-27 00:00:00",
+        "#web-framework--myfaces--glynn29": "2022-04-30 00:00:00",
+        "#web-framework--myfaces--exabrial": "2022-02-15 00:00:00",
+        "#web-framework--myfaces--Marinell0": "2021-06-28 00:00:00",
+        "#web-framework--myfaces--christophs78": "2021-03-14 00:00:00",
+        "#web-framework--myfaces--benkard": "2021-02-16 00:00:00",
+        "#web-framework--myfaces--wtlucy": "2021-01-13 00:00:00",
+        "#web-framework--myfaces--rmpestano": "2020-08-16 00:00:00",
+        "#web-framework--myfaces--": "2020-08-13 00:00:00",
+        "#web-framework--myfaces--gastaldi": "2020-04-21 00:00:00",
+        "#web-framework--myfaces--astappiev": "2020-04-18 00:00:00",
+        "#web-framework--myfaces--XenoAmess": "2020-04-13 00:00:00",
+        "#web-framework--myfaces--deki": "2020-02-11 00:00:00",
+        "#web-framework--myfaces--JLLeitschuh": "2020-02-10 00:00:00",
+        "#web-framework--myfaces--edewit": "2019-11-13 00:00:00",
+        "#web-framework--myfaces--cnsgithub": "2019-06-13 00:00:00",
+        "#web-framework--myfaces--jfmaurel": "2019-03-19 00:00:00",
+        "#web-framework--myfaces--ebreijo": "2019-02-01 00:00:00",
+        "#web-framework--myfaces--struberg": "2018-04-13 00:00:00",
+        "#web-framework--myfaces--gpetracek": "2013-12-02 00:00:00",
+        "#web-framework--myfaces--matzew": "2011-11-28 00:00:00",
+        "#web-framework--myfaces--mbenson": "2011-10-28 00:00:00",
+        "#web-framework--myfaces--aliok": "2010-10-19 00:00:00",
+        "#web-framework--myfaces--ganeshjung": "2009-06-20 00:00:00",
+        "#web-framework--myfaces--dennisbyrne": "2007-10-04 00:00:00",
+        "#web-framework--myfaces--schof": "2006-06-05 00:00:00"
+    },
+    "commiter_contribute_time": {
+        "#web-framework--myfaces--KyleAure": 0,
+        "#web-framework--myfaces--cristof": 0,
+        "#web-framework--myfaces--milansie": 0,
+        "#web-framework--myfaces--pzygielo": 0,
+        "#web-framework--myfaces--exabrial": 0,
+        "#web-framework--myfaces--Marinell0": 0,
+        "#web-framework--myfaces--christophs78": 0,
+        "#web-framework--myfaces--gastaldi": 0,
+        "#web-framework--myfaces--XenoAmess": 0,
+        "#web-framework--myfaces--JLLeitschuh": 0,
+        "#web-framework--myfaces--edewit": 0,
+        "#web-framework--myfaces--cnsgithub": 0,
+        "#web-framework--myfaces--jfmaurel": 0,
+        "#web-framework--myfaces--aliok": 0,
+        "#web-framework--myfaces--arturobernalg": 2,
+        "#web-framework--myfaces--astappiev": 7,
+        "#web-framework--myfaces--mbenson": 8,
+        "#web-framework--myfaces--ganeshjung": 20,
+        "#web-framework--myfaces--glynn29": 29,
+        "#web-framework--myfaces--rmpestano": 117,
+        "#web-framework--myfaces--schof": 139,
+        "#web-framework--myfaces--benkard": 227,
+        "#web-framework--myfaces--ebreijo": 247,
+        "#web-framework--myfaces--gpetracek": 502,
+        "#web-framework--myfaces--dennisbyrne": 613,
+        "#web-framework--myfaces--dependabot[bot]": 624,
+        "#web-framework--myfaces--melloware": 640,
+        "#web-framework--myfaces--wtlucy": 776,
+        "#web-framework--myfaces--volosied": 777,
+        "#web-framework--myfaces--pnicolucci": 1671,
+        "#web-framework--myfaces--deki": 1733,
+        "#web-framework--myfaces--matzew": 2114,
+        "#web-framework--myfaces--tandraschko": 2649,
+        "#web-framework--myfaces--struberg": 2839,
+        "#web-framework--myfaces--lofwyr14": 4116,
+        "#web-framework--myfaces--werpu": 5143,
+        "#web-framework--myfaces--": 5316,
+        "#web-framework--myfaces--bohmber": 6185
+    },
+    "commiter_contribute_time1": {
+        "#web-framework--myfaces--struberg": {
+            "start": "2010-07-05 00:00:00",
+            "end": "2012-11-14 00:00:00",
+            "bug_num_per_commit": 0.0,
+            "bug_commit_num_rate": 0.7058823529411765
+        }
+    },
+    "commiter_contribute_time2": {
+        "#web-framework--myfaces--struberg": {
+            "start": "2012-11-13 00:00:00",
+            "end": "2011-10-25 00:00:00",
+            "bug_num_per_commit": 0.11764705882352941,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time3": {
+        "#web-framework--myfaces--struberg": {
+            "start": "2011-10-25 00:00:00",
+            "end": "2011-10-24 00:00:00",
+            "bug_num_per_commit": 0.23529411764705882,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_contribute_time4": {
+        "#web-framework--myfaces--struberg": {
+            "start": "2011-10-24 00:00:00",
+            "end": "2010-07-05 00:00:00",
+            "bug_num_per_commit": 0.2777777777777778,
+            "bug_commit_num_rate": 0.0
+        }
+    },
+    "commiter_time_trend": {
+        "#web-framework--myfaces--struberg": {
+            "bug_num_per_commit": {
+                "time1": 0.0,
+                "time2": 0.11764705882352941,
+                "time3": 0.23529411764705882,
+                "time4": 0.2777777777777778
+            },
+            "bug_commit_num_rate": {
+                "time1": 0.7058823529411765,
+                "time2": 0.0,
+                "time3": 0.0,
+                "time4": 0.0
+            }
+        }
+    },
+    "daily_long_time_error_prone_developer": [
+        "#web-framework--myfaces--struberg"
+    ],
+    "number_daily_long_time_error_prone_developer": 1,
+    "improved_daily_long_time_error_prone_developer": [
+        "#web-framework--myfaces--struberg"
+    ],
+    "number_improved_daily_long_time_error_prone_developer": 1
+}

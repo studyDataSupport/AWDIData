@@ -1,0 +1,32 @@
+{
+    "all_file_num": 14281,
+    "error_developer_file_rate": {
+        "#web-framework--cayenne--emecas": 0.00042013864575309853,
+        "#web-framework--cayenne--OlegKhodokevich": 0.0004901617533786149,
+        "#web-framework--cayenne--faizel": 0.0006302079686296478,
+        "#web-framework--cayenne--aplgithub": 0.0011203697220082628,
+        "#web-framework--cayenne--AlexandrShestak": 0.002310762551642042,
+        "#web-framework--cayenne--KravchenkoAS": 0.005181709964288215,
+        "#web-framework--cayenne--nismooooooo": 0.006092010363419929,
+        "#web-framework--cayenne--ollybondareva": 0.008682865345564035,
+        "#web-framework--cayenne--const1993": 0.00959316574469575,
+        "#web-framework--cayenne--AlexKolonitsky": 0.018906239058889433,
+        "#web-framework--cayenne--johnthuss": 0.019536447027519083,
+        "#web-framework--cayenne--dzmitryk": 0.04418458091170086,
+        "#web-framework--cayenne--thinline72": 0.10335410685526224,
+        "#web-framework--cayenne--": 0.11294727259995799
+    },
+    "daily_error_prone_developer": [
+        "#web-framework--cayenne--AlexandrShestak",
+        "#web-framework--cayenne--KravchenkoAS",
+        "#web-framework--cayenne--nismooooooo",
+        "#web-framework--cayenne--ollybondareva",
+        "#web-framework--cayenne--const1993",
+        "#web-framework--cayenne--AlexKolonitsky",
+        "#web-framework--cayenne--johnthuss",
+        "#web-framework--cayenne--dzmitryk",
+        "#web-framework--cayenne--thinline72",
+        "#web-framework--cayenne--"
+    ],
+    "number_daily_error_prone_developer": 10
+}

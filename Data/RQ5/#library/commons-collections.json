@@ -1,0 +1,203 @@
+{
+    "developer": {
+        "#library--commons-collections--psteitz": {
+            "attribute_apache_item_count": 2,
+            "attribute_apache_item_list": [
+                "commons-collections",
+                "commons-pool"
+            ],
+            "is_error_developer_apache_item_count": 1,
+            "item_info": {
+                "login": "psteitz",
+                "createdAt": "2012-02-27T22:01:08Z",
+                "repositoriesContributedTo": {
+                    "totalCount": 7,
+                    "nodes": [
+                        {
+                            "nameWithOwner": "apache/commons-pool",
+                            "isFork": false,
+                            "url": "https://github.com/apache/commons-pool",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 477,
+                            "watchers": {
+                                "totalCount": 58
+                            },
+                            "forkCount": 293
+                        },
+                        {
+                            "nameWithOwner": "psteitz/mongster",
+                            "isFork": false,
+                            "url": "https://github.com/psteitz/mongster",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Pug"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "psteitz/problems",
+                            "isFork": false,
+                            "url": "https://github.com/psteitz/problems",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "TeX"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "psteitz/steve",
+                            "isFork": true,
+                            "url": "https://github.com/psteitz/steve",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "JavaScript"
+                                    },
+                                    {
+                                        "name": "Ruby"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    },
+                                    {
+                                        "name": "Perl"
+                                    },
+                                    {
+                                        "name": "CSS"
+                                    },
+                                    {
+                                        "name": "Pascal"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    },
+                                    {
+                                        "name": "Dockerfile"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "psteitz/commons-dbcp",
+                            "isFork": true,
+                            "url": "https://github.com/psteitz/commons-dbcp",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "psteitz/commons-pool",
+                            "isFork": true,
+                            "url": "https://github.com/psteitz/commons-pool",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Java"
+                                    },
+                                    {
+                                        "name": "HTML"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 0
+                            },
+                            "forkCount": 0
+                        },
+                        {
+                            "nameWithOwner": "psteitz/pool-performance",
+                            "isFork": false,
+                            "url": "https://github.com/psteitz/pool-performance",
+                            "languages": {
+                                "nodes": [
+                                    {
+                                        "name": "Shell"
+                                    },
+                                    {
+                                        "name": "Python"
+                                    }
+                                ]
+                            },
+                            "stargazerCount": 0,
+                            "watchers": {
+                                "totalCount": 1
+                            },
+                            "forkCount": 0
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "number_developer_mul_apache_item_error": 0,
+    "deveper_mul_apache_item_error": {
+        "#library--commons-collections--psteitz": [
+            "commons-collections"
+        ]
+    }
+}

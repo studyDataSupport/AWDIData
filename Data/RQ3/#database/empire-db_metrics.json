@@ -1,0 +1,10 @@
+{
+    "all_file_num": 1516,
+    "error_developer_file_rate": {
+        "#database--empire-db--rdoebele": 0.016490765171503958
+    },
+    "daily_error_prone_developer": [
+        "#database--empire-db--rdoebele"
+    ],
+    "number_daily_error_prone_developer": 1
+}

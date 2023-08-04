@@ -1,0 +1,16 @@
+{
+    "all_file_num": 9952,
+    "error_developer_file_rate": {
+        "#graphics--xmlgraphics-fop--spepping": 0.06159565916398714,
+        "#graphics--xmlgraphics-fop--simonsteiner1984": 0.1194734726688103,
+        "#graphics--xmlgraphics-fop--vhennebert": 0.2177451768488746,
+        "#graphics--xmlgraphics-fop--jmaerki": 0.4074557877813505
+    },
+    "daily_error_prone_developer": [
+        "#graphics--xmlgraphics-fop--spepping",
+        "#graphics--xmlgraphics-fop--simonsteiner1984",
+        "#graphics--xmlgraphics-fop--vhennebert",
+        "#graphics--xmlgraphics-fop--jmaerki"
+    ],
+    "number_daily_error_prone_developer": 4
+}
